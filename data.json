@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-04-11T02:59:40.319710+00:00",
+  "generated_at": "2026-04-11T03:38:07.050337+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Melania Trump's speech propels Epstein crisis back to forefront",
+        "url": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-04-11T03:25:04+00:00",
+        "summary": "She has now placed herself squarely into the Epstein story and at odds with the administration, which wants to end the investigation.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Artemis II astronauts journey back to Earth after moon mission",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/artemis-ii-astronauts-journey-back-to-earth-after-moon-mission?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-11T03:16:23+00:00",
+        "summary": "NASA’s Artemis II astronauts have returned to Earth after completing the first crewed lunar mission in 53 years.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+        "url": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-11T03:06:18+00:00",
+        "summary": "Trump says Washington will not accept Iran&#039;s imposition of a de facto toll booth system in the critical waterway.",
+        "thumbnail": "",
+        "extras": {}
+      },
       {
         "category": "world",
         "kind": "article",
@@ -57,39 +90,6 @@
         "summary": "Official social media accounts for Iranian embassies have engaged in information warfare, but the ones in Africa appear to have taken the lead on the attacks.",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Moment Artemis II splashes down after moon mission",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-11T01:04:21+00:00",
-        "summary": "NASA’s Artemis II astronauts have safely splashed down on Earth, completing a landmark mission.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "University of Ottawa Lockdown Lifted After a Man Is Arrested",
-        "url": "https://www.nytimes.com/2026/04/10/world/canada/ottawa-university-campus-lockdown-canada.html",
-        "source": "NYT World",
-        "published": "2026-04-11T01:00:01+00:00",
-        "summary": "The university locked down the campus for just under two hours on Friday after reports that a man was acting suspiciously nearby. Police would not say if he was armed.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump has handed JD Vance his most difficult mission yet",
-        "url": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-04-11T00:54:23+00:00",
-        "summary": "As the US vice-president leads peace talks with Iran, he must balance warring factions, a demanding boss and his own political future.",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "tech": [
@@ -122,7 +122,7 @@
         "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
         "source": "Hacker News Front",
         "published": "2026-04-11T00:10:51+00:00",
-        "summary": "Article URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/\nComments URL: https://news.ycombinator.com/item?id=47725583\nPoints: 437\n# Comments: 158",
+        "summary": "Article URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/\nComments URL: https://news.ycombinator.com/item?id=47725583\nPoints: 499\n# Comments: 183",
         "thumbnail": "",
         "extras": {}
       },
@@ -144,7 +144,7 @@
         "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
         "source": "Hacker News Front",
         "published": "2026-04-10T23:48:07+00:00",
-        "summary": "Article URL: https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty\nComments URL: https://news.ycombinator.com/item?id=47725403\nPoints: 29\n# Comments: 8",
+        "summary": "Article URL: https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty\nComments URL: https://news.ycombinator.com/item?id=47725403\nPoints: 35\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       },
@@ -155,7 +155,7 @@
         "url": "https://blog.samaltman.com/2279512",
         "source": "Hacker News Front",
         "published": "2026-04-10T23:05:48+00:00",
-        "summary": "Article URL: https://blog.samaltman.com/2279512\nComments URL: https://news.ycombinator.com/item?id=47724921\nPoints: 190\n# Comments: 362",
+        "summary": "Article URL: https://blog.samaltman.com/2279512\nComments URL: https://news.ycombinator.com/item?id=47724921\nPoints: 213\n# Comments: 409",
         "thumbnail": "",
         "extras": {}
       },
@@ -166,7 +166,7 @@
         "url": "https://kentwalters.com/posts/corners/",
         "source": "Hacker News Front",
         "published": "2026-04-10T22:16:40+00:00",
-        "summary": "Article URL: https://kentwalters.com/posts/corners/\nComments URL: https://news.ycombinator.com/item?id=47724352\nPoints: 403\n# Comments: 229",
+        "summary": "Article URL: https://kentwalters.com/posts/corners/\nComments URL: https://news.ycombinator.com/item?id=47724352\nPoints: 463\n# Comments: 250",
         "thumbnail": "",
         "extras": {}
       },
@@ -177,7 +177,7 @@
         "url": "https://jack.cab/blog/every-firefox-extension",
         "source": "Hacker News Front",
         "published": "2026-04-10T21:56:33+00:00",
-        "summary": "Article URL: https://jack.cab/blog/every-firefox-extension\nComments URL: https://news.ycombinator.com/item?id=47724118\nPoints: 157\n# Comments: 23",
+        "summary": "Article URL: https://jack.cab/blog/every-firefox-extension\nComments URL: https://news.ycombinator.com/item?id=47724118\nPoints: 185\n# Comments: 25",
         "thumbnail": "",
         "extras": {}
       }
