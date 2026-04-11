@@ -1,0 +1,277 @@
+{
+  "generated_at": "2026-04-11T02:59:40.319710+00:00",
+  "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
+  "sections": {
+    "world": [
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran War Live Updates: Iranian Delegation Arrives at Peace Talks, With Vance en Route",
+        "url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
+        "source": "NYT World",
+        "published": "2026-04-11T02:30:39+00:00",
+        "summary": "There was much uncertainty about the durability of the cease-fire and whether the two sides could reach a long-term deal, as Vice President JD Vance traveled to Pakistan for the talks.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",
+        "url": "https://www.bbc.com/news/articles/cj947487wzyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-04-11T02:02:56+00:00",
+        "summary": "A controversial law to remove protections for the country's glaciers has passed, opening the doors for mining.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "An inappropriate joke nearly ended his career. Now he's back with more humour",
+        "url": "https://www.bbc.com/news/articles/czrekvml0p6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-04-11T01:45:41+00:00",
+        "summary": "A misfired joke nearly derailed Samay Raina’s comedy career. Now he’s back, reclaiming his voice.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Israel and Lebanon Plan Talks in D.C. as War Threatens U.S.-Iran Cease-Fire Deal",
+        "url": "https://www.nytimes.com/2026/04/10/world/middleeast/israel-lebanon-ceasefire-talks-iran-war.html",
+        "source": "NYT World",
+        "published": "2026-04-11T01:21:53+00:00",
+        "summary": "Whether Israel’s conflict with Hezbollah, the Iran-backed militant group in Lebanon, is included in the Iran cease-fire is one of the major disputes rattling the truce.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran’s South Africa Mission Trolls Trump Amid Hormuz Ceasefire",
+        "url": "https://www.nytimes.com/2026/04/10/world/africa/iran-south-africa-trump-war-ceasefire.html",
+        "source": "NYT World",
+        "published": "2026-04-11T01:21:00+00:00",
+        "summary": "Official social media accounts for Iranian embassies have engaged in information warfare, but the ones in Africa appear to have taken the lead on the attacks.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Moment Artemis II splashes down after moon mission",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/moment-artemis-ii-splashes-down-after-moon-mission?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-11T01:04:21+00:00",
+        "summary": "NASA’s Artemis II astronauts have safely splashed down on Earth, completing a landmark mission.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "University of Ottawa Lockdown Lifted After a Man Is Arrested",
+        "url": "https://www.nytimes.com/2026/04/10/world/canada/ottawa-university-campus-lockdown-canada.html",
+        "source": "NYT World",
+        "published": "2026-04-11T01:00:01+00:00",
+        "summary": "The university locked down the campus for just under two hours on Friday after reports that a man was acting suspiciously nearby. Police would not say if he was armed.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump has handed JD Vance his most difficult mission yet",
+        "url": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-04-11T00:54:23+00:00",
+        "summary": "As the US vice-president leads peace talks with Iran, he must balance warring factions, a demanding boss and his own political future.",
+        "thumbnail": "",
+        "extras": {}
+      }
+    ],
+    "tech": [
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Four astronauts are back home after a daring ride around the Moon",
+        "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+        "source": "Ars Technica",
+        "published": "2026-04-11T01:21:10+00:00",
+        "summary": "\"I can't imagine a better crew that just completed a perfect mission right now.\"",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
+        "url": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
+        "source": "TechCrunch",
+        "published": "2026-04-11T00:44:17+00:00",
+        "summary": "The Integrity craft splashed down in the Pacific Ocean off the coast of San Diego just after 5:07 p.m. Pacific Time.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Artemis II safely splashes down",
+        "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+        "source": "Hacker News Front",
+        "published": "2026-04-11T00:10:51+00:00",
+        "summary": "Article URL: https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/\nComments URL: https://news.ycombinator.com/item?id=47725583\nPoints: 437\n# Comments: 158",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Artemis II Returns From Historic Flight Around the Moon",
+        "url": "https://www.wired.com/story/artemis-ii-returns-from-historic-flight-around-the-moon/",
+        "source": "Wired",
+        "published": "2026-04-11T00:08:17+00:00",
+        "summary": "After traveling a greater distance from Earth than any humans before them, the astronauts of Artemis II have safely returned home.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Italo Calvino: A Traveller in a World of Uncertainty",
+        "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+        "source": "Hacker News Front",
+        "published": "2026-04-10T23:48:07+00:00",
+        "summary": "Article URL: https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty\nComments URL: https://news.ycombinator.com/item?id=47725403\nPoints: 29\n# Comments: 8",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Sam Altman's response to Molotov cocktail incident",
+        "url": "https://blog.samaltman.com/2279512",
+        "source": "Hacker News Front",
+        "published": "2026-04-10T23:05:48+00:00",
+        "summary": "Article URL: https://blog.samaltman.com/2279512\nComments URL: https://news.ycombinator.com/item?id=47724921\nPoints: 190\n# Comments: 362",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Filing the corners off my MacBooks",
+        "url": "https://kentwalters.com/posts/corners/",
+        "source": "Hacker News Front",
+        "published": "2026-04-10T22:16:40+00:00",
+        "summary": "Article URL: https://kentwalters.com/posts/corners/\nComments URL: https://news.ycombinator.com/item?id=47724352\nPoints: 403\n# Comments: 229",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Installing Every* Firefox Extension",
+        "url": "https://jack.cab/blog/every-firefox-extension",
+        "source": "Hacker News Front",
+        "published": "2026-04-10T21:56:33+00:00",
+        "summary": "Article URL: https://jack.cab/blog/every-firefox-extension\nComments URL: https://news.ycombinator.com/item?id=47724118\nPoints: 157\n# Comments: 23",
+        "thumbnail": "",
+        "extras": {}
+      }
+    ],
+    "startup": [
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The Week’s 10 Biggest Funding Rounds: SiFive Leads With $400M For Custom Chip Designs As Aviation, Biotech And Defense Startups Also Raise Big",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-chips-aviation-biotech-sifive/",
+        "source": "Crunchbase News",
+        "published": "2026-04-10T15:23:22+00:00",
+        "summary": "While no billion-dollar rounds led this week’s list, we nonetheless saw a variety of startups in industries ranging from semiconductors to aerospace to biotech raise sizable rounds.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Fintech Startups Globally Raise More Money In Far Fewer Deals In Q1 2026",
+        "url": "https://news.crunchbase.com/fintech/global-startup-venture-funding-up-deals-down-q1-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-04-10T11:00:16+00:00",
+        "summary": "Global venture funding to financial technology startups totaled $12 billion across 751 deals in 2026 as of April 6, per Crunchbase data. That’s a 5% increase in dollars raised compared to the $11.4 billion raised across 1,097 deals during the same time period in 2025.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "한 단계 강도 높은 배달앱 사회적 대화 기구가 온다",
+        "url": "https://byline.network/2026/04/10_29182774/",
+        "source": "ByLine Network",
+        "published": "2026-04-10T06:21:56+00:00",
+        "summary": "이번 정부 출범 이후 처음으로 배달앱 사회적 대화 기구가 출범했다. 이전 정부에서의 배달플랫폼 상생협의체가 결국 합의를 이루지 못하고 반쪽짜리로 끝났다면, 이번 사회적 대화 기구는 입점업체 등의 의견을 취합해 결과를 내겠다는 목표를 내세웠다. 수수료율과 배달비, 배달 거리 등을 중심으로 논의가 이뤄질 예정이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "코로케이션 플랫폼이 토큰 경제에 기여하는 방법",
+        "url": "https://byline.network/2026/04/10-641/",
+        "source": "ByLine Network",
+        "published": "2026-04-10T05:09:29+00:00",
+        "summary": "AI 인프라는 이제 동일한 전력을 소모해 얼마나 많은 토큰을 생성하는가를 둘러싼 ‘토큰 경제학’을 맞이했다. 이에 데이터센터를 운영하는 기업은 단순히 고밀도 고집적 AI 인프라를 구성하는 것을 넘어 토큰 경제성을 최적화해야 하는 상황이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Unicorn stampede: Highest number of $1bn startups minted in Europe in four years",
+        "url": "https://sifted.eu/articles/unicorn-stampede-highest-number-of-1bn-startups-minted-in-europe-in-four-years/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-10T05:00:53+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "All the first-time European VC funds of 2026",
+        "url": "https://sifted.eu/articles/first-time-european-vc-funds-2026/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-10T05:00:38+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Meet the Swiss founder building robots that make crêpes",
+        "url": "https://sifted.eu/articles/meet-the-swiss-founder-building-robots-that-make-crepes/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-10T05:00:19+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "정부, ISMS·ISMS-P 인증제 전면 개편",
+        "url": "https://byline.network/2026/04/10-634/",
+        "source": "ByLine Network",
+        "published": "2026-04-10T00:38:52+00:00",
+        "summary": "정부가 정보보호 및 개인정보보호 관리체계(ISMS·ISMS-P) 인증제도를 전면 손본다. 지금까지의 서면·스냅샷 중심 심사에서 벗어나, 실제 운영 상태를 따라가며 취약점 진단과 모의침투까지 하는 현장 중심 체계로 바꾸는 게 핵심이다. 공공·민간의 대규모 개인정보처리자에는 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증을 의무화하고, 통신사·데이터센터 같은 고위험군에는 더 강한 인증기준을 적용한다.",
+        "thumbnail": "",
+        "extras": {}
+      }
+    ],
+    "videos": []
+  }
+}

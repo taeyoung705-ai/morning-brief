@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Morning Brief</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root { font-family: 'Inter', 'Noto Sans KR', system-ui, sans-serif; }
+    body { background: #0b0d12; color: #e6e8ef; }
+    .card { background: #131722; border: 1px solid #1f2533; transition: all .15s ease; }
+    .card:hover { border-color: #2d3447; transform: translateY(-1px); }
+    .chip { background: #1a1f2e; color: #98a0b3; }
+    .section-title { letter-spacing: -0.01em; }
+    .skeleton { background: linear-gradient(90deg,#131722,#1a1f2e,#131722); background-size: 200% 100%; animation: shimmer 1.4s infinite; }
+    @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+    a { color: inherit; text-decoration: none; }
+  </style>
+</head>
+<body class="min-h-screen">
+  <header class="border-b border-[#1f2533]">
+    <div class="max-w-6xl mx-auto px-6 py-6 flex items-end justify-between flex-wrap gap-3">
+      <div>
+        <h1 class="text-3xl font-bold tracking-tight">Morning Brief</h1>
+        <p id="date" class="text-sm text-[#7a8295] mt-1"></p>
+      </div>
+      <div class="text-right">
+        <p class="text-xs text-[#7a8295]">last updated</p>
+        <p id="updated" class="text-sm text-[#a8b0c4] font-mono">—</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-6xl mx-auto px-6 py-10 space-y-12">
+    <section data-section="world">
+      <div class="flex items-baseline gap-3 mb-4">
+        <h2 class="text-xl font-semibold section-title">🌍 World</h2>
+        <span class="text-xs text-[#7a8295]">국제 정세</span>
+      </div>
+      <div class="grid md:grid-cols-2 gap-3" data-grid></div>
+    </section>
+
+    <section data-section="tech">
+      <div class="flex items-baseline gap-3 mb-4">
+        <h2 class="text-xl font-semibold section-title">⚡ Tech</h2>
+        <span class="text-xs text-[#7a8295]">테크 트렌드 · 혁신</span>
+      </div>
+      <div class="grid md:grid-cols-2 gap-3" data-grid></div>
+    </section>
+
+    <section data-section="startup">
+      <div class="flex items-baseline gap-3 mb-4">
+        <h2 class="text-xl font-semibold section-title">🚀 Startup</h2>
+        <span class="text-xs text-[#7a8295]">스타트업 · 케이스 스터디</span>
+      </div>
+      <div class="grid md:grid-cols-2 gap-3" data-grid></div>
+    </section>
+
+    <section data-section="videos">
+      <div class="flex items-baseline gap-3 mb-4">
+        <h2 class="text-xl font-semibold section-title">🎬 Videos</h2>
+        <span class="text-xs text-[#7a8295]">볼만한 영상</span>
+      </div>
+      <div class="grid md:grid-cols-3 gap-3" data-grid></div>
+    </section>
+  </main>
+
+  <footer class="max-w-6xl mx-auto px-6 py-10 text-xs text-[#5b6378]">
+    Morning Brief · curated daily
+  </footer>
+
+  <script src="./app.js?v=2"></script>
+</body>
+</html>
