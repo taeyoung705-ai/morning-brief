@@ -18,6 +18,9 @@
     .skeleton { background: linear-gradient(90deg,#131722,#1a1f2e,#131722); background-size: 200% 100%; animation: shimmer 1.4s infinite; }
     @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
     a { color: inherit; text-decoration: none; }
+    .tts-btn { position: absolute; top: 12px; right: 12px; width: 32px; height: 32px; border-radius: 8px; border: 1px solid #1f2533; background: #0b0d12; color: #7a8295; font-size: 15px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all .15s; z-index: 2; }
+    .tts-btn:hover { background: #1a1f2e; color: #e6e8ef; border-color: #2d3447; }
+    .tts-btn.tts-active { background: #1a2940; color: #5b9cf5; border-color: #2d5a8e; }
   </style>
 </head>
 <body class="min-h-screen">

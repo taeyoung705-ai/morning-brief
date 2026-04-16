@@ -36,16 +36,68 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;");
 }
 
+// ── TTS (Web Speech API) ─────────────────────────────────────
+let currentUtterance = null;
+let currentBtn = null;
+
+function stopTTS() {
+  speechSynthesis.cancel();
+  if (currentBtn) {
+    currentBtn.textContent = "🔊";
+    currentBtn.classList.remove("tts-active");
+  }
+  currentUtterance = null;
+  currentBtn = null;
+}
+
+function toggleTTS(e, title, summary) {
+  e.preventDefault();
+  e.stopPropagation();
+  const btn = e.currentTarget;
+
+  // 이미 재생 중인 버튼을 다시 누르면 정지
+  if (currentBtn === btn) {
+    stopTTS();
+    return;
+  }
+  // 다른 항목 재생 중이면 먼저 정지
+  stopTTS();
+
+  const text = `${title}. ${summary}`;
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang = /[가-힣]/.test(text) ? "ko-KR" : "en-US";
+  utter.rate = 1.0;
+  utter.onend = () => {
+    btn.textContent = "🔊";
+    btn.classList.remove("tts-active");
+    currentUtterance = null;
+    currentBtn = null;
+  };
+  utter.onerror = utter.onend;
+
+  currentUtterance = utter;
+  currentBtn = btn;
+  btn.textContent = "⏹";
+  btn.classList.add("tts-active");
+  speechSynthesis.speak(utter);
+}
+
 function articleCard(item) {
+  const id = "tts-" + Math.random().toString(36).slice(2, 9);
   return `
-    <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener" class="card rounded-xl p-4 block">
-      <div class="flex items-center gap-2 mb-2">
-        <span class="chip text-[11px] px-2 py-0.5 rounded-full">${escapeHtml(item.source)}</span>
-        <span class="text-[11px] text-[#5b6378]">${fmtDate(item.published)}</span>
-      </div>
-      <h3 class="text-[15px] font-semibold leading-snug mb-1.5">${escapeHtml(item.title)}</h3>
-      <p class="text-[13px] text-[#8a92a6] leading-relaxed line-clamp-2">${escapeHtml(item.summary)}</p>
-    </a>
+    <div class="card rounded-xl p-4 relative">
+      <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener" class="block">
+        <div class="flex items-center gap-2 mb-2">
+          <span class="chip text-[11px] px-2 py-0.5 rounded-full">${escapeHtml(item.source)}</span>
+          <span class="text-[11px] text-[#5b6378]">${fmtDate(item.published)}</span>
+        </div>
+        <h3 class="text-[15px] font-semibold leading-snug mb-1.5 pr-8">${escapeHtml(item.title)}</h3>
+        <p class="text-[13px] text-[#8a92a6] leading-relaxed line-clamp-2">${escapeHtml(item.summary)}</p>
+      </a>
+      <button id="${id}" class="tts-btn" title="읽어주기"
+        data-title="${escapeHtml(item.title)}"
+        data-summary="${escapeHtml(item.summary)}">🔊</button>
+    </div>
   `;
 }
 
@@ -88,6 +140,15 @@ function renderSection(name, items) {
   }
   const isVideo = name === "videos";
   sec.innerHTML = items.map(isVideo ? videoCard : articleCard).join("");
+
+  // TTS 버튼 이벤트 바인딩
+  if (!isVideo) {
+    sec.querySelectorAll(".tts-btn").forEach((btn) => {
+      btn.addEventListener("click", (e) =>
+        toggleTTS(e, btn.dataset.title, btn.dataset.summary)
+      );
+    });
+  }
 }
 
 async function load() {
