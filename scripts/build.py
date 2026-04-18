@@ -327,10 +327,19 @@ def main() -> None:
     all_items = rss_items + yt_items
 
     sections = {}
-    for cat in ("world", "tech", "startup", "videos"):
+    # 기사 카테고리: AI 큐레이션 사용 (키 없으면 최신순 fallback)
+    for cat in ("world", "tech", "startup"):
         picked = curate(all_items, cat, TARGET_COUNTS[cat])
         sections[cat] = [asdict(p) for p in picked]
         print(f"[final] {cat}: {len(picked)}개")
+
+    # 비디오: 고정 채널 → 최신순으로 바로 선택 (AI 큐레이션 불필요)
+    video_candidates = [it for it in all_items if it.category == "videos"]
+    videos_picked = sorted(
+        video_candidates, key=lambda x: x.published or "", reverse=True
+    )[: TARGET_COUNTS["videos"]]
+    sections["videos"] = [asdict(p) for p in videos_picked]
+    print(f"[final] videos: {len(videos_picked)}개 (큐레이션 없이 최신순)")
 
     payload: dict[str, Any] = {
         "generated_at": datetime.now(timezone.utc).isoformat(),

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T00:26:18.347555+00:00",
+  "generated_at": "2026-04-18T00:44:54.860961+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
@@ -9,8 +9,19 @@
         "title": "Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open",
         "url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
         "source": "NYT World",
-        "published": "2026-04-18T00:20:24+00:00",
+        "published": "2026-04-18T00:38:40+00:00",
         "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-18T00:18:17+00:00",
+        "summary": "UN aid chief Tom Fletcher says that South Sudan is at risk of slipping into &#039;full-scale famine and collapse’.",
         "thumbnail": "",
         "extras": {}
       },
@@ -79,17 +90,6 @@
         "summary": "Growing numbers in the capital Honiara are playing the street card game Pass for a chance of a big payout, while risking big lossesAs the school day ends in Honiara, *Irene, a 43-year-old teacher in a floral dress with a yellow daisy in her bun, steps on to a minibus.After 10 minutes, Irene gets off the bus, walks down an alley, and enters a damp, smoky shelter. Plastic tables fill the space and p",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
-        "url": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-17T22:47:21+00:00",
-        "summary": "The vote count continues to determine who will join conservative Keiko Fujimori in Peru&#039;s presidential run-off in June.",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "tech": [
@@ -100,7 +100,7 @@
         "url": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
         "source": "Hacker News Front",
         "published": "2026-04-17T22:53:18+00:00",
-        "summary": "Article URL: https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/\nComments URL: https://news.ycombinator.com/item?id=47811442\nPoints: 7\n# Comments: 7",
+        "summary": "Article URL: https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/\nComments URL: https://news.ycombinator.com/item?id=47811442\nPoints: 10\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
@@ -122,7 +122,7 @@
         "url": "https://www.nature.com/articles/d41586-026-01204-5",
         "source": "Hacker News Front",
         "published": "2026-04-17T22:30:28+00:00",
-        "summary": "Related: Ancient DNA reveals pervasive directional selection across West Eurasia [pdf] - https://news.ycombinator.com/item?id=47791282 (64 comments)https://x.com/doctorveera/status/2044679999450664967 (https://xcancel.com/doctorveera/status/2044679999450664967)\n\nComments URL: https://news.ycombinator.com/item?id=47811283\nPoints: 29\n# Comments: 7",
+        "summary": "Related: Ancient DNA reveals pervasive directional selection across West Eurasia [pdf] - https://news.ycombinator.com/item?id=47791282 (64 comments)https://x.com/doctorveera/status/2044679999450664967 (https://xcancel.com/doctorveera/status/2044679999450664967)\n\nComments URL: https://news.ycombinator.com/item?id=47811283\nPoints: 36\n# Comments: 13",
         "thumbnail": "",
         "extras": {}
       },
@@ -133,7 +133,7 @@
         "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
         "source": "Hacker News Front",
         "published": "2026-04-17T21:38:20+00:00",
-        "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 88\n# Comments: 39",
+        "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 93\n# Comments: 45",
         "thumbnail": "",
         "extras": {}
       },
@@ -276,48 +276,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "New Jersey announces $150 public transit tickets to World Cup games",
-        "url": "https://www.youtube.com/watch?v=qqVmwpSoptE",
-        "source": "Reuters",
-        "published": "2026-04-18T00:07:44Z",
-        "summary": "Round-trip public transit tickets to World Cup games at MetLife Stadium in New Jersey will cost $150, up from under $15 on typical ...",
-        "thumbnail": "https://i.ytimg.com/vi/qqVmwpSoptE/mqdefault.jpg",
-        "extras": {
-          "theme": "world",
-          "videoId": "qqVmwpSoptE"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Costa Rica authorities seize nearly two tons of cocaine | DW News",
-        "url": "https://www.youtube.com/watch?v=QmhMH0WVAK4",
-        "source": "DW News",
-        "published": "2026-04-18T00:00:25Z",
-        "summary": "Costa Rican authorities have seized nearly two tons of cocaine after intercepting a speedboat in the Pacific following a 24-hour ...",
-        "thumbnail": "https://i.ytimg.com/vi/QmhMH0WVAK4/mqdefault.jpg",
-        "extras": {
-          "theme": "world",
-          "videoId": "QmhMH0WVAK4"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Wall Street indexes rally as oil falls with Strait of Hormuz opening",
-        "url": "https://www.youtube.com/watch?v=KXCEYmB7gxA",
-        "source": "Reuters",
-        "published": "2026-04-18T00:00:03Z",
-        "summary": "The S&P 500 and Nasdaq closed at record highs for a third straight session, while the Dow hit its highest since February as ...",
-        "thumbnail": "https://i.ytimg.com/vi/KXCEYmB7gxA/mqdefault.jpg",
-        "extras": {
-          "theme": "world",
-          "videoId": "KXCEYmB7gxA"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "Trump Claims Hormuz is &#39;Open For Business&#39; | Balance of Power 04/17/2026",
         "url": "https://www.youtube.com/watch?v=eZFsV1jWR6c",
         "source": "Bloomberg Television",
@@ -325,22 +283,8 @@
         "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Representative Jake ...",
         "thumbnail": "https://i.ytimg.com/vi/eZFsV1jWR6c/mqdefault.jpg",
         "extras": {
-          "theme": "world",
+          "theme": "business",
           "videoId": "eZFsV1jWR6c"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Starmer says it is &#39;staggering&#39; he was not told about Mandelson vetting failure",
-        "url": "https://www.youtube.com/watch?v=HD91U6aPnXk",
-        "source": "Reuters",
-        "published": "2026-04-17T23:04:47Z",
-        "summary": "Amid mounting pressure to resign over the Mandelson-Epstein row, British Prime Minister Keir Starmer said he wasn't aware that ...",
-        "thumbnail": "https://i.ytimg.com/vi/HD91U6aPnXk/mqdefault.jpg",
-        "extras": {
-          "theme": "world",
-          "videoId": "HD91U6aPnXk"
         }
       },
       {
@@ -353,7 +297,7 @@
         "summary": "This week, Former Treasury Secretary Hank Paulson warns the biggest economic risk from the Iran war may come from global ...",
         "thumbnail": "https://i.ytimg.com/vi/K9UoYXhZKxA/mqdefault.jpg",
         "extras": {
-          "theme": "world",
+          "theme": "business",
           "videoId": "K9UoYXhZKxA"
         }
       },
@@ -367,36 +311,8 @@
         "summary": "A federal jury found that Live Nation illegally monopolized the U.S. concert ticketing market. WSJ's Dave Michaels explains what ...",
         "thumbnail": "https://i.ytimg.com/vi/kYUs1RsnZ60/mqdefault.jpg",
         "extras": {
-          "theme": "world",
+          "theme": "business",
           "videoId": "kYUs1RsnZ60"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What can Germany do to ensure the Strait of Hormuz remains open? | DW News",
-        "url": "https://www.youtube.com/watch?v=1swVHMCzWt4",
-        "source": "DW News",
-        "published": "2026-04-17T22:33:43Z",
-        "summary": "What can Germany and its partners do to secure the Strait of Hormuz? What are the conditions for a mission — and what role ...",
-        "thumbnail": "https://i.ytimg.com/vi/1swVHMCzWt4/mqdefault.jpg",
-        "extras": {
-          "theme": "world",
-          "videoId": "1swVHMCzWt4"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Malala&#39;s brother Khushal Yousafzai said he was left &quot;vulnerable&quot; to the manosphere&quot;. #BBCNews",
-        "url": "https://www.youtube.com/watch?v=-LjFfPmnZgg",
-        "source": "BBC News",
-        "published": "2026-04-17T22:30:00Z",
-        "summary": "",
-        "thumbnail": "https://i.ytimg.com/vi/-LjFfPmnZgg/mqdefault.jpg",
-        "extras": {
-          "theme": "world",
-          "videoId": "-LjFfPmnZgg"
         }
       },
       {
@@ -409,8 +325,92 @@
         "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the ...",
         "thumbnail": "https://i.ytimg.com/vi/jsluWH1B_bQ/mqdefault.jpg",
         "extras": {
-          "theme": "world",
+          "theme": "business",
           "videoId": "jsluWH1B_bQ"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why India&#39;s Wealth is Shifting into Startups",
+        "url": "https://www.youtube.com/watch?v=XLsJNWL5y7Y",
+        "source": "CNBC International",
+        "published": "2026-04-17T22:00:40Z",
+        "summary": "A wave of newly institutionalized family wealth and a $1.5 trillion intergenerational transfer are steering more capital into private ...",
+        "thumbnail": "https://i.ytimg.com/vi/XLsJNWL5y7Y/mqdefault.jpg",
+        "extras": {
+          "theme": "business",
+          "videoId": "XLsJNWL5y7Y"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Wall Street Extends April Surge on Peace Prospects | Bloomberg Businessweek Daily 4/17/2026",
+        "url": "https://www.youtube.com/watch?v=3kQKBEmxOrU",
+        "source": "Bloomberg Television",
+        "published": "2026-04-17T21:13:31Z",
+        "summary": "On today's episode of Bloomberg Businessweek Daily, Carol Massar and Tim Stenovec discuss the reopeing of the Strait of ...",
+        "thumbnail": "https://i.ytimg.com/vi/3kQKBEmxOrU/mqdefault.jpg",
+        "extras": {
+          "theme": "business",
+          "videoId": "3kQKBEmxOrU"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The World&#39;s First AI TED Talk | TED",
+        "url": "https://www.youtube.com/watch?v=N1X7vMp9DZ4",
+        "source": "TED",
+        "published": "2026-04-17T21:06:30Z",
+        "summary": "ChatGPT was recently asked what it would say to humans if it could give a TED Talk. It gave a surprisingly thoughtful answer that ...",
+        "thumbnail": "https://i.ytimg.com/vi/N1X7vMp9DZ4/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "N1X7vMp9DZ4"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "NYC’s Second-Home Tax Unites Mamdani and Hochul",
+        "url": "https://www.youtube.com/watch?v=uaPXm0ybjBc",
+        "source": "Bloomberg Television",
+        "published": "2026-04-17T20:55:53Z",
+        "summary": "Bloomberg's Nacha Cattan joins Katie Greifeld on \"Bloomberg Real Yield.\" Governor Kathy Hochul and New York City Mayor ...",
+        "thumbnail": "https://i.ytimg.com/vi/uaPXm0ybjBc/mqdefault.jpg",
+        "extras": {
+          "theme": "business",
+          "videoId": "uaPXm0ybjBc"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Joe Rogan Experience #2485 - John Fogerty",
+        "url": "https://www.youtube.com/watch?v=hpLAqYQVb68",
+        "source": "How I Built This (NPR)",
+        "published": "2026-04-17T17:00:59Z",
+        "summary": "John Fogerty is a Grammy-winning solo musician, former leader of Creedence Clearwater Revival, and an inductee of the Rock ...",
+        "thumbnail": "https://i.ytimg.com/vi/hpLAqYQVb68/mqdefault.jpg",
+        "extras": {
+          "theme": "founder",
+          "videoId": "hpLAqYQVb68"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why This One Coffee Tasting Impacts the Price of 38K Pounds | WSJ",
+        "url": "https://www.youtube.com/watch?v=1VardFNcwzM",
+        "source": "Wall Street Journal",
+        "published": "2026-04-17T17:00:03Z",
+        "summary": "Several levels above the New York Stock Exchange trading floor, a small group of elite coffee graders decides which beans meet ...",
+        "thumbnail": "https://i.ytimg.com/vi/1VardFNcwzM/mqdefault.jpg",
+        "extras": {
+          "theme": "business",
+          "videoId": "1VardFNcwzM"
         }
       }
     ]

@@ -1,8 +1,7 @@
 """
 수집 소스 정의.
-- RSS_FEEDS: (카테고리, 이름, URL)
-- YOUTUBE_CHANNELS: 공신력 있는 해외 채널 핸들 또는 채널 ID
-- YOUTUBE_SEARCH_QUERIES: 추가 검색 쿼리
+- RSS_FEEDS: (카테고리, 이름, URL) — 기사용
+- YOUTUBE_CHANNELS: 고정 채널 리스트 — 신기술·신사업·국제 비즈니스·경영자 인사이트 중심
 """
 
 RSS_FEEDS = [
@@ -28,36 +27,32 @@ RSS_FEEDS = [
     ("startup", "First Round Review", "https://review.firstround.com/feed"),
     ("startup", "Y Combinator Blog", "https://www.ycombinator.com/blog/rss"),
     ("startup", "a16z", "https://a16z.com/feed/"),
-    # 국내
     ("startup", "Platum", "https://platum.kr/feed"),
     ("startup", "ByLine Network", "https://byline.network/feed/"),
     ("startup", "EO", "https://eopla.net/feed"),
 ]
 
-# YouTube: (카테고리, 채널명, channelId 또는 핸들)
-# channelId가 없으면 핸들로 검색해 ID를 얻는다.
+# ──────────────────────────────────────────────────────────────
+# YouTube: 테마별 고정 채널. (카테고리 이름은 UI 필터용 tag, 실제 섹션은 "videos" 하나로 합쳐짐)
+# ──────────────────────────────────────────────────────────────
 YOUTUBE_CHANNELS = [
-    ("world",   "Bloomberg Television", "UCIALMKvObZNtJ6AmdCLP7Lg"),
-    ("world",   "Reuters",              "UChqUTb7kYRX8-EiaN3XFrSQ"),
-    ("world",   "BBC News",             "UC16niRr50-MSBwiO3YDb3RA"),
-    ("world",   "DW News",              "UCknLrEdhRCp1aegoMqRaCZg"),
-    ("world",   "Wall Street Journal",  "UCK7tptUDHh-RYDsdxO1-5QQ"),
-    ("world",   "Financial Times",      "UCNjsbTY6cJqB1FGYzMYR4iQ"),
+    # 🚀 신기술 / 혁신 / 스타트업 이너 서클
+    ("innovation", "Y Combinator",          "UCcefcZRL2oaA_uBNeo5UOWg"),
+    ("innovation", "a16z",                   "UC9cn0TuPq4dnbTY-CBsm8XA"),
+    ("innovation", "MIT Technology Review",  "UCT7uV-LjMSWtP6_uMlSc-aQ"),
+    ("innovation", "TED",                    "UCAuUUnT6oDeKwE6v1NGQxug"),
+    ("innovation", "Startup Grind",          "UC0CRYvGlWGlsGxBNgvkUbAg"),
 
-    ("tech",    "Y Combinator",         "UCcefcZRL2oaA_uBNeo5UOWg"),
-    ("tech",    "a16z",                 "UC9cn0TuPq4dnbTY-CBsm8XA"),
-    ("tech",    "Lex Fridman",          "UCSHZKyawb77ixDdsGog4iWA"),
-    ("tech",    "TED",                  "UCAuUUnT6oDeKwE6v1NGQxug"),
-    ("tech",    "MIT Technology Review","UCT7uV-LjMSWtP6_uMlSc-aQ"),
+    # 🎙 경영자·창업자 인사이트 / 마인드
+    ("founder",    "Lex Fridman",            "UCSHZKyawb77ixDdsGog4iWA"),
+    ("founder",    "How I Built This (NPR)", "UCzQUP1qoWDoEbmsQxvdjxgQ"),
 
-    ("startup", "How I Built This",     "UCzQUP1qoWDoEbmsQxvdjxgQ"),
-    ("startup", "Startup Grind",        "UC0CRYvGlWGlsGxBNgvkUbAg"),
+    # 🌐 국제 사업·경제 동향
+    ("business",   "Bloomberg Television",   "UCIALMKvObZNtJ6AmdCLP7Lg"),
+    ("business",   "Wall Street Journal",    "UCK7tptUDHh-RYDsdxO1-5QQ"),
+    ("business",   "Financial Times",        "UCNjsbTY6cJqB1FGYzMYR4iQ"),
+    ("business",   "CNBC International",     "UCo7a6riBFJ3tkeHjvkXPn1g"),
 ]
 
-# 검색어 기반 추가 수집 (테마 보강)
-YOUTUBE_SEARCH_QUERIES = [
-    ("tech",    "AI startup case study"),
-    ("tech",    "tech innovation 2026"),
-    ("startup", "founder interview"),
-    ("world",   "geopolitics analysis"),
-]
+# (더 이상 필요 없음 — 고정 채널 방식으로 통일)
+YOUTUBE_SEARCH_QUERIES: list = []
