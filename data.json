@@ -1,15 +1,70 @@
 {
-  "generated_at": "2026-04-18T01:36:52.470588+00:00",
+  "generated_at": "2026-04-18T05:52:51.292561+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
+        "title": "Hopes for Peace Deal Rise After Iran Says Strait Is Open",
+        "url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
+        "source": "NYT World",
+        "published": "2026-04-18T05:38:22+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘It’s a powder keg’: Romania leads EU measles cases as vaccination rates collapse",
+        "url": "https://www.theguardian.com/world/2026/apr/18/romania-eu-measles-cases-vaccination-rates-collapse",
+        "source": "The Guardian World",
+        "published": "2026-04-18T05:00:05+00:00",
+        "summary": "Bottlenecks in the system and parent’s suspicions mean doctors expect another serious outbreak soonBy 10am on a spring day, the corridor of the clinic in the Transylvanian town of Săcele was already crowded with parents and children. They were all waiting to see Dr Mirela Csabai, one of just seven general practitioners serving a population of more than 30,000.Most of the cases that morning were ro",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
+        "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-04-18T04:46:34+00:00",
+        "summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Al-Noor centre: A lifeline for blind children in Gaza",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/al-noor-centre-a-lifeline-for-blind-children-in-gaza?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-18T04:42:42+00:00",
+        "summary": "Al-Noor is a UNRWA centre in Gaza providing education and support for visually impaired children.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "New Jersey announces $150 transit tickets to reach the World Cup",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/new-jersey-announces-150-transit-tickets-to-reach-the-world-cup?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-18T04:41:38+00:00",
+        "summary": "Transit fares from New York to MetLife Stadium in New Jersey for World Cup matches will rise to $150.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
         "title": "Thousands of Lebanese Try to Head Home After Israel-Lebanon Truce",
         "url": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah",
         "source": "NYT World",
-        "published": "2026-04-18T01:29:26+00:00",
+        "published": "2026-04-18T04:05:04+00:00",
         "summary": "Hezbollah politicians affirmed a “cautious commitment” to the 10-day cease-fire, which appeared to be holding on its first day. A truce could remove an obstacle in U.S.-Iran peace talks.",
         "thumbnail": "",
         "extras": {}
@@ -17,77 +72,22 @@
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open",
-        "url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
+        "title": "In Angola, Pope Leo XIV Faces the Legacy of Slavery",
+        "url": "https://www.nytimes.com/2026/04/18/world/africa/pope-leo-slavery-africa-angola.html",
         "source": "NYT World",
-        "published": "2026-04-18T01:03:38+00:00",
-        "summary": "",
+        "published": "2026-04-18T04:01:17+00:00",
+        "summary": "His visit includes a trip to a shrine where enslaved Africans were baptized before being forced into the treacherous voyage across the Atlantic Ocean.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump thanks Gulf states for their ‘tremendous’ support",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-18T00:54:38+00:00",
-        "summary": "‘This will be a great and brilliant day for the world’ Donald Trump said as Iran fully opens the Strait of Hormuz.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-18T00:18:17+00:00",
-        "summary": "UN aid chief Tom Fletcher says that South Sudan is at risk of slipping into &#039;full-scale famine and collapse’.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran war live: Tehran says Trump made ‘false’ claims, amid peace talks",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-18T00:00:00+00:00",
-        "summary": "Tens of thousands of people forcibly displaced by Israeli attacks on Lebanon use first day of ceasefire to return home.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "The U.S. blockade on ships will continue until Trump ends it, says Central Command chief.",
-        "url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it",
+        "title": "A Potent Threat in Strait of Hormuz: Iran’s “Mosquito Fleet”",
+        "url": "https://www.nytimes.com/2026/04/18/world/middleeast/iran-irgc-navy-strait-of-hormuz.html",
         "source": "NYT World",
-        "published": "2026-04-17T23:38:04+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "An Explosion Rattles a Toronto Neighborhood. A Drake Video Was to Blame.",
-        "url": "https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html",
-        "source": "NYT World",
-        "published": "2026-04-17T23:36:40+00:00",
-        "summary": "A blast on Thursday night turned out to be for a video shoot, but it unnerved residents who had lived through a propane plant explosion in 2008.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump Frames Iran War as All but Over in Optimistic Social Media Flurry",
-        "url": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html",
-        "source": "NYT World",
-        "published": "2026-04-17T23:11:04+00:00",
-        "summary": "Iranian officials did not confirm most of Mr. Trump’s claims and disputed several of them.",
+        "published": "2026-04-18T04:01:08+00:00",
+        "summary": "Separate from the regular Iranian Navy, with boats that often go more than 115 miles per hour, it’s what a retired U.S. official calls a “disruptive force.”",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,11 +96,33 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
-        "url": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
+        "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
+        "url": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
+        "source": "TechCrunch",
+        "published": "2026-04-18T05:20:11+00:00",
+        "summary": "For most of its life, Airwallex and Stripe have mostly operated in different geographies, selling to different buyers. That's changing.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+        "url": "https://victorpoughon.github.io/interval-calculator/",
         "source": "Hacker News Front",
-        "published": "2026-04-17T22:53:18+00:00",
-        "summary": "Article URL: https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/\nComments URL: https://news.ycombinator.com/item?id=47811442\nPoints: 14\n# Comments: 11",
+        "published": "2026-04-18T01:15:43+00:00",
+        "summary": "I've been studying interval arithmetic for the past few weeks and it's a really interesting field because while there is a ton of super interesting research published over the past decades, it has never really gotten the recognition that it deserves, IMO.One reason for this is that standard interval arithmetic has really poor handling of division by intervals containing zero. If you compute 1 / [-",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Casus Belli Engineering",
+        "url": "https://marcosmagueta.com/blog/casus-belli-engineering/",
+        "source": "Hacker News Front",
+        "published": "2026-04-18T01:14:02+00:00",
+        "summary": "Article URL: https://marcosmagueta.com/blog/casus-belli-engineering/\nComments URL: https://news.ycombinator.com/item?id=47812331\nPoints: 25\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
@@ -122,7 +144,7 @@
         "url": "https://www.nature.com/articles/d41586-026-01204-5",
         "source": "Hacker News Front",
         "published": "2026-04-17T22:30:28+00:00",
-        "summary": "Related: Ancient DNA reveals pervasive directional selection across West Eurasia [pdf] - https://news.ycombinator.com/item?id=47791282 (64 comments)https://x.com/doctorveera/status/2044679999450664967 (https://xcancel.com/doctorveera/status/2044679999450664967)\n\nComments URL: https://news.ycombinator.com/item?id=47811283\nPoints: 48\n# Comments: 24",
+        "summary": "Related: Ancient DNA reveals pervasive directional selection across West Eurasia [pdf] - https://news.ycombinator.com/item?id=47791282 (64 comments)https://x.com/doctorveera/status/2044679999450664967 (https://xcancel.com/doctorveera/status/2044679999450664967)\n\nComments URL: https://news.ycombinator.com/item?id=47811283\nPoints: 65\n# Comments: 60",
         "thumbnail": "",
         "extras": {}
       },
@@ -133,7 +155,7 @@
         "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
         "source": "Hacker News Front",
         "published": "2026-04-17T21:38:20+00:00",
-        "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 106\n# Comments: 53",
+        "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 147\n# Comments: 73",
         "thumbnail": "",
         "extras": {}
       },
@@ -156,28 +178,6 @@
         "source": "The Verge",
         "published": "2026-04-17T21:13:25+00:00",
         "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
-        "url": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
-        "source": "Hacker News Front",
-        "published": "2026-04-17T21:00:08+00:00",
-        "summary": "Article URL: https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead\nComments URL: https://news.ycombinator.com/item?id=47810507\nPoints: 0\n# Comments: 0",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-        "source": "The Verge",
-        "published": "2026-04-17T20:42:47+00:00",
-        "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -272,119 +272,6 @@
         "extras": {}
       }
     ],
-    "videos": [
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "새만금 사업의 부활은 가능할 것인가",
-        "url": "https://www.youtube.com/watch?v=KXnaKXMAiyc",
-        "source": "슈카월드",
-        "published": "2026-04-17T10:06:50+00:00",
-        "summary": "0:00 새만금! 새만금! 새만금!\n9:39 새만금 헴프산업 클러스터 민관협의회 출범\n20:10  전북도 그린 러쉬 열풍 헴프 산업에 참여하겠다.\n23:45 의료용 대마라고 해도, 부정적인 이미지가 높은 현실",
-        "thumbnail": "https://i4.ytimg.com/vi/KXnaKXMAiyc/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "KXnaKXMAiyc"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "부모님도 속으실 듯",
-        "url": "https://www.youtube.com/shorts/JwWBJJbV7VU",
-        "source": "슈카월드",
-        "published": "2026-04-17T08:41:07+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i3.ytimg.com/vi/JwWBJJbV7VU/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "JwWBJJbV7VU"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The GPT Moment for Robotics Is Here",
-        "url": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
-        "source": "Y Combinator",
-        "published": "2026-04-16T14:00:07+00:00",
-        "summary": "Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the GPT-1 moment for robotics. The company's cross-embodiment approach trains across many different robot platforms, and recent results show tasks being performed zero-shot tha",
-        "thumbnail": "https://i1.ytimg.com/vi/4EsUaur0nsQ/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "4EsUaur0nsQ"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-        "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-        "source": "Lex Fridman",
-        "published": "2026-04-09T17:35:20+00:00",
-        "summary": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep495-sb\nSee below for timestamps, transcript, and to give feedback, submit ques",
-        "thumbnail": "https://i2.ytimg.com/vi/iKx3gAODybU/hqdefault.jpg",
-        "extras": {
-          "theme": "interview",
-          "videoId": "iKx3gAODybU"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
-        "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
-        "source": "Y Combinator",
-        "published": "2026-04-06T14:01:12+00:00",
-        "summary": "1 in 11 babies born in America this year will be screened by a genetic test that didn't exist a decade ago.\n\nBiotech startup BillionToOne turned a simple but radical idea—detecting rare fragments of fetal DNA in a mother's blood—into one of the most widely used prenatal tests in the U.S. And they're",
-        "thumbnail": "https://i4.ytimg.com/vi/kkv5rZhrLkc/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "kkv5rZhrLkc"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "주 5회 10년, 딸깍으로 PPT 만드는 법",
-        "url": "https://www.youtube.com/watch?v=iPIDN70Njg8",
-        "source": "슈카월드",
-        "published": "2026-04-16T10:07:59+00:00",
-        "summary": "올인원 AI 젠스파크 4.0을 경험해보세요!\n복잡한 업무는 더 간단하게, 아이디어는 더 빠르게 결과물로 바꿔주는 젠스파크 AI를 지금 만나보세요.\nhttps://www.genspark.ai/?utm_source=yt&amp;utm_campaign=syukaworld\n\n@GensparkProduct\n#Genspark #WorkwithGenspark",
-        "thumbnail": "https://i2.ytimg.com/vi/iPIDN70Njg8/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "iPIDN70Njg8"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "스페이스X의 시가총액은 얼마가 적절할까?",
-        "url": "https://www.youtube.com/watch?v=FP_zaF6QJdw",
-        "source": "슈카월드",
-        "published": "2026-04-15T10:49:13+00:00",
-        "summary": "0:00 역대 최대 IPO가 온다.\n6:25 대체 50년 전에는 달착륙 어케했지?\n14:44 스페이스X 기업공개 신청 완료\n27:17 大 Elon 주식회사 탄생?",
-        "thumbnail": "https://i3.ytimg.com/vi/FP_zaF6QJdw/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "FP_zaF6QJdw"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "'야근한 만큼 돈 줘라', 포괄임금 오남용방지 지침 발표",
-        "url": "https://www.youtube.com/watch?v=bhsdookyQm0",
-        "source": "슈카월드",
-        "published": "2026-04-14T12:15:00+00:00",
-        "summary": "0:00 고용노동부 '포괄임금제 개선 로드맵' 발표\n7:41 무엇이 문제인가\n10:45 포괄임금제에 대한 노측, 사측의 의견들\n25:40 청와대 민주노총  초청 간담회",
-        "thumbnail": "https://i3.ytimg.com/vi/bhsdookyQm0/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "bhsdookyQm0"
-        }
-      }
-    ]
+    "videos": []
   }
 }
