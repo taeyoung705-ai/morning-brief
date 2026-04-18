@@ -5,6 +5,10 @@ on:
     # 매일 KST 09:00 = UTC 00:00
     - cron: "0 0 * * *"
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data.json"  # 봇이 커밋한 데이터 변경은 무시 (무한 루프 방지)
 
 permissions:
   contents: write
