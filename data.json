@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-04-17T06:24:30.324763+00:00",
+  "generated_at": "2026-04-18T00:26:18.347555+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Young South Sudanese models ‘take up space’ in quest to showcase talent",
-        "url": "https://www.aljazeera.com/features/2026/4/17/young-south-sudanese-models-take-up-space-in-quest-to-showcase-talent?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-17T06:08:27+00:00",
-        "summary": "Longing to stride down international runways often collides with reality of conservatism and lack of structural support.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Live Updates: Lebanon-Israel Cease-Fire Goes Into Effect",
-        "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+        "title": "Iran War Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open",
+        "url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
         "source": "NYT World",
-        "published": "2026-04-17T06:05:15+00:00",
-        "summary": "It was unclear if the agreement between Prime Minister Benjamin Netanyahu and the Lebanese government was being honored. Hezbollah, the Iranian-backed militia, acknowledged the temporary truce but did not say if it would abide by it.",
+        "published": "2026-04-18T00:20:24+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
-        "url": "https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
-        "source": "The Guardian World",
-        "published": "2026-04-17T06:00:24+00:00",
-        "summary": "Legally questionable confidentiality clause adopted almost word for word from demands of Microsoft and trade groupsMicrosoft and other US tech companies successfully lobbied the EU to hide the environmental toll of their datacentres, an investigation has found, with demands to block a database of green metrics from public view written almost word for word into EU rules.The secrecy provision, which",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Woman stranded in Dusseldorf after return UK flight blocked over Home Office admin error",
-        "url": "https://www.theguardian.com/politics/2026/apr/17/woman-dusseldorf-uk-home-office-return-flight-blocked",
-        "source": "The Guardian World",
-        "published": "2026-04-17T06:00:22+00:00",
-        "summary": "Liza Tobay, who lives in UK, was told her settled status had been ‘red flagged’ after trying to make a connecting flight from Munich to EdinburghA German woman has been separated from her two-year-old daughter in Edinburgh after a Home Office mistake left her stranded in Dusseldorf earlier this week.Liza Tobay, who has lived in the UK for 15 years, had taken her oldest child, a six-year-old boy, t",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: two men charged after allegedly stealing 1,000 litres of diesel; Hume highway closed in both directions after multi-vehicle crash",
-        "url": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-04-17T05:57:57+00:00",
-        "summary": "Follow updates liveGet our breaking news email, free app or daily news podcastAustralia secures extra fertilizer and 100m extra litres of fuel, PM saysAlbanese has also provided an update on Australia’s talks with its allies in Asia to shore up imports of fuel and other goods affected by the effective closure of the Strait of Hormuz.The advice that we have received today is that 80% of diesel prod",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Inside Israel’s prison system",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/17/inside-israels-prison-system?traffic_source=rss",
+        "title": "Iran war live: Tehran says Trump made ‘false’ claims, amid peace talks",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-04-17T05:54:34+00:00",
-        "summary": "As Palestinians mark Prisoners’ Day, more than 9,600 Palestinians are still being held in Israeli prisons.",
+        "published": "2026-04-18T00:00:00+00:00",
+        "summary": "Tens of thousands of people forcibly displaced by Israeli attacks on Lebanon use first day of ceasefire to return home.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran women football players thank Australian government for protection",
-        "url": "https://www.aljazeera.com/sports/2026/4/17/iran-women-football-players-thank-australian-government-for-protection?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-17T05:54:15+00:00",
-        "summary": "The two Iran footballers who stayed in Australia following the Asian Cup say they want to rebuild lives in &#039;safety&#039;.",
+        "title": "Thousands of Lebanese Try to Head Home After Israel-Lebanon Truce",
+        "url": "https://www.nytimes.com/live/2026/04/17/world/israel-lebanon-ceasefire-hezbollah",
+        "source": "NYT World",
+        "published": "2026-04-17T23:51:53+00:00",
+        "summary": "Hezbollah politicians affirmed a “cautious commitment” to the 10-day cease-fire, which appeared to be holding on its first day. A truce could remove an obstacle in U.S.-Iran peace talks.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "‘Vengeance for all’: How Iran’s Lego videos won narrative war against Trump",
-        "url": "https://www.aljazeera.com/news/2026/4/17/vengeance-for-all-how-irans-lego-videos-won-narrative-war-against-trump?traffic_source=rss",
+        "title": "The U.S. blockade on ships will continue until Trump ends it, says Central Command chief.",
+        "url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump/the-us-military-blockade-on-ships-entering-or-leaving-iran-will-continue-until-trump-ends-it",
+        "source": "NYT World",
+        "published": "2026-04-17T23:38:04+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "An Explosion Rattles a Toronto Neighborhood. A Drake Video Was to Blame.",
+        "url": "https://www.nytimes.com/2026/04/17/world/canada/toronto-downsview-explosion-drake.html",
+        "source": "NYT World",
+        "published": "2026-04-17T23:36:40+00:00",
+        "summary": "A blast on Thursday night turned out to be for a video shoot, but it unnerved residents who had lived through a propane plant explosion in 2008.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump Frames Iran War as All but Over in Optimistic Social Media Flurry",
+        "url": "https://www.nytimes.com/2026/04/17/world/middleeast/trump-iran-war-truth-social-posts.html",
+        "source": "NYT World",
+        "published": "2026-04-17T23:11:04+00:00",
+        "summary": "Iranian officials did not confirm most of Mr. Trump’s claims and disputed several of them.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Inside smoky shelters, a fast-paced, illegal card game has taken off in Solomon Islands",
+        "url": "https://www.theguardian.com/world/2026/apr/18/inside-smoky-shelters-a-fast-paced-card-game-has-taken-off-in-solomon-islands",
+        "source": "The Guardian World",
+        "published": "2026-04-17T23:00:01+00:00",
+        "summary": "Growing numbers in the capital Honiara are playing the street card game Pass for a chance of a big payout, while risking big lossesAs the school day ends in Honiara, *Irene, a 43-year-old teacher in a floral dress with a yellow daisy in her bun, steps on to a minibus.After 10 minutes, Irene gets off the bus, walks down an alley, and enters a damp, smoky shelter. Plastic tables fill the space and p",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Pressure mounts on Peru’s election authorities amid presidential race delay",
+        "url": "https://www.aljazeera.com/news/2026/4/17/pressure-mounts-on-perus-election-authorities-amid-presidential-race-delay?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-04-17T05:43:47+00:00",
-        "summary": "The viral videos by Iranian creators, say analysts, are high-quality though cheap, and hit fissures in US politics.",
+        "published": "2026-04-17T22:47:21+00:00",
+        "summary": "The vote count continues to determine who will join conservative Keiko Fujimori in Peru&#039;s presidential run-off in June.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,93 +96,159 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Foreo Discount Codes and Deals: Up to 50% Off",
-        "url": "https://www.wired.com/story/foreo-promo-code/",
-        "source": "Wired",
-        "published": "2026-04-17T05:00:00+00:00",
-        "summary": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
+        "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
+        "url": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
+        "source": "Hacker News Front",
+        "published": "2026-04-17T22:53:18+00:00",
+        "summary": "Article URL: https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/\nComments URL: https://news.ycombinator.com/item?id=47811442\nPoints: 7\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Nike Promo Codes and Deals: 30% Off",
-        "url": "https://www.wired.com/story/nike-promo-code/",
-        "source": "Wired",
-        "published": "2026-04-17T05:00:00+00:00",
-        "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+        "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+        "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+        "source": "TechCrunch",
+        "published": "2026-04-17T22:34:02+00:00",
+        "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-        "url": "https://www.wired.com/story/hr-block-coupon/",
-        "source": "Wired",
-        "published": "2026-04-17T05:00:00+00:00",
-        "summary": "Save over 25% when you opt for H&amp;R Block’s free online offering, plus a tax pro review.",
+        "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+        "url": "https://www.nature.com/articles/d41586-026-01204-5",
+        "source": "Hacker News Front",
+        "published": "2026-04-17T22:30:28+00:00",
+        "summary": "Related: Ancient DNA reveals pervasive directional selection across West Eurasia [pdf] - https://news.ycombinator.com/item?id=47791282 (64 comments)https://x.com/doctorveera/status/2044679999450664967 (https://xcancel.com/doctorveera/status/2044679999450664967)\n\nComments URL: https://news.ycombinator.com/item?id=47811283\nPoints: 29\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "50% Off Blue Apron Promo Codes | April 2026",
-        "url": "https://www.wired.com/story/blue-apron-coupon/",
-        "source": "Wired",
-        "published": "2026-04-17T05:00:00+00:00",
-        "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+        "title": "A simplified model of Fil-C",
+        "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+        "source": "Hacker News Front",
+        "published": "2026-04-17T21:38:20+00:00",
+        "summary": "Article URL: https://www.corsix.org/content/simplified-model-of-fil-c\nComments URL: https://news.ycombinator.com/item?id=47810872\nPoints: 88\n# Comments: 39",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "TopResume Free Review, Discounts & Packages for 2026",
-        "url": "https://www.wired.com/story/topresume-discount-code/",
-        "source": "Wired",
-        "published": "2026-04-17T05:00:00+00:00",
-        "summary": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
+        "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+        "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+        "source": "Ars Technica",
+        "published": "2026-04-17T21:28:35+00:00",
+        "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "20% Squarespace Promo Codes | April 2026",
-        "url": "https://www.wired.com/story/squarespace-promo-code/",
-        "source": "Wired",
-        "published": "2026-04-17T05:00:00+00:00",
-        "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+        "title": "OpenAI’s former Sora boss is leaving",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+        "source": "The Verge",
+        "published": "2026-04-17T21:13:25+00:00",
+        "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Visible Promo Code: Save Over $400 in April 2026",
-        "url": "https://www.wired.com/story/visible-promo-code/",
-        "source": "Wired",
-        "published": "2026-04-17T05:00:00+00:00",
-        "summary": "Find great deals and promo codes for Visible at WIRED and save big, whether you're a long-time customer or a newbie.",
+        "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
+        "url": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
+        "source": "Hacker News Front",
+        "published": "2026-04-17T21:00:08+00:00",
+        "summary": "Article URL: https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead\nComments URL: https://news.ycombinator.com/item?id=47810507\nPoints: 0\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-        "url": "https://www.wired.com/story/legalzoom-promo-code/",
-        "source": "Wired",
-        "published": "2026-04-17T05:00:00+00:00",
-        "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
+        "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+        "source": "The Verge",
+        "published": "2026-04-17T20:42:47+00:00",
+        "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "startup": [
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/",
+        "source": "Crunchbase News",
+        "published": "2026-04-17T19:06:41+00:00",
+        "summary": "The week’s largest round was a $650 million financing for electric pickup truck maker Slate Auto. Other sizable investments went to spaces including drug development, autonomous public transit and software engineering.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To Hit Record Amount",
+        "url": "https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-04-17T11:00:42+00:00",
+        "summary": "Several multibillion-dollar megadeals drove a spike in first-quarter investment in autonomous vehicles, signaling that investors aren't just paying for research, but betting on companies that are ready to scale up and put their AI technology into actual cars people can buy or hail.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Nearly €80bn of public money is flooding into European VCs and startups. Is it what the market needs?",
+        "url": "https://sifted.eu/articles/public-money-influx-europe-vc-scaleups-growth-problems/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-17T10:50:48+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[커머스BN] 중국 사업 확장하는 무신사가 풀고자 하는 문제",
+        "url": "https://byline.network/2026/04/17_musinsa-2/",
+        "source": "ByLine Network",
+        "published": "2026-04-17T07:49:21+00:00",
+        "summary": "무신사가 중국 시장에 공을 들이고 있습니다. 지난해 안타스포츠와 손잡고 현지 합작 법인 '무신사 차이나'를 설립하기도 했죠. 중국에서 '무신사'라는 브랜드를 각인시키겠다는 목표입니다.\n\n무신사 상하이의 현지 매장만 보아도, 무신사가 중국에 얼마나 진심인지를 알 수 있습니다. 임대료가 비싼 상하이 중심지에 대규모 매장을 개설했고, 올해 출점 목표 매장 수만 10여개입니다.\n\n무신사의 중국 시장 전략을 듣기 위해 무신사 차이나 조대희 마케팅 헤드와 서면 인터뷰를 가졌습니다. '무신사'라는 브랜드를 현지에서 어떻게 각인시키고자 하는지, 향후 어떤 행보를 할 예정인지 이야기를 들어보았습니다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "‘제미나이는 이미 되는데’ 챗GPT, HWP 문서 읽는다",
+        "url": "https://byline.network/2026/04/17-563/",
+        "source": "ByLine Network",
+        "published": "2026-04-17T07:22:01+00:00",
+        "summary": "구글 제미나이가 HWP 문서를 읽고 이해하게 된 지 4개월 지난 시점, 오픈AI 챗GPT도 뒤늦게 HWP 문서를 읽을 수 있게 됐다. 오픈AI는 챗GPT가 한컴오피스 ‘한글’에서 사용되는 대표 문서 형식인 HWP 및 HWPX 파일을 지원한다고 17일 밝혔다. 별도의 파일 변환 없이 한글 문서를 직접 업로드해 내용을 확인하고 분석할 수 있게 됐다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다”",
+        "url": "https://byline.network/2026/04/17-561/",
+        "source": "ByLine Network",
+        "published": "2026-04-17T06:59:56+00:00",
+        "summary": "“현재 AI의 발전 속도에 발맞춰 가려면 복잡성 자체를 제거해야 한다. 기업 내부의 데이터를 활용할 수 있어야 하고, 데이터 이동 과정에서 나타나는 속도와 보안 문제를 해결해야 한다. 오라클 AI 데이터베이스는 에이전틱 AI 프레임워크를 DB에 내장했으며, 단일화된 데이터 엔진으로 오라클 DB나 관계형 데이터뿐 아니라 벡터, 문서 등의 모든 유형을 처리할 수 있다.”",
+        "thumbnail": "",
+        "extras": {}
+      },
       {
         "category": "startup",
         "kind": "article",
@@ -204,74 +270,149 @@
         "summary": "",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "라즈베리파이, 비밀번호 입력해야 sudo 명령어 쓴다",
-        "url": "https://byline.network/2026/04/17-559/",
-        "source": "ByLine Network",
-        "published": "2026-04-17T04:34:15+00:00",
-        "summary": "라즈베리파이가 운영체제(OS) 최신 버전에서 보안 업데이트에 sudo 명령어 입력 시 비밀번호를 요구하도록 바꿨다. 보안 강화 목적이다. 그동안 라즈베리파이OS의 경우 터미널에서 sudo 명령어를 비밀번호 없이 사용할 수 있었는데, 앞으로 5분마다 비밀번호를 입력해야 한다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "500만장 판매 돌파 ‘붉은사막’, 흥행 요인은",
-        "url": "https://byline.network/2026/04/16-652/",
-        "source": "ByLine Network",
-        "published": "2026-04-16T22:29:56+00:00",
-        "summary": "펄어비스 오픈월드 액션 어드벤처 신작 ‘붉은사막’이 단기간에 의미 있는 성과를 내면서 주목을 받고 있습니다. 출시 초기에는 단점이 부각되면서 혹평을 받았지만, 빠른 대처로 반전에 성공한 모습입니다. 출시 26일 만에 글로벌 누적 판매량 500만장을 돌파하는 등 국내 콘솔 게임사에 새로운 기록을 세우고 있죠. 펄어비스 입장에서는 글로벌 시장에서 탄탄한 경쟁력을 가진 차세대 지식재산권(IP)를 확보한 셈입니다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[생산적금융 대전환 ③] 혁신을 가로막는 법적·제도적 과제는 무엇인가",
-        "url": "https://byline.network/2026/04/0416-2/",
-        "source": "ByLine Network",
-        "published": "2026-04-16T22:28:09+00:00",
-        "summary": "현재 한국의 금융 현실은 일반금융은 과잉돼 있지만 혁신금융은 과소돼 있다는 평가를 받고 있다. 일반금융이 과잉된 이유로는 담보 중심의 ‘부동산 금융 구조’가 주요 원인으로 지목된다. 금융이 성장성과 기술이 아닌 담보와 안정성에 집중되면서 자금이 생산적 영역으로 흐르지 못하고 있다는 지적이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The UK’s £500m Sovereign AI Unit just struck deals with these 7 startups",
-        "url": "https://sifted.eu/articles/uk-sovereign-ai-unit-startups/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-04-16T18:30:14+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Could Europe become a world leader in robotics?",
-        "url": "https://sifted.eu/articles/podcast-europe-robotics/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-04-16T16:54:09+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "UK fintech bosses set for crunch talks with Treasury and regulators, reports say",
-        "url": "https://sifted.eu/articles/uk-fintech-regulation-talks/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-04-16T15:48:59+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
-    "videos": []
+    "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "New Jersey announces $150 public transit tickets to World Cup games",
+        "url": "https://www.youtube.com/watch?v=qqVmwpSoptE",
+        "source": "Reuters",
+        "published": "2026-04-18T00:07:44Z",
+        "summary": "Round-trip public transit tickets to World Cup games at MetLife Stadium in New Jersey will cost $150, up from under $15 on typical ...",
+        "thumbnail": "https://i.ytimg.com/vi/qqVmwpSoptE/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "qqVmwpSoptE"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Costa Rica authorities seize nearly two tons of cocaine | DW News",
+        "url": "https://www.youtube.com/watch?v=QmhMH0WVAK4",
+        "source": "DW News",
+        "published": "2026-04-18T00:00:25Z",
+        "summary": "Costa Rican authorities have seized nearly two tons of cocaine after intercepting a speedboat in the Pacific following a 24-hour ...",
+        "thumbnail": "https://i.ytimg.com/vi/QmhMH0WVAK4/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "QmhMH0WVAK4"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Wall Street indexes rally as oil falls with Strait of Hormuz opening",
+        "url": "https://www.youtube.com/watch?v=KXCEYmB7gxA",
+        "source": "Reuters",
+        "published": "2026-04-18T00:00:03Z",
+        "summary": "The S&P 500 and Nasdaq closed at record highs for a third straight session, while the Dow hit its highest since February as ...",
+        "thumbnail": "https://i.ytimg.com/vi/KXCEYmB7gxA/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "KXCEYmB7gxA"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Trump Claims Hormuz is &#39;Open For Business&#39; | Balance of Power 04/17/2026",
+        "url": "https://www.youtube.com/watch?v=eZFsV1jWR6c",
+        "source": "Bloomberg Television",
+        "published": "2026-04-17T23:40:06Z",
+        "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Representative Jake ...",
+        "thumbnail": "https://i.ytimg.com/vi/eZFsV1jWR6c/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "eZFsV1jWR6c"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Starmer says it is &#39;staggering&#39; he was not told about Mandelson vetting failure",
+        "url": "https://www.youtube.com/watch?v=HD91U6aPnXk",
+        "source": "Reuters",
+        "published": "2026-04-17T23:04:47Z",
+        "summary": "Amid mounting pressure to resign over the Mandelson-Epstein row, British Prime Minister Keir Starmer said he wasn't aware that ...",
+        "thumbnail": "https://i.ytimg.com/vi/HD91U6aPnXk/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "HD91U6aPnXk"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Wall Street Week | Paulson on Iran War, Energy Market Disruptions, Copper Supply Strain, Tax Debate",
+        "url": "https://www.youtube.com/watch?v=K9UoYXhZKxA",
+        "source": "Bloomberg Television",
+        "published": "2026-04-17T23:00:24Z",
+        "summary": "This week, Former Treasury Secretary Hank Paulson warns the biggest economic risk from the Iran war may come from global ...",
+        "thumbnail": "https://i.ytimg.com/vi/K9UoYXhZKxA/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "K9UoYXhZKxA"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What the Live Nation Verdict Means for Ticketing Fees and Fans",
+        "url": "https://www.youtube.com/watch?v=kYUs1RsnZ60",
+        "source": "Wall Street Journal",
+        "published": "2026-04-17T22:43:54Z",
+        "summary": "A federal jury found that Live Nation illegally monopolized the U.S. concert ticketing market. WSJ's Dave Michaels explains what ...",
+        "thumbnail": "https://i.ytimg.com/vi/kYUs1RsnZ60/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "kYUs1RsnZ60"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What can Germany do to ensure the Strait of Hormuz remains open? | DW News",
+        "url": "https://www.youtube.com/watch?v=1swVHMCzWt4",
+        "source": "DW News",
+        "published": "2026-04-17T22:33:43Z",
+        "summary": "What can Germany and its partners do to secure the Strait of Hormuz? What are the conditions for a mission — and what role ...",
+        "thumbnail": "https://i.ytimg.com/vi/1swVHMCzWt4/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "1swVHMCzWt4"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Malala&#39;s brother Khushal Yousafzai said he was left &quot;vulnerable&quot; to the manosphere&quot;. #BBCNews",
+        "url": "https://www.youtube.com/watch?v=-LjFfPmnZgg",
+        "source": "BBC News",
+        "published": "2026-04-17T22:30:00Z",
+        "summary": "",
+        "thumbnail": "https://i.ytimg.com/vi/-LjFfPmnZgg/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "-LjFfPmnZgg"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Peace Prospects Extend April Surge | The Close 4/17/2026",
+        "url": "https://www.youtube.com/watch?v=jsluWH1B_bQ",
+        "source": "Bloomberg Television",
+        "published": "2026-04-17T22:11:48Z",
+        "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the ...",
+        "thumbnail": "https://i.ytimg.com/vi/jsluWH1B_bQ/mqdefault.jpg",
+        "extras": {
+          "theme": "world",
+          "videoId": "jsluWH1B_bQ"
+        }
+      }
+    ]
   }
 }
