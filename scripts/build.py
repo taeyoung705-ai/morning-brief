@@ -137,97 +137,70 @@ def _strip_html(text: str) -> str:
 
 
 # ──────────────────────────────────────────────────────────────
-# 2) YouTube 수집 (Data API v3)
+# 2) YouTube 수집 — 공개 RSS 피드 사용 (API 키 불필요, 쿼터 없음)
 # ──────────────────────────────────────────────────────────────
-YT_BASE = "https://www.googleapis.com/youtube/v3"
+YT_RSS = "https://www.youtube.com/feeds/videos.xml?channel_id={}"
 
 
 def fetch_youtube() -> list[Item]:
-    api_key = os.environ.get("YOUTUBE_API_KEY")
-    if not api_key:
-        print("[yt] YOUTUBE_API_KEY 없음 → 스킵")
-        return []
-
+    """각 채널의 YouTube 공개 RSS 피드에서 최신 영상을 수집한다."""
     items: list[Item] = []
-    published_after = (datetime.now(timezone.utc) - timedelta(days=3)).isoformat().replace("+00:00", "Z")
+    cutoff = datetime.now(timezone.utc) - timedelta(days=14)
 
-    # (1) 채널별 최신 영상
     for category, name, channel_id in YOUTUBE_CHANNELS:
         try:
-            r = requests.get(
-                f"{YT_BASE}/search",
-                params={
-                    "key": api_key,
-                    "channelId": channel_id,
-                    "part": "snippet",
-                    "order": "date",
-                    "type": "video",
-                    "maxResults": 5,
-                    "publishedAfter": published_after,
-                },
-                timeout=15,
+            parsed = feedparser.parse(
+                YT_RSS.format(channel_id),
+                request_headers={"User-Agent": "morning-brief/1.0"},
             )
-            r.raise_for_status()
-            for it in r.json().get("items", []):
-                vid = it["id"].get("videoId")
-                if not vid:
-                    continue
-                sn = it["snippet"]
-                items.append(
-                    Item(
-                        category="videos",
-                        kind="video",
-                        title=sn.get("title", "").strip(),
-                        url=f"https://www.youtube.com/watch?v={vid}",
-                        source=name,
-                        published=sn.get("publishedAt", ""),
-                        summary=(sn.get("description") or "")[:300],
-                        thumbnail=(sn.get("thumbnails", {}).get("medium", {}) or {}).get("url", ""),
-                        extras={"theme": category, "videoId": vid},
-                    )
-                )
         except Exception as e:
             print(f"[yt] 채널 {name} 실패: {e}", file=sys.stderr)
-        time.sleep(0.1)
+            continue
 
-    # (2) 키워드 검색
-    for theme, query in YOUTUBE_SEARCH_QUERIES:
-        try:
-            r = requests.get(
-                f"{YT_BASE}/search",
-                params={
-                    "key": api_key,
-                    "q": query,
-                    "part": "snippet",
-                    "order": "relevance",
-                    "type": "video",
-                    "maxResults": 6,
-                    "publishedAfter": published_after,
-                    "relevanceLanguage": "en",
-                },
-                timeout=15,
-            )
-            r.raise_for_status()
-            for it in r.json().get("items", []):
-                vid = it["id"].get("videoId")
-                if not vid:
-                    continue
-                sn = it["snippet"]
-                items.append(
-                    Item(
-                        category="videos",
-                        kind="video",
-                        title=sn.get("title", "").strip(),
-                        url=f"https://www.youtube.com/watch?v={vid}",
-                        source=sn.get("channelTitle", "YouTube"),
-                        published=sn.get("publishedAt", ""),
-                        summary=(sn.get("description") or "")[:300],
-                        thumbnail=(sn.get("thumbnails", {}).get("medium", {}) or {}).get("url", ""),
-                        extras={"theme": theme, "videoId": vid, "query": query},
-                    )
+        for entry in parsed.entries[:5]:
+            video_id = entry.get("yt_videoid") or entry.get("id", "").split(":")[-1]
+            if not video_id:
+                continue
+
+            # 발행일
+            published = ""
+            try:
+                if getattr(entry, "published", None):
+                    dt = dateparser.parse(entry.published)
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
+                    if dt < cutoff:
+                        continue
+                    published = dt.astimezone(timezone.utc).isoformat()
+            except Exception:
+                pass
+
+            # 썸네일 (media:thumbnail)
+            thumb = ""
+            thumbs = entry.get("media_thumbnail") or []
+            if thumbs:
+                thumb = thumbs[0].get("url", "")
+            if not thumb:
+                thumb = f"https://i.ytimg.com/vi/{video_id}/mqdefault.jpg"
+
+            # 요약
+            summary = ""
+            media_desc = entry.get("media_description") or entry.get("summary") or ""
+            summary = _strip_html(media_desc)[:300]
+
+            items.append(
+                Item(
+                    category="videos",
+                    kind="video",
+                    title=(entry.get("title") or "").strip(),
+                    url=entry.get("link") or f"https://www.youtube.com/watch?v={video_id}",
+                    source=name,
+                    published=published,
+                    summary=summary,
+                    thumbnail=thumb,
+                    extras={"theme": category, "videoId": video_id},
                 )
-        except Exception as e:
-            print(f"[yt] 검색 '{query}' 실패: {e}", file=sys.stderr)
+            )
         time.sleep(0.1)
 
     # 중복 제거
@@ -333,13 +306,33 @@ def main() -> None:
         sections[cat] = [asdict(p) for p in picked]
         print(f"[final] {cat}: {len(picked)}개")
 
-    # 비디오: 고정 채널 → 최신순으로 바로 선택 (AI 큐레이션 불필요)
-    video_candidates = [it for it in all_items if it.category == "videos"]
-    videos_picked = sorted(
-        video_candidates, key=lambda x: x.published or "", reverse=True
-    )[: TARGET_COUNTS["videos"]]
-    sections["videos"] = [asdict(p) for p in videos_picked]
-    print(f"[final] videos: {len(videos_picked)}개 (큐레이션 없이 최신순)")
+    # 비디오: 고정 채널의 최신 영상을 채널 다양성 유지하며 선택
+    video_candidates = sorted(
+        [it for it in all_items if it.category == "videos"],
+        key=lambda x: x.published or "",
+        reverse=True,
+    )
+    max_per_channel = 2
+    picked: list = []
+    counts: dict = {}
+    # 1차: 채널당 상한 지키면서 최신순으로 뽑음
+    for it in video_candidates:
+        if counts.get(it.source, 0) >= max_per_channel:
+            continue
+        picked.append(it)
+        counts[it.source] = counts.get(it.source, 0) + 1
+        if len(picked) >= TARGET_COUNTS["videos"]:
+            break
+    # 2차: 아직 자리 남으면 상한 완화해서 채움
+    if len(picked) < TARGET_COUNTS["videos"]:
+        for it in video_candidates:
+            if it in picked:
+                continue
+            picked.append(it)
+            if len(picked) >= TARGET_COUNTS["videos"]:
+                break
+    sections["videos"] = [asdict(p) for p in picked]
+    print(f"[final] videos: {len(picked)}개 (채널당 최대 {max_per_channel}, 채널 {len(counts)}개)")
 
     payload: dict[str, Any] = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
