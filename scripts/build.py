@@ -137,71 +137,131 @@ def _strip_html(text: str) -> str:
 
 
 # ──────────────────────────────────────────────────────────────
-# 2) YouTube 수집 — 공개 RSS 피드 사용 (API 키 불필요, 쿼터 없음)
+# 2) YouTube 수집 — 공개 RSS 우선, 실패 시 Data API fallback
 # ──────────────────────────────────────────────────────────────
 YT_RSS = "https://www.youtube.com/feeds/videos.xml?channel_id={}"
+YT_API = "https://www.googleapis.com/youtube/v3"
+UA_BROWSER = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+)
+
+
+def _fetch_from_rss(channel_id: str, name: str, category: str, cutoff) -> list[Item]:
+    """RSS 피드에서 최근 영상 수집. 404나 빈 피드면 빈 리스트 반환."""
+    try:
+        parsed = feedparser.parse(
+            YT_RSS.format(channel_id),
+            request_headers={"User-Agent": UA_BROWSER},
+        )
+    except Exception as e:
+        print(f"[yt][rss] {name} 예외: {e}", file=sys.stderr)
+        return []
+
+    items: list[Item] = []
+    for entry in parsed.entries[:5]:
+        video_id = entry.get("yt_videoid") or entry.get("id", "").split(":")[-1]
+        if not video_id:
+            continue
+        published = ""
+        try:
+            if getattr(entry, "published", None):
+                dt = dateparser.parse(entry.published)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                if dt < cutoff:
+                    continue
+                published = dt.astimezone(timezone.utc).isoformat()
+        except Exception:
+            pass
+
+        thumb = ""
+        thumbs = entry.get("media_thumbnail") or []
+        if thumbs:
+            thumb = thumbs[0].get("url", "")
+        if not thumb:
+            thumb = f"https://i.ytimg.com/vi/{video_id}/mqdefault.jpg"
+
+        media_desc = entry.get("media_description") or entry.get("summary") or ""
+        summary = _strip_html(media_desc)[:300]
+
+        items.append(
+            Item(
+                category="videos",
+                kind="video",
+                title=(entry.get("title") or "").strip(),
+                url=entry.get("link") or f"https://www.youtube.com/watch?v={video_id}",
+                source=name,
+                published=published,
+                summary=summary,
+                thumbnail=thumb,
+                extras={"theme": category, "videoId": video_id, "via": "rss"},
+            )
+        )
+    return items
+
+
+def _fetch_from_api(channel_id: str, name: str, category: str, cutoff, api_key: str) -> list[Item]:
+    """YouTube Data API v3 fallback. RSS가 실패했을 때만 호출."""
+    try:
+        published_after = cutoff.isoformat().replace("+00:00", "Z")
+        r = requests.get(
+            f"{YT_API}/search",
+            params={
+                "key": api_key,
+                "channelId": channel_id,
+                "part": "snippet",
+                "order": "date",
+                "type": "video",
+                "maxResults": 5,
+                "publishedAfter": published_after,
+            },
+            timeout=15,
+        )
+        r.raise_for_status()
+    except Exception as e:
+        print(f"[yt][api] {name} 실패: {e}", file=sys.stderr)
+        return []
+
+    items: list[Item] = []
+    for it in r.json().get("items", []):
+        vid = it["id"].get("videoId")
+        if not vid:
+            continue
+        sn = it["snippet"]
+        thumb = (sn.get("thumbnails", {}).get("medium", {}) or {}).get("url", "")
+        if not thumb:
+            thumb = f"https://i.ytimg.com/vi/{vid}/mqdefault.jpg"
+        items.append(
+            Item(
+                category="videos",
+                kind="video",
+                title=sn.get("title", "").strip(),
+                url=f"https://www.youtube.com/watch?v={vid}",
+                source=name,
+                published=sn.get("publishedAt", ""),
+                summary=(sn.get("description") or "")[:300],
+                thumbnail=thumb,
+                extras={"theme": category, "videoId": vid, "via": "api"},
+            )
+        )
+    return items
 
 
 def fetch_youtube() -> list[Item]:
-    """각 채널의 YouTube 공개 RSS 피드에서 최신 영상을 수집한다."""
+    """고정 채널의 최신 영상을 수집. 채널별로 RSS 시도 후 비면 Data API로 재시도."""
     items: list[Item] = []
-    cutoff = datetime.now(timezone.utc) - timedelta(days=14)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=21)
+    api_key = os.environ.get("YOUTUBE_API_KEY", "")
 
     for category, name, channel_id in YOUTUBE_CHANNELS:
-        try:
-            parsed = feedparser.parse(
-                YT_RSS.format(channel_id),
-                request_headers={"User-Agent": "morning-brief/1.0"},
-            )
-        except Exception as e:
-            print(f"[yt] 채널 {name} 실패: {e}", file=sys.stderr)
-            continue
-
-        for entry in parsed.entries[:5]:
-            video_id = entry.get("yt_videoid") or entry.get("id", "").split(":")[-1]
-            if not video_id:
-                continue
-
-            # 발행일
-            published = ""
-            try:
-                if getattr(entry, "published", None):
-                    dt = dateparser.parse(entry.published)
-                    if dt.tzinfo is None:
-                        dt = dt.replace(tzinfo=timezone.utc)
-                    if dt < cutoff:
-                        continue
-                    published = dt.astimezone(timezone.utc).isoformat()
-            except Exception:
-                pass
-
-            # 썸네일 (media:thumbnail)
-            thumb = ""
-            thumbs = entry.get("media_thumbnail") or []
-            if thumbs:
-                thumb = thumbs[0].get("url", "")
-            if not thumb:
-                thumb = f"https://i.ytimg.com/vi/{video_id}/mqdefault.jpg"
-
-            # 요약
-            summary = ""
-            media_desc = entry.get("media_description") or entry.get("summary") or ""
-            summary = _strip_html(media_desc)[:300]
-
-            items.append(
-                Item(
-                    category="videos",
-                    kind="video",
-                    title=(entry.get("title") or "").strip(),
-                    url=entry.get("link") or f"https://www.youtube.com/watch?v={video_id}",
-                    source=name,
-                    published=published,
-                    summary=summary,
-                    thumbnail=thumb,
-                    extras={"theme": category, "videoId": video_id},
-                )
-            )
-        time.sleep(0.1)
+        ch_items = _fetch_from_rss(channel_id, name, category, cutoff)
+        if not ch_items and api_key:
+            ch_items = _fetch_from_api(channel_id, name, category, cutoff, api_key)
+        if not ch_items:
+            print(f"[yt] {name}: 수집 실패 (RSS/API 모두)", file=sys.stderr)
+        items.extend(ch_items)
+        time.sleep(0.2)
 
     # 중복 제거
     seen = set()
@@ -307,32 +367,30 @@ def main() -> None:
         print(f"[final] {cat}: {len(picked)}개")
 
     # 비디오: 고정 채널의 최신 영상을 채널 다양성 유지하며 선택
+    # - 채널당 상한을 2부터 시작해 점진적으로 올려가며 목표 개수를 채움
+    # - 한 채널이 전체를 독점하는 것을 방지
     video_candidates = sorted(
         [it for it in all_items if it.category == "videos"],
         key=lambda x: x.published or "",
         reverse=True,
     )
-    max_per_channel = 2
+    target = TARGET_COUNTS["videos"]
     picked: list = []
-    counts: dict = {}
-    # 1차: 채널당 상한 지키면서 최신순으로 뽑음
-    for it in video_candidates:
-        if counts.get(it.source, 0) >= max_per_channel:
-            continue
-        picked.append(it)
-        counts[it.source] = counts.get(it.source, 0) + 1
-        if len(picked) >= TARGET_COUNTS["videos"]:
-            break
-    # 2차: 아직 자리 남으면 상한 완화해서 채움
-    if len(picked) < TARGET_COUNTS["videos"]:
+    for cap in range(2, 6):
+        picked = []
+        counts: dict = {}
         for it in video_candidates:
-            if it in picked:
+            if counts.get(it.source, 0) >= cap:
                 continue
             picked.append(it)
-            if len(picked) >= TARGET_COUNTS["videos"]:
+            counts[it.source] = counts.get(it.source, 0) + 1
+            if len(picked) >= target:
                 break
+        if len(picked) >= target:
+            break
     sections["videos"] = [asdict(p) for p in picked]
-    print(f"[final] videos: {len(picked)}개 (채널당 최대 {max_per_channel}, 채널 {len(counts)}개)")
+    unique_channels = len({p.source for p in picked})
+    print(f"[final] videos: {len(picked)}개 ({unique_channels}개 채널, 채널당 최대 {cap}개)")
 
     payload: dict[str, Any] = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
