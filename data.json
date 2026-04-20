@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-04-19T06:17:29.010644+00:00",
+  "generated_at": "2026-04-20T00:34:23.651781+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Bulgarians head to polls to elect parliament for eighth time in 5 years",
-        "url": "https://www.aljazeera.com/news/2026/4/19/bulgarians-head-to-polls-to-elect-parliament-for-eighth-time-in-5-years?traffic_source=rss",
+        "title": "Australia news live: ‘weeks’ to restore production at Geelong refinery after blaze, Viva says; Chalmers warns of ‘big risks’ to inflation and growth",
+        "url": "https://www.theguardian.com/australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-04-20T00:08:45+00:00",
+        "summary": "Meanwhile ACT independent David Pocock is calling for a 25% tax on gas exports to fund welfare and housing. Follow today’s news liveGet our breaking news email, free app or daily news podcastTreasurer says capital gains changes and other tax reform still under considerationSticking with the budget, Chalmers said the government hasn’t made any decisions on capital gains tax reform.We haven’t taken ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran war live: Tehran slams US ‘piracy’ after ship seizure, vows response",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/20/iran-war-live-tehran-slams-uss-piracy-after-ship-seizure-vows-response?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-04-19T05:35:54+00:00",
-        "summary": "Bulgarians vote to elect a new parliament, after mass protests brought down the previous government in December.",
+        "published": "2026-04-20T00:00:00+00:00",
+        "summary": "Attack comes hours after US President Donald Trump announced he is sending his team to Islamabad for possible talks.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Tensions Rise in Strait of Hormuz Over Ship Attacks and Iranian Threats",
-        "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+        "title": "A Humanoid Robot Races to a Record Half-Marathon Finish",
+        "url": "https://www.nytimes.com/2026/04/19/world/asia/running-robot-sets-record.html",
         "source": "NYT World",
-        "published": "2026-04-19T05:18:37+00:00",
-        "summary": "Iran’s Revolutionary Guards said they were closing the strait until the U.S. blockade is lifted. Two ships reported being hit as they tried to pass through the strait.",
+        "published": "2026-04-19T23:59:24+00:00",
+        "summary": "The android won a half-marathon for robots (and humans) on Sunday in Beijing, achieving a technological milestone while finishing faster than any person in history.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz/heres-the-latest",
+        "title": "Bulgaria’s former president claims ‘victory’ after projections show him winning parliamentary elections",
+        "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+        "source": "The Guardian World",
+        "published": "2026-04-19T23:49:42+00:00",
+        "summary": "Rumen Radev – an EU critic who has called for renewing ties with Russia - looked set to top the polls in the country’s eighth election in five yearsBulgarian ex-president Rumen Radev – an EU critic who has called for renewing ties with Russia – on Sunday hailed a “victory of hope” after his formation topped the eighth parliamentary elections in five years.Projections from polling agencies put his ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran War Live Updates: U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks",
+        "url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
         "source": "NYT World",
-        "published": "2026-04-19T05:18:29+00:00",
-        "summary": "",
+        "published": "2026-04-19T23:45:23+00:00",
+        "summary": "President Trump said a Navy destroyer had attacked and seized an Iranian-flagged vessel in the Gulf of Oman. The White House said it is dispatching a high-level delegation, including Vice President JD Vance, to Pakistan for negotiations.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia's most-decorated soldier vows to 'fight' war crime charges",
-        "url": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+        "title": "U.S. Attacks Iranian Cargo Ship as Both Countries Claim Cease-Fire Violations",
+        "url": "https://www.nytimes.com/2026/04/19/world/middleeast/us-iran-cease-fire-violations-strait-of-hormuz.html",
+        "source": "NYT World",
+        "published": "2026-04-19T23:45:21+00:00",
+        "summary": "President Trump said the United States attacked an Iranian ship that tried to get past the U.S. blockade, hours after Iran said the blockade was a war crime that violated the cease-fire.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Outrage after photo shows Israeli soldier smashing Jesus statue in Lebanon",
+        "url": "https://www.aljazeera.com/news/2026/4/19/outrage-after-photo-shows-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-19T23:41:57+00:00",
+        "summary": "Social media users condemn Western silence on attacks on religious symbols and sites by Israeli soldiers and settlers.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "India has splurged billions on metro trains. But where are the commuters?",
+        "url": "https://www.bbc.com/news/articles/c4g833128vlo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-04-19T05:12:40+00:00",
-        "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Why Britain’s far-right celebrates a saint revered in Palestine",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/why-britains-far-right-celebrates-a-saint-revered-in-palestine?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-19T05:01:14+00:00",
-        "summary": "Hundreds of far-right “Britain First” supporters marched in the streets of Manchester to celebrate Saint George.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Humanoid robots show rapid advances as they race past humans in Beijing half-marathon",
-        "url": "https://www.theguardian.com/sport/2026/apr/19/humanoid-robots-race-beijing-half-marathon",
-        "source": "The Guardian World",
-        "published": "2026-04-19T04:57:14+00:00",
-        "summary": "Winning robot records faster time than Jacob Kiplimo’s world record More than 100 robots run in parallel tracks to avoid collisions with humansDozens of Chinese-made humanoid robots showed off their fast-improving athleticism as they whizzed past human runners in a half-marathon race in Beijing on Sunday, having lagged far behind a year earlier.The race’s inaugural edition last year was riddled wi",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Ben Roberts-Smith denies war crimes allegations – As it happened",
-        "url": "https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-04-19T04:39:52+00:00",
-        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastDefence Minister Richard Marles says the success of Australia’s alliance with the United States should not be measured against a single president or federal government in Canberra, insisting the longstanding ties will endure.US President Donald Trump has repeatedly criticised Australia for not assisting with the war ",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "What to Know About the Bulgarian Election",
-        "url": "https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-what-to-know.html",
-        "source": "NYT World",
-        "published": "2026-04-19T04:01:06+00:00",
-        "summary": "The Black Sea country is holding its eighth election in five years, with Bulgarians yearning for the kind of prosperous life enjoyed by other Europeans.",
+        "published": "2026-04-19T23:12:10+00:00",
+        "summary": "Without better last-mile connectivity and affordable fares, metro use is unlikely to improve quickly, say experts.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Bipartisan Bill to Tighten Controls on Sensitive Chipmaking Equipment",
-        "url": "https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/",
+        "title": "Got an Old Kindle? It Might Not Work Anymore",
+        "url": "https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/",
         "source": "Hacker News Front",
-        "published": "2026-04-19T03:33:49+00:00",
-        "summary": "Article URL: https://baumgartner.house.gov/2026/04/02/baumgartner-introduces-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/\nComments URL: https://news.ycombinator.com/item?id=47821603\nPoints: 14\n# Comments: 6",
+        "published": "2026-04-19T22:56:32+00:00",
+        "summary": "Article URL: https://www.nytimes.com/wirecutter/reviews/older-kindle-support-ending/\nComments URL: https://news.ycombinator.com/item?id=47828427\nPoints: 20\n# Comments: 11",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "NASA Shuts Off Instrument on Voyager 1 to Keep Spacecraft Operating",
-        "url": "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
+        "title": "2,100 Swiss municipalities showing which provider handles their official email",
+        "url": "https://mxmap.ch/",
         "source": "Hacker News Front",
-        "published": "2026-04-18T23:47:45+00:00",
-        "summary": "Article URL: https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/\nComments URL: https://news.ycombinator.com/item?id=47820531\nPoints: 134\n# Comments: 56",
+        "published": "2026-04-19T22:55:47+00:00",
+        "summary": "Related ongoing thread: Swiss authorities want to reduce dependency on Microsoft - https://news.ycombinator.com/item?id=47827383\n\nComments URL: https://news.ycombinator.com/item?id=47828420\nPoints: 40\n# Comments: 11",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Zero-Copy GPU Inference from WebAssembly on Apple Silicon",
-        "url": "https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/",
+        "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
+        "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
         "source": "Hacker News Front",
-        "published": "2026-04-18T22:46:13+00:00",
-        "summary": "Article URL: https://abacusnoir.com/2026/04/18/zero-copy-gpu-inference-from-webassembly-on-apple-silicon/\nComments URL: https://news.ycombinator.com/item?id=47820195\nPoints: 60\n# Comments: 21",
+        "published": "2026-04-19T22:30:19+00:00",
+        "summary": "Article URL: https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/\nComments URL: https://news.ycombinator.com/item?id=47828225\nPoints: 43\n# Comments: 14",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "My first impressions on ROCm and Strix Halo",
-        "url": "https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/",
+        "title": "Aliens.gov will be running as a WordPress multisite",
+        "url": "https://aliens.gov/",
         "source": "Hacker News Front",
-        "published": "2026-04-18T21:50:48+00:00",
-        "summary": "Article URL: https://blog.marcoinacio.com/posts/my-first-impressions-rocm-strix-halo/\nComments URL: https://news.ycombinator.com/item?id=47819823\nPoints: 30\n# Comments: 21",
+        "published": "2026-04-19T22:19:22+00:00",
+        "summary": "Article URL: https://aliens.gov/\nComments URL: https://news.ycombinator.com/item?id=47828149\nPoints: 12\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Tesla brings its robotaxi service to Dallas and Houston",
-        "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+        "title": "OpenAI’s existential questions",
+        "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
         "source": "TechCrunch",
-        "published": "2026-04-18T21:37:15+00:00",
-        "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+        "published": "2026-04-19T21:24:06+00:00",
+        "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The RAM shortage could last years",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+        "title": "C++26: Reflection, Memory Safety, Contracts, and a New Async Model",
+        "url": "https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/",
+        "source": "Hacker News Front",
+        "published": "2026-04-19T21:00:49+00:00",
+        "summary": "Article URL: https://www.infoq.com/news/2026/04/cpp-26-reflection-safety-async/\nComments URL: https://news.ycombinator.com/item?id=47827603\nPoints: 26\n# Comments: 2",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Blue Origin successfully reused its New Glenn rocket",
+        "url": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
         "source": "The Verge",
-        "published": "2026-04-18T21:08:45+00:00",
-        "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add [&#8230;]",
+        "published": "2026-04-19T20:28:52+00:00",
+        "summary": "Today's launch of AST SpaceMobile's BlueBird 7 satellite aboard Blue Origin's reusable New Glenn rocket was a partial success. The New Glenn touched down on its landing pad without incident, making it the second launch and landing for the first stage booster, and officially giving Jeff Bezos a reusable launch vehicle. Unfortunately for AST SpaceMobile, [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "NIST scientists create 'any wavelength' lasers",
-        "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+        "title": "A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)",
+        "url": "https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/",
         "source": "Hacker News Front",
-        "published": "2026-04-18T20:54:17+00:00",
-        "summary": "Article URL: https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits\nComments URL: https://news.ycombinator.com/item?id=47819453\nPoints: 249\n# Comments: 107",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Optimizing Ruby Path Methods",
-        "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-        "source": "Hacker News Front",
-        "published": "2026-04-18T20:42:29+00:00",
-        "summary": "Article URL: https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html\nComments URL: https://news.ycombinator.com/item?id=47819369\nPoints: 77\n# Comments: 27",
+        "published": "2026-04-19T20:04:13+00:00",
+        "summary": "https://web.archive.org/web/20190724072148/https://www.philo...https://archive.ph/is0by\n\nComments URL: https://news.ycombinator.com/item?id=47827215\nPoints: 60\n# Comments: 72",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,59 +186,166 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: Transportation And Biotech Take The Lead",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ev-transportation-biotech-slate/",
-        "source": "Crunchbase News",
-        "published": "2026-04-17T19:06:41+00:00",
-        "summary": "The week’s largest round was a $650 million financing for electric pickup truck maker Slate Auto. Other sizable investments went to spaces including drug development, autonomous public transit and software engineering.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Sector Snapshot: Autonomous Vehicle Funding More Than Triples In 2026 To Hit Record Amount",
-        "url": "https://news.crunchbase.com/venture/record-funding-autonomous-vehicles-q1-2026/",
-        "source": "Crunchbase News",
-        "published": "2026-04-17T11:00:42+00:00",
-        "summary": "Several multibillion-dollar megadeals drove a spike in first-quarter investment in autonomous vehicles, signaling that investors aren't just paying for research, but betting on companies that are ready to scale up and put their AI technology into actual cars people can buy or hail.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[커머스BN] 중국 사업 확장하는 무신사가 풀고자 하는 문제",
-        "url": "https://byline.network/2026/04/17_musinsa-2/",
-        "source": "ByLine Network",
-        "published": "2026-04-17T07:49:21+00:00",
-        "summary": "무신사가 중국 시장에 공을 들이고 있습니다. 지난해 안타스포츠와 손잡고 현지 합작 법인 '무신사 차이나'를 설립하기도 했죠. 중국에서 '무신사'라는 브랜드를 각인시키겠다는 목표입니다.\n\n무신사 상하이의 현지 매장만 보아도, 무신사가 중국에 얼마나 진심인지를 알 수 있습니다. 임대료가 비싼 상하이 중심지에 대규모 매장을 개설했고, 올해 출점 목표 매장 수만 10여개입니다.\n\n무신사의 중국 시장 전략을 듣기 위해 무신사 차이나 조대희 마케팅 헤드와 서면 인터뷰를 가졌습니다. '무신사'라는 브랜드를 현지에서 어떻게 각인시키고자 하는지, 향후 어떤 행보를 할 예정인지 이야기를 들어보았습니다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "‘제미나이는 이미 되는데’ 챗GPT, HWP 문서 읽는다",
-        "url": "https://byline.network/2026/04/17-563/",
-        "source": "ByLine Network",
-        "published": "2026-04-17T07:22:01+00:00",
-        "summary": "구글 제미나이가 HWP 문서를 읽고 이해하게 된 지 4개월 지난 시점, 오픈AI 챗GPT도 뒤늦게 HWP 문서를 읽을 수 있게 됐다. 오픈AI는 챗GPT가 한컴오피스 ‘한글’에서 사용되는 대표 문서 형식인 HWP 및 HWPX 파일을 지원한다고 17일 밝혔다. 별도의 파일 변환 없이 한글 문서를 직접 업로드해 내용을 확인하고 분석할 수 있게 됐다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "“오라클 AI 데이터베이스 자체가 에이전틱 AI 프레임워크다”",
-        "url": "https://byline.network/2026/04/17-561/",
-        "source": "ByLine Network",
-        "published": "2026-04-17T06:59:56+00:00",
-        "summary": "“현재 AI의 발전 속도에 발맞춰 가려면 복잡성 자체를 제거해야 한다. 기업 내부의 데이터를 활용할 수 있어야 하고, 데이터 이동 과정에서 나타나는 속도와 보안 문제를 해결해야 한다. 오라클 AI 데이터베이스는 에이전틱 AI 프레임워크를 DB에 내장했으며, 단일화된 데이터 엔진으로 오라클 DB나 관계형 데이터뿐 아니라 벡터, 문서 등의 모든 유형을 처리할 수 있다.”",
+        "title": "휴머노이드 로봇, 인간의 하프마라톤 세계기록 깼다",
+        "url": "https://platum.kr/archives/285480?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%259c%25b4%25eb%25a8%25b8%25eb%2585%25b8%25ec%259d%25b4%25eb%2593%259c-%25eb%25a1%259c%25eb%25b4%2587-%25ec%259d%25b8%25ea%25b0%2584%25ec%259d%2598-%25ed%2595%2598%25ed%2594%2584%25eb%25a7%2588%25eb%259d%25bc%25ed%2586%25a4-%25ec%2584%25b8%25ea%25b3%2584%25ea%25b8%25b0%25eb%25a1%259d-%25ea%25b9%25bc%25eb%258b%25a4",
+        "source": "Platum",
+        "published": "2026-04-19T09:28:19+00:00",
+        "summary": "중국 베이징 이좡(Yizhuang) 지구에서 19일 열린 &#8216;2026 휴머노이드 로봇 하프마라톤&#8217;에서 중국 스마트폰 제조사 아너(Honor)가 개발한 휴머노이드 로봇 &#8216;플래시(Flash)&#8217;가 50분 26초의 기록으로 우승했다. 이는 지난달 포르투갈 리스본 하프마라톤에서 우간다의 야코브 킵리모(Jacob Kiplimo)가 세운 인간 세계기록(57분 20초)을 7분 가까이 앞지른 기록이다. 베이징시 정부와 중국중앙방송(CCTV)이 공동 주최한 이번 대회는 지난해 초대 대회에 이어 두 번째로, 300여 대의 로봇이 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
     ],
-    "videos": []
+    "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "하늘을 나는 잉어",
+        "url": "https://www.youtube.com/watch?v=B_K4lAgcTmM",
+        "source": "슈카월드",
+        "published": "2026-04-19T15:04:16Z",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/B_K4lAgcTmM/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "B_K4lAgcTmM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why did Anthropic hold back Mythos?",
+        "url": "https://www.youtube.com/watch?v=aU5tX2qP_Q8",
+        "source": "All-In Podcast",
+        "published": "2026-04-18T22:51:31Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/aU5tX2qP_Q8/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "aU5tX2qP_Q8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“AGI is not here yet, and it&#39;s silly for folks to say it is.”",
+        "url": "https://www.youtube.com/watch?v=MjAfC_9Jii0",
+        "source": "All-In Podcast",
+        "published": "2026-04-18T17:00:34Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/MjAfC_9Jii0/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "MjAfC_9Jii0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "중국 돼지고기 가격 폭락의 비밀",
+        "url": "https://www.youtube.com/watch?v=3GJDaEmhq-M",
+        "source": "슈카월드",
+        "published": "2026-04-18T12:39:44Z",
+        "summary": "0:00 무시무시한 식료품 물가 4:37 16년 전 가격 최저치로 떨어진 중국 돼지고기 가격 8:57 중국 돼지고기 가격 폭락의 비밀 22:07 ...",
+        "thumbnail": "https://i.ytimg.com/vi/3GJDaEmhq-M/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "3GJDaEmhq-M",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why the Iran War Has Been Surprisingly Alright for China",
+        "url": "https://www.youtube.com/watch?v=K3I95C60YaU",
+        "source": "TLDR News Global",
+        "published": "2026-04-18T09:30:00Z",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/bp/tldr Despite China being the most import-heavy oil ...",
+        "thumbnail": "https://i.ytimg.com/vi/K3I95C60YaU/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "K3I95C60YaU",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "쉴 새 없이 중얼거리는 &#39;미스트랄&#39;, 계획만 세우고 실천 안 하는 &#39;엑사원&#39;, 살아남기 위해 거래를 하는 &#39;클로드&#39; (정지훈 박사)",
+        "url": "https://www.youtube.com/watch?v=YlsMFGG83MY",
+        "source": "티타임즈TV",
+        "published": "2026-04-17T22:00:40Z",
+        "summary": "최근 앤스로픽을 중심으로 미국에서 AI의 성격과 감정을 연구하는 프로젝트가 활발하게 진행되고 있습니다. AI가 스트레스를 받으면 ...",
+        "thumbnail": "https://i.ytimg.com/vi/YlsMFGG83MY/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "YlsMFGG83MY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What&#39;s Inside This Tiny Laundry Tile?",
+        "url": "https://www.youtube.com/watch?v=Lf68md_ikqY",
+        "source": "Cleo Abram",
+        "published": "2026-04-17T14:48:26Z",
+        "summary": "This is what happens when you wash your clothes with the new @tidelaundry evo tile... #TidePartner #TideEvo ...",
+        "thumbnail": "https://i.ytimg.com/vi/Lf68md_ikqY/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "Lf68md_ikqY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why the Energy Crisis is About to Get Worse",
+        "url": "https://www.youtube.com/watch?v=qlL-_5GfzrQ",
+        "source": "TLDR News Global",
+        "published": "2026-04-17T08:57:44Z",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/bp/tldr With the last few tankers to leave the Strait of ...",
+        "thumbnail": "https://i.ytimg.com/vi/qlL-_5GfzrQ/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "qlL-_5GfzrQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Ocean Is WAY Deeper Than You Think",
+        "url": "https://www.youtube.com/watch?v=7L5OWFa36rI",
+        "source": "Cleo Abram",
+        "published": "2026-04-16T16:29:02Z",
+        "summary": "Most people don't understand just HOW DEEP the ocean really is. If you put Mt. Everest into the water upside down, there would ...",
+        "thumbnail": "https://i.ytimg.com/vi/7L5OWFa36rI/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "7L5OWFa36rI",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
+        "url": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
+        "source": "a16z",
+        "published": "2026-04-16T14:34:01Z",
+        "summary": "Erik Torenberg and Anish Acharya, general partners at a16z, speak with signüll about how technology reshapes culture, ...",
+        "thumbnail": "https://i.ytimg.com/vi/Mjc7vwys1vY/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "Mjc7vwys1vY",
+          "via": "api"
+        }
+      }
+    ]
   }
 }
