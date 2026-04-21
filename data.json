@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-04-20T07:28:30.038968+00:00",
+  "generated_at": "2026-04-21T06:24:19.412748+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Trucking industry celebrates Fair Work fuel payment win; Sydney man dies after glass panes fall on him",
-        "url": "https://www.theguardian.com/australia-news/live/2026/apr/20/australia-news-live-pocock-gas-tax-fuel-crisis-jim-chalmers-anthony-albanese-budget-ben-roberts-smith-war-crimes-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-04-20T07:08:50+00:00",
-        "summary": "Meanwhile treasurer warns of ‘big risks’ to inflation and growth as global oil price jumps again. Follow today’s news liveGet our breaking news email, free app or daily news podcastTreasurer says capital gains changes and other tax reform still under considerationSticking with the budget, Chalmers said the government hasn’t made any decisions on capital gains tax reform.We haven’t taken any decisi",
+        "title": "Iran war forces job losses, reverse migration in India’s ceramic hub",
+        "url": "https://www.aljazeera.com/news/2026/4/21/iran-war-forces-job-losses-reverse-migration-in-indias-ceramic-hub?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-21T06:05:36+00:00",
+        "summary": "The ceramics industry in Gujarat&#039;s Morbi has been badly hit by fuel crisis, with most units closed and workers laid off.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Oil prices rise after Trump says Iranian ship seized",
-        "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+        "title": "Tehran and Trump Send Mixed Signals Ahead of Potential Talks",
+        "url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz",
+        "source": "NYT World",
+        "published": "2026-04-21T06:05:15+00:00",
+        "summary": "Vice President JD Vance is set to lead a U.S. delegation to Pakistan as Mr. Trump pushes for a peace deal. Iranian officials said privately they would send a team if Mr. Vance were there.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+        "url": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+        "source": "NYT World",
+        "published": "2026-04-21T06:03:47+00:00",
+        "summary": "Prime Minister Sanae Takaichi reversed limits on arms exports as Japan faces rising threats from China and unpredictability from its main ally, the United States.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "New era for Apple as names new boss to replace Tim Cook after 15 years",
+        "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-04-20T06:41:10+00:00",
-        "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
+        "published": "2026-04-21T05:57:56+00:00",
+        "summary": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Pakistan ready for multi-day US-Iran talks, but Tehran unsure about joining",
-        "url": "https://www.aljazeera.com/news/2026/4/20/pakistan-ready-for-multi-day-us-iran-talks-but-tehran-unsure-about-joining?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-20T06:32:03+00:00",
-        "summary": "Iranian officials are yet to commit to a second round of talks with the US, as ceasefire deadline approaches.",
+        "title": "Australia news live: Angus Taylor says 25% gas levy would shut down industry; petrol stations fined over $128,000 for breaching Victoria’s fuel price plan",
+        "url": "https://www.theguardian.com/australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-04-21T05:57:20+00:00",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastNSW commission proposes heat-safe rentals to help tackle extreme temperatureHeat-safe rentals and tougher workplace safety rules for outdoor workers on scorching hot days have been proposed by a state climate policy advisory body, AAP reports. Continue reading...",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz/heres-the-latest",
+        "title": "The Touska, the Iranian-Flagged Ship Seized by U.S. Forces, Was Under Sanctions",
+        "url": "https://www.nytimes.com/2026/04/20/world/middleeast/touska-iran-ship-sanctions.html",
         "source": "NYT World",
-        "published": "2026-04-20T06:21:19+00:00",
-        "summary": "",
+        "published": "2026-04-21T05:32:02+00:00",
+        "summary": "The container ship, the Touska, was sanctioned by the U.S. Treasury over links to Iranian weapons programs.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US military releases video of marines seizing Iranian ship",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/us-military-releases-video-of-marines-seizing-iranian-ship?traffic_source=rss",
+        "title": "US veterans arrested in Capitol during protest against the war on Iran",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-04-20T06:20:51+00:00",
-        "summary": "Video from the US military show an operation by its forces to seize an Iranian-flagged ship near the Strait of Hormuz.",
+        "published": "2026-04-21T05:20:18+00:00",
+        "summary": "US veterans were arrested while staging a protest in the US Capitol building in opposition to the war on Iran.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "U.S. Attacks Iranian Cargo Ship While Preparing for New Round of Talks",
-        "url": "https://www.nytimes.com/live/2026/04/19/world/iran-us-war-trump-hormuz",
-        "source": "NYT World",
-        "published": "2026-04-20T06:20:22+00:00",
-        "summary": "President Trump said a Navy destroyer had attacked and seized an Iranian-flagged vessel in the Gulf of Oman. The White House said it is dispatching a high-level delegation, including Vice President JD Vance, to Pakistan for negotiations.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Wembanyama makes history as Spurs defeat Blazers in Game 1",
-        "url": "https://www.aljazeera.com/sports/2026/4/20/wembanyama-makes-history-as-spurs-defeat-blazers-in-game-1?traffic_source=rss",
+        "title": "Amnesty International slams ‘predatory world order’ led by US and Israel",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/amnesty-international-slams-predatory-world-order-led-by-us-and-israel?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-04-20T06:17:59+00:00",
-        "summary": "Victor Wembanyama set a new San Antonio record for the most points in a playoff debut as the Spurs outlast Portland.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Kane scores as Bayern Munich claim Bundesliga title with Stuttgart victory",
-        "url": "https://www.aljazeera.com/sports/2026/4/20/kane-scores-as-bayern-munich-claim-bundesliga-title-with-stuttgart-victory?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-20T05:58:15+00:00",
-        "summary": "Harry Kane helps Munich wrap up a second straight Germany premier division crown with a month still to go in the season.",
+        "published": "2026-04-21T04:55:31+00:00",
+        "summary": "Amnesty’s Secretary General says the US, Israel and Russia have waged war on civilians with impunity.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Stripe's Payment APIs: the first 10 years (2020)",
-        "url": "https://stripe.dev/blog/payment-api-design",
+        "title": "The Beauty of Bonsai Styles",
+        "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
         "source": "Hacker News Front",
-        "published": "2026-04-20T05:05:43+00:00",
-        "summary": "Article URL: https://stripe.dev/blog/payment-api-design\nComments URL: https://news.ycombinator.com/item?id=47830575\nPoints: 19\n# Comments: 2",
+        "published": "2026-04-21T04:31:30+00:00",
+        "summary": "Article URL: https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles\nComments URL: https://news.ycombinator.com/item?id=47844539\nPoints: 14\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "A cache-friendly IPv6 LPM with AVX-512 (linearized B+-tree, real BGP benchmarks)",
-        "url": "https://github.com/esutcu/planb-lpm",
+        "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+        "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
         "source": "Hacker News Front",
-        "published": "2026-04-20T03:24:21+00:00",
-        "summary": "Article URL: https://github.com/esutcu/planb-lpm\nComments URL: https://news.ycombinator.com/item?id=47830071\nPoints: 22\n# Comments: 6",
+        "published": "2026-04-21T04:12:12+00:00",
+        "summary": "Article URL: https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform\nComments URL: https://news.ycombinator.com/item?id=47844431\nPoints: 76\n# Comments: 32",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Claude Token Counter, now with model comparisons",
-        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-        "source": "Hacker News Front",
-        "published": "2026-04-20T00:56:40+00:00",
-        "summary": "Article URL: https://simonwillison.net/2026/Apr/20/claude-token-counts/\nComments URL: https://news.ycombinator.com/item?id=47829178\nPoints: 77\n# Comments: 24",
+        "title": "Dyson’s back with a travel-size Supersonic hairdryer",
+        "url": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
+        "source": "The Verge",
+        "published": "2026-04-21T04:00:00+00:00",
+        "summary": "Ten years ago, Dyson kicked off the hair gadget arms race with its $400 Supersonic hairdryer. Today, it's back with a slightly smaller and cheaper travel-size version. As the name suggests, the $299.99 Supersonic Travel is meant for people on the go - whether that's a business trip or a jaunt to the gym before [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: A lightweight way to make agents talk without paying for API usage",
-        "url": "https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/",
+        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+        "url": "https://docs.openclaw.ai/providers/anthropic",
         "source": "Hacker News Front",
-        "published": "2026-04-20T00:21:24+00:00",
-        "summary": "Article URL: https://juanpabloaj.com/2026/04/16/a-lightweight-way-to-make-agents-talk-without-paying-for-api-usage/\nComments URL: https://news.ycombinator.com/item?id=47828968\nPoints: 28\n# Comments: 6",
+        "published": "2026-04-21T03:43:03+00:00",
+        "summary": "Article URL: https://docs.openclaw.ai/providers/anthropic\nComments URL: https://news.ycombinator.com/item?id=47844269\nPoints: 50\n# Comments: 23",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
-        "url": "https://github.com/shivampkumar/trellis-mac",
-        "source": "Hacker News Front",
-        "published": "2026-04-20T00:07:16+00:00",
-        "summary": "I ported Microsoft's TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, nvdiffrast, and custom sparse convolution kernels:  none of which work on Mac.I replaced the CUDA-specific ops with pure-PyTorch alternatives: a gather-scatter sparse 3D convolution, SDPA attention for sparse transformers, and a Python-based mesh extr",
+        "title": "Pentagon pulls the plug on one of the military's most troubled space programs",
+        "url": "https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/",
+        "source": "Ars Technica",
+        "published": "2026-04-21T02:27:52+00:00",
+        "summary": "Problems with the ground system would have \"put current GPS military and civilian capabilities at risk.\"",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Sudo for Windows (2024)",
-        "url": "https://github.com/microsoft/sudo",
+        "title": "Prediction markets are breaking the news and becoming their own beat",
+        "url": "https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/",
         "source": "Hacker News Front",
-        "published": "2026-04-19T23:59:51+00:00",
-        "summary": "Article URL: https://github.com/microsoft/sudo\nComments URL: https://news.ycombinator.com/item?id=47828853\nPoints: 67\n# Comments: 55",
+        "published": "2026-04-21T01:46:14+00:00",
+        "summary": "Article URL: https://www.niemanlab.org/2026/04/prediction-markets-are-breaking-the-news-and-becoming-their-own-beat/\nComments URL: https://news.ycombinator.com/item?id=47843569\nPoints: 18\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Swiss AI Initiative (2023)",
-        "url": "https://www.swiss-ai.org",
-        "source": "Hacker News Front",
-        "published": "2026-04-19T22:58:35+00:00",
-        "summary": "Article URL: https://www.swiss-ai.org\nComments URL: https://news.ycombinator.com/item?id=47828444\nPoints: 57\n# Comments: 20",
+        "title": "Who is John Ternus, the incoming Apple CEO?",
+        "url": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
+        "source": "TechCrunch",
+        "published": "2026-04-21T01:02:04+00:00",
+        "summary": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "2,100 Swiss municipalities showing which provider handles their official email",
-        "url": "https://mxmap.ch/",
+        "title": "How to make a fast dynamic language interpreter",
+        "url": "https://zef-lang.dev/implementation",
         "source": "Hacker News Front",
-        "published": "2026-04-19T22:55:47+00:00",
-        "summary": "Related ongoing thread: Swiss authorities want to reduce dependency on Microsoft - https://news.ycombinator.com/item?id=47827383\n\nComments URL: https://news.ycombinator.com/item?id=47828420\nPoints: 148\n# Comments: 41",
+        "published": "2026-04-21T00:48:07+00:00",
+        "summary": "Article URL: https://zef-lang.dev/implementation\nComments URL: https://news.ycombinator.com/item?id=47843194\nPoints: 122\n# Comments: 16",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,43 +186,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "한컴 “올해 단독 매출 2000억 돌파 목표”…AI·일본 사업이 확대",
-        "url": "https://byline.network/2026/04/20-580/",
-        "source": "ByLine Network",
-        "published": "2026-04-20T05:36:56+00:00",
-        "summary": "한글과컴퓨터(이하 한컴, 대표 변성준·김연수)가 올해 별도기준 매출 목표 2000억원 돌파를 제시했다. 기존 오피스 소프트웨어 사업의 안정적인 현금창출력을 유지하는 가운데 인공지능(AI)과 구독형 서비스, 해외 사업을 주축으로 외형을 확대하는 동시에 실적 구조를 본격적으로 변화시키는 원년으로 삼겠다는 포부다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "김승주 교수 “공공 클라우드 보안 검증 개편, 이중규제 여전…거버넌스 손봐야”",
-        "url": "https://byline.network/2026/04/20-579/",
-        "source": "ByLine Network",
-        "published": "2026-04-20T05:31:28+00:00",
-        "summary": "국가정보원(이하 국정원)과 과학기술정보통신부(이하 과기정통부)가 공공 클라우드 보안검증 절차를 국정원 단일 체계로 개편하겠다고 발표한 가운데, 이번 제도 개편이 기업의 이중 인증 부담을 근본적으로 해소하려면 검증 절차의 투명성과 보안 거버넌스 개편 논의가 뒤따라야 한다는 지적이 나왔다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "공공 클라우드 보안 검증, ‘국정원 단일 검증 체계’로 일원화",
-        "url": "https://byline.network/2026/04/20-578/",
-        "source": "ByLine Network",
-        "published": "2026-04-20T05:07:47+00:00",
-        "summary": "국가정보원(이하 국정원)과 과학기술정보통신부(이하 과기정통부)는 기업이 공공 클라우드 시장에 진입할 때 거쳐야 하는 보안 검증 절차를 국정원 단일 검증체계로 일원화한다고 20일 밝혔다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Three lessons from Silicon Valley for Europe",
-        "url": "https://sifted.eu/articles/three-lessons-from-silicon-valley-for-europe/",
+        "title": "Stripe alumni raise €7.5m for AI-powered fintech Seapoint",
+        "url": "https://sifted.eu/articles/stripe-alumni-fintech-fundraise/",
         "source": "Sifted (EU startups)",
-        "published": "2026-04-20T05:00:42+00:00",
+        "published": "2026-04-21T05:00:21+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -230,10 +197,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "14 Portuguese startups to watch, according to investors",
-        "url": "https://sifted.eu/articles/portuguese-startups-to-watch-according-to-investors-2026/",
+        "title": "The European robotics startups hiring the most right now",
+        "url": "https://sifted.eu/articles/the-european-robotics-startups-hiring-the-most-right-now/",
         "source": "Sifted (EU startups)",
-        "published": "2026-04-20T05:00:14+00:00",
+        "published": "2026-04-21T05:00:17+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -241,22 +208,66 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "태니엄, 한국 고객 지원 투자 강화…“실시간 대응·파트너 교육 투자”",
-        "url": "https://byline.network/2026/04/17-568/",
+        "title": "[생산적금융 대전환④] KB, 2030년까지 110조 투입 계획",
+        "url": "https://byline.network/2026/04/0420-2/",
         "source": "ByLine Network",
-        "published": "2026-04-20T04:49:58+00:00",
-        "summary": "지난해 국내 침해사고 이후 기업들이 자산 가시성과 즉각 대응 체계를 다시 점검하는 가운데, 태니엄이 한국 고객 지원 현지화에 속도를 내고 있다. 크리스 블루 태니엄 글로벌 지원 센터 수석 부사장은 16일 바이라인네트워크와 인터뷰에서 “태니엄은 한국 시장을 아시아 핵심 거점으로 보고 지난해 서울에 글로벌 지원 조직을 구축했다”며 “실시간 데이터 기반 대응과 파트너 교육, AI 에이전트 통제 지원을 주요 과제로 보고 있다”고 밝혔다.",
+        "published": "2026-04-21T04:46:51+00:00",
+        "summary": "KB금융지주는 생산적금융을 사회적 생산성과 미래 성장성이 높은 분야에 자본을 우선 배분하는 금융으로 정의하고 있다. 금융의 본질이 자본의 효율적 재배분에 있다는 점에서, 생산적금융이 금융 본연의 역할과 맞닿아 있다는 설명이다. 이를 위해 KB금융은 ‘그룹 생산적금융 협의회’를 중심으로 한 협의체 구조를 마련했다. 협의회는 생산적금융 추진의 컨트롤타워 역할을 맡는다. 그룹 차원의 전략을 총괄하며, 주요 이슈 사항을 조율하는 기능을 수행한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "휴머노이드 로봇, 인간의 하프마라톤 세계기록 깼다",
-        "url": "https://platum.kr/archives/285480?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%259c%25b4%25eb%25a8%25b8%25eb%2585%25b8%25ec%259d%25b4%25eb%2593%259c-%25eb%25a1%259c%25eb%25b4%2587-%25ec%259d%25b8%25ea%25b0%2584%25ec%259d%2598-%25ed%2595%2598%25ed%2594%2584%25eb%25a7%2588%25eb%259d%25bc%25ed%2586%25a4-%25ec%2584%25b8%25ea%25b3%2584%25ea%25b8%25b0%25eb%25a1%259d-%25ea%25b9%25bc%25eb%258b%25a4",
-        "source": "Platum",
-        "published": "2026-04-19T09:28:19+00:00",
-        "summary": "중국 베이징 이좡(Yizhuang) 지구에서 19일 열린 &#8216;2026 휴머노이드 로봇 하프마라톤&#8217;에서 중국 스마트폰 제조사 아너(Honor)가 개발한 휴머노이드 로봇 &#8216;플래시(Flash)&#8217;가 50분 26초의 기록으로 우승했다. 이는 지난달 포르투갈 리스본 하프마라톤에서 우간다의 야코브 킵리모(Jacob Kiplimo)가 세운 인간 세계기록(57분 20초)을 7분 가까이 앞지른 기록이다. 베이징시 정부와 중국중앙방송(CCTV)이 공동 주최한 이번 대회는 지난해 초대 대회에 이어 두 번째로, 300여 대의 로봇이 ... 더 읽기",
+        "title": "당근의 추천시스템은 LLM 안 부럽다",
+        "url": "https://byline.network/2026/04/17_28182764/",
+        "source": "ByLine Network",
+        "published": "2026-04-21T03:31:31+00:00",
+        "summary": "'추천 시스템'은 당근의 핵심이라고 볼 수 있습니다. 이용자의 위치와 취향을 파악해서 원하는 콘텐츠를 제시해야 합니다. 단순히 이용자가 관심 있을 법한 중고상품만 보여주는 것도 아니죠. 중고뿐 아니라 동네 모임, 아르바이트, 심지어 쇼츠같은 동영상까지 다양한 콘텐츠를 분석해서 이용자에게 보여줘야 합니다. 하나의 추천 시스템으로 이런 다양한 서비스를 모두 대응해야 한다는 건 쉽지 않은 일일 것입니다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Lilly Acquiring Kelonia In Largest Funded Biotech Startup Purchase In Years",
+        "url": "https://news.crunchbase.com/ma/lilly-acquiring-kelonia-cancer-treatment-biotech-startup/",
+        "source": "Crunchbase News",
+        "published": "2026-04-20T21:06:42+00:00",
+        "summary": "Eli Lilly announced Monday that it is acquiring Kelonia Therapeutics, a developer of gene therapies with a particular focus on cancer treatment, in a deal valued at up to $7 billion in cash.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Lovable denies mass data breach",
+        "url": "https://sifted.eu/articles/lovable-denies-data-breach/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-20T19:44:45+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "CuspAI raising $200m at unicorn valuation, reports say",
+        "url": "https://sifted.eu/articles/cuspai-funding-round-unicorn-valuation/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-20T16:52:23+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Cybersecurity Funding Holds Up At Robust Levels",
+        "url": "https://news.crunchbase.com/cybersecurity/data-robust-venture-funding-ai-q1-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-04-20T11:00:54+00:00",
+        "summary": "This past quarter, funding to security- and privacy-focused startups dipped slightly on a sequential basis, but remained well above year-ago levels. Overall, investors put $4.9 billion into global companies in the space in Q1, per Crunchbase data, a comparatively solid performance relative to recent quarters.",
         "thumbnail": "",
         "extras": {}
       }
@@ -265,151 +276,46 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "하늘을 나는 잉어",
-        "url": "https://www.youtube.com/shorts/B_K4lAgcTmM",
-        "source": "슈카월드",
-        "published": "2026-04-19T15:04:16+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i3.ytimg.com/vi/B_K4lAgcTmM/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "B_K4lAgcTmM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why did Anthropic hold back Mythos?",
-        "url": "https://www.youtube.com/shorts/aU5tX2qP_Q8",
-        "source": "All-In Podcast",
-        "published": "2026-04-18T22:51:31+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i2.ytimg.com/vi/aU5tX2qP_Q8/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "aU5tX2qP_Q8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“AGI is not here yet, and it's silly for folks to say it is.”",
-        "url": "https://www.youtube.com/shorts/MjAfC_9Jii0",
-        "source": "All-In Podcast",
-        "published": "2026-04-18T17:00:34+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i2.ytimg.com/vi/MjAfC_9Jii0/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "MjAfC_9Jii0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "중국 돼지고기 가격 폭락의 비밀",
-        "url": "https://www.youtube.com/watch?v=3GJDaEmhq-M",
-        "source": "슈카월드",
-        "published": "2026-04-18T12:39:44+00:00",
-        "summary": "0:00 무시무시한 식료품 물가\n4:37 16년 전 가격 최저치로 떨어진 중국 돼지고기 가격\n8:57 중국 돼지고기 가격 폭락의 비밀\n22:07 우리나라에도 들어오나?",
-        "thumbnail": "https://i4.ytimg.com/vi/3GJDaEmhq-M/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "3GJDaEmhq-M",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why the Iran War Has Been Surprisingly Alright for China",
-        "url": "https://www.youtube.com/watch?v=K3I95C60YaU",
-        "source": "TLDR News Global",
-        "published": "2026-04-18T09:30:00+00:00",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/bp/tldr\n\nDespite China being the most import-heavy oil country in the world, they seem to be bearing pretty well since the beginning of the war in Iran. In this video, we're taking a look at why the war has been surprisingly ",
-        "thumbnail": "https://i4.ytimg.com/vi/K3I95C60YaU/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "K3I95C60YaU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "쉴 새 없이 중얼거리는 '미스트랄', 계획만 세우고 실천 안 하는 '엑사원', 살아남기 위해 거래를 하는 '클로드' (정지훈 박사)",
-        "url": "https://www.youtube.com/watch?v=YlsMFGG83MY",
-        "source": "티타임즈TV",
-        "published": "2026-04-17T22:00:40+00:00",
-        "summary": "최근 앤스로픽을 중심으로 미국에서 AI의 성격과 감정을 연구하는 프로젝트가 활발하게 진행되고 있습니다. AI가 스트레스를 받으면 정상적인 성능을 내지 못한다는 사실도 밝혀졌죠. 이렇듯 AI를 인간처럼 관찰하고 해부해 통제 가능하게 만드는 연구가 활발히 진행되고 있습니다. \n국내에서도 의공학을 전공한 정지훈 박사가 AI를 관찰하는 AI 모델용 MRI를 만들었고 논문도 발표했다고 합니다. 그가 만든 AI 진단 기기와 진단 결과에 대해서 들어보시죠. 흥미진진합니다.\n\n편집 : 박의정 영상디자이너 \n촬영 : 장민주 PD\n자료 : 박성수 P",
-        "thumbnail": "https://i2.ytimg.com/vi/YlsMFGG83MY/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "YlsMFGG83MY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What's Inside This Tiny Laundry Tile?",
-        "url": "https://www.youtube.com/shorts/Lf68md_ikqY",
-        "source": "Cleo Abram",
-        "published": "2026-04-17T14:48:26+00:00",
-        "summary": "This is what happens when you wash your clothes with the new @tidelaundry evo tile... #TidePartner #TideEvo #RealLaundryMagic #ad",
-        "thumbnail": "https://i1.ytimg.com/vi/Lf68md_ikqY/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "Lf68md_ikqY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why the Energy Crisis is About to Get Worse",
-        "url": "https://www.youtube.com/watch?v=qlL-_5GfzrQ",
-        "source": "TLDR News Global",
-        "published": "2026-04-17T08:57:44+00:00",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/bp/tldr\n\nWith the last few tankers to leave the Strait of Hormuz before the war reaching its destinations, we're taking a look at why, despite everything, the markets appear to be relatively calm.\n\n📰 Too Long: https://toolong",
-        "thumbnail": "https://i2.ytimg.com/vi/qlL-_5GfzrQ/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "qlL-_5GfzrQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Ocean Is WAY Deeper Than You Think",
-        "url": "https://www.youtube.com/shorts/7L5OWFa36rI",
-        "source": "Cleo Abram",
-        "published": "2026-04-16T16:29:02+00:00",
-        "summary": "Most people don’t understand just HOW DEEP the ocean really is. If you put Mt. Everest into the water upside down, there would still be over a mile before you got to the bottom. It’s roughly the average cruising altitude of a 737 airplane! Imagine you walk off the coast into the water. Here's what y",
-        "thumbnail": "https://i4.ytimg.com/vi/7L5OWFa36rI/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "7L5OWFa36rI",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Claude Feels Different (And What That Means for AI) | The a16z Show",
-        "url": "https://www.youtube.com/watch?v=Mjc7vwys1vY",
-        "source": "a16z",
-        "published": "2026-04-16T14:34:01+00:00",
-        "summary": "Erik Torenberg and Anish Acharya, general partners at a16z, speak with signüll about how technology reshapes culture, relationships, and the products we build. The conversation covers tacit knowledge versus intellectual knowledge, dating apps and their effect on human connection, AI relationships, w",
-        "thumbnail": "https://i2.ytimg.com/vi/Mjc7vwys1vY/hqdefault.jpg",
+        "title": "The GPT Moment for Robotics Is Here",
+        "url": "https://www.youtube.com/watch?v=4EsUaur0nsQ",
+        "source": "Y Combinator",
+        "published": "2026-04-16T14:00:07Z",
+        "summary": "Physical Intelligence is building a foundation model that can control any robot to do any task — what the team describes as the ...",
+        "thumbnail": "https://i.ytimg.com/vi/4EsUaur0nsQ/mqdefault.jpg",
         "extras": {
           "theme": "innovation",
-          "videoId": "Mjc7vwys1vY",
-          "via": "rss"
+          "videoId": "4EsUaur0nsQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "BillionToOne Is Solving One of Biotech’s Hardest Problems",
+        "url": "https://www.youtube.com/watch?v=kkv5rZhrLkc",
+        "source": "Y Combinator",
+        "published": "2026-04-06T14:01:12Z",
+        "summary": "1 in 11 babies born in America this year will be screened by a genetic test that didn't exist a decade ago. Biotech startup ...",
+        "thumbnail": "https://i.ytimg.com/vi/kkv5rZhrLkc/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "kkv5rZhrLkc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "This Startup Catches Fraud at Scale",
+        "url": "https://www.youtube.com/watch?v=JF6XIixstmQ",
+        "source": "Y Combinator",
+        "published": "2026-03-31T16:00:18Z",
+        "summary": "In this episode of Founder Firesides, YC Managing Partner Jared Friedman talks to Karine Mellata, co-founder of Variance (W23), ...",
+        "thumbnail": "https://i.ytimg.com/vi/JF6XIixstmQ/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "JF6XIixstmQ",
+          "via": "api"
         }
       }
     ]
