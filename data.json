@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-04-24T06:30:20.562215+00:00",
+  "generated_at": "2026-04-25T06:06:24.953455+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: US approves first major Aukus submarine contract; Harvey Norman facing class action for alleged ‘misleading’ ads",
-        "url": "https://www.theguardian.com/australia-news/live/2026/apr/24/andrew-hastie-us-defence-ndis-reform-cuts-budget-gas-export-fuel-crisis-jim-chalmers-anthony-albanese-ntwnfb",
+        "title": "Witkoff and Kushner to Go to Pakistan for Talks on Iran",
+        "url": "https://www.nytimes.com/live/2026/04/24/world/iran-war-trump-hormuz",
+        "source": "NYT World",
+        "published": "2026-04-25T05:20:08+00:00",
+        "summary": "The two American envoys are expected to leave Saturday for Pakistan. Iran’s foreign minister, Abbas Araghchi, arrived in Islamabad on Friday.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Rubio’s Absence From Iran Talks Highlights Stay-at-Home Role",
+        "url": "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html",
+        "source": "NYT World",
+        "published": "2026-04-25T05:20:04+00:00",
+        "summary": "President Trump has outsourced much of his diplomacy to others, while Mr. Rubio focuses on his second job as national security adviser.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘Cries of delight’ as Sumatran orangutan filmed using canopy bridge to cross road for first time",
+        "url": "https://www.theguardian.com/environment/2026/apr/25/first-footage-endangered-sumatran-orangutan-using-canopy-bridge-cross-road-hope-species-aoe",
         "source": "The Guardian World",
-        "published": "2026-04-24T06:08:09+00:00",
-        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastAllegra Spender says 25% gas export tax would help fix ‘faulty’ systemIndependent MP Allegra Spender said a 25% tax on gas exports would help rectify what she sees as “faulty” taxation arrangements that have seen an Australian resource sent overseas with minimal benefit to the country.The gas industry is a very prof",
+        "published": "2026-04-25T05:00:40+00:00",
+        "summary": "After a two-year wait, video of a young male crossing above a road gives hope that critically endangered species can survive habitat fragmentationThe critically endangered Sumatran orangutan has been filmed for the first time using a canopy bridge to cross a road.In 2024, conservationists in the Pakpak Bharat district of North Sumatra in Indonesia built the bridge high over the Lagan-Pagindar road",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "How fake AI victims are being used to provide rationale for attacking Iran",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/how-fake-ai-victims-are-being-used-to-provide-rationale-for-attacking-iran?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-24T05:44:11+00:00",
-        "summary": "In the battle of propaganda, fake videos and images of female victims of Iran&#039;s government are going viral.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran War Live Updates: Trump Says Israel and Lebanon Agree to Extend Cease-Fire",
-        "url": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
-        "source": "NYT World",
-        "published": "2026-04-24T05:31:57+00:00",
-        "summary": "The president said the truce in Lebanon would last three more weeks. Halting the war between Israel and Iranian-backed Hezbollah in Lebanon has been considered critical to advancing any peace agreement to end the war in Iran.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "China’s DeepSeek unveils latest models a year after upending global tech",
-        "url": "https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-04-24T05:17:27+00:00",
-        "summary": "Chinese startup says DeepSeek-V4-Pro beats all rival open models for maths and coding.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
-        "url": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
+        "title": "Inside Chornobyl: 40 years after disaster, nuclear site still at risk in Russia’s war",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/25/chornobyl-power-plant-at-risk-amid-russia-war-ukraine",
         "source": "The Guardian World",
-        "published": "2026-04-24T05:00:32+00:00",
-        "summary": "MPs call for investigation into Essar Energy, owner of Stanlow refinery, which shifted loans from ‘Putin’s piggy bank’ VTB to MauritiusDays after the first wave of Russian tanks surged over the border into Ukraine in March 2022, dockers at a port in northern England took a stand.Appalled by Vladimir Putin’s brutality, workers at Ellesmere Port in Cheshire vowed never to unload any Russian oil dest",
+        "published": "2026-04-25T05:00:36+00:00",
+        "summary": "In February 2025, a cheap Russian drone tore through Chornobyl’s confinement shelter. Workers warn the site of the world’s worst nuclear accident is not safe yetThe dosimeter clipped to your chest ticks faster the moment you step off the designated path inside the Chornobyl nuclear power plant. Step back, and it slows again – an invisible line between clean ground and contamination.Above rises the",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "The Generals Running Iran",
-        "url": "https://www.nytimes.com/2026/04/23/world/iran-guards-military-israel-lebanon.html",
-        "source": "NYT World",
-        "published": "2026-04-24T04:40:21+00:00",
-        "summary": "The war has empowered the Revolutionary Guards and seems to be shifting the theocratic republic toward something more like a military regime.",
+        "title": "What’s at stake for Iran and the US in Islamabad?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-25T04:30:43+00:00",
+        "summary": "Iran’s foreign minister is in Islamabad, with US envoys also on the way.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "‘Didi vs. Modi’: A Test for the Hindu Right in India’s Bengali Heartland",
-        "url": "https://www.nytimes.com/2026/04/24/world/asia/india-elections-modi-bengal.html",
-        "source": "NYT World",
-        "published": "2026-04-24T04:09:51+00:00",
-        "summary": "The party of Prime Minister Narendra Modi has been making gains in a state once beyond its grasp, but many decry an audit that removed nine million voters, many of them Muslim.",
+        "title": "31 sloths die in Florida before opening of attraction",
+        "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-04-25T04:02:47+00:00",
+        "summary": "Many died due to conditions at a Florida warehouse where they'd been shipped, while others arrived from South America dead, authorities say.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "In Britain, 7 Unelected Lords Are Helping to Block an Assisted Dying Bill",
-        "url": "https://www.nytimes.com/2026/04/24/world/europe/uk-assisted-dying-bill-lords.html",
+        "title": "Japan’s New Care Workers: Bodybuilders, Wrestlers and M.M.A. Fighters",
+        "url": "https://www.nytimes.com/2026/04/25/world/asia/japan-care-workers-bodybuilders-sumo-mma.html",
         "source": "NYT World",
-        "published": "2026-04-24T04:01:07+00:00",
-        "summary": "A small group in the House of Lords has proposed hundreds of amendments that are helping stymie a bill that was meant to legalize medically assisted death for the terminally ill.",
+        "published": "2026-04-25T04:01:15+00:00",
+        "summary": "Young athletes are being recruited to plug a staff shortage in Japan’s nursing homes. The results are reshaping elder care.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Israel escalates attacks in Gaza, killing 12 people",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-04-25T03:23:14+00:00",
+        "summary": "Israeli forces have killed 12 Palestinians, including six police officers, in multiple attacks across Gaza.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Sam's Club Promo Codes: 60% Off for April 2026",
-        "url": "https://www.wired.com/story/sams-club-coupon/",
+        "title": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
+        "url": "https://www.wired.com/story/altra-promo-code/",
         "source": "Wired",
-        "published": "2026-04-24T05:00:00+00:00",
-        "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
+        "published": "2026-04-25T05:00:00+00:00",
+        "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Target Promo Code: $50 Off | April 2026",
-        "url": "https://www.wired.com/story/target-promo-code/",
-        "source": "Wired",
-        "published": "2026-04-24T05:00:00+00:00",
-        "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "KitchenAid Promo Codes: Save Up to 20%",
-        "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
-        "source": "Wired",
-        "published": "2026-04-24T05:00:00+00:00",
-        "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Design Within Reach Promo Codes: 30% Off | April 2026",
-        "url": "https://www.wired.com/story/design-within-reach-promo-code/",
-        "source": "Wired",
-        "published": "2026-04-24T05:00:00+00:00",
-        "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
-        "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
+        "title": "Oxford All Souls College General Examination (2025) [pdf]",
+        "url": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
         "source": "Hacker News Front",
-        "published": "2026-04-24T04:48:54+00:00",
-        "summary": "Article URL: https://felixbarbalet.com/familiarity-is-the-enemy/\nComments URL: https://news.ycombinator.com/item?id=47885668\nPoints: 9\n# Comments: 2",
+        "published": "2026-04-25T04:36:27+00:00",
+        "summary": "Article URL: https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf\nComments URL: https://news.ycombinator.com/item?id=47898680\nPoints: 31\n# Comments: 21",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Ubuntu 26.04",
-        "url": "https://lwn.net/Articles/1069399/",
+        "title": "Turbo Vision 2.0 – a modern port",
+        "url": "https://github.com/magiblot/tvision",
         "source": "Hacker News Front",
-        "published": "2026-04-24T04:38:37+00:00",
-        "summary": "Article URL: https://lwn.net/Articles/1069399/\nComments URL: https://news.ycombinator.com/item?id=47885596\nPoints: 96\n# Comments: 38",
+        "published": "2026-04-25T04:18:01+00:00",
+        "summary": "Article URL: https://github.com/magiblot/tvision\nComments URL: https://news.ycombinator.com/item?id=47898597\nPoints: 36\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Habitual coffee intake shapes the microbiome, modifies physiology and cognition",
-        "url": "https://www.nature.com/articles/s41467-026-71264-8",
-        "source": "Hacker News Front",
-        "published": "2026-04-24T04:04:42+00:00",
-        "summary": "Article URL: https://www.nature.com/articles/s41467-026-71264-8\nComments URL: https://news.ycombinator.com/item?id=47885377\nPoints: 73\n# Comments: 31",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Porsche is adding an all-electric Cayenne coupe to its lineup",
-        "url": "https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/",
+        "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+        "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
         "source": "TechCrunch",
-        "published": "2026-04-24T04:01:00+00:00",
-        "summary": "Porsche will start selling the Cayenne Coupe Electric in late summer.",
+        "published": "2026-04-25T03:30:00+00:00",
+        "summary": "This round, should it occur, would double the house-help startup's valuation in a matter of weeks.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+        "url": "https://github.com/vinhnx/VTCode",
+        "source": "Hacker News Front",
+        "published": "2026-04-25T03:17:19+00:00",
+        "summary": "Hi HN, I built VT Code, a semantic coding agent. Supports all SOTA and open sources model. Anthropic, OpenAI, Gemini, Codex. Agent Skills, Model Context Protocol and Agent Client Protocol (ACP) ready. All open source models are support. Local inference via LM Studio and Ollama (experiment). Semantic context understanding is supported by ast-grep for structured code search and ripgrep for powered g",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
+        "url": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
+        "source": "Ars Technica",
+        "published": "2026-04-25T02:52:37+00:00",
+        "summary": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\"",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Firefox Has Integrated Brave's Adblock Engine",
+        "url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+        "source": "Hacker News Front",
+        "published": "2026-04-25T01:47:33+00:00",
+        "summary": "Article URL: https://itsfoss.com/news/firefox-ships-brave-adblock-engine/\nComments URL: https://news.ycombinator.com/item?id=47897891\nPoints: 114\n# Comments: 48",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "(Blender) Cosmology with Geometry Nodes",
+        "url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+        "source": "Hacker News Front",
+        "published": "2026-04-25T01:08:14+00:00",
+        "summary": "Article URL: https://www.blender.org/user-stories/cosmology-with-geometry-nodes/\nComments URL: https://news.ycombinator.com/item?id=47897706\nPoints: 22\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,88 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "European spacetech mapped: 70+ startups reaching for the stars",
-        "url": "https://sifted.eu/articles/europe-spacetech-market-map/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-04-24T05:00:21+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The European VCs hiring in spring 2026",
-        "url": "https://sifted.eu/articles/european-vc-hiring-spring-2026/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-04-24T05:00:12+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[K-게임사 체질개선③] ‘리니지에서 캐주얼까지’…엔씨, 성장 공식 다시 쓴다",
-        "url": "https://byline.network/2026/04/23-591/",
-        "source": "ByLine Network",
-        "published": "2026-04-24T03:56:02+00:00",
-        "summary": "다중접속역할수행게임(MMORPG) 중심의 성장을 이어온 엔씨가 변화에 나서고 있다. 기존 흥행 공식의 한계를 인식하고, 지식재산권(IP) 확장과 신규 IP 발굴, 캐주얼 모바일 장르 확대 등 다각화 전략을 추진하고 있다. 지난해 개선한 실적을 발판 삼아 확실한 미래 성장 동력을 확보하려는 모습이다. 이를 위해 이전 사업 구조와 전략을 점검하고, 변화 방향을 모색해왔다. 이러한 시도가 올해 성과로 이어질지 주목된다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "“완벽한 방어는 환상”…파이오링크가 레질리언스를 꺼내든 이유",
-        "url": "https://byline.network/2026/04/24-578/",
-        "source": "ByLine Network",
-        "published": "2026-04-24T02:22:00+00:00",
-        "summary": "조영철 파이오링크 대표는 23일 열린 ‘파이오링크 레질리언스 서밋 2026’에서 “사이버보안의 초점을 완벽한 차단이 아니라 복원력으로 옮겨야 한다”고 강조했다. 그는 “사고를 전제로 피해를 최소화하고 서비스를 유지하며 빠르게 정상화하는 역량이 앞으로 기업 경쟁력을 가를 것”이라며 “데이터센터 인프라 안정성뿐 아니라 보안까지 함께 책임지는 ‘레질리언스 전문 기업’으로 성장하겠다”고 밝혔다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "신한은행, 카이아 대신 두나무 기와체인 선택",
-        "url": "https://byline.network/2026/04/0423-8/",
-        "source": "ByLine Network",
-        "published": "2026-04-24T00:50:56+00:00",
-        "summary": "신한은행이 의사 전용 신용대출 상품 ‘닥터론’의 자격 검증 시스템을 카이아에서 두나무의 자체 메인넷(주요 네트워크) ‘기와(GIWA)’로 이전했다. 이번 사례는 두나무의 기와체인이 제도권 금융 서비스에 도입된 첫 상용화 사례로 평가된다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Ride-hailing giant Lyft to buy black cab app Gett’s UK business",
-        "url": "https://sifted.eu/articles/lyft-gett-buys-deal-acquisition-black-cab/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-04-23T22:29:51+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Elon Musk mulled Mistral deal to take on OpenAI and Anthropic, reports say",
-        "url": "https://sifted.eu/articles/elon-musk-xai-mistral-partnership/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-04-23T12:01:47+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: Cloneable Raises $4.6M To ‘Clone’ Expert Worker Knowledge With Agentic AI For Utilities And Infrastructure",
-        "url": "https://news.crunchbase.com/venture/cloneable-cloning-expert-worker-knowledge-ai-infrastructure/",
+        "title": "The Week’s 10 Biggest Funding Rounds: AI, Autonomy And Biotech Top The Ranks",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-autonomy-biotech-anthropic/",
         "source": "Crunchbase News",
-        "published": "2026-04-23T12:00:34+00:00",
-        "summary": "Cloneable, a startup that uses AI to shadow human experts in heavy industries such as energy and replicate their specialized workflows into autonomous agents, has raised $4.6 million in seed funding, the company tells Crunchbase News exclusively.",
+        "published": "2026-04-24T18:18:35+00:00",
+        "summary": "This week, just half of the top 10 rounds crossed the $100 million mark, which is somewhat unusual in this high-flying era for venture megarounds. Nonetheless some large checks did get written, led by Amazon’s $5 billion investment and partnership deal with Anthropic.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The IPO Pipeline Finally Gets Interesting",
+        "url": "https://news.crunchbase.com/public/ipo-pipeline-thawing-ai-semiconductors-clean-energy/",
+        "source": "Crunchbase News",
+        "published": "2026-04-24T11:00:40+00:00",
+        "summary": "S-1 filings have been plentiful the past few weeks for venture-backed startups providing semiconductors, nuclear and geothermal power, biotech, and space and defense tech queuing up for a possible trip to the public markets.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Wolt CEO and Slush chair Marianne Vikkula on building a superapp, leadership lessons and Slush’s secret sauce",
+        "url": "https://sifted.eu/articles/marianne-vikkula-wolt-podcast/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-24T10:00:55+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Aleph Alpha strikes $20bn merger deal with Canada’s Cohere",
+        "url": "https://sifted.eu/articles/aleph-alpha-strikes-20bn-merger-deal-with-canadas-cohere/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-24T09:30:20+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "하나금융, 1분기 순이익 1조2100억…자사주 2000억 매입·소각",
+        "url": "https://byline.network/2026/04/0424-3/",
+        "source": "ByLine Network",
+        "published": "2026-04-24T08:40:48+00:00",
+        "summary": "하나금융그룹이 올해 1분기 연결 기준 당기순이익 1조2100억원을 기록했다. 이는 전년 동기 대비 7.3%(823억원) 증가한 수준이다. 그룹은 수익 포트폴리오 다각화와 자산 기반 확대, 전사적 비용 효율화, 선제적 리스크 관리 등을 주요 실적 개선 요인으로 꼽았다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "2주 걸리던 SRE 업무, AI 동료와 하니 이틀로 줄어",
+        "url": "https://byline.network/2026/04/23-592/",
+        "source": "ByLine Network",
+        "published": "2026-04-24T08:35:16+00:00",
+        "summary": "최근 개발 현장에서 인공지능(AI)을 활용한 생산성 향상 논의가 활발하다. 하지만 인프라 안정성을 책임지는 ‘사이트 신뢰성 엔지니어링(이하 SRE)’ 영역에서의 AI 활용 논의는 상대적으로 부족하다는 것이 조훈 메가존소프트 엔지니어의 진단이다. 조 엔지니어는 지난달 24일 에서 개최한 ‘AI 시대를 준비하는 쿠버네티스’ 웨비나에서 ‘AI-Driven SRE’를 주제로 발표하며, 1인 SRE 환경에서 AI를 도입해 업무 생산성을 5배 높인 사례를 공유했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Verda raises €100m to build European hyperscaler, plans to hire 100+ people and launch in new markets",
+        "url": "https://sifted.eu/articles/verda-raises-e100m-to-build-european-hyperscaler/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-04-24T08:00:53+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "오픈AI, GPT-5.5 공개…기반 모델 경쟁 심화",
+        "url": "https://byline.network/2026/04/24-586/",
+        "source": "ByLine Network",
+        "published": "2026-04-24T07:16:47+00:00",
+        "summary": "오픈AI가 23일(현지시각) ‘GPT-5.5’를 출시했다. 더 적은 사용자 지시로 코드 작성, 온라인 조사, 데이터 분석 등 복잡한 실무를 완수하도록 설계된 것이 특징이다.\n\n이번 발표는 앤트로픽이 최신 모델 ‘오퍼스 4.7’을 내놓은지 1주, ‘미토스 프리뷰’를 공개한 뒤로 약 2주가 지난 시점에 이뤄졌다. 기업 공개(IPO)를 앞둔 두 기업의 B2B 시장 점유율 경쟁이 치열해지면서 제품 출시 주기가 빨라지는 추세다.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,31 +276,136 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "How to Make Claude Code Your AI Engineering Team",
-        "url": "https://www.youtube.com/watch?v=wkv2ifxPpF8",
-        "source": "Y Combinator",
-        "published": "2026-04-23T14:30:49Z",
-        "summary": "GStack is an open-source toolkit built by YC President & CEO Garry Tan that turns Claude Code into an AI engineering team ...",
-        "thumbnail": "https://i.ytimg.com/vi/wkv2ifxPpF8/mqdefault.jpg",
+        "title": "SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike",
+        "url": "https://www.youtube.com/watch?v=1bCXCxrDsCs",
+        "source": "All-In Podcast",
+        "published": "2026-04-24T22:38:15+00:00",
+        "summary": "(0:00) Bestie intros!\n(4:55) SpaceX-Cursor deal, compute as leverage\n(18:33) SaaS bloodbath, debt bomb incoming, buy the dip?\n(46:20) New Apple CEO: John Ternus succeeds Tim Cook, what's next for Apple?\n(1:00:32) SPLC indictment, out of control NGOs\n(1:19:03) Science Corner: Potential cause discover",
+        "thumbnail": "https://i2.ytimg.com/vi/1bCXCxrDsCs/hqdefault.jpg",
         "extras": {
-          "theme": "innovation",
-          "videoId": "wkv2ifxPpF8",
-          "via": "api"
+          "theme": "analysis",
+          "videoId": "1bCXCxrDsCs",
+          "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "크게 증가하는 &#39;평범한 부자들&#39;",
+        "title": "AI에이전트를 '환자'로 들여다봤더니, 해답이 나오기 시작했다 (정지훈 박사)",
+        "url": "https://www.youtube.com/watch?v=C8Sfgv4pmIA",
+        "source": "티타임즈TV",
+        "published": "2026-04-24T22:00:12+00:00",
+        "summary": "앤트로픽의 AI 연구에 따르면 '클로드 소넷'은 무려 172개의 감정을 갖고, 위기 상황에서는 절망 회로가 켜져 극단적 선택까지 시도할 수 있다고 합니다. AI가 스트레스를 받으면 성능이 급격히 떨어진다는 논문도 있죠. \n의공학 전공인 정지훈 박사는 AI에이전트를 환자처럼 관찰하고, 진단해야 치료할 수 있다고 말합니다. 지금까지 AI에이전트에게서 발견된 병명은 무엇이고, 치료법은 무엇이 있을까요? 흥미로운 연구에 대해 들어보시죠.\n\n편집 : 박수형 영상 디자이너 \n촬영 : 장민주 PD\n자료 : 박성수 PD\n진행 : 홍재의 기자 \n섬",
+        "thumbnail": "https://i4.ytimg.com/vi/C8Sfgv4pmIA/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "C8Sfgv4pmIA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "David Friedberg: The datacenter is the new temple of the wealthy, and people hate the rich",
+        "url": "https://www.youtube.com/shorts/AOMz7LfzC40",
+        "source": "All-In Podcast",
+        "published": "2026-04-24T16:26:59+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i2.ytimg.com/vi/AOMz7LfzC40/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "AOMz7LfzC40",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "There's a Secret Network Under Your Feet",
+        "url": "https://www.youtube.com/shorts/dNNyCZwEa6k",
+        "source": "Cleo Abram",
+        "published": "2026-04-24T14:20:33+00:00",
+        "summary": "If you dug a hole in your nearest forest between the tree roots you would see\n\nA giant web of FUNGI…SO BIG that if you took what’s in just the top layer of the Earth and spread it out…\n\nIt would be nearly as long as half the Milky Way Galaxy!\n\nAnd trees use this network to TALK TO ONE ANOTHER…but wh",
+        "thumbnail": "https://i1.ytimg.com/vi/dNNyCZwEa6k/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "dNNyCZwEa6k",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How To Build A Company With AI From The Ground Up",
+        "url": "https://www.youtube.com/watch?v=EN7frwQIbKc",
+        "source": "Y Combinator",
+        "published": "2026-04-24T14:00:21+00:00",
+        "summary": "AI isn't just making teams more productive. It's changing how companies should be built.\n\nIn this episode of Startup School, YC Partner Diana Hu explains what it means to build an AI-native company, where AI isn't just a tool but the operating system your company runs on.\n\nShe breaks down how to mak",
+        "thumbnail": "https://i2.ytimg.com/vi/EN7frwQIbKc/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "EN7frwQIbKc",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Enzo Ferrari’s first company was a failure",
+        "url": "https://www.youtube.com/shorts/McQracAOu9Q",
+        "source": "Acquired",
+        "published": "2026-04-24T13:39:23+00:00",
+        "summary": "#business #podcast\n\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "thumbnail": "https://i2.ytimg.com/vi/McQracAOu9Q/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "McQracAOu9Q",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI가 AI를 개발하면 일어나는 일",
+        "url": "https://www.youtube.com/watch?v=NwNvW0lLVtc",
+        "source": "슈카월드",
+        "published": "2026-04-24T09:56:30+00:00",
+        "summary": "#협찬 #구글AI #제미나이 #구글딥마인드 #GoogleAI #Gemini #GoogleDeepMind\n알파고 10주년, Google DeepMind의 AI가 설계하는 미래 과학 혁신은?\n\n게임에서 생물학, 그 너머까지: 알파고가 남긴 10년의 발자취\nhttps://bit.ly/4cYUBot \n\n역사가 되어버린 순간, 알파고 더 무비 보러가기\nhttps://youtu.be/WXuK6gekU1Y?si=v_KF3Ojng2cjGOmD\n\nGoogle DeepMind의 범용 인공지능 연구 과정을 담은 다큐멘터리 보러가기\nhttps://you",
+        "thumbnail": "https://i3.ytimg.com/vi/NwNvW0lLVtc/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "NwNvW0lLVtc",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How to Make Claude Code Your AI Engineering Team",
+        "url": "https://www.youtube.com/watch?v=wkv2ifxPpF8",
+        "source": "Y Combinator",
+        "published": "2026-04-23T14:30:49+00:00",
+        "summary": "GStack is an open-source toolkit built by YC President & CEO Garry Tan that turns Claude Code into an AI engineering team — with skills for office hours, design, code review, QA, and browser testing. \n\nUse it with Claude Code or Codex or Cursor. It's free and open source: https://github.com/garrytan",
+        "thumbnail": "https://i4.ytimg.com/vi/wkv2ifxPpF8/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "wkv2ifxPpF8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "크게 증가하는 '평범한 부자들'",
         "url": "https://www.youtube.com/watch?v=_7CfYef7PUw",
         "source": "슈카월드",
-        "published": "2026-04-23T12:59:10Z",
-        "summary": "0:00 미국에서 급증하는 '평범한 부자' 11:06 '백만 장자'는 더이상 백만 장자가 아니다? 19:00 한국의 평범한 부자 K-EMILI 는 누구 ...",
-        "thumbnail": "https://i.ytimg.com/vi/_7CfYef7PUw/mqdefault.jpg",
+        "published": "2026-04-23T12:59:10+00:00",
+        "summary": "0:00 미국에서 급증하는 '평범한 부자'\n11:06 '백만 장자'는 더이상 백만 장자가 아니다?\n19:00 한국의 평범한 부자 K-EMILI 는 누구인가",
+        "thumbnail": "https://i4.ytimg.com/vi/_7CfYef7PUw/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "_7CfYef7PUw",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -309,118 +414,13 @@
         "title": "리더십, 커리어 모두 바꾸는 성공적 대화의 기술 3가지 원리ㅣ한기용의 나침반",
         "url": "https://www.youtube.com/watch?v=xlfFgbPTKGc",
         "source": "EO 이오",
-        "published": "2026-04-23T09:01:20Z",
-        "summary": "어디서 물어볼 곳도, 도와줄 사람도 없는 외로운 초보리더를 위한 기용님의 고민상담! 본 콘텐츠는 '실질적인 문제 해결'에 초점을 ...",
-        "thumbnail": "https://i.ytimg.com/vi/xlfFgbPTKGc/mqdefault.jpg",
+        "published": "2026-04-23T09:01:20+00:00",
+        "summary": "어디서 물어볼 곳도, 도와줄 사람도 없는 외로운 초보리더를 위한 기용님의 고민상담!\n\n🚨본 콘텐츠는 ‘실질적인 문제 해결’에 초점을 맞추고 있습니다.🚨\n무조건적인 공감보다는 확실한 솔루션을 원하시는 분들께 추천드립니다\n\n🔔매주 목요일 오후 6시🔔\nEO스튜디오 인스타그램 : https://www.instagram.com/eostudio.kr/\n제휴/광고 문의: eo-kr@eoeoeo.net\n\n👀 기용님의 20년 리더십 노하우가 궁금하시다면?\n📚  '리더십 연습' 하러가기\n- 교보문고: https://product.kyobobook.c",
+        "thumbnail": "https://i1.ytimg.com/vi/xlfFgbPTKGc/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "xlfFgbPTKGc",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "당신 이력서의 에이전트 포트폴리오는 얼마나 되나요? (이중학 동국대 교수)",
-        "url": "https://www.youtube.com/watch?v=nw27qYpVLRI",
-        "source": "티타임즈TV",
-        "published": "2026-04-23T09:01:09Z",
-        "summary": "매일 쓰는 구글의 AI만 제대로 써도 AI의 달인이 될 수 있습니다   ✓ NotebookLM으로 PDF와 회의록을 1페이지 브리핑으로 요약!",
-        "thumbnail": "https://i.ytimg.com/vi/nw27qYpVLRI/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "nw27qYpVLRI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why a US-Iran Deal Might be Closer than You Think",
-        "url": "https://www.youtube.com/watch?v=xv9dGtetd-E",
-        "source": "TLDR News Global",
-        "published": "2026-04-23T09:00:00Z",
-        "summary": "Sign up for NordVPN & get an EXTRA 4 months using our link. It's risk-free with Nord's 30-day money-back guarantee!: http://www.",
-        "thumbnail": "https://i.ytimg.com/vi/xv9dGtetd-E/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "xv9dGtetd-E",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What Actually Is A Dyson Sphere?",
-        "url": "https://www.youtube.com/watch?v=vgwG6e9TFcw",
-        "source": "Cleo Abram",
-        "published": "2026-04-22T16:15:33Z",
-        "summary": "We've spent a lot of time looking out to the cosmos and asking “are we alone?” In the 1960's physicist Freeman Dyson came up ...",
-        "thumbnail": "https://i.ytimg.com/vi/vgwG6e9TFcw/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "vgwG6e9TFcw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Marc Andreessen on how the internet changed news, politics, and outrage | The a16z Show",
-        "url": "https://www.youtube.com/watch?v=82HsvG1_Nqk",
-        "source": "a16z",
-        "published": "2026-04-22T15:40:46Z",
-        "summary": "Erik Torenberg and Theo Jaffee speak with Marc Andreessen, cofounder and general partner at a16z, about the launch of ...",
-        "thumbnail": "https://i.ytimg.com/vi/82HsvG1_Nqk/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "82HsvG1_Nqk",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Stripe Built Their New Website",
-        "url": "https://www.youtube.com/watch?v=ypzNhwpmOD4",
-        "source": "Y Combinator",
-        "published": "2026-04-22T14:01:37Z",
-        "summary": "Even the most successful websites eventually need a redesign. Take Stripe for example. After six years with the same homepage, ...",
-        "thumbnail": "https://i.ytimg.com/vi/ypzNhwpmOD4/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "ypzNhwpmOD4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "모든 게시물 자동번역을 도입한 X",
-        "url": "https://www.youtube.com/watch?v=KFb9otg0Acw",
-        "source": "슈카월드",
-        "published": "2026-04-22T13:08:00Z",
-        "summary": "0:00 글로벌 키보드 워리어 총집합 9:22 자동번역 사태에 가장 뜨거운 반응을 보인 나라 18:07 일본에서는 왜 트위터가 그렇게 인기가 ...",
-        "thumbnail": "https://i.ytimg.com/vi/KFb9otg0Acw/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "KFb9otg0Acw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ferrari sells in a YEAR what Toyota sells in 10 hours",
-        "url": "https://www.youtube.com/watch?v=1l0i4M_gkt8",
-        "source": "Acquired",
-        "published": "2026-04-22T11:26:23Z",
-        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/1l0i4M_gkt8/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "1l0i4M_gkt8",
-          "via": "api"
+          "via": "rss"
         }
       }
     ]
