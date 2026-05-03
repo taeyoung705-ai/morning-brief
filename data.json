@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-02T06:31:20.783694+00:00",
+  "generated_at": "2026-05-03T07:29:51.745761+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Mexican Governor Accused by U.S. of Aiding Drug Cartel Steps Down",
-        "url": "https://www.nytimes.com/2026/05/02/world/americas/mexico-governor-corruption-ruben-rocha.html",
-        "source": "NYT World",
-        "published": "2026-05-02T06:13:07+00:00",
-        "summary": "U.S. prosecutors accused Rubén Rocha Moya of protecting the powerful Sinaloa Cartel in exchange for bribes and political support, setting off a national scandal.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Pistons and Raptors survive while LA Lakers progress in NBA playoffs",
-        "url": "https://www.aljazeera.com/sports/2026/5/2/pistons-and-raptors-survive-while-la-lakers-progress-in-nba-playoffs?traffic_source=rss",
+        "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+        "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-02T06:08:26+00:00",
-        "summary": "Pistons mount astounding comeback against Magic, Lakers finally see off Houston, Raptors set up decider against Cavs.",
+        "published": "2026-05-03T07:02:09+00:00",
+        "summary": "Iran has sent the US a new 14-point proposal to end the war.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
-        "url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-02T06:04:31+00:00",
-        "summary": "US embassy in UK has advised citizens to avoids schools, churches, tourist locations and vary their travel routes.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "First malaria drug for babies is approved in ‘major public health milestone’",
-        "url": "https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment",
+        "title": "Jefferson Lewis charged with murder over death of Kumanjayi Little Baby near Alice Springs",
+        "url": "https://www.theguardian.com/australia-news/2026/may/03/nt-police-charge-jefferson-lewis-over-death-of-kumanjayi-little-baby-near-alice-springs-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-02T06:00:18+00:00",
-        "summary": "WHO prequalification of Coartem Baby means newborns can be safely treated rather than using medication for older childrenThe first malaria treatment for babies has been approved by the World Health Organization, opening the door to widespread use around the globe.In parts of Africa, up to 18% of children under six months will be infected with malaria, but there has historically been no safe treatm",
+        "published": "2026-05-03T06:59:01+00:00",
+        "summary": "Warlpiri girl went missing on Saturday 25 April from a town camp and was found dead five days laterWarning: This article contains references to Indigenous Australians who have diedNorthern Territory police have charged Jefferson Lewis with murder over the death of five-year-old Kumanjayi Little Baby.The Warlpiri girl went missing on Saturday 25 April from her bed in a town camp near Alice Springs.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
-        "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-05-02T05:02:14+00:00",
-        "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+        "title": "China blocks US sanctions against five ‘teapot’ refineries",
+        "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-02T04:35:54+00:00",
-        "summary": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
+        "published": "2026-05-03T06:57:42+00:00",
+        "summary": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+        "title": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
+        "url": "https://www.aljazeera.com/news/2026/5/3/taiwan-leader-visits-eswatini-despite-chinas-attempts-to-block-trip?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-02T04:17:09+00:00",
-        "summary": "A 45-year old man is occupying the top of Washington’s Frederick Douglass Memorial Bridge to protest the war on Iran.",
+        "published": "2026-05-03T06:36:26+00:00",
+        "summary": "President William Lai Ching-te says he met King Mswati III and signed trade agreements.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-        "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
+        "title": "Joel Embiid, 76ers knock out second-seeded Celtics in NBA Playoffs",
+        "url": "https://www.aljazeera.com/sports/2026/5/3/joel-embiid-76ers-knock-out-second-seeded-celtics-in-nba-playoffs?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-02T04:06:01+00:00",
-        "summary": "The Cuban government has firmly rejected the recent sanctions levied by US President Donald Trump.",
+        "published": "2026-05-03T06:32:55+00:00",
+        "summary": "The 76ers eliminate one of the favourites to book a second-round series against the New York Knicks.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Dozens paddle out in Sydney and Newcastle in solidarity with Gaza Flotilla – as it happened",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-05-03T06:21:56+00:00",
+        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastCanavan defends Coalition decision to preference One Nation ahead of independent in Farrer: ‘Socialists and communists always go last’Matt Canavan said he understood why voters in Farrer, set for a byelection next Saturday, were disillusioned with the federal opposition.I‘ve been down there for 20 days, 15 nights – a",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "In Yemen, Starlink internet brings opportunities – for some",
+        "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-03T06:21:44+00:00",
+        "summary": "Despite Houthi resistance and affordability challenges, Starlink fuels growth in Yemen&#039;s digital workforce.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Teen F1 leader Antonelli takes Miami pole as race start time changed",
+        "url": "https://www.aljazeera.com/sports/2026/5/3/teen-f1-leader-antonelli-takes-miami-pole-as-race-start-time-changed?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-03T06:16:07+00:00",
+        "summary": "Threat of heavy rainstorm in Miami causes organisers to move up race start time to 17:00 GMT on Sunday.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Therabody Promo Codes: 15% Off May 2026",
-        "url": "https://www.wired.com/story/therabody-promo-code/",
-        "source": "Wired",
-        "published": "2026-05-02T05:00:00+00:00",
-        "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+        "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+        "url": "https://acai.sh/blog/specsmaxxing",
+        "source": "Hacker News Front",
+        "published": "2026-05-03T06:33:38+00:00",
+        "summary": "Article URL: https://acai.sh/blog/specsmaxxing\nComments URL: https://news.ycombinator.com/item?id=47994012\nPoints: 6\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "30% Off Canon Promo Codes | May 2026",
-        "url": "https://www.wired.com/story/canon-promo-code/",
+        "title": "Limited Time: TurboTax Full Service Coupons This May",
+        "url": "https://www.wired.com/story/turbotax-coupon/",
         "source": "Wired",
-        "published": "2026-05-02T05:00:00+00:00",
-        "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
+        "published": "2026-05-03T05:00:00+00:00",
+        "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Surfshark Promo Codes: 87% Off | May 2026",
-        "url": "https://www.wired.com/story/surfshark-coupon/",
+        "title": "Ulta Promo Codes: Up to 50% Off in May",
+        "url": "https://www.wired.com/story/ulta-coupon/",
         "source": "Wired",
-        "published": "2026-05-02T05:00:00+00:00",
-        "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+        "published": "2026-05-03T05:00:00+00:00",
+        "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "20% Off Brooks Promo Code & Deals for | May 2026",
-        "url": "https://www.wired.com/story/brooks-promo-code/",
+        "title": "Top Rover Promo Codes and Referral Deals for May 2026",
+        "url": "https://www.wired.com/story/rover-promo-code/",
         "source": "Wired",
-        "published": "2026-05-02T05:00:00+00:00",
-        "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+        "published": "2026-05-03T05:00:00+00:00",
+        "summary": "Score your Rover promo code for 2026.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Columbia Promo Codes: \t15% Off | May2026",
-        "url": "https://www.wired.com/story/columbia-promo-code/",
+        "title": "Castlery Promo Code: 15% Off in May 2026",
+        "url": "https://www.wired.com/story/castlery-promo-code/",
         "source": "Wired",
-        "published": "2026-05-02T05:00:00+00:00",
-        "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+        "published": "2026-05-03T05:00:00+00:00",
+        "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Newegg Promo Code: 10% Off in May 2026",
-        "url": "https://www.wired.com/story/newegg-promo-code/",
+        "title": "Skullcandy Discount Code: 30% Off | May 2026",
+        "url": "https://www.wired.com/story/skullcandy-discount-code/",
         "source": "Wired",
-        "published": "2026-05-02T05:00:00+00:00",
-        "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+        "published": "2026-05-03T05:00:00+00:00",
+        "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "30% VistaPrint Coupon & Promo Codes | May 2026",
-        "url": "https://www.wired.com/story/vistaprint-coupon-code/",
+        "title": "Shark Promo Code: $100 Off  | This May",
+        "url": "https://www.wired.com/story/shark-promo-code/",
         "source": "Wired",
-        "published": "2026-05-02T05:00:00+00:00",
-        "summary": "From personalized gifts to business essentials, WIRED can help you save with our selection of VistaPrint promo codes.",
+        "published": "2026-05-03T05:00:00+00:00",
+        "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Sony Coupons: 45% Off Sony Headphones, WF-1000XM6 Earbuds, and Sony Cameras for May",
-        "url": "https://www.wired.com/story/sony-promo-code/",
-        "source": "Wired",
-        "published": "2026-05-02T05:00:00+00:00",
-        "summary": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+        "source": "Hacker News Front",
+        "published": "2026-05-03T04:05:28+00:00",
+        "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/\nComments URL: https://news.ycombinator.com/item?id=47993235\nPoints: 225\n# Comments: 101",
         "thumbnail": "",
         "extras": {}
       }
@@ -215,77 +215,112 @@
         "summary": "",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "15 hardware startups to watch in 2026, according to VCs",
-        "url": "https://sifted.eu/articles/15-hardware-startups-2026-europe/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-01T05:00:35+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "How leftover fish skins landed this founder a billion-dollar exit: ‘My philosophy has always been to have fun’",
-        "url": "https://sifted.eu/articles/kerecis-iceland-innovation-week-interview/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-01T05:00:30+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "‘Lovable mafia’: Meet the founders emerging from Europe’s hottest AI startup",
-        "url": "https://sifted.eu/articles/lovable-mafia-founders-ai-vibe-coding/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-01T05:00:21+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Hertility CEO Helen O’Neill on building a foundational model for women’s health",
-        "url": "https://sifted.eu/articles/hertility-helen-oneill-podcast/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-04-30T17:08:09+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Swedish Legal Tech Startup Legora Lands Another $50M In Nvidia-Led Series D Extension",
-        "url": "https://news.crunchbase.com/venture/ai-powered-legal-tech-startup-legora-seriesd-extension-nvidia/",
-        "source": "Crunchbase News",
-        "published": "2026-04-30T16:22:01+00:00",
-        "summary": "Legora, an AI platform built for lawyers, has raised a $50 million extension from Nvidia’s venture arm, NVentures, reports CNBC. The raise brings the Swedish company’s recent Series D funding round total to $600 million. At the time of the first close in March, Legora was valued at $5.5 billion.",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
       {
         "category": "videos",
         "kind": "video",
+        "title": "Industrial Capabilities in Space",
+        "url": "https://www.youtube.com/shorts/S8Z2v2bxocM",
+        "source": "Y Combinator",
+        "published": "2026-05-03T01:07:15+00:00",
+        "summary": "The moon has abundant silicon, aluminum, iron, and titanium, and extracting them there may actually be more efficient than on Earth.\n\nWe want to see startups developing industrial capabilities in space, from electrolysis of raw materials to 3D printing complex structures from molten regolith.\n\nApply",
+        "thumbnail": "https://i4.ytimg.com/vi/S8Z2v2bxocM/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "S8Z2v2bxocM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI에이전트! 엑셀로 일시키면 40점, 온톨로지로 시키면 90점 (이경일 솔트룩스 대표)",
+        "url": "https://www.youtube.com/watch?v=qqnRzpLNfxY",
+        "source": "티타임즈TV",
+        "published": "2026-05-02T22:01:02+00:00",
+        "summary": "📢전 회차 VOD 무제한 제공!!!📢\n\n🤔매일 쓰는 구글의 AI만 제대로 써도\nAI의 달인이 될 수 있습니다😎\n\n✔ NotebookLM으로 PDF와 회의록을 1페이지 브리핑으로 요약!\n✔ Forms로 들어온 내용을 AI가 자동 분류하고 답장 초안까지 작성!\n✔ Sheets의 명단을 읽어 개인별 맞춤 메일을 자동으로 발송하는 AI 비서 구축!\n✔ Google Vids로 텍스트 보고서를 '60초 영상 브리핑'으로 변환!\n\n기능 나열식 공부는 이제 그만!\n내 업무에 AI를 녹여내는 시나리오를\n티타임즈의 라이브 실습 강연으로 완성하세요\n\n",
+        "thumbnail": "https://i2.ytimg.com/vi/qqnRzpLNfxY/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "qqnRzpLNfxY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Software for Agents",
+        "url": "https://www.youtube.com/shorts/515J0QD9p6w",
+        "source": "Y Combinator",
+        "published": "2026-05-02T17:20:18+00:00",
+        "summary": "The next trillion users on the internet won't be people. They'll be AI agents, and they're already doing real work on top of software that was designed for humans clicking buttons.\n\nEvery major category of software needs to be rebuilt for agents as first-class citizens, and that won't come from incu",
+        "thumbnail": "https://i2.ytimg.com/vi/515J0QD9p6w/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "515J0QD9p6w",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Antarctica Has SO MANY Meteorites",
+        "url": "https://www.youtube.com/shorts/5LJ1cxjQhyE",
+        "source": "Cleo Abram",
+        "published": "2026-05-02T15:42:07+00:00",
+        "summary": "Why do we find SO MANY meteorites in Antarctica? 60% of meteorites found on Earth are found there! It’s not because it’s at the pole.\n\nThe reason is these special blue ice areas. And how they form…\n\nFor more adventures in Antarctica and optimistic science and tech stories, subscribe!\n\n#Antarctica #M",
+        "thumbnail": "https://i2.ytimg.com/vi/5LJ1cxjQhyE/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "5LJ1cxjQhyE",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Enzo Ferrari did not sell a single car until he was 50 years old",
+        "url": "https://www.youtube.com/shorts/ZZs94h3cMoI",
+        "source": "Acquired",
+        "published": "2026-05-02T12:43:52+00:00",
+        "summary": "#business #podcast\n\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "thumbnail": "https://i3.ytimg.com/vi/ZZs94h3cMoI/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "ZZs94h3cMoI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Race to Lead the UN Explained",
+        "url": "https://www.youtube.com/watch?v=7vZVVTB4w2I",
+        "source": "TLDR News Global",
+        "published": "2026-05-02T09:30:00+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nWith António Guterres' approaching the end of his second term as the UN Secretary-General, four candidates have lined up to take the reign. In this ",
+        "thumbnail": "https://i4.ytimg.com/vi/7vZVVTB4w2I/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "7vZVVTB4w2I",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
         "title": "진짜 합리적인 의사결정법은 따로 있습니다 | Sola, Jessica Wu",
         "url": "https://www.youtube.com/watch?v=L-IVgl72Wmo",
         "source": "EO 이오",
-        "published": "2026-05-02T00:00:18Z",
-        "summary": "\"단순히 고객이 좋아서 선택하는 것이 아닙니다. '이 고객이 특정 날짜까지 전환될 확률은 얼마고 그에 따라 포기해야 할 것은 무엇인가 ...",
-        "thumbnail": "https://i.ytimg.com/vi/L-IVgl72Wmo/mqdefault.jpg",
+        "published": "2026-05-02T00:00:18+00:00",
+        "summary": "\"단순히 고객이 좋아서 선택하는 것이 아닙니다. '이 고객이 특정 날짜까지 전환될 확률은 얼마고 그에 따라 포기해야 할 것은 무엇인가?'를 계산해야 하죠. 감정을 배제하고 통계적으로 사고하는 것이 스타트업의 성패를 결정합니다.\"\n\n오늘 영상은 헤지펀드 최연소 퀀트 연구원 출신으로, 실리콘밸리에서 가장 주목받는 AI 스타트업 '솔라(Sola)'를 이끄는 제시카 우(Jessica Wu)의 인터뷰입니다.\n\n제시카 우의 이야기를 통해 복잡한 문제일수록 단순한 본질로 돌아가는 '제1원칙 사고법'부터, 포커 게임처럼 확률을 계산해 리스크를 관",
+        "thumbnail": "https://i1.ytimg.com/vi/L-IVgl72Wmo/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "L-IVgl72Wmo",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -294,43 +329,13 @@
         "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
         "url": "https://www.youtube.com/watch?v=fpC4sbawSzQ",
         "source": "All-In Podcast",
-        "published": "2026-05-01T22:08:15Z",
-        "summary": "(0:00) Bestie intros (3:05) OpenAI misses targets, Codex gains on Claude (20:02) AI cybersecurity: a market that's about to ...",
-        "thumbnail": "https://i.ytimg.com/vi/fpC4sbawSzQ/mqdefault.jpg",
+        "published": "2026-05-01T22:08:15+00:00",
+        "summary": "(0:00) Bestie intros\n(3:05) OpenAI misses targets, Codex gains on Claude\n(20:02) AI cybersecurity: a market that's about to explode\n(31:03) Elon vs Sam Altman lawsuit\n(41:00) Big tech smashes earnings, Capex explosion\n(52:44) Vibecoding nightmare: AI deleted someone's codebase\n(58:33) Retatrutide cr",
+        "thumbnail": "https://i3.ytimg.com/vi/fpC4sbawSzQ/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "fpC4sbawSzQ",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Hardware Supply Chain",
-        "url": "https://www.youtube.com/watch?v=0gCeJFyRYx4",
-        "source": "Y Combinator",
-        "published": "2026-05-01T16:41:52Z",
-        "summary": "In Shenzhen, a team can go from design to a new physical part in a day. In the US, that same loop often takes weeks, and that gap ...",
-        "thumbnail": "https://i.ytimg.com/vi/0gCeJFyRYx4/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "0gCeJFyRYx4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Recursion Is The Next Scaling Law In AI",
-        "url": "https://www.youtube.com/watch?v=DGtUUMNYLcc",
-        "source": "Y Combinator",
-        "published": "2026-05-01T14:00:32Z",
-        "summary": "A 7-million parameter model outperforming models a thousand times its size on tasks like ARC Prize. That's what recursive ...",
-        "thumbnail": "https://i.ytimg.com/vi/DGtUUMNYLcc/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "DGtUUMNYLcc",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -339,13 +344,13 @@
         "title": "티라노사우루스의 비밀",
         "url": "https://www.youtube.com/watch?v=n7Z2vUJDgPU",
         "source": "슈카월드",
-        "published": "2026-05-01T11:35:16Z",
-        "summary": "0:00 제 1대 공룡 대통령 선거 11:24 티라노는 어떻게 인기 1등 공룡이 되었는가 26:41 수백억에 거래되는 티라노 화석.",
-        "thumbnail": "https://i.ytimg.com/vi/n7Z2vUJDgPU/mqdefault.jpg",
+        "published": "2026-05-01T11:35:16+00:00",
+        "summary": "0:00 제 1대 공룡 대통령 선거\n11:24 티라노는 어떻게 인기 1등 공룡이 되었는가\n26:41 수백억에 거래되는 티라노 화석",
+        "thumbnail": "https://i3.ytimg.com/vi/n7Z2vUJDgPU/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "n7Z2vUJDgPU",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -354,73 +359,13 @@
         "title": "Why Trump’s Blockade Isn’t Working (yet)",
         "url": "https://www.youtube.com/watch?v=rJpeUt2x3bg",
         "source": "TLDR News Global",
-        "published": "2026-05-01T09:30:00Z",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going ...",
-        "thumbnail": "https://i.ytimg.com/vi/rJpeUt2x3bg/mqdefault.jpg",
+        "published": "2026-05-01T09:30:00+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nIn this video, we’re going to explain why Trump's blockade isn’t working (at least not yet), and what might happen next.\n\n📰 Too Long: https://toolon",
+        "thumbnail": "https://i3.ytimg.com/vi/rJpeUt2x3bg/hqdefault.jpg",
         "extras": {
           "theme": "news",
           "videoId": "rJpeUt2x3bg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“HBM, 터보퀀텀으론 해결 안되는 메모리 전쟁, 판을 바꾸는 반도체 VDPU가 온다”(정무경 디노티시아 대표)",
-        "url": "https://www.youtube.com/watch?v=_TAjyEEuFv0",
-        "source": "티타임즈TV",
-        "published": "2026-04-30T22:00:55Z",
-        "summary": "에이전틱 AI 시대가 본격화며 처리해야 할 데이터가 폭증하고 있습니다. AI가 목적을 달성하기 위해 끊임없이 데이터를 생성하고, 반복 ...",
-        "thumbnail": "https://i.ytimg.com/vi/_TAjyEEuFv0/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "_TAjyEEuFv0",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Our Brains Got Bigger. Now They’re Shrinking?",
-        "url": "https://www.youtube.com/watch?v=dqazxW8R5BY",
-        "source": "Cleo Abram",
-        "published": "2026-04-30T15:25:57Z",
-        "summary": "This chart shows human brains size over time. They got way bigger, fast. But now they're shrinking? (No, it's not the phones!)",
-        "thumbnail": "https://i.ytimg.com/vi/dqazxW8R5BY/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "dqazxW8R5BY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "민원 우려로 축구도 금지된 요즘 학교",
-        "url": "https://www.youtube.com/watch?v=mV8RHxfe2xU",
-        "source": "슈카월드",
-        "published": "2026-04-30T12:01:32Z",
-        "summary": "0:00 학교에서 축구가 왜 금지됐을까? 18:49 민원 처리 힘드니까 아무것도 하지 말자.",
-        "thumbnail": "https://i.ytimg.com/vi/mV8RHxfe2xU/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "mV8RHxfe2xU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why OPEC is Collapsing",
-        "url": "https://www.youtube.com/watch?v=nxaE4_JKlH4",
-        "source": "TLDR News Global",
-        "published": "2026-04-30T08:30:00Z",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going ...",
-        "thumbnail": "https://i.ytimg.com/vi/nxaE4_JKlH4/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "nxaE4_JKlH4",
-          "via": "api"
+          "via": "rss"
         }
       }
     ]
