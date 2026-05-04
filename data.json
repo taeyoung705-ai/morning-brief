@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-03T07:29:51.745761+00:00",
+  "generated_at": "2026-05-04T09:06:33.172219+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-        "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-03T07:02:09+00:00",
-        "summary": "Iran has sent the US a new 14-point proposal to end the war.",
+        "title": "Chasing Stardom in Korea Nearly Destroyed Ejae. Then Came ‘KPop Demon Hunters.’",
+        "url": "https://www.nytimes.com/2026/05/04/world/asia/ejae-kpop-demon-hunters.html",
+        "source": "NYT World",
+        "published": "2026-05-04T09:01:25+00:00",
+        "summary": "Ejae, the movie’s breakout star, was the face of K-pop in 2025. Facing questions of art, national belonging and authenticity, she wants to be much more.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Jefferson Lewis charged with murder over death of Kumanjayi Little Baby near Alice Springs",
-        "url": "https://www.theguardian.com/australia-news/2026/may/03/nt-police-charge-jefferson-lewis-over-death-of-kumanjayi-little-baby-near-alice-springs-ntwnfb",
+        "title": "Inside The Old Skydiving Plane Hunting Drones in Ukraine",
+        "url": "https://www.nytimes.com/video/world/europe/100000010837657/inside-the-old-skydiving-plane-hunting-drones-in-ukraine.html",
+        "source": "NYT World",
+        "published": "2026-05-04T09:01:06+00:00",
+        "summary": "As Russian drones overwhelm Ukraine’s vast air defenses, civilian volunteers are stepping in to take them down. The New York Times takes flight with a crew that’s turned an old skydiving plane into a drone hunter.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "The ‘Gates to Hell’ Are Dimming. That May Not Be a Good Thing.",
+        "url": "https://www.nytimes.com/2026/05/04/world/europe/turkmenistan-door-to-hell-darvaza-crater.html",
+        "source": "NYT World",
+        "published": "2026-05-04T09:00:06+00:00",
+        "summary": "A flaming crater of gas has burned in Turkmenistan for decades. Satellite imagery suggests that the fires are decreasing, but the environmental implications are unclear.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Coalition accused of secretly giving big tobacco lobbyists private platform in parliament",
+        "url": "https://www.theguardian.com/society/2026/may/04/coalition-big-tobacco-lobbyists-closed-session-parliament",
         "source": "The Guardian World",
-        "published": "2026-05-03T06:59:01+00:00",
-        "summary": "Warlpiri girl went missing on Saturday 25 April from a town camp and was found dead five days laterWarning: This article contains references to Indigenous Australians who have diedNorthern Territory police have charged Jefferson Lewis with murder over the death of five-year-old Kumanjayi Little Baby.The Warlpiri girl went missing on Saturday 25 April from her bed in a town camp near Alice Springs.",
+        "published": "2026-05-04T08:42:14+00:00",
+        "summary": "Exclusive: A Senate committee considering the illegal tobacco trade in Australia hears closed-session evidence from cigarette manufacturersGet our breaking news email, free app or daily news podcastAnti-smoking campaigners have accused the Coalition of secretly giving tobacco giants access to a parliamentary inquiry, a move they say undermines more than 15 years of precedent to protect public heal",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "China blocks US sanctions against five ‘teapot’ refineries",
-        "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+        "title": "After the Hong Kong Fire Killed 3 Generations of His Family, A Son Searches for Justice",
+        "url": "https://www.nytimes.com/2026/05/04/world/asia/hong-kong-apartment-fire-family.html",
+        "source": "NYT World",
+        "published": "2026-05-04T08:27:15+00:00",
+        "summary": "Lee Chun Ho lost four members of his household in last November’s apartment-tower blaze. He’s now telling an investigative committee what contractors ignored.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-03T06:57:42+00:00",
-        "summary": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
+        "published": "2026-05-04T08:27:00+00:00",
+        "summary": "Japan’s PM says the effective closure of the Strait of Hormuz is ‘inflicting an ‘enormous impact’ on Asia Pacific.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
-        "url": "https://www.aljazeera.com/news/2026/5/3/taiwan-leader-visits-eswatini-despite-chinas-attempts-to-block-trip?traffic_source=rss",
+        "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+        "url": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-03T06:36:26+00:00",
-        "summary": "President William Lai Ching-te says he met King Mswati III and signed trade agreements.",
+        "published": "2026-05-04T08:20:54+00:00",
+        "summary": "President Trump said the US will begin Project Freedom on Monday to guide stranded ships out of the Strait of Hormuz.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Joel Embiid, 76ers knock out second-seeded Celtics in NBA Playoffs",
-        "url": "https://www.aljazeera.com/sports/2026/5/3/joel-embiid-76ers-knock-out-second-seeded-celtics-in-nba-playoffs?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-03T06:32:55+00:00",
-        "summary": "The 76ers eliminate one of the favourites to book a second-round series against the New York Knicks.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Dozens paddle out in Sydney and Newcastle in solidarity with Gaza Flotilla – as it happened",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-05-03T06:21:56+00:00",
-        "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastCanavan defends Coalition decision to preference One Nation ahead of independent in Farrer: ‘Socialists and communists always go last’Matt Canavan said he understood why voters in Farrer, set for a byelection next Saturday, were disillusioned with the federal opposition.I‘ve been down there for 20 days, 15 nights – a",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "In Yemen, Starlink internet brings opportunities – for some",
-        "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-03T06:21:44+00:00",
-        "summary": "Despite Houthi resistance and affordability challenges, Starlink fuels growth in Yemen&#039;s digital workforce.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Teen F1 leader Antonelli takes Miami pole as race start time changed",
-        "url": "https://www.aljazeera.com/sports/2026/5/3/teen-f1-leader-antonelli-takes-miami-pole-as-race-start-time-changed?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-03T06:16:07+00:00",
-        "summary": "Threat of heavy rainstorm in Miami causes organisers to move up race start time to 17:00 GMT on Sunday.",
+        "title": "Pakistan Says It Helped Transfer Iranian Crew From Ship That U.S. Seized",
+        "url": "https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html",
+        "source": "NYT World",
+        "published": "2026-05-04T08:10:51+00:00",
+        "summary": "Describing the transfer of the crew from the MV Touska cargo ship back to Iran as a ‘confidence-building measure’ between U.S. and Iranian officials, Pakistan again plays a mediating role.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-        "url": "https://acai.sh/blog/specsmaxxing",
+        "title": "Dating Is a Rich Person’s Game Now",
+        "url": "https://www.wired.com/story/dating-is-a-rich-persons-game-now/",
+        "source": "Wired",
+        "published": "2026-05-04T09:00:00+00:00",
+        "summary": "The problem isn’t just the apps. People actually can’t afford to date anymore.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Welcome to the Great American Satellite Age",
+        "url": "https://www.wired.com/story/welcome-to-the-great-american-satellite-age/",
+        "source": "Wired",
+        "published": "2026-05-04T09:00:00+00:00",
+        "summary": "A new generation of satellite startups in San Francisco is racing to capitalize on recent technological breakthroughs in space-based data collection and communications.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters (2026)",
+        "url": "https://www.wired.com/gallery/best-star-wars-gifts/",
+        "source": "Wired",
+        "published": "2026-05-04T08:30:00+00:00",
+        "summary": "These are the best Star Wars gifts in the galaxy for everyone, from Padawan fans to Jedi masters.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Nicolas Sauvage is betting on the boring parts of AI",
+        "url": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
+        "source": "TechCrunch",
+        "published": "2026-05-04T07:10:18+00:00",
+        "summary": "The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year:",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Stitch together lots of little HTML pages with navigations for interactions",
+        "url": "https://blog.jim-nielsen.com/2026/small-html-pages/",
         "source": "Hacker News Front",
-        "published": "2026-05-03T06:33:38+00:00",
-        "summary": "Article URL: https://acai.sh/blog/specsmaxxing\nComments URL: https://news.ycombinator.com/item?id=47994012\nPoints: 6\n# Comments: 2",
+        "published": "2026-05-04T04:43:36+00:00",
+        "summary": "Article URL: https://blog.jim-nielsen.com/2026/small-html-pages/\nComments URL: https://news.ycombinator.com/item?id=48004734\nPoints: 37\n# Comments: 19",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Limited Time: TurboTax Full Service Coupons This May",
-        "url": "https://www.wired.com/story/turbotax-coupon/",
-        "source": "Wired",
-        "published": "2026-05-03T05:00:00+00:00",
-        "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Ulta Promo Codes: Up to 50% Off in May",
-        "url": "https://www.wired.com/story/ulta-coupon/",
-        "source": "Wired",
-        "published": "2026-05-03T05:00:00+00:00",
-        "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Top Rover Promo Codes and Referral Deals for May 2026",
-        "url": "https://www.wired.com/story/rover-promo-code/",
-        "source": "Wired",
-        "published": "2026-05-03T05:00:00+00:00",
-        "summary": "Score your Rover promo code for 2026.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Castlery Promo Code: 15% Off in May 2026",
-        "url": "https://www.wired.com/story/castlery-promo-code/",
-        "source": "Wired",
-        "published": "2026-05-03T05:00:00+00:00",
-        "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Skullcandy Discount Code: 30% Off | May 2026",
-        "url": "https://www.wired.com/story/skullcandy-discount-code/",
-        "source": "Wired",
-        "published": "2026-05-03T05:00:00+00:00",
-        "summary": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Shark Promo Code: $100 Off  | This May",
-        "url": "https://www.wired.com/story/shark-promo-code/",
-        "source": "Wired",
-        "published": "2026-05-03T05:00:00+00:00",
-        "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+        "title": "Humanoid Robot Actuators",
+        "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
         "source": "Hacker News Front",
-        "published": "2026-05-03T04:05:28+00:00",
-        "summary": "Article URL: https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/\nComments URL: https://news.ycombinator.com/item?id=47993235\nPoints: 225\n# Comments: 101",
+        "published": "2026-05-04T03:42:09+00:00",
+        "summary": "Article URL: https://www.firgelli.com/pages/humanoid-robot-actuators\nComments URL: https://news.ycombinator.com/item?id=48004380\nPoints: 119\n# Comments: 44",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+        "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+        "source": "TechCrunch",
+        "published": "2026-05-04T02:02:25+00:00",
+        "summary": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+        "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+        "source": "Hacker News Front",
+        "published": "2026-05-03T23:59:02+00:00",
+        "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility\nComments URL: https://news.ycombinator.com/item?id=48002938\nPoints: 215\n# Comments: 90",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,33 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: Defense Tech Leads With Multiple Large Deals, Topped By $600M For Space Security Startup True Anomaly",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-aerospace-ai-fintech/",
-        "source": "Crunchbase News",
-        "published": "2026-05-01T19:00:30+00:00",
-        "summary": "Large U.S. venture deals this week were led by a massive defense tech raise for space security startup True Anomaly. We also saw sizable deals for startups applying AI to fintech, marketing, customer service, healthcare and developer tools.",
+        "title": "[K-게임사 체질개선⑦] 사업 재편 마친 NHN, ‘게임 명가’ 도약 노린다",
+        "url": "https://byline.network/2026/05/29-484/",
+        "source": "ByLine Network",
+        "published": "2026-05-04T06:44:46+00:00",
+        "summary": "NHN은 과거 정부의 웹보드 게임 규제 이후 10여년간 사업 구조를 재편하고 외연 확장을 추진해 왔다. 현재 회사의 근간인 핵심 사업군은 크게 ‘게임, 결제, 기술’ 부문으로 나뉜다. 이에 따라 게임 부문 매출 비중은 줄어들었지만, 최근 5년간 실적을 보면 성장세를 이어가고 있다. NHN은 올해 검증된 지식재산권(IP) 기반 다수 신작과 웹보드 규제 완화라는 환경 변화를 발판 삼아 게임 부문 성장을 이어갈 방침이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Data: The Seed Funding Boom Is Concentrating Capital In The San Francisco Bay Area",
-        "url": "https://news.crunchbase.com/seed/us-startup-venture-funding-boom-concentration-bay-area/",
-        "source": "Crunchbase News",
-        "published": "2026-05-01T11:00:29+00:00",
-        "summary": "In 2025, the Bay Area expanded its dominance of U.S. seed funding — capturing a growing share of both deals and dollars — even as most startups remained geographically dispersed, an analysis of Crunchbase data shows, resulting in a more bifurcated landscape.",
+        "title": "“벤더 종속으로 고민하는 기업에게 다가가겠다”",
+        "url": "https://byline.network/2026/05/4-438/",
+        "source": "ByLine Network",
+        "published": "2026-05-04T06:42:55+00:00",
+        "summary": "지난 수년 간 한국과 전세계 기업 고객의 큰 우려 중 하나가 벤더 종속이었다. 특정 벤더의 정책 변화가 고객의 비즈니스에 크게 영향을 주는 상황에서 종속에 대한 대안을 찾는 상황이다. 오픈소스 전문기업인 수세는 고객에게 선택권을 드리고, 대안으로서 준비가 돼 있다. 쿠버네티스, 가상화, 운영체제 전반에서 다양한 글로벌 얼라이언스 기업의 지사와 함께 오픈소스 기반의 전환 ‘OX’를 만들어보려 노력중이다.”",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "From local to global: Navigating AI-driven expansion and compliance",
-        "url": "https://sifted.eu/articles/ai-driven-expansion-and-compliance-brnd/",
+        "title": "30분 걸리던 쇼핑이 3초로… AI가 바꾼 소비, 브랜드는 무엇을 잃고 있을까",
+        "url": "https://byline.network/2026/05/30_marqvision-2/",
+        "source": "ByLine Network",
+        "published": "2026-05-04T06:36:47+00:00",
+        "summary": "지난 2월 기준, 챗GPT가 전 세계 9억명 소비자의 탐색 경로를 차지해 버렸다. 우리나라도 예외는 아니다. 과학기술정보통신부 '2025 인터넷이용실태조사'에 따르면 생성형 AI 경험률은 2024년 33.3%에서 2025년 44.5%로 11.2%포인트 늘어났다. 국내에서만 약 2000만명 이상이 이미 일상에서 생성형 AI를 이용하고 있는 셈이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[미토스 이후, 전문가에게 듣는다③] 박관순 티오리 CISO “AI 해킹, 모델보다 시스템 싸움”",
+        "url": "https://byline.network/2026/05/4-437/",
+        "source": "ByLine Network",
+        "published": "2026-05-04T06:30:27+00:00",
+        "summary": "박관순 티오리 CISO는 미토스 논란을 오펜시브 보안 현장의 관점에서 짚었다. 오펜시브 보안은 공격자의 방식으로 시스템을 점검하고 취약점을 검증하는 보안 영역이다. 박 CISO는 미토스를 단순히 ‘강한 AI 모델’로만 보면 안 된다고 했다. 그는 “취약점을 찾는 모델도 중요하지만, 어떤 코드를 볼지 정하고, 결과가 실제 공격 가능한 취약점인지 검증하고, 오탐을 걸러내는 운영 체계가 함께 있어야 한다”고 강조했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "11 future of compute startups to watch, according to VCs",
+        "url": "https://sifted.eu/articles/11-future-of-compute-startups-to-watch-according-to-vcs/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-01T09:22:28+00:00",
+        "published": "2026-05-04T05:00:16+00:00",
         "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Europe is zagging on AI while Silicon Valley zigs",
+        "url": "https://sifted.eu/articles/ai-europe-us-rules-different-approaches/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-04T05:00:10+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "업스테이지, 국민성장펀드 AI 모델 부문 1호 직접투자 기업 선정…5600억 유치",
+        "url": "https://platum.kr/archives/286226?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2585%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25ec%25a7%2580-%25ea%25b5%25ad%25eb%25af%25bc%25ec%2584%25b1%25ec%259e%25a5%25ed%258e%2580%25eb%2593%259c-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25eb%25b6%2580%25eb%25ac%25b8-1%25ed%2598%25b8-%25ec%25a7%2581%25ec%25a0%2591%25ed%2588%25ac%25ec%259e%2590-%25ea%25b8%25b0",
+        "source": "Platum",
+        "published": "2026-05-03T09:55:04+00:00",
+        "summary": "업스테이지가 국민성장펀드의 AI 모델 부문 첫 번째 직접투자 기업으로 선정됐다. 국민성장펀드 전체 직접투자로는 2호다. 금융위원회는 지난달 30일 국민성장펀드 기금운용심의위원회를 열어 업스테이지의 &#8216;소버린 AI 확보를 위한 차세대 AI 모델 개발&#8217; 사업에 총 5600억원(첨단전략산업기금 1000억원) 규모의 직접투자 안건을 승인했다고 3일 밝혔다. 소버린 AI란 특정 국가나 기업이 외부 의존 없이 자체적으로 구축·운영하는 독자 AI 기술 역량을 뜻한다. 이번 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "AI 챗봇이 광고를 품었다, 답변을 믿을 수 있는가",
+        "url": "https://platum.kr/archives/286219?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%25b1%2597%25eb%25b4%2587%25ec%259d%25b4-%25ea%25b4%2591%25ea%25b3%25a0%25eb%25a5%25bc-%25ed%2592%2588%25ec%2597%2588%25eb%258b%25a4-%25eb%258b%25b5%25eb%25b3%2580%25ec%259d%2584-%25eb%25af%25bf%25ec%259d%2584-%25ec%2588%2598-%25ec%259e%2588%25eb%258a%2594%25ea%25b0%2580",
+        "source": "Platum",
+        "published": "2026-05-03T09:14:42+00:00",
+        "summary": "올해 2월, 챗GPT 무료 이용자들의 화면 하단에 작은 상자가 생겼다. 스폰서 콘텐츠 표시가 붙은 광고였다. 같은 달 퍼플렉시티는 1년여 전 도입했던 광고를 전면 철수했다. 앤트로픽은 슈퍼볼에서 &#8220;AI에 광고가 온다, 하지만 클로드는 아니다&#8221;라는 광고를 내보냈다. AI 챗봇 업계가 광고를 둘러싸고 빠르게 갈라지고 있다. 이용자의 질문에 답하는 존재가 동시에 광고를 집행한다는 것은 그 답변을 어디까지 신뢰할 수 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
@@ -221,15 +276,75 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Industrial Capabilities in Space",
-        "url": "https://www.youtube.com/shorts/S8Z2v2bxocM",
+        "title": "Why the Saudi Economy is In Real Trouble",
+        "url": "https://www.youtube.com/watch?v=VSlkgY9l-Cc",
+        "source": "TLDR News Global",
+        "published": "2026-05-04T08:30:00+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nWith the UAE leaving OPEC amid the ongoing war in Iran, the Saudi economy appears to be nearing trouble. In this video, we're taking a look at Saudi",
+        "thumbnail": "https://i3.ytimg.com/vi/VSlkgY9l-Cc/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "VSlkgY9l-Cc",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The AI Operating System for Companies",
+        "url": "https://www.youtube.com/shorts/K46ZNekw2Tk",
         "source": "Y Combinator",
-        "published": "2026-05-03T01:07:15+00:00",
-        "summary": "The moon has abundant silicon, aluminum, iron, and titanium, and extracting them there may actually be more efficient than on Earth.\n\nWe want to see startups developing industrial capabilities in space, from electrolysis of raw materials to 3D printing complex structures from molten regolith.\n\nApply",
-        "thumbnail": "https://i4.ytimg.com/vi/S8Z2v2bxocM/hqdefault.jpg",
+        "published": "2026-05-04T00:58:34+00:00",
+        "summary": "The best AI-native companies have made their entire company queryable: every meeting, ticket, and customer interaction legible to an intelligence layer that learns from it.\n\nBuilding this today requires brutal integration work, and there's no product that connects all this context into a single laye",
+        "thumbnail": "https://i4.ytimg.com/vi/K46ZNekw2Tk/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
-          "videoId": "S8Z2v2bxocM",
+          "videoId": "K46ZNekw2Tk",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "\"What the f*** is he doing!?\" - The Besties React to the Elon/Sam Altman Trial 😂",
+        "url": "https://www.youtube.com/shorts/jROZdAU0jV0",
+        "source": "All-In Podcast",
+        "published": "2026-05-03T19:00:37+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i3.ytimg.com/vi/jROZdAU0jV0/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "jROZdAU0jV0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "SaaS Challengers",
+        "url": "https://www.youtube.com/shorts/DhYJ1GENLoQ",
+        "source": "Y Combinator",
+        "published": "2026-05-03T15:18:39+00:00",
+        "summary": "AI has collapsed the cost of producing software by 10–100x, and the moat that once protected legacy SaaS, millions of lines of code built over decades, is gone.\n\nThat's bad news for incumbents and great news for startups.\n\nApply to YC Summer 2026 at ycombinator.com/apply.",
+        "thumbnail": "https://i1.ytimg.com/vi/DhYJ1GENLoQ/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "DhYJ1GENLoQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“Rumination is the path to unhappiness.” - J Cal",
+        "url": "https://www.youtube.com/shorts/FfC-A0Wdgug",
+        "source": "All-In Podcast",
+        "published": "2026-05-03T15:15:02+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i3.ytimg.com/vi/FfC-A0Wdgug/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "FfC-A0Wdgug",
           "via": "rss"
         }
       },
@@ -245,21 +360,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "qqnRzpLNfxY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Software for Agents",
-        "url": "https://www.youtube.com/shorts/515J0QD9p6w",
-        "source": "Y Combinator",
-        "published": "2026-05-02T17:20:18+00:00",
-        "summary": "The next trillion users on the internet won't be people. They'll be AI agents, and they're already doing real work on top of software that was designed for humans clicking buttons.\n\nEvery major category of software needs to be rebuilt for agents as first-class citizens, and that won't come from incu",
-        "thumbnail": "https://i2.ytimg.com/vi/515J0QD9p6w/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "515J0QD9p6w",
           "via": "rss"
         }
       },
@@ -320,51 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "L-IVgl72Wmo",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
-        "url": "https://www.youtube.com/watch?v=fpC4sbawSzQ",
-        "source": "All-In Podcast",
-        "published": "2026-05-01T22:08:15+00:00",
-        "summary": "(0:00) Bestie intros\n(3:05) OpenAI misses targets, Codex gains on Claude\n(20:02) AI cybersecurity: a market that's about to explode\n(31:03) Elon vs Sam Altman lawsuit\n(41:00) Big tech smashes earnings, Capex explosion\n(52:44) Vibecoding nightmare: AI deleted someone's codebase\n(58:33) Retatrutide cr",
-        "thumbnail": "https://i3.ytimg.com/vi/fpC4sbawSzQ/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "fpC4sbawSzQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "티라노사우루스의 비밀",
-        "url": "https://www.youtube.com/watch?v=n7Z2vUJDgPU",
-        "source": "슈카월드",
-        "published": "2026-05-01T11:35:16+00:00",
-        "summary": "0:00 제 1대 공룡 대통령 선거\n11:24 티라노는 어떻게 인기 1등 공룡이 되었는가\n26:41 수백억에 거래되는 티라노 화석",
-        "thumbnail": "https://i3.ytimg.com/vi/n7Z2vUJDgPU/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "n7Z2vUJDgPU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Trump’s Blockade Isn’t Working (yet)",
-        "url": "https://www.youtube.com/watch?v=rJpeUt2x3bg",
-        "source": "TLDR News Global",
-        "published": "2026-05-01T09:30:00+00:00",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nIn this video, we’re going to explain why Trump's blockade isn’t working (at least not yet), and what might happen next.\n\n📰 Too Long: https://toolon",
-        "thumbnail": "https://i3.ytimg.com/vi/rJpeUt2x3bg/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "rJpeUt2x3bg",
           "via": "rss"
         }
       }
