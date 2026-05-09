@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-08T06:18:41.292285+00:00",
+  "generated_at": "2026-05-09T07:23:30.758915+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results/heres-the-latest",
+        "title": "A Less Muscular Victory Day Parade Shows Putin’s Growing Vulnerability",
+        "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-victory-day-parade.html",
         "source": "NYT World",
-        "published": "2026-05-08T06:13:14+00:00",
-        "summary": "",
+        "published": "2026-05-09T07:11:59+00:00",
+        "summary": "The event, shrunken because of security fears, adds to a sense that Moscow and other cities can no longer be insulated from the war.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: woman accused of travelling to Syria to join IS refused bail; ABC reporters denied entry to One Nation press conference",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-05-08T06:07:55+00:00",
-        "summary": "Janai Safar, 32, one of four women who returned to Australia who were allegedly linked to Islamic State fighters. Follow updatesGet our breaking news email, free app or daily news podcastDavid Attenborough at 100: ‘I had thought I would celebrate quietly’In a dose of good news, Sir David Attenborough is 100 today. The veteran broadcaster said he expected to celebrate quietly, but expressed gratitu",
+        "title": "Financial struggles burden Yemen’s army as soldiers wait for wages",
+        "url": "https://www.aljazeera.com/news/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-09T07:11:53+00:00",
+        "summary": "Yemeni soldiers earn $38 to $116 monthly, but an unstable currency has eroded the value of their salaries.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Rebel Wilson is a ‘fantastical liar’ who ‘made up terrible allegations against multiple people’, court told",
-        "url": "https://www.theguardian.com/film/2026/may/08/rebel-wilson-fantastical-liar-court-told-defamation-case-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-05-08T06:06:25+00:00",
-        "summary": "Barrister for actor Charlotte MacInnes, who is suing the Pitch Perfect star for defamation, also accused Wilson of ‘a complete revision of history’. Wilson has rejected defamation claims.Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastRebel Wilson has been accused in court of being a liar who made up terrible claims about her colleag",
+        "title": "Latest on the Iran War: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
+        "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
+        "source": "NYT World",
+        "published": "2026-05-09T06:23:53+00:00",
+        "summary": "Iran’s foreign minister accused Washington of undermining diplomacy. Secretary of State Marco Rubio said the U.S. expected to hear from Tehran on Friday.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+        "title": "Starmer’s Party Suffers Stark Losses in U.K. Local Elections",
+        "url": "https://www.nytimes.com/live/2026/05/08/world/uk-local-elections-results",
+        "source": "NYT World",
+        "published": "2026-05-09T06:23:53+00:00",
+        "summary": "Prime Minister Keir Starmer took responsibility as Labour lost more than a thousand municipal seats but insisted he would not resign.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "China’s Exports and Imports Set Records in April Amid High Energy Costs",
+        "url": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html",
+        "source": "NYT World",
+        "published": "2026-05-09T06:19:55+00:00",
+        "summary": "The country’s exports surged and its trade surplus with the United States widened ahead of President Trump’s scheduled visit next week to Beijing.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran accuses US of 'reckless military adventure'",
+        "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-08T05:57:08+00:00",
-        "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+        "published": "2026-05-09T06:13:30+00:00",
+        "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "‘A calamity’: Why is a record heatwave sweeping South Asia?",
-        "url": "https://www.aljazeera.com/news/2026/5/8/a-calamity-why-is-a-record-heatwave-sweeping-south-asia?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-08T05:41:24+00:00",
-        "summary": "Countries including India, Pakistan, and Bangladesh have experienced temperatures soaring well above seasonal averages.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran War Live Updates: U.S. and Iran Exchange Fire Amid a Declared Truce",
-        "url": "https://www.nytimes.com/live/2026/05/07/world/iran-trump-hormuz-peace-deal",
-        "source": "NYT World",
-        "published": "2026-05-08T05:29:11+00:00",
-        "summary": "The U.S. military said it struck Iranian military targets after, it said, Iran fired on U.S. warships in the Strait of Hormuz. President Trump threatened more if Iran didn’t agree to a peace offer.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Ex-prisoners recount abuse in Israeli detention centres",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-08T05:21:22+00:00",
-        "summary": "Former Palestinian detainees are speaking out about torture and sexual violence they faced in Israeli detention.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "‘Would like to share some thoughts’: One Nation candidate David Farley’s previous involvement with independent movement revealed",
-        "url": "https://www.theguardian.com/australia-news/2026/may/08/one-nation-candidate-david-farley-farrer-byelection-independents-ntwnfb",
+        "title": "Mysterious disappearance of man on popular WA hiking track sparks police search",
+        "url": "https://www.theguardian.com/australia-news/2026/may/09/victorian-hiker-samuel-witsed-missing-near-perth",
         "source": "The Guardian World",
-        "published": "2026-05-08T05:19:03+00:00",
-        "summary": "Exclusive: Farley discussed preferences and suggested platform before Voices group endorsed his rival Michelle Milthorpe as its candidateGet our breaking news email, free app or daily news podcastOne Nation’s Farrer candidate, David Farley, sought to cooperate with the community independent “Voices” movement before the last election, including discussing preferences and suggesting a platform for a",
+        "published": "2026-05-09T06:06:37+00:00",
+        "summary": "Samuel Whitsed, 27, is believed to have travelled from Victoria to hike Bibbulmun Track near outskirts of PerthGet our breaking news email, free app or daily news podcastThree months after a hiker was last seen at a popular walking track, police have become increasingly concerned for the missing man’s welfare.Police have scoured dense bushland for a Victorian man after he disappeared from a popula",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘We are talking about energy security for Europe’: Norway doubles down on oil and gas production",
+        "url": "https://www.theguardian.com/world/2026/may/09/norway-oil-and-gas-production-shortages-middle-east-ukraine",
+        "source": "The Guardian World",
+        "published": "2026-05-09T06:00:49+00:00",
+        "summary": "Norway’s energy minister says country has a ‘responsibility’ to address shortfalls caused by wars in Ukraine and Middle EastIn case of any doubt about Norway’s commitment to maintain – and expand – its production of gas and oil offshore, the energy minister, Terje Aasland, has a pithy response: “We will develop, not dismantle, activity on our continental shelf.”This week, to the alarm of environme",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,93 +96,148 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
-        "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
+        "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+        "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+        "source": "Hacker News Front",
+        "published": "2026-05-09T05:52:12+00:00",
+        "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\nComments URL: https://news.ycombinator.com/item?id=48072190\nPoints: 63\n# Comments: 20",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Instacart Promo Code: $15 Off | May 2026",
+        "url": "https://www.wired.com/story/instacart-promo/code/",
         "source": "Wired",
-        "published": "2026-05-08T05:02:40+00:00",
-        "summary": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
+        "published": "2026-05-09T05:00:00+00:00",
+        "summary": "Find the best Instacart promo code for massive savings in May 2026",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "50% Off DoorDash Promo Code | May 2026",
-        "url": "https://www.wired.com/story/doordash-promo-code/",
+        "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
+        "url": "https://www.wired.com/story/hellofresh-coupon/",
         "source": "Wired",
-        "published": "2026-05-08T05:00:00+00:00",
-        "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+        "published": "2026-05-09T05:00:00+00:00",
+        "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-        "url": "https://github.com/graemeg/blaise",
-        "source": "Hacker News Front",
-        "published": "2026-05-08T04:44:02+00:00",
-        "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 12\n# Comments: 1",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Why you can never get your doctor to call you back",
-        "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-        "source": "TechCrunch",
-        "published": "2026-05-08T04:42:29+00:00",
-        "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "US will start revoking passports for parents who owe child support",
-        "url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
-        "source": "Hacker News Front",
-        "published": "2026-05-08T03:52:14+00:00",
-        "summary": "Article URL: https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6\nComments URL: https://news.ycombinator.com/item?id=48058340\nPoints: 20\n# Comments: 2",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Evaluating Geekbench 6",
-        "url": "https://chipsandcheese.com/p/evaluating-geekbench-6",
-        "source": "Hacker News Front",
-        "published": "2026-05-08T03:10:02+00:00",
-        "summary": "Article URL: https://chipsandcheese.com/p/evaluating-geekbench-6\nComments URL: https://news.ycombinator.com/item?id=48058053\nPoints: 3\n# Comments: 0",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Mojo 1.0 Beta",
-        "url": "https://mojolang.org/",
-        "source": "Hacker News Front",
-        "published": "2026-05-08T02:49:01+00:00",
-        "summary": "Article URL: https://mojolang.org/\nComments URL: https://news.ycombinator.com/item?id=48057901\nPoints: 34\n# Comments: 10",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-        "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+        "title": "50% Off Blue Apron Promo Codes | May 2026",
+        "url": "https://www.wired.com/story/blue-apron-coupon/",
         "source": "Wired",
-        "published": "2026-05-08T01:42:14+00:00",
-        "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+        "published": "2026-05-09T05:00:00+00:00",
+        "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "T-Mobile Promo Codes: 25% Off | May",
+        "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
+        "source": "Wired",
+        "published": "2026-05-09T05:00:00+00:00",
+        "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Logitech Promo Codes and Deals: Up to $100 Off",
+        "url": "https://www.wired.com/story/logitech-promo-code/",
+        "source": "Wired",
+        "published": "2026-05-09T05:00:00+00:00",
+        "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Western Digital Promo Code: 15% Off",
+        "url": "https://www.wired.com/story/western-digital-promo-code/",
+        "source": "Wired",
+        "published": "2026-05-09T05:00:00+00:00",
+        "summary": "Get 15% off your first order at Western Digital when you register your email.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Exclusive Shed Rain Coupon: 15% Off",
+        "url": "https://www.wired.com/story/shed-rain-coupon/",
+        "source": "Wired",
+        "published": "2026-05-09T05:00:00+00:00",
+        "summary": "Get 15% off functional, fashionable umbrellas with our exclusive Shed Rain discount code.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "startup": [
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The Week’s 10 Biggest Funding Rounds: Enterprise AI, Space Tech And Biotech Top The Ranks",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/",
+        "source": "Crunchbase News",
+        "published": "2026-05-08T18:06:16+00:00",
+        "summary": "Another week, another infusion of big AI rounds.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Sector Snapshot: Sales And Marketing Gets An AI Makeover",
+        "url": "https://news.crunchbase.com/sales-marketing/gtm-ai-startup-funding-netomi-hightouch/",
+        "source": "Crunchbase News",
+        "published": "2026-05-08T11:00:34+00:00",
+        "summary": "So far in 2026, companies in sales, marketing and CRM categories have pulled in around $2.7 billion globally in seed- through growth-stage funding, per Crunchbase data.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Missile startups are ‘the new wave’ in European defence",
+        "url": "https://sifted.eu/articles/missile-startups-european-defence/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-08T10:45:23+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "오픈AI, 사이버보안 특화 모델 ‘GPT-5.5-사이버’ 제한 공개",
+        "url": "https://byline.network/2026/05/8-463/",
+        "source": "ByLine Network",
+        "published": "2026-05-08T10:02:38+00:00",
+        "summary": "오픈AI가 사이버 보안에 특화된 인공지능(AI) 모델인 ‘GPT-5.5-사이버(Cyber)’를 공개했다. 누구나 접속할 수 있는 일반 공개가 아니라 제한된 프리뷰 형태다. 이번 발표로 오픈AI는 GPT-5.5 사이버보안 접근 프로그램 일환으로 운영 중인 ‘신뢰 기반 접근(TAC)’을 확장한다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "‘The tools are not being designed for them’: The AI opportunity in Europe’s trades sector",
+        "url": "https://sifted.eu/articles/ai-opportunity-in-europes-trades-sector-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-08T09:00:18+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
       {
         "category": "startup",
         "kind": "article",
@@ -208,66 +263,11 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Defence tech mapped: 72 startups to watch in Europe",
+        "title": "Inside European defence tech: 70+ companies mapped",
         "url": "https://sifted.eu/articles/defence-tech-mapped-72-startups-to-watch-in-europe/",
         "source": "Sifted (EU startups)",
         "published": "2026-05-08T05:00:16+00:00",
         "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "‘신작 효과’ 넷마블, 1분기 매출 6517억원…”2분기 성과 본격화”",
-        "url": "https://byline.network/2026/05/7-450/",
-        "source": "ByLine Network",
-        "published": "2026-05-08T00:43:04+00:00",
-        "summary": "넷마블이 ‘스톤에이지 키우기’, ‘일곱 개의 대죄: 오리진’ 등 신작 출시 효과로 올해 1분기 성장세를 유지했다. 회사는 다양한 신작을 선보이고, 서비스 권역을 확대하면서 다음 분기에도 안정적인 성장 모멘텀을 이어갈 방침이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "오케스트로, 국산 AI 반도체 클라우드 R&D 사업 112.5억 규모 수주",
-        "url": "https://platum.kr/archives/286439?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ec%25bc%2580%25ec%258a%25a4%25ed%258a%25b8%25eb%25a1%259c-%25ea%25b5%25ad%25ec%2582%25b0-ai-%25eb%25b0%2598%25eb%258f%2584%25ec%25b2%25b4-%25ed%2581%25b4%25eb%259d%25bc%25ec%259a%25b0%25eb%2593%259c-rd-%25ec%2582%25ac%25ec%2597%2585-112-5%25ec%2596%25b5-%25ea%25b7%259c%25eb%25aa%25a8-%25ec%2588%2598",
-        "source": "Platum",
-        "published": "2026-05-07T23:45:58+00:00",
-        "summary": "AI·클라우드 소프트웨어 전문 기업 오케스트로가 과학기술정보통신부와 정보통신기획평가원(IITP)이 주관하는 &#8216;AI 반도체 특화 클라우드 네이티브 SW 스택 및 모델 허브 기술 개발&#8217; 과제의 주관기관으로 선정됐다. 총 112.5억 원 규모의 이번 연구개발 사업은 2026년부터 2029년까지 4년간 추진된다. 국산 NPU와 PIM 등 차세대 AI 가속기가 범용 클라우드 환경에서 최적의 성능을 발휘할 수 있도록 운영 체계를 마련하는 것이 목표다. 오케스트로는 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "경기혁신센터, 일본 스타트업 엑스포 참가…300건 비즈니스 미팅 성사",
-        "url": "https://platum.kr/archives/286435?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b2%25bd%25ea%25b8%25b0%25ed%2598%2581%25ec%258b%25a0%25ec%2584%25bc%25ed%2584%25b0-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2597%2591%25ec%258a%25a4%25ed%258f%25ac-%25ec%25b0%25b8%25ea%25b0%2580300%25ea%25b1%25b4-%25eb%25b9%2584%25ec%25a6%2588",
-        "source": "Platum",
-        "published": "2026-05-07T23:30:11+00:00",
-        "summary": "경기창조경제혁신센터가 지난 4월 15일부터 16일까지 일본 지바현에서 열린 &#8216;Climbers Startup JAPAN EXPO 2026&#8217;에 참가했다. 부산·서울·인천 혁신센터와 공동관을 운영하며 유망 스타트업 10개사의 현지 진출을 지원했다. 경기혁신센터는 AI 추모·기념영상 서비스 &#8216;소울링크·라이프링크&#8217;를 운영하는 제이엘스탠다드와 유전체 디지털 트윈 분석 플랫폼 기업 프리딕티브에이아이 등 2개사를 지원했다. 이번 프로그램은 사전 오픈이노베이션 포럼, 공동관 운영, 현지 B2B 밋업, 한국 스타트업 특별 부스 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "NNT, ‘모두의 창업’·’관광혁신바우처’ AI 솔루션 공급기업 동시 선정",
-        "url": "https://platum.kr/archives/286432?utm_source=rss&utm_medium=rss&utm_campaign=nnt-%25eb%25aa%25a8%25eb%2591%2590%25ec%259d%2598-%25ec%25b0%25bd%25ec%2597%2585%25c2%25b7%25ea%25b4%2580%25ea%25b4%2591%25ed%2598%2581%25ec%258b%25a0%25eb%25b0%2594%25ec%259a%25b0%25ec%25b2%2598-ai-%25ec%2586%2594%25eb%25a3%25a8%25ec%2585%2598-%25ea%25b3%25b5%25ea%25b8%2589%25ea%25b8%25b0%25ec%2597%2585",
-        "source": "Platum",
-        "published": "2026-05-07T23:21:48+00:00",
-        "summary": "AI 마케팅 엔지니어링 기업 NNT가 중소벤처기업부·창업진흥원 주관 &#8216;2026 모두의 창업 프로젝트&#8217;와 문화체육관광부·한국관광공사 주관 &#8216;2026 관광기업 혁신바우처 지원사업&#8217; 공급기업으로 동시 선정됐다. 모두의 창업 프로젝트에서 NNT는 AI 광고 소재 생성 솔루션 &#8216;그리드(GRYYD)&#8217;를 공급한다. 제품 사진 한 장으로 5분 내에 광고 소재를 생성하는 솔루션으로, 메타·틱톡 등 주요 광고 매체에 최적화된 비주얼 소재를 제공한다. 제품 고유의 형태와 브랜드 일관성을 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "팀모노리스, 학교 맞춤형 AI 해커톤 운영 서비스 출시",
-        "url": "https://platum.kr/archives/286429?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%2580%25eb%25aa%25a8%25eb%2585%25b8%25eb%25a6%25ac%25ec%258a%25a4-%25ed%2595%2599%25ea%25b5%2590-%25eb%25a7%259e%25ec%25b6%25a4%25ed%2598%2595-ai-%25ed%2595%25b4%25ec%25bb%25a4%25ed%2586%25a4-%25ec%259a%25b4%25ec%2598%2581-%25ec%2584%259c%25eb%25b9%2584%25ec%258a%25a4-%25ec%25b6%259c%25ec%258b%259c",
-        "source": "Platum",
-        "published": "2026-05-07T23:19:48+00:00",
-        "summary": "에듀테크 스타트업 팀모노리스가 학교 현장에서 기획부터 운영까지 한 번에 해결할 수 있는 &#8216;AI 해커톤 운영 서비스&#8217;를 정식 출시한다. 학교에서 해커톤을 개최하려면 행사 기획과 주제 설계, AI 모델 구독 결제, 네트워크 점검, 심사위원 섭외 등 수많은 사전 업무가 필요해 자체 운영에 어려움이 따랐다. 팀모노리스는 전국 800여 개교에서 활용 중인 AI 교육 플랫폼 &#8216;코들(Codle)&#8217;의 운영 노하우를 바탕으로 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,151 +276,151 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Startup School Paris",
-        "url": "https://www.youtube.com/watch?v=FHAaGxvGii4",
+        "title": "Elon’s Anthropic Deal, The Next AI Monopoly?, “FDA for AI” Panic, Trading the AI Boom",
+        "url": "https://www.youtube.com/watch?v=10MdOvK-aG4",
+        "source": "All-In Podcast",
+        "published": "2026-05-08T22:46:01+00:00",
+        "summary": "(0:00) Bestie intros! Thoughts on the LA mayor election\n(4:38) SpaceX-Anthropic deal, Elon Web Services, SpaceX IPO valuation, Anthropic's insane growth trajectory\n(26:48) Is Anthropic the next great monopoly? Early signals or major overreaction?\n(35:21) \"FDA for AI\" freakout, how the White House th",
+        "thumbnail": "https://i2.ytimg.com/vi/10MdOvK-aG4/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "10MdOvK-aG4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "\"삼성, 현대차 미국공장 경쟁력이 한국 앞서는 건 막을 수 없는 미래\" (이경일 솔트룩스 대표)",
+        "url": "https://www.youtube.com/watch?v=bDWqOombw6g",
+        "source": "티타임즈TV",
+        "published": "2026-05-08T22:00:44+00:00",
+        "summary": "📢전 회차 VOD 무제한 제공!!!📢\n\n🤔매일 쓰는 구글의 AI만 제대로 써도\nAI의 달인이 될 수 있습니다😎\n\n✔ NotebookLM으로 PDF와 회의록을 1페이지 브리핑으로 요약!\n✔ Forms로 들어온 내용을 AI가 자동 분류하고 답장 초안까지 작성!\n✔ Sheets의 명단을 읽어 개인별 맞춤 메일을 자동으로 발송하는 AI 비서 구축!\n✔ Google Vids로 텍스트 보고서를 '60초 영상 브리핑'으로 변환!\n\n기능 나열식 공부는 이제 그만!\n내 업무에 AI를 녹여내는 시나리오를\n티타임즈의 라이브 실습 강연으로 완성하세요\n\n",
+        "thumbnail": "https://i3.ytimg.com/vi/bDWqOombw6g/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "bDWqOombw6g",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Ferrari in Ferris Bueller was actually a Ford",
+        "url": "https://www.youtube.com/shorts/AVthBhn4Fuk",
+        "source": "Acquired",
+        "published": "2026-05-08T20:24:16+00:00",
+        "summary": "#business #podcast \n\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "thumbnail": "https://i2.ytimg.com/vi/AVthBhn4Fuk/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "AVthBhn4Fuk",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Silicon Valley Should Build for National Interest | Ben Horowitz on a16z",
+        "url": "https://www.youtube.com/watch?v=X9k53P-2SOg",
+        "source": "a16z",
+        "published": "2026-05-08T15:46:18+00:00",
+        "summary": "David Ulevitch speaks with Ben Horowitz about what it means to lead the technology industry at scale, and the responsibilities that come with it. Following the firm’s largest-ever fundraise, they discuss how venture capital, technology, and national strategy are increasingly intertwined.\n\nThe conver",
+        "thumbnail": "https://i1.ytimg.com/vi/X9k53P-2SOg/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "X9k53P-2SOg",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What If We Made A Shrink Ray?",
+        "url": "https://www.youtube.com/shorts/B_hpiBpMQoI",
+        "source": "Cleo Abram",
+        "published": "2026-05-08T14:35:13+00:00",
+        "summary": "What would happen if we invented a real-life shrink ray?\n\nAs you start shrinking, by the time you’re the size of a small dog, you’re starting to feel chilly. At the size of a smartphone, you’re COLD. REALLY COLD.\n\nThink of yourself as a cube. As you shrink, your volume drops way faster than your sur",
+        "thumbnail": "https://i3.ytimg.com/vi/B_hpiBpMQoI/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "B_hpiBpMQoI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+        "url": "https://www.youtube.com/watch?v=57lDpTwiW6g",
         "source": "Y Combinator",
-        "published": "2026-05-08T06:13:57Z",
-        "summary": "Startup School is coming to Paris! Hear from founders like Alexandre Lebrun of AMI, Olivier Pomel of Datadog, Paul ...",
-        "thumbnail": "https://i.ytimg.com/vi/FHAaGxvGii4/mqdefault.jpg",
+        "published": "2026-05-08T14:30:06+00:00",
+        "summary": "We're entering a new era of software where a single person, working with AI agents, can build products that previously required entire teams.\n\nIn this episode of Lightcone, the hosts break down the rise of AI coding agents, \"tokenmaxxing\", and the emerging workflows behind tools like Claude Code and",
+        "thumbnail": "https://i2.ytimg.com/vi/57lDpTwiW6g/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "57lDpTwiW6g",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "트럼프 \"관세 환급 신청하지 않으면 내 편\"",
+        "url": "https://www.youtube.com/watch?v=NuPa3gcdn1c",
+        "source": "슈카월드",
+        "published": "2026-05-08T13:27:23+00:00",
+        "summary": "0:00 트럼프 관세 환급 절차 시작\n4:29 관세 환불로 대박 이득을 보는 기업들\n16:28 \"아직 한 발 남았다.\"",
+        "thumbnail": "https://i3.ytimg.com/vi/NuPa3gcdn1c/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "NuPa3gcdn1c",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "뤼튼, 업스테이지, 라이너, 스캐터랩, 네오사피엔스, 보이저엑스 2025년 성적표는?",
+        "url": "https://www.youtube.com/watch?v=4bYfg8Fs3aY",
+        "source": "티타임즈TV",
+        "published": "2026-05-08T09:00:05+00:00",
+        "summary": "매출이 늘수록 외부 AI 모델을 가져다 쓰며 지불하는 지급 수수료(토큰 비용)가 더 커진다는 게 현재 많은 AI 스타트업들의 가장 큰 숙제입니다. 이 비용을 어떻게 관리하느냐에 따라 적자만 늘수도, 흑자를 볼 수도 있는 구조이죠. 국내 대표 AI 스타트업들이 직면한 현실과 지난해 재무 성적표를 심재석 바이라인네트워크 대표, 최용식 아웃스탠딩 대표가 정리해 드립니다.\n\n편집 : 이소민 영상디자이너 \n촬영 : 장민주 PD\n진행 : 홍재의 기자 \n섬네일 : 이소민 영상디자이너 \n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.",
+        "thumbnail": "https://i1.ytimg.com/vi/4bYfg8Fs3aY/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "4bYfg8Fs3aY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Saudi Arabia Closes its Airspace: Has MBS Turned on Trump?",
+        "url": "https://www.youtube.com/watch?v=PbQQjA30HRc",
+        "source": "TLDR News Global",
+        "published": "2026-05-08T08:30:08+00:00",
+        "summary": "Subscribe to Too Long: https://toolong.news/\nLearn More About TLDR Party: https://toolong.news/party\nWhat's the Big Deal with Greenland Documentary: https://toolong.news/pages/whats-the-big-deal-with-greenland\n\nThe rift between Saudi Arabia and Trump is widening over the war in Iran, with Saudi airs",
+        "thumbnail": "https://i1.ytimg.com/vi/PbQQjA30HRc/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "PbQQjA30HRc",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Startup School Paris",
+        "url": "https://www.youtube.com/shorts/FHAaGxvGii4",
+        "source": "Y Combinator",
+        "published": "2026-05-08T06:13:57+00:00",
+        "summary": "Startup School is coming to Paris! 🇫🇷\n\nHear from founders like Alexandre Lebrun of AMI, Olivier Pomel of Datadog, Paul Copplestone of Supabase, James Hawkins of Posthog, and more.\n\nAnd join the best builders and hackers from across France and Europe for a day of talks and sessions with YC partners.\n",
+        "thumbnail": "https://i3.ytimg.com/vi/FHAaGxvGii4/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "FHAaGxvGii4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Ferrari F40 was a raw death machine with no luxury",
-        "url": "https://www.youtube.com/watch?v=d9wS8QyTA3c",
-        "source": "Acquired",
-        "published": "2026-05-07T18:02:21Z",
-        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/d9wS8QyTA3c/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "d9wS8QyTA3c",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "They Found the Colossal Squid by Accident",
-        "url": "https://www.youtube.com/watch?v=f5QmO_3rK00",
-        "source": "Cleo Abram",
-        "published": "2026-05-07T15:02:43Z",
-        "summary": "Inside the stomach of a sperm whale, there's an alarming amount of colossal squid. This animal can grow over 9 meters long.",
-        "thumbnail": "https://i.ytimg.com/vi/f5QmO_3rK00/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "f5QmO_3rK00",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "외국인들이 한국에 오는 이유",
-        "url": "https://www.youtube.com/watch?v=Py-GCd_jk8I",
-        "source": "슈카월드",
-        "published": "2026-05-07T10:08:19Z",
-        "summary": "0:00 역대 최대 방한 관광객, 무엇이 이들을 불렀나 16:08 직접 체험 *이 영상은 주) 클래시스의 유료광고를 포함하고 있습니다 외모 ...",
-        "thumbnail": "https://i.ytimg.com/vi/Py-GCd_jk8I/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "Py-GCd_jk8I",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "주성엔지니어링의 ALG 기술이 주목받는 이유 (황철주 회장)",
-        "url": "https://www.youtube.com/watch?v=fyyOZyxNsQY",
-        "source": "티타임즈TV",
-        "published": "2026-05-07T09:37:26Z",
-        "summary": "반도체 제조에서 ALD(원자층증착) 기술은 반도체 원판 표면에 원자층 단위로 얇은 막을 씌우는 공정입니다. 주성엔지니어링이 1997 ...",
-        "thumbnail": "https://i.ytimg.com/vi/fyyOZyxNsQY/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "fyyOZyxNsQY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-        "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-        "source": "Lex Fridman",
-        "published": "2026-05-06T22:03:16Z",
-        "summary": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, ...",
-        "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/mqdefault.jpg",
-        "extras": {
-          "theme": "interview",
-          "videoId": "nepKKz-MzFM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ferrari is the only luxury brand with global cultural reach",
-        "url": "https://www.youtube.com/watch?v=ED0G95m2tp8",
-        "source": "Acquired",
-        "published": "2026-05-06T18:37:16Z",
-        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/ED0G95m2tp8/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "ED0G95m2tp8",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Dark Energy Is Getting Weaker?",
-        "url": "https://www.youtube.com/watch?v=TIqrd6dCa8o",
-        "source": "Cleo Abram",
-        "published": "2026-05-06T14:50:20Z",
-        "summary": "This new map shows dark energy might be getting weaker. That's odd. Every dot you see here is either a galaxy or a special kind ...",
-        "thumbnail": "https://i.ytimg.com/vi/TIqrd6dCa8o/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "TIqrd6dCa8o",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Inside NASA&#39;s Plan to Return to The Moon, Reach Mars, and Go Nuclear | The a16z Show",
-        "url": "https://www.youtube.com/watch?v=6cCWrrQp1v4",
-        "source": "a16z",
-        "published": "2026-05-06T14:30:00Z",
-        "summary": "Morgan Brennan speaks with NASA Administrator Jared Isaacman about the next phase of American space exploration and the ...",
-        "thumbnail": "https://i.ytimg.com/vi/6cCWrrQp1v4/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "6cCWrrQp1v4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "미국을 방문해 한방 먹인 영국왕 찰스",
-        "url": "https://www.youtube.com/watch?v=1I2OuuhHH8c",
-        "source": "슈카월드",
-        "published": "2026-05-06T12:09:06Z",
-        "summary": "0:00 미국을 공식 방문한 영국 왕 찰스 3세 10:14 두 어르신의 서릿빛 기싸움 25:55 찰스왕 특명 : \"미국산 청설모를 박멸하라.\"",
-        "thumbnail": "https://i.ytimg.com/vi/1I2OuuhHH8c/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "1I2OuuhHH8c",
-          "via": "api"
+          "via": "rss"
         }
       }
     ]
