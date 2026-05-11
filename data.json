@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-10T07:48:09.123608+00:00",
+  "generated_at": "2026-05-11T11:48:14.442399+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Sabalenka out of Italian Open amid injury concerns for Roland Garros",
-        "url": "https://www.aljazeera.com/sports/2026/5/10/sabalenka-out-of-italian-open-amid-injury-concerns-for-roland-garros?traffic_source=rss",
+        "title": "Starmer Promises Urgent Change as He Battles to Save Premiership",
+        "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
+        "source": "NYT World",
+        "published": "2026-05-11T11:41:23+00:00",
+        "summary": "Prime Minister Keir Starmer of Britain used a speech to attempt to quell a mutiny in the Labour Party after last week’s dire election results.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/uk-pm-keir-starmer-vows-stronger-performance-as-calls-for-resignation-grow?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-10T07:19:59+00:00",
-        "summary": "⁠Sorana Cirstea defeated world&#039;s top women&#039;s player 2-6, 6-3, 7-5 in the third round as she suffered pain in lower back.",
+        "published": "2026-05-11T11:34:21+00:00",
+        "summary": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Israel deports two Gaza aid flotilla activists",
-        "url": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-10T07:13:50+00:00",
-        "summary": "The pair was abducted by Israeli forces from the aid flotilla in late April and held in Israel.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
-        "url": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
+        "title": "Sara Duterte, Philippine Vice President, Is Impeached, Again",
+        "url": "https://www.nytimes.com/2026/05/11/world/asia/sara-duterte-philippine-impeached.html",
         "source": "NYT World",
-        "published": "2026-05-10T07:07:11+00:00",
-        "summary": "The MV Hondius, the cruise ship that had carried passengers infected with hantavirus, anchored off the Spanish territory, where other passengers would soon disembark.",
+        "published": "2026-05-11T11:34:11+00:00",
+        "summary": "But the prosecution of Ms. Duterte, who has become the archrival to President Ferdinand R. Marcos Jr., is likely to fail again in the Senate.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Is This Telescope a Threat to U.S. Security?",
-        "url": "https://www.nytimes.com/video/world/americas/100000010873671/is-this-telescope-a-threat-to-us-security.html",
+        "title": "Where Are the Passengers of the Hantavirus-Hit Cruise Ship Now?",
+        "url": "https://www.nytimes.com/2026/05/11/world/hantavirus-outbreak-cruise-ship-passengers.html",
         "source": "NYT World",
-        "published": "2026-05-10T07:00:06+00:00",
-        "summary": "Our reporter Emma Bubola visits the foothills of the Argentine Andes to find out why a giant Chinese-sponsored telescope is sitting dismembered.",
+        "published": "2026-05-11T11:32:28+00:00",
+        "summary": "Nearly two dozen countries were moving to repatriate their citizens who were aboard the cruise ship where three passengers died in a hantavirus outbreak.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Britain’s Electorate Is ‘Splintering.’ Can Its System Stand the Strain?",
-        "url": "https://www.nytimes.com/2026/05/09/world/europe/britain-elections-starmer-labour-reform.html",
+        "title": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
+        "url": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
         "source": "NYT World",
-        "published": "2026-05-10T06:53:43+00:00",
-        "summary": "Insurgent parties like Reform U.K. surged at the polls this week. But the British electoral system wasn’t built for multiparty democracy.",
+        "published": "2026-05-11T11:31:26+00:00",
+        "summary": "The health authorities are working to calm fears and contain the rare virus. Three passengers died after traveling on the ship, and several others fell ill or tested positive.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Prague derby abandoned after fans storm pitch with Slavia seconds from title",
-        "url": "https://www.theguardian.com/football/2026/may/10/slavia-sparta-prague-derby-abandoned-fans-storm-pitch-title",
+        "title": "EU’s Kallas criticises Putin’s ‘very cynical’ Ukraine ceasefire calls and rejects suggestion of Schröder as mediator – Europe live",
+        "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
         "source": "The Guardian World",
-        "published": "2026-05-10T06:51:00+00:00",
-        "summary": "Sparta keeper Surovcik says he will pursue legal actionSlavia chairman Tvrdik calls incident in derby ‘disgrace’The derby between Slavia Prague and Sparta Prague was abandoned on Saturday after hundreds of home fans stormed the pitch in the closing minutes, when Slavia were leading 3-2 at their Fortuna Stadium and seconds away from clinching the Czech League title.Slavia supporters breached securi",
+        "published": "2026-05-11T11:27:12+00:00",
+        "summary": "EU’s foreign policy chief and the ex-Estonian PM dismiss Putin’s suggestion that former German chancellor could coordinate talksBack to Vladimir Putin’s suggestions of ending his aggression on Ukraine, German defence minister Boris Pistorius said it could be another deception while the Russian president tries to distract from his country’s own weakness, Reuters reported.Putin could end the war him",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Cruise ship hit by hantavirus outbreak arrives in Tenerife",
-        "url": "https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-10T06:48:20+00:00",
-        "summary": "Hantavirus is usually spread by rodents but can in rare cases be transmitted person to person.",
+        "title": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
+        "url": "https://www.theguardian.com/environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks",
+        "source": "The Guardian World",
+        "published": "2026-05-11T11:20:08+00:00",
+        "summary": "Move by largest donor to environment programme poses further uncertainty for already troubled negotiations The largest donor to the United Nations Environment Programme (Unep) has paused funding to the body before its revised budget on 12 May, triggering concern among member states and NGOs.The news could carry significance for the already troubled plastic treaty negotiations being overseen by Une",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
-        "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+        "title": "US and French nationals test positive for hantavirus after leaving ship",
+        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-10T06:42:04+00:00",
-        "summary": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has arrived, after a deadly hantavirus outbreak.",
+        "published": "2026-05-11T11:09:01+00:00",
+        "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Debian must ship reproducible packages",
-        "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
-        "source": "Hacker News Front",
-        "published": "2026-05-10T05:26:03+00:00",
-        "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html\nComments URL: https://news.ycombinator.com/item?id=48081245\nPoints: 67\n# Comments: 13",
+        "title": "Windows 11 is getting a macOS-like speed boost",
+        "url": "https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost",
+        "source": "The Verge",
+        "published": "2026-05-11T11:12:42+00:00",
+        "summary": "Microsoft is currently testing a new speed boost feature in Windows 11 that is designed to improve app launch times and make things like the Start menu feel more responsive. The feature, which is reportedly called \"Low Latency Profile,\" will ramp up CPU frequency in short bursts to improve the speed of menus, flyouts, apps, [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
-        "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+        "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
+        "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
         "source": "Hacker News Front",
-        "published": "2026-05-10T04:47:45+00:00",
-        "summary": "Article URL: https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/\nComments URL: https://news.ycombinator.com/item?id=48081094\nPoints: 8\n# Comments: 4",
+        "published": "2026-05-11T11:05:04+00:00",
+        "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/\nComments URL: https://news.ycombinator.com/item?id=48093446\nPoints: 10\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Gemini API File Search is now multimodal",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-        "source": "Hacker News Front",
-        "published": "2026-05-10T03:22:02+00:00",
-        "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 65\n# Comments: 8",
+        "title": "A Chevron Texas Power Plant Seeks School District Tax Break",
+        "url": "https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/",
+        "source": "Wired",
+        "published": "2026-05-11T11:00:00+00:00",
+        "summary": "The move could save the oil company hundreds of millions, even as Texas lawmakers start looking at reining in incentives for data centers.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-        "url": "https://github.com/imtomt/ymawky",
-        "source": "Hacker News Front",
-        "published": "2026-05-10T03:01:44+00:00",
-        "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves custom error pages for any HTTP error response, supports directory listing, and has (some) mitigations a",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-        "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
+        "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
         "source": "TechCrunch",
-        "published": "2026-05-10T02:00:00+00:00",
-        "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "published": "2026-05-11T10:58:00+00:00",
+        "summary": "Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Sparse Cholesky Elimination Tree",
-        "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+        "title": "Forza Horizon 6 has been leaked and cracked a week before its release",
+        "url": "https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked",
+        "source": "The Verge",
+        "published": "2026-05-11T10:21:17+00:00",
+        "summary": "The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates. The download appeared on file sharing sites after some Steam users were allegedly able to obtain access to an unencrypted preload version of the game. Forza Horizon 6 isn't supposed to [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Ratty – A terminal emulator with inline 3D graphics",
+        "url": "https://ratty-term.org/",
         "source": "Hacker News Front",
-        "published": "2026-05-10T01:52:55+00:00",
-        "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\nComments URL: https://news.ycombinator.com/item?id=48080221\nPoints: 24\n# Comments: 0",
+        "published": "2026-05-11T10:13:04+00:00",
+        "summary": "Article URL: https://ratty-term.org/\nComments URL: https://news.ycombinator.com/item?id=48093100\nPoints: 55\n# Comments: 21",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Rust but Lisp",
-        "url": "https://github.com/ThatXliner/rust-but-lisp",
+        "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
+        "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
         "source": "Hacker News Front",
-        "published": "2026-05-09T21:46:27+00:00",
-        "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 124\n# Comments: 65",
+        "published": "2026-05-11T10:04:47+00:00",
+        "summary": "Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html\nComments URL: https://news.ycombinator.com/item?id=48093043\nPoints: 15\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-        "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "source": "TechCrunch",
-        "published": "2026-05-09T21:45:00+00:00",
-        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "title": "CUDA Proves Nvidia Is a Software Company",
+        "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+        "source": "Wired",
+        "published": "2026-05-11T10:00:00+00:00",
+        "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,65 +186,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "“AI의 거짓말, 절반으로 줄었다”…챗GPT ‘GPT-5.5 인스턴트’ 전면 도입",
-        "url": "https://byline.network/2026/05/0506-4/",
-        "source": "ByLine Network",
-        "published": "2026-05-10T07:21:30+00:00",
-        "summary": "인공지능(AI)이 그럴듯하게 거짓말로 답변하는 시대는 저물고 있다. 그동안 법률이나 금융 등 치명적인 오류가 발생할 수 있는 전문 분야에서 ‘환각 현상’은 AI의 최대 약점으로 꼽혀왔다. 환각 현상이란 생성형 AI가 학습 데이터의 빈틈을 메우기 위해 사실이 아닌 내용을 마치 진짜 정답인 것처럼 매끄럽고 당당하게 지어내는 현상을 말한다. 한마디로 믿었던 AI가 우리에게 거짓 정보를 알려줬던 것이다. 오픈AI가 이 같은 현상을 절반 이상 줄인 새로운 챗GPT(ChatGPT) 기본 모델을 전격 도입했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "메신저⭢에이전틱 AI 플랫폼으로…전선 준비 마친 카카오",
-        "url": "https://byline.network/2026/05/07_10287734/",
-        "source": "ByLine Network",
-        "published": "2026-05-10T07:19:07+00:00",
-        "summary": "카카오가 에이전트 AI를 향한 카카오톡의 진화를 본격화한다. 메신저 앱인 카카오톡을, 이용자의 의도를 이해하고 실행까지 이어지는 에이전틱 AI 플랫폼으로 탈바꿈시킨다는 목표다.\n\n카카오는 기술력 확보와 생태계 등 에이전트 AI 실현을 위한 전선을 갖췄다. 자체 모델의 진화와 자체 토크나이저 개발, 그리고 분산형 에이전트 아키텍처 형태의 에이전트 AI 플랫폼까지 구축했다. 챗지피티 포 카카오·카나나 인 카카오톡·카나나 서치 등 다양한 서비스 라인업도 마련, 5000만 이용자에게 에이전트 경험을 제공한다는 전략이다.\n\n새로운 목표를 위해 달릴 체력도 이미 마련했다. 광고와 커머스를 중심으로 카카오는 8개 분기만에 연결기준 매출 두 자리수 성장세를 회복했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[생산적금융 대전환⑧] 농협금융, 93조 투입해 ‘지역밀착형 금융 전환’ 선도",
-        "url": "https://byline.network/2026/05/0508-4/",
-        "source": "ByLine Network",
-        "published": "2026-05-10T07:17:08+00:00",
-        "summary": "농협금융지주가 오는 2030년까지 5년간 생산적금융 93조원 공급을 포함한 ‘NH상생성장 프로젝트’를 추진한다. 단순히 기업에 돈을 빌려주고 이자를 받는 대부(貸付)의 관계를 넘어, 금융이 자원 배분의 허브로서 기술력과 성장 잠재력을 지닌 기업에 자금을 연결하겠다는 구상이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: Enterprise AI, Space Tech And Biotech Top The Ranks",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-sierra-astrani-anagram-therapeutics/",
-        "source": "Crunchbase News",
-        "published": "2026-05-08T18:06:16+00:00",
-        "summary": "Another week, another infusion of big AI rounds.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Sector Snapshot: Sales And Marketing Gets An AI Makeover",
-        "url": "https://news.crunchbase.com/sales-marketing/gtm-ai-startup-funding-netomi-hightouch/",
-        "source": "Crunchbase News",
-        "published": "2026-05-08T11:00:34+00:00",
-        "summary": "So far in 2026, companies in sales, marketing and CRM categories have pulled in around $2.7 billion globally in seed- through growth-stage funding, per Crunchbase data.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Missile startups are ‘the new wave’ in European defence",
-        "url": "https://sifted.eu/articles/missile-startups-european-defence/",
+        "title": "SPACs and megarounds: What's going on in European quantum?",
+        "url": "https://sifted.eu/articles/europe-quantum-computing-record-megarounds/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-08T10:45:23+00:00",
+        "published": "2026-05-11T10:45:28+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,27 +197,187 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "오픈AI, 사이버보안 특화 모델 ‘GPT-5.5-사이버’ 제한 공개",
-        "url": "https://byline.network/2026/05/8-463/",
-        "source": "ByLine Network",
-        "published": "2026-05-08T10:02:38+00:00",
-        "summary": "오픈AI가 사이버 보안에 특화된 인공지능(AI) 모델인 ‘GPT-5.5-사이버(Cyber)’를 공개했다. 누구나 접속할 수 있는 일반 공개가 아니라 제한된 프리뷰 형태다. 이번 발표로 오픈AI는 GPT-5.5 사이버보안 접근 프로그램 일환으로 운영 중인 ‘신뢰 기반 접근(TAC)’을 확장한다.",
+        "title": "How UK investment can transform European scaleups",
+        "url": "https://sifted.eu/articles/how-uk-investment-can-transform-european-scaleups-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-11T10:01:03+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "‘The tools are not being designed for them’: The AI opportunity in Europe’s trades sector",
-        "url": "https://sifted.eu/articles/ai-opportunity-in-europes-trades-sector-brnd/",
+        "title": "컬리 1분기 영업이익이 13배 늘어난 이유",
+        "url": "https://byline.network/2026/05/11_291828747/",
+        "source": "ByLine Network",
+        "published": "2026-05-11T09:40:05+00:00",
+        "summary": "컬리가 올해 들어 1분기 만에 지난해 연간 영업이익의 두 배에 가까운 실적을 기록했다. 컬리N마트 등을 기반으로 매출이 고성장한 가운데, 영업 레버리지 효과가 커진 점이 긍정적인 영향을 미쳤다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[미토스 이후, 전문가에게 듣는다④] 최영철 SGA솔루션즈 대표 “미토스는 핵폭탄급, 제로 트러스트 전환 앞당겨야”",
+        "url": "https://byline.network/2026/05/11-648/",
+        "source": "ByLine Network",
+        "published": "2026-05-11T08:15:54+00:00",
+        "summary": "최영철 SGA솔루션즈 대표는 미토스의 영향을 크게 두 갈래로 봤다. 하나는 시큐어코딩, 취약점 점검, 모의해킹 같은 보안산업 일부가 직접 받을 충격이다. 다른 하나는 미토스 같은 AI 모델이 상용화됐을 때 기업과 공공기관의 보안 운영 방식이 어떻게 바뀌어야 하는지의 문제다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "인간을 협박하던 AI, 앤트로픽은 어떻게 멈추게 했나",
+        "url": "https://byline.network/2026/05/anthropic-2/",
+        "source": "ByLine Network",
+        "published": "2026-05-11T07:45:48+00:00",
+        "summary": "AI가 인간을 협박하는 일이 실제로 일어난다고 한다. 앤트로픽의 연구에 따르면, 클로드 오푸스 4는 자신에게 위협적인 말을 하면 96%의 확률로 협박을 했다고 한다. 텍스트로 이런 메시지를 출력하거나, 실제로 작업을 방해하는 행동을 취하기도 했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[전문가 기고] AI 강국의 진짜 척도는 무엇인가",
+        "url": "https://byline.network/2026/05/douzone/",
+        "source": "ByLine Network",
+        "published": "2026-05-11T05:38:47+00:00",
+        "summary": "AI 강국을 향한 경쟁이 가속화되고 있다. 그런데 여기서 먼저 물어야 할 질문이 있다. 좋은 AI 모델을 몇 개 보유했느냐가 AI 강국의 진짜 척도인가. 그렇게 생각하지 않는다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The hottest cities for robotics deals in Europe",
+        "url": "https://sifted.eu/articles/the-hottest-cities-for-robotics-deals-in-europe/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-08T09:00:18+00:00",
+        "published": "2026-05-11T05:00:48+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "What 2,800 funding rounds reveal about how startups spend money",
+        "url": "https://sifted.eu/articles/funding-round-spending-startups-series-early-late/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-11T05:00:32+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Japan’s Military Buildup Explained",
+        "url": "https://www.youtube.com/watch?v=kVtYPm4b-Hw",
+        "source": "TLDR News Global",
+        "published": "2026-05-11T10:28:28+00:00",
+        "summary": "Subscribe to Too Long: https://toolong.news/\nLearn More About TLDR Party: https://toolong.news/party\nWhat's the Big Deal with Greenland Documentary: https://toolong.news/pages/whats-the-big-deal-with-greenland\n\nJapan appears to be shedding its post-war military taboos, with the lifting of some arms ",
+        "thumbnail": "https://i4.ytimg.com/vi/kVtYPm4b-Hw/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "kVtYPm4b-Hw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "코스피 7,800 돌파, 박탈감에 시달리는 사람들",
+        "url": "https://www.youtube.com/watch?v=dgCTXeegLIM",
+        "source": "슈카월드",
+        "published": "2026-05-11T10:25:23+00:00",
+        "summary": "0:00 코스피 7,800 무한 상승?\n12:06 미국 사람들이 한국 주식 사려고 잠 못드는 시대\n19:21 역대급 주식 FOMO 현상\n27:09 벌긴 벌었는데, '푼돈'에 불과하잖아?",
+        "thumbnail": "https://i1.ytimg.com/vi/dgCTXeegLIM/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "dgCTXeegLIM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "묵묵히 자신의 차례를 기다리고 있는 당신에게 | 신수정",
+        "url": "https://www.youtube.com/watch?v=YX9vqXNoZtI",
+        "source": "EO 이오",
+        "published": "2026-05-11T09:03:52+00:00",
+        "summary": "\"저를 찾아오는 많은 사람들은 똑똑하고 성실한 사람들입니다. 하지만 그들에겐 공통적인 특징이 하나 있습니다...\"\n\n각자의 자리에서 열심히 노력하지만 그에 따른 마땅한 결과를 얻지 못하는 사람들에게, \n천만 직장인의 멘토이자 페이스북의 현인인 신수정 대표님이 전하는 이야기입니다.  \n\nAI 시대에 더욱 중요해진 가치와 통찰을 영상으로 확인하세요!\n\n챕터 \n0:00 인트로\n1:12 Chapter 0. 천만인의 멘토 & 페이스북의 현인\n2:01 Chapter 1. 셀프 브랜딩의 시대 \n3:22 Chapter 2. 축적과 발산 \n5:37",
+        "thumbnail": "https://i2.ytimg.com/vi/YX9vqXNoZtI/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "YX9vqXNoZtI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“메모리 효율화는 올 데까지 왔다. 그런데 수요는 상방이 없다” (조용민 언바운드랩스 대표)",
+        "url": "https://www.youtube.com/watch?v=uw8tEu-Njl4",
+        "source": "티타임즈TV",
+        "published": "2026-05-11T09:01:17+00:00",
+        "summary": "“메모리 반도체를 더 효율화하는 것은 끝까지 왔거든요. 그런데 수요는 지금 상방이 없어요. 압축에는 천장이 있고 수요에는 천장이 아예 없다는 거죠. 그래서 인프라는 앞으로도 잘될 거다. 그런데 플레이어들이 정해져 있어요. 도체 회사들, 파워회사들이죠. 이런 케이스를 빼놓고는 지금 머니가 약간 서비스쪽에 있는 회사들로 가고 있어요.” \n \n벤처캐피탈은 주식시장을 어떻게 보고 있을까요? 반도체 회사 등 AI 데이터센터의 인프라 회사들의 랠리는 어디까지 갈까요? 상장을 준비하는 스페이스X, 앤트로픽, 오픈AI는 무조건 들어가야 할까요? ",
+        "thumbnail": "https://i2.ytimg.com/vi/uw8tEu-Njl4/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "uw8tEu-Njl4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“I’m doing this to fight evil\" - Spencer Pratt on Running for LA Mayor",
+        "url": "https://www.youtube.com/shorts/dMXwOJyeobw",
+        "source": "All-In Podcast",
+        "published": "2026-05-11T03:15:59+00:00",
+        "summary": "Thanks to our partner http://Axon.ai for making this possible\n\nMost advertisers have never heard of the platform with an $11B annual run rate in ad spend.\n\nhttp://Axon.ai by AppLovin — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spe",
+        "thumbnail": "https://i1.ytimg.com/vi/dMXwOJyeobw/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "dMXwOJyeobw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back",
+        "url": "https://www.youtube.com/watch?v=GCpjy3TC8Pg",
+        "source": "All-In Podcast",
+        "published": "2026-05-10T21:00:06+00:00",
+        "summary": "(0:00) Spencer Pratt vs. the Machine\n(3:01) Inside the Palisades Fire: Drained Reservoirs, No Sirens & Watching His House Burn on His Phone\n(14:03) Why He's Running for Mayor: FireAid's $100M Scandal & the NGO Corruption Nobody Talks About\n(28:10) Karen Bass at 20% & the Real State of Los Angeles: C",
+        "thumbnail": "https://i4.ytimg.com/vi/GCpjy3TC8Pg/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "GCpjy3TC8Pg",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The race after Enzo Ferrari's death Ferrari finished one-two at Monza",
+        "url": "https://www.youtube.com/shorts/BjsIZcfp_08",
+        "source": "Acquired",
+        "published": "2026-05-10T20:11:04+00:00",
+        "summary": "#business #podcast \n\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "thumbnail": "https://i3.ytimg.com/vi/BjsIZcfp_08/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "BjsIZcfp_08",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -315,111 +420,6 @@
         "extras": {
           "theme": "deep_dive",
           "videoId": "NbN2zpQewak",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What's Hidden Under Antarctica?",
-        "url": "https://www.youtube.com/watch?v=XfGEMCb6BQU",
-        "source": "Cleo Abram",
-        "published": "2026-05-09T13:04:27+00:00",
-        "summary": "Something's hiding below the ice in Antarctica…. \nFor optimistic science and tech stories, subscribe!\n\nIn 1970, a team of Soviet scientists started drilling. For 28 years, they kept going… until after nearly 4,000 meters… they suddenly stopped. Because they’d found something unimaginable: Liquid wat",
-        "thumbnail": "https://i1.ytimg.com/vi/XfGEMCb6BQU/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "XfGEMCb6BQU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "독일 내부를 분열시키고  있는 징병제 추진",
-        "url": "https://www.youtube.com/watch?v=gZ1HlsRJV1w",
-        "source": "슈카월드",
-        "published": "2026-05-09T12:13:21+00:00",
-        "summary": "0:00 주독미군을 철수시키겠다는 트럼프\n6:18 강력한 병역 법안을 발표하는 글로벌 국가들\n12:16 징병제에 크게 반발하는 독일 청년들\n18:13 \"왜 우리만 희생하는가\"\n23:49 왜 남성만 부담하는가",
-        "thumbnail": "https://i4.ytimg.com/vi/gZ1HlsRJV1w/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "gZ1HlsRJV1w",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Are US Treasuries Losing Their Reserve Status?",
-        "url": "https://www.youtube.com/watch?v=_SjDhcUWntc",
-        "source": "TLDR News Global",
-        "published": "2026-05-09T09:00:07+00:00",
-        "summary": "Subscribe to Too Long: https://toolong.news/\nLearn More About TLDR Party: https://toolong.news/party\nWhat's the Big Deal with Greenland Documentary: https://toolong.news/pages/whats-the-big-deal-with-greenland\n\nThe US economy is not doing too great: the debt to GDP ratio is the highest it's been sin",
-        "thumbnail": "https://i4.ytimg.com/vi/_SjDhcUWntc/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "_SjDhcUWntc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Elon’s Anthropic Deal, The Next AI Monopoly?, “FDA for AI” Panic, Trading the AI Boom",
-        "url": "https://www.youtube.com/watch?v=10MdOvK-aG4",
-        "source": "All-In Podcast",
-        "published": "2026-05-08T22:46:01+00:00",
-        "summary": "(0:00) Bestie intros! Thoughts on the LA mayor election\n(4:38) SpaceX-Anthropic deal, Elon Web Services, SpaceX IPO valuation, Anthropic's insane growth trajectory\n(26:48) Is Anthropic the next great monopoly? Early signals or major overreaction?\n(35:21) \"FDA for AI\" freakout, how the White House th",
-        "thumbnail": "https://i2.ytimg.com/vi/10MdOvK-aG4/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "10MdOvK-aG4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "\"삼성, 현대차 미국공장 경쟁력이 한국 앞서는 건 막을 수 없는 미래\" (이경일 솔트룩스 대표)",
-        "url": "https://www.youtube.com/watch?v=bDWqOombw6g",
-        "source": "티타임즈TV",
-        "published": "2026-05-08T22:00:44+00:00",
-        "summary": "📢전 회차 VOD 무제한 제공!!!📢\n\n🤔매일 쓰는 구글의 AI만 제대로 써도\nAI의 달인이 될 수 있습니다😎\n\n✔ NotebookLM으로 PDF와 회의록을 1페이지 브리핑으로 요약!\n✔ Forms로 들어온 내용을 AI가 자동 분류하고 답장 초안까지 작성!\n✔ Sheets의 명단을 읽어 개인별 맞춤 메일을 자동으로 발송하는 AI 비서 구축!\n✔ Google Vids로 텍스트 보고서를 '60초 영상 브리핑'으로 변환!\n\n기능 나열식 공부는 이제 그만!\n내 업무에 AI를 녹여내는 시나리오를\n티타임즈의 라이브 실습 강연으로 완성하세요\n\n",
-        "thumbnail": "https://i3.ytimg.com/vi/bDWqOombw6g/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "bDWqOombw6g",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Ferrari in Ferris Bueller was actually a Ford",
-        "url": "https://www.youtube.com/shorts/AVthBhn4Fuk",
-        "source": "Acquired",
-        "published": "2026-05-08T20:24:16+00:00",
-        "summary": "#business #podcast \n\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i2.ytimg.com/vi/AVthBhn4Fuk/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "AVthBhn4Fuk",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ben Horowitz on American Dynamism and the Future of AI | The a16z Show",
-        "url": "https://www.youtube.com/watch?v=X9k53P-2SOg",
-        "source": "a16z",
-        "published": "2026-05-08T15:46:18+00:00",
-        "summary": "David Ulevitch speaks with Ben Horowitz about what it means to lead the technology industry at scale, and the responsibilities that come with it. Following the firm’s largest-ever fundraise, they discuss how venture capital, technology, and national strategy are increasingly intertwined.\n\nThe conver",
-        "thumbnail": "https://i1.ytimg.com/vi/X9k53P-2SOg/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "X9k53P-2SOg",
           "via": "rss"
         }
       }
