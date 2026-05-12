@@ -1,37 +1,15 @@
 {
-  "generated_at": "2026-05-11T11:48:14.442399+00:00",
+  "generated_at": "2026-05-12T02:49:09.146786+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Starmer Promises Urgent Change as He Battles to Save Premiership",
-        "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
-        "source": "NYT World",
-        "published": "2026-05-11T11:41:23+00:00",
-        "summary": "Prime Minister Keir Starmer of Britain used a speech to attempt to quell a mutiny in the Labour Party after last week’s dire election results.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/uk-pm-keir-starmer-vows-stronger-performance-as-calls-for-resignation-grow?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-11T11:34:21+00:00",
-        "summary": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
         "title": "Sara Duterte, Philippine Vice President, Is Impeached, Again",
         "url": "https://www.nytimes.com/2026/05/11/world/asia/sara-duterte-philippine-impeached.html",
         "source": "NYT World",
-        "published": "2026-05-11T11:34:11+00:00",
+        "published": "2026-05-12T02:29:24+00:00",
         "summary": "But the prosecution of Ms. Duterte, who has become the archrival to President Ferdinand R. Marcos Jr., is likely to fail again in the Senate.",
         "thumbnail": "",
         "extras": {}
@@ -39,55 +17,77 @@
       {
         "category": "world",
         "kind": "article",
-        "title": "Where Are the Passengers of the Hantavirus-Hit Cruise Ship Now?",
-        "url": "https://www.nytimes.com/2026/05/11/world/hantavirus-outbreak-cruise-ship-passengers.html",
+        "title": "Starmer Faces Mounting Calls From Own Party to Resign as British Prime Minister",
+        "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
         "source": "NYT World",
-        "published": "2026-05-11T11:32:28+00:00",
-        "summary": "Nearly two dozen countries were moving to repatriate their citizens who were aboard the cruise ship where three passengers died in a hantavirus outbreak.",
+        "published": "2026-05-12T02:26:05+00:00",
+        "summary": "Dozens of Labour Party leaders called on Prime Minister Keir Starmer to leave office, and several government aides announced their resignations.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "What to Know About the Hantavirus Outbreak on an Atlantic Cruise Ship",
-        "url": "https://www.nytimes.com/article/hantavirus-cruise-ship-outbreak-hondius.html",
+        "title": "Federal budget 2026 live updates: treasurer Jim Chalmers to present budget speech tonight – latest news",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/12/budget-2026-live-updates-federal-treasurer-jim-chalmers-speech-time-tonight-latest-news-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-05-12T02:25:03+00:00",
+        "summary": "Treasurer says housing market ‘isn’t working’ and tax system around it is ‘out of whack’. Follow the latest updatesFederal budget 2026: what we know so farSee all our Australia budget 2026 coverageGet our breaking news email, free app or daily news podcast‘Let’s build more houses … not start taxing them’, shadow finance minister saysClaire Chandler, the shadow minister for finance, spoke a moment ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Jim Chalmers says budget to address economic anxieties ‘driving’ Australians to One Nation",
+        "url": "https://www.theguardian.com/australia-news/2026/may/12/budget-2026-jim-chalmers-economic-anxieties-one-nation-australia-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-05-12T02:08:17+00:00",
+        "summary": "Farrer win casts shadow over budget as government signals it’s alive to populist rightwing threat Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOne Nation has cast a shadow over the federal budget and influenced decisions to reform negative gearing and taxes, with Jim Chalmers admitting many Australians are feeling economic anxieti",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
+        "url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
         "source": "NYT World",
-        "published": "2026-05-11T11:31:26+00:00",
-        "summary": "The health authorities are working to calm fears and contain the rare virus. Three passengers died after traveling on the ship, and several others fell ill or tested positive.",
+        "published": "2026-05-12T02:00:24+00:00",
+        "summary": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "EU’s Kallas criticises Putin’s ‘very cynical’ Ukraine ceasefire calls and rejects suggestion of Schröder as mediator – Europe live",
-        "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
-        "source": "The Guardian World",
-        "published": "2026-05-11T11:27:12+00:00",
-        "summary": "EU’s foreign policy chief and the ex-Estonian PM dismiss Putin’s suggestion that former German chancellor could coordinate talksBack to Vladimir Putin’s suggestions of ending his aggression on Ukraine, German defence minister Boris Pistorius said it could be another deception while the Russian president tries to distract from his country’s own weakness, Reuters reported.Putin could end the war him",
+        "title": "Syria restores credit card payments in effort to rejoin the global economy",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/syria-restores-credit-card-payments-in-effort-to-rejoin-the-global-economy?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-12T01:58:48+00:00",
+        "summary": "Syria restores credit card payments in effort to rejoin the global economy.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
-        "url": "https://www.theguardian.com/environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks",
-        "source": "The Guardian World",
-        "published": "2026-05-11T11:20:08+00:00",
-        "summary": "Move by largest donor to environment programme poses further uncertainty for already troubled negotiations The largest donor to the United Nations Environment Programme (Unep) has paused funding to the body before its revised budget on 12 May, triggering concern among member states and NGOs.The news could carry significance for the already troubled plastic treaty negotiations being overseen by Une",
+        "title": "Roads blocked in Bolivia as protesters demand president’s resignation",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_bolivia-protesters-demand-president-resign-110526?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-12T01:36:55+00:00",
+        "summary": "Bolivia faces growing unrest as widespread road blockades disrupt travel across major cities.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US and French nationals test positive for hantavirus after leaving ship",
-        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says Iran ceasefire is on 'massive life support'",
+        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-11T11:09:01+00:00",
-        "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+        "published": "2026-05-12T00:59:12+00:00",
+        "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,93 +96,115 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Windows 11 is getting a macOS-like speed boost",
-        "url": "https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost",
-        "source": "The Verge",
-        "published": "2026-05-11T11:12:42+00:00",
-        "summary": "Microsoft is currently testing a new speed boost feature in Windows 11 that is designed to improve app launch times and make things like the Start menu feel more responsive. The feature, which is reportedly called \"Low Latency Profile,\" will ramp up CPU frequency in short bursts to improve the speed of menus, flyouts, apps, [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
-        "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+        "title": "Claude Platform on AWS",
+        "url": "https://claude.com/blog/claude-platform-on-aws",
         "source": "Hacker News Front",
-        "published": "2026-05-11T11:05:04+00:00",
-        "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/\nComments URL: https://news.ycombinator.com/item?id=48093446\nPoints: 10\n# Comments: 4",
+        "published": "2026-05-12T01:24:29+00:00",
+        "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 12\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "A Chevron Texas Power Plant Seeks School District Tax Break",
-        "url": "https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/",
-        "source": "Wired",
-        "published": "2026-05-11T11:00:00+00:00",
-        "summary": "The move could save the oil company hundreds of millions, even as Texas lawmakers start looking at reining in incentives for data centers.",
+        "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
+        "url": "https://www.npmjs.com/package/@gkiely/safe-install",
+        "source": "Hacker News Front",
+        "published": "2026-05-12T00:30:10+00:00",
+        "summary": "In light of the ongoing npm supply chain compromises, I built safe-install:https://www.npmjs.com/package/@gkiely/safe-installIt brings a couple of protections I wanted from npm but are not built in.Similar to Bun’s trusted dependencies, it lets you disable install scripts by default and define a list of dependencies that are allowed to run build/install scripts:https://bun.com/docs/guides/install/",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
-        "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+        "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+        "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
         "source": "TechCrunch",
-        "published": "2026-05-11T10:58:00+00:00",
-        "summary": "Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.",
+        "published": "2026-05-12T00:09:01+00:00",
+        "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Forza Horizon 6 has been leaked and cracked a week before its release",
-        "url": "https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked",
-        "source": "The Verge",
-        "published": "2026-05-11T10:21:17+00:00",
-        "summary": "The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates. The download appeared on file sharing sites after some Steam users were allegedly able to obtain access to an unencrypted preload version of the game. Forza Horizon 6 isn't supposed to [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Ratty – A terminal emulator with inline 3D graphics",
-        "url": "https://ratty-term.org/",
-        "source": "Hacker News Front",
-        "published": "2026-05-11T10:13:04+00:00",
-        "summary": "Article URL: https://ratty-term.org/\nComments URL: https://news.ycombinator.com/item?id=48093100\nPoints: 55\n# Comments: 21",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
-        "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
-        "source": "Hacker News Front",
-        "published": "2026-05-11T10:04:47+00:00",
-        "summary": "Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html\nComments URL: https://news.ycombinator.com/item?id=48093043\nPoints: 15\n# Comments: 4",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "CUDA Proves Nvidia Is a Software Company",
-        "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+        "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+        "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
         "source": "Wired",
-        "published": "2026-05-11T10:00:00+00:00",
-        "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+        "published": "2026-05-11T23:51:35+00:00",
+        "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "OpenAI just released its answer to Claude Mythos",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+        "source": "The Verge",
+        "published": "2026-05-11T23:05:01+00:00",
+        "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+        "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+        "source": "TechCrunch",
+        "published": "2026-05-11T23:04:10+00:00",
+        "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+        "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+        "source": "The Verge",
+        "published": "2026-05-11T22:40:20+00:00",
+        "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Linux bitten by second severe vulnerability in as many weeks",
+        "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+        "source": "Ars Technica",
+        "published": "2026-05-11T22:28:19+00:00",
+        "summary": "Production-version patches are coming online and should be installed pronto.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "startup": [
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[해시드와 AI 창업자①] 키로, 러닝을 ‘영토 게임’으로 바꾸다",
+        "url": "https://byline.network/2026/05/0512-5/",
+        "source": "ByLine Network",
+        "published": "2026-05-11T22:24:30+00:00",
+        "summary": "글로벌 웹3.0 벤처캐피털(VC) 해시드가 바이브코딩이라는 새로운 실험에 뛰어들며 AI 네이티브 빌더(AI 기반 창업자) 발굴 프로그램 ‘나이트로 바이 해시드(Nitro by Hashed)’를 선보였다. 해당 프로그램의 선발 스타트업 중 하나인 키로는 올해 1월 출시됐으며, 지난해 10월 말 창업 과정을 담은 영상을 처음 공개하며 프로젝트를 알렸다. 비개발자 출신 1인 창업자인 안정우 대표가 이용자들과 실시간으로 아이디어를 공유하며 서비스를 함께 만들어간 과정이 러너들의 호응을 끌어냈다. 키로는 출시 3개월 만에 가입자 8만명을 돌파했다. 안 대표를 만나 해시드와 함께하며 달라진 점과 향후 계획 등을 들어봤다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "점점 더 가까워지는 네이버와 컬리",
+        "url": "https://byline.network/2026/05/0511/",
+        "source": "ByLine Network",
+        "published": "2026-05-11T13:57:27+00:00",
+        "summary": "국내 IT 플랫폼 네이버와 신선식품 새벽배송 전문 기업 컬리가 물류 파트너로 거듭난다. 330억 원 규모의 지분 투자를 통해 단순한 제휴를 넘어, 서로의 강점을 나누고 약점을 채워주는 단단한 연합체를 구축했다. 지난 6일 컬리의 공식 보도자료에 따르면, 컬리는 네이버를 대상으로 330억 원 규모의 제3자배정 유상증자를 단행했다고 발표했다. 여기서 유상증자란, 회사가 사업을 키우기 위해 새로운 주식을 만들어 돈을 받고 파는 것을 뜻한다. 쉽게 말해 컬리가 자사의 새로운 주식을 만들테니, 네이버에게 돈을 내고 사라고 한 것이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
       {
         "category": "startup",
         "kind": "article",
@@ -248,44 +270,52 @@
         "summary": "AI 강국을 향한 경쟁이 가속화되고 있다. 그런데 여기서 먼저 물어야 할 질문이 있다. 좋은 AI 모델을 몇 개 보유했느냐가 AI 강국의 진짜 척도인가. 그렇게 생각하지 않는다.",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The hottest cities for robotics deals in Europe",
-        "url": "https://sifted.eu/articles/the-hottest-cities-for-robotics-deals-in-europe/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-11T05:00:48+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "What 2,800 funding rounds reveal about how startups spend money",
-        "url": "https://sifted.eu/articles/funding-round-spending-startups-series-early-late/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-11T05:00:32+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
       {
         "category": "videos",
         "kind": "video",
+        "title": "Spencer Pratt on LA’s drastic NGO problem: “They will steal $100M right in your face.”",
+        "url": "https://www.youtube.com/watch?v=hG5vOarnrX8",
+        "source": "All-In Podcast",
+        "published": "2026-05-11T17:26:55Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/hG5vOarnrX8/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "hG5vOarnrX8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Golden Age Thesis | Marc Andreessen on MTS",
+        "url": "https://www.youtube.com/watch?v=k1z0e7bGzq0",
+        "source": "a16z",
+        "published": "2026-05-11T14:30:11Z",
+        "summary": "Erik Torenberg speaks with Marc Andreessen about the state of AI, media, and the broader cultural and economic shifts shaping ...",
+        "thumbnail": "https://i.ytimg.com/vi/k1z0e7bGzq0/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "k1z0e7bGzq0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
         "title": "Japan’s Military Buildup Explained",
         "url": "https://www.youtube.com/watch?v=kVtYPm4b-Hw",
         "source": "TLDR News Global",
-        "published": "2026-05-11T10:28:28+00:00",
-        "summary": "Subscribe to Too Long: https://toolong.news/\nLearn More About TLDR Party: https://toolong.news/party\nWhat's the Big Deal with Greenland Documentary: https://toolong.news/pages/whats-the-big-deal-with-greenland\n\nJapan appears to be shedding its post-war military taboos, with the lifting of some arms ",
-        "thumbnail": "https://i4.ytimg.com/vi/kVtYPm4b-Hw/hqdefault.jpg",
+        "published": "2026-05-11T10:28:28Z",
+        "summary": "Subscribe to Too Long: https://toolong.news/ Learn More About TLDR Party: https://toolong.news/party What's the Big Deal with ...",
+        "thumbnail": "https://i.ytimg.com/vi/kVtYPm4b-Hw/mqdefault.jpg",
         "extras": {
           "theme": "news",
           "videoId": "kVtYPm4b-Hw",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -294,13 +324,13 @@
         "title": "코스피 7,800 돌파, 박탈감에 시달리는 사람들",
         "url": "https://www.youtube.com/watch?v=dgCTXeegLIM",
         "source": "슈카월드",
-        "published": "2026-05-11T10:25:23+00:00",
-        "summary": "0:00 코스피 7,800 무한 상승?\n12:06 미국 사람들이 한국 주식 사려고 잠 못드는 시대\n19:21 역대급 주식 FOMO 현상\n27:09 벌긴 벌었는데, '푼돈'에 불과하잖아?",
-        "thumbnail": "https://i1.ytimg.com/vi/dgCTXeegLIM/hqdefault.jpg",
+        "published": "2026-05-11T10:25:23Z",
+        "summary": "0:00 코스피 7800 무한 상승? 12:06 미국 사람들이 한국 주식 사려고 잠 못드는 시대 19:21 역대급 주식 FOMO 현상 27:09 벌긴 벌었 ...",
+        "thumbnail": "https://i.ytimg.com/vi/dgCTXeegLIM/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "dgCTXeegLIM",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -309,13 +339,13 @@
         "title": "묵묵히 자신의 차례를 기다리고 있는 당신에게 | 신수정",
         "url": "https://www.youtube.com/watch?v=YX9vqXNoZtI",
         "source": "EO 이오",
-        "published": "2026-05-11T09:03:52+00:00",
-        "summary": "\"저를 찾아오는 많은 사람들은 똑똑하고 성실한 사람들입니다. 하지만 그들에겐 공통적인 특징이 하나 있습니다...\"\n\n각자의 자리에서 열심히 노력하지만 그에 따른 마땅한 결과를 얻지 못하는 사람들에게, \n천만 직장인의 멘토이자 페이스북의 현인인 신수정 대표님이 전하는 이야기입니다.  \n\nAI 시대에 더욱 중요해진 가치와 통찰을 영상으로 확인하세요!\n\n챕터 \n0:00 인트로\n1:12 Chapter 0. 천만인의 멘토 & 페이스북의 현인\n2:01 Chapter 1. 셀프 브랜딩의 시대 \n3:22 Chapter 2. 축적과 발산 \n5:37",
-        "thumbnail": "https://i2.ytimg.com/vi/YX9vqXNoZtI/hqdefault.jpg",
+        "published": "2026-05-11T09:03:52Z",
+        "summary": "\"저를 찾아오는 많은 사람들은 똑똑하고 성실한 사람들입니다. 하지만 그들에겐 공통적인 특징이 하나 있습니다...\" 각자의 자리에서 ...",
+        "thumbnail": "https://i.ytimg.com/vi/YX9vqXNoZtI/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "YX9vqXNoZtI",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -324,58 +354,43 @@
         "title": "“메모리 효율화는 올 데까지 왔다. 그런데 수요는 상방이 없다” (조용민 언바운드랩스 대표)",
         "url": "https://www.youtube.com/watch?v=uw8tEu-Njl4",
         "source": "티타임즈TV",
-        "published": "2026-05-11T09:01:17+00:00",
-        "summary": "“메모리 반도체를 더 효율화하는 것은 끝까지 왔거든요. 그런데 수요는 지금 상방이 없어요. 압축에는 천장이 있고 수요에는 천장이 아예 없다는 거죠. 그래서 인프라는 앞으로도 잘될 거다. 그런데 플레이어들이 정해져 있어요. 도체 회사들, 파워회사들이죠. 이런 케이스를 빼놓고는 지금 머니가 약간 서비스쪽에 있는 회사들로 가고 있어요.” \n \n벤처캐피탈은 주식시장을 어떻게 보고 있을까요? 반도체 회사 등 AI 데이터센터의 인프라 회사들의 랠리는 어디까지 갈까요? 상장을 준비하는 스페이스X, 앤트로픽, 오픈AI는 무조건 들어가야 할까요? ",
-        "thumbnail": "https://i2.ytimg.com/vi/uw8tEu-Njl4/hqdefault.jpg",
+        "published": "2026-05-11T09:01:17Z",
+        "summary": "메모리 반도체를 더 효율화하는 것은 끝까지 왔거든요. 그런데 수요는 지금 상방이 없어요. 압축에는 천장이 있고 수요에는 천장이 ...",
+        "thumbnail": "https://i.ytimg.com/vi/uw8tEu-Njl4/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "uw8tEu-Njl4",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "“I’m doing this to fight evil\" - Spencer Pratt on Running for LA Mayor",
-        "url": "https://www.youtube.com/shorts/dMXwOJyeobw",
+        "title": "“I’m doing this to fight evil&quot; - Spencer Pratt on Running for LA Mayor",
+        "url": "https://www.youtube.com/watch?v=dMXwOJyeobw",
         "source": "All-In Podcast",
-        "published": "2026-05-11T03:15:59+00:00",
-        "summary": "Thanks to our partner http://Axon.ai for making this possible\n\nMost advertisers have never heard of the platform with an $11B annual run rate in ad spend.\n\nhttp://Axon.ai by AppLovin — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spe",
-        "thumbnail": "https://i1.ytimg.com/vi/dMXwOJyeobw/hqdefault.jpg",
+        "published": "2026-05-11T03:15:59Z",
+        "summary": "Thanks to our partner http://Axon.ai for making this possible Most advertisers have never heard of the platform with an $11B ...",
+        "thumbnail": "https://i.ytimg.com/vi/dMXwOJyeobw/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "dMXwOJyeobw",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back",
-        "url": "https://www.youtube.com/watch?v=GCpjy3TC8Pg",
-        "source": "All-In Podcast",
-        "published": "2026-05-10T21:00:06+00:00",
-        "summary": "(0:00) Spencer Pratt vs. the Machine\n(3:01) Inside the Palisades Fire: Drained Reservoirs, No Sirens & Watching His House Burn on His Phone\n(14:03) Why He's Running for Mayor: FireAid's $100M Scandal & the NGO Corruption Nobody Talks About\n(28:10) Karen Bass at 20% & the Real State of Los Angeles: C",
-        "thumbnail": "https://i4.ytimg.com/vi/GCpjy3TC8Pg/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "GCpjy3TC8Pg",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The race after Enzo Ferrari's death Ferrari finished one-two at Monza",
-        "url": "https://www.youtube.com/shorts/BjsIZcfp_08",
+        "title": "The race after Enzo Ferrari&#39;s death Ferrari finished one-two at Monza",
+        "url": "https://www.youtube.com/watch?v=BjsIZcfp_08",
         "source": "Acquired",
-        "published": "2026-05-10T20:11:04+00:00",
-        "summary": "#business #podcast \n\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i3.ytimg.com/vi/BjsIZcfp_08/hqdefault.jpg",
+        "published": "2026-05-10T20:11:04Z",
+        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/BjsIZcfp_08/mqdefault.jpg",
         "extras": {
           "theme": "deep_dive",
           "videoId": "BjsIZcfp_08",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -384,13 +399,13 @@
         "title": "스탠포드 경제학자가 말하는 AI 시대 생존법 | 스탠포드 경제학자, 바라트 찬다르",
         "url": "https://www.youtube.com/watch?v=2HscbzyzIH8",
         "source": "EO 이오",
-        "published": "2026-05-10T00:00:02+00:00",
-        "summary": "**[오디오 트랙]과 [자막]의 언어를 통일하면 더욱 원활한 시청이 가능합니다.**\n\n\n\n\"책으로 배운 지식(Implementation)은 이제 AI의 영역입니다. 인간의 가치는 이제 '무엇을 할 것인가'를 결정하는 전략적 사고에서 나옵니다.\"\n\n스탠포드 경제학자 바라트 찬다르가 분석한 AI 시대의 노동 시장은 냉혹합니다. 하지만 그는 동시에 '개인화된 학습'이라는 거대한 기회를 말합니다\n\nAI에게 대체되는 '자동화'의 대상이 될 것인가, AI를 도구로 내 능력을 확장하는 '증강'의 주체가 될 것인가? 커리어의 패러다임을 완전히 바",
-        "thumbnail": "https://i3.ytimg.com/vi/2HscbzyzIH8/hqdefault.jpg",
+        "published": "2026-05-10T00:00:02Z",
+        "summary": "[오디오 트랙]과 [자막]의 언어를 통일하면 더욱 원활한 시청이 가능합니다.** \"책으로 배운 지식(Implementation)은 이제 AI의 영역 ...",
+        "thumbnail": "https://i.ytimg.com/vi/2HscbzyzIH8/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "2HscbzyzIH8",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -399,28 +414,13 @@
         "title": "“왜 AI로 DT를 하려 하나요? AI를 1~2% 밖에 못쓰는 겁니다” (조용민 언바운드랩스 대표)",
         "url": "https://www.youtube.com/watch?v=wjPpkUxqC7w",
         "source": "티타임즈TV",
-        "published": "2026-05-09T22:00:54+00:00",
-        "summary": "클로드 코드, 클로드 코워크와 같은 모델 때문에 사스(SaaS) 회사들이 위험에 처할 거라는 우려가 많습니다. 소위 사스포칼립스(SaaSpocalypse, SaaS+Apocalypse)입니다. 이를 어떻게 봐야할지 조용민 언바운드랩스 대표의 이야기를 들어봅니다. \n\n“구글의 터보퀀트 논문이 나왔을 때도 SK하이닉스와 삼성전자 주가가 많이 빠졌잖아요. 정신을 차리는데 하루 이틀 걸리는 거에요. 거기서 고통받는 머니는 덤머니(dum-money)들인 것 같아요. 사실 반도체에 대한 폭발적 수요는 아직 덜 나왔다고 보고 있거든요. 사스(S",
-        "thumbnail": "https://i4.ytimg.com/vi/wjPpkUxqC7w/hqdefault.jpg",
+        "published": "2026-05-09T22:00:54Z",
+        "summary": "클로드 코드, 클로드 코워크와 같은 모델 때문에 사스(SaaS) 회사들이 위험에 처할 거라는 우려가 많습니다. 소위 사스포 ...",
+        "thumbnail": "https://i.ytimg.com/vi/wjPpkUxqC7w/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "wjPpkUxqC7w",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ferrari will always deliver one car less than the market demand",
-        "url": "https://www.youtube.com/shorts/NbN2zpQewak",
-        "source": "Acquired",
-        "published": "2026-05-09T14:30:18+00:00",
-        "summary": "#business #podcast  \n\n🎙 From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i3.ytimg.com/vi/NbN2zpQewak/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "NbN2zpQewak",
-          "via": "rss"
+          "via": "api"
         }
       }
     ]
