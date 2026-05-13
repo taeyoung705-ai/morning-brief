@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-12T02:49:09.146786+00:00",
+  "generated_at": "2026-05-13T02:54:25.564133+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Sara Duterte, Philippine Vice President, Is Impeached, Again",
-        "url": "https://www.nytimes.com/2026/05/11/world/asia/sara-duterte-philippine-impeached.html",
-        "source": "NYT World",
-        "published": "2026-05-12T02:29:24+00:00",
-        "summary": "But the prosecution of Ms. Duterte, who has become the archrival to President Ferdinand R. Marcos Jr., is likely to fail again in the Senate.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Starmer Faces Mounting Calls From Own Party to Resign as British Prime Minister",
-        "url": "https://www.nytimes.com/2026/05/11/world/europe/starmer-speech-uk-labour.html",
-        "source": "NYT World",
-        "published": "2026-05-12T02:26:05+00:00",
-        "summary": "Dozens of Labour Party leaders called on Prime Minister Keir Starmer to leave office, and several government aides announced their resignations.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Federal budget 2026 live updates: treasurer Jim Chalmers to present budget speech tonight – latest news",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/12/budget-2026-live-updates-federal-treasurer-jim-chalmers-speech-time-tonight-latest-news-ntwnfb",
+        "title": "Budget 2026 live updates: advocates call on crossbench to block NDIS cuts; funding pulled for Invictus",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-12T02:25:03+00:00",
-        "summary": "Treasurer says housing market ‘isn’t working’ and tax system around it is ‘out of whack’. Follow the latest updatesFederal budget 2026: what we know so farSee all our Australia budget 2026 coverageGet our breaking news email, free app or daily news podcast‘Let’s build more houses … not start taxing them’, shadow finance minister saysClaire Chandler, the shadow minister for finance, spoke a moment ",
+        "published": "2026-05-13T02:50:02+00:00",
+        "summary": "Anthony Albanese defends changes to negative gearing and capital gains tax, which Bill Shorten says will give young people a ‘fighting chance’. Follow today’s news liveSee all our Australia budget 2026 coverageGet our breaking news email, free app or daily news podcastAustralia to send military plane to strait of Hormuz reopening missionAustralia will join an international mission to reopen the st",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Jim Chalmers says budget to address economic anxieties ‘driving’ Australians to One Nation",
-        "url": "https://www.theguardian.com/australia-news/2026/may/12/budget-2026-jim-chalmers-economic-anxieties-one-nation-australia-ntwnfb",
+        "title": "Coalition vows to repeal Labor’s ‘toxic’ negative gearing and capital gains tax budget reforms",
+        "url": "https://www.theguardian.com/australia-news/2026/may/13/coalition-response-to-labor-federal-budget-reforms-negative-gearing-capital-gains-tax-cgt",
         "source": "The Guardian World",
-        "published": "2026-05-12T02:08:17+00:00",
-        "summary": "Farrer win casts shadow over budget as government signals it’s alive to populist rightwing threat Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOne Nation has cast a shadow over the federal budget and influenced decisions to reform negative gearing and taxes, with Jim Chalmers admitting many Australians are feeling economic anxieti",
+        "published": "2026-05-13T02:36:22+00:00",
+        "summary": "Opposition leader Angus Taylor and shadow treasurer Tim Wilson say future Coalition government would reinstate generous rules for property investorsFollow our Australia news live blog for latest updatesExplore all of our 2026 Australia federal budget coverageGet our breaking news email, free app or daily news podcastThe Coalition has vowed to repeal Labor’s proposed changes to negative gearing and",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Updates: Long-Term Energy Crisis Looms as Trump Says Truce Is on ‘Life Support’",
-        "url": "https://www.nytimes.com/live/2026/05/11/world/iran-war-trump-hormuz",
+        "title": "Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks",
+        "url": "https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz",
         "source": "NYT World",
-        "published": "2026-05-12T02:00:24+00:00",
-        "summary": "Iran defended its demands for a peace deal and President Trump called them “garbage.” Mr. Trump said he wanted to suspend the federal gasoline tax, which would require congressional approval.",
+        "published": "2026-05-13T02:29:19+00:00",
+        "summary": "Iran stuck to its most recent demands after President Trump dismissed them as unacceptable. As Mr. Trump left for a summit in China, he told reporters the war was “very much under control.”",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Syria restores credit card payments in effort to rejoin the global economy",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/syria-restores-credit-card-payments-in-effort-to-rejoin-the-global-economy?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-12T01:58:48+00:00",
-        "summary": "Syria restores credit card payments in effort to rejoin the global economy.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Roads blocked in Bolivia as protesters demand president’s resignation",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_bolivia-protesters-demand-president-resign-110526?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-12T01:36:55+00:00",
-        "summary": "Bolivia faces growing unrest as widespread road blockades disrupt travel across major cities.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump says Iran ceasefire is on 'massive life support'",
-        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+        "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
+        "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-12T00:59:12+00:00",
-        "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+        "published": "2026-05-13T01:59:53+00:00",
+        "summary": "That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "U.S. and Mexican Officials Deny C.I.A. Had Lethal Role in Mexico Operation",
+        "url": "https://www.nytimes.com/2026/05/12/world/americas/mexico-cia-cartels.html",
+        "source": "NYT World",
+        "published": "2026-05-13T01:56:21+00:00",
+        "summary": "The denials came after a CNN report claimed the C.I.A. had been involved in the assassination of a cartel member inside Mexico earlier this year.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Dominican Republic Agrees to Take Third-Country Migrants Deported by U.S.",
+        "url": "https://www.nytimes.com/2026/05/12/world/americas/dominican-republic-deportees-us.html",
+        "source": "NYT World",
+        "published": "2026-05-13T01:54:04+00:00",
+        "summary": "The agreement, which reverses President Luis Abinader’s previous stance, is part of President Trump’s efforts to find governments willing to accept deportees.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "FBI Director Kash Patel fires back at drinking allegations",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/aje-onl-nf_clip_fbi-director-patel-fires-back-at-allegations-120526?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-13T01:46:23+00:00",
+        "summary": "FBI Director Kash Patel and Senator Chris Van Hollen had a heated exchange during a Senate budget hearing.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Peru presidential candidate Roberto Sanchez charged with financial crimes",
+        "url": "https://www.aljazeera.com/news/2026/5/13/peru-presidential-candidate-roberto-sanchez-charged-with-financial-crimes?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-13T01:05:33+00:00",
+        "summary": "Prosecutor calls for leftist candidate to be jailed for five years and four months over false financial disclosures.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Claude Platform on AWS",
-        "url": "https://claude.com/blog/claude-platform-on-aws",
-        "source": "Hacker News Front",
-        "published": "2026-05-12T01:24:29+00:00",
-        "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 12\n# Comments: 3",
+        "title": "Sony’s new Xperia phone gets an overdue redesign",
+        "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+        "source": "The Verge",
+        "published": "2026-05-13T02:00:00+00:00",
+        "summary": "Sony's Xperia 1 flagships have looked more or less the same since 2020, but that's finally changing with the Xperia 1 VIII, which moves to a chunky square camera island. The phone also boasts what should be a substantially improved telephoto camera, along with an AI camera assistant that looks like an improved version of [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
-        "url": "https://www.npmjs.com/package/@gkiely/safe-install",
+        "title": "Starship V3",
+        "url": "https://www.spacex.com/updates#starship-v3",
         "source": "Hacker News Front",
-        "published": "2026-05-12T00:30:10+00:00",
-        "summary": "In light of the ongoing npm supply chain compromises, I built safe-install:https://www.npmjs.com/package/@gkiely/safe-installIt brings a couple of protections I wanted from npm but are not built in.Similar to Bun’s trusted dependencies, it lets you disable install scripts by default and define a list of dependencies that are allowed to run build/install scripts:https://bun.com/docs/guides/install/",
+        "published": "2026-05-13T01:29:31+00:00",
+        "summary": "Article URL: https://www.spacex.com/updates#starship-v3\nComments URL: https://news.ycombinator.com/item?id=48116781\nPoints: 37\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-        "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+        "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+        "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
         "source": "TechCrunch",
-        "published": "2026-05-12T00:09:01+00:00",
-        "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+        "published": "2026-05-13T00:26:48+00:00",
+        "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
-        "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+        "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+        "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
         "source": "Wired",
-        "published": "2026-05-11T23:51:35+00:00",
-        "summary": "The former OpenAI chief scientist may be estranged from the company, but he still came to its defense as he testified on Monday.",
+        "published": "2026-05-13T00:10:05+00:00",
+        "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "OpenAI just released its answer to Claude Mythos",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-        "source": "The Verge",
-        "published": "2026-05-11T23:05:01+00:00",
-        "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]",
+        "title": "My graduation cap runs Rust",
+        "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+        "source": "Hacker News Front",
+        "published": "2026-05-13T00:04:21+00:00",
+        "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/\nComments URL: https://news.ycombinator.com/item?id=48116207\nPoints: 65\n# Comments: 17",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-        "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-        "source": "TechCrunch",
-        "published": "2026-05-11T23:04:10+00:00",
-        "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+        "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+        "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+        "source": "Wired",
+        "published": "2026-05-13T00:00:00+00:00",
+        "summary": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-        "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
-        "source": "The Verge",
-        "published": "2026-05-11T22:40:20+00:00",
-        "summary": "The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]",
+        "title": "You Don't Look Like a Gamer: On Toxicity, Gatekeeping, & Women Who Share Gaming",
+        "url": "https://gardinerbryant.com/you-dont-look-like-a-gamer/",
+        "source": "Hacker News Front",
+        "published": "2026-05-12T23:56:25+00:00",
+        "summary": "Article URL: https://gardinerbryant.com/you-dont-look-like-a-gamer/\nComments URL: https://news.ycombinator.com/item?id=48116142\nPoints: 10\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Linux bitten by second severe vulnerability in as many weeks",
-        "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
-        "source": "Ars Technica",
-        "published": "2026-05-11T22:28:19+00:00",
-        "summary": "Production-version patches are coming online and should be installed pronto.",
+        "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+        "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+        "source": "Hacker News Front",
+        "published": "2026-05-12T23:46:28+00:00",
+        "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/\nComments URL: https://news.ycombinator.com/item?id=48116064\nPoints: 18\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,32 +186,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[해시드와 AI 창업자①] 키로, 러닝을 ‘영토 게임’으로 바꾸다",
-        "url": "https://byline.network/2026/05/0512-5/",
+        "title": "네이버 웹툰엔터, ‘AI 번역’으로 글로벌 창작 플랫폼 통합",
+        "url": "https://byline.network/2026/05/0512-8/",
         "source": "ByLine Network",
-        "published": "2026-05-11T22:24:30+00:00",
-        "summary": "글로벌 웹3.0 벤처캐피털(VC) 해시드가 바이브코딩이라는 새로운 실험에 뛰어들며 AI 네이티브 빌더(AI 기반 창업자) 발굴 프로그램 ‘나이트로 바이 해시드(Nitro by Hashed)’를 선보였다. 해당 프로그램의 선발 스타트업 중 하나인 키로는 올해 1월 출시됐으며, 지난해 10월 말 창업 과정을 담은 영상을 처음 공개하며 프로젝트를 알렸다. 비개발자 출신 1인 창업자인 안정우 대표가 이용자들과 실시간으로 아이디어를 공유하며 서비스를 함께 만들어간 과정이 러너들의 호응을 끌어냈다. 키로는 출시 3개월 만에 가입자 8만명을 돌파했다. 안 대표를 만나 해시드와 함께하며 달라진 점과 향후 계획 등을 들어봤다.",
+        "published": "2026-05-13T00:20:10+00:00",
+        "summary": "네이버웹툰 본사인 웹툰엔터테인먼트가 인공지능(AI) 번역 기술을 이용해 국가별로 흩어져 있던 아마추어 창작 플랫폼 ‘캔버스(CANVAS)’를 하나로 묶는다. 창작자들이 언어 장벽 없이 자신의 작품을 전 세계에 동시에 연재할 수 있는 단일 생태계를 구축하겠다는 전략이다. 웹툰엔터테인먼트는 11일(현지시간) 진행된 2026년 1분기 실적발표 컨퍼런스콜에서 ‘글로벌 캔버스 플랫폼 통합 계획’을 발표했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "점점 더 가까워지는 네이버와 컬리",
-        "url": "https://byline.network/2026/05/0511/",
+        "title": "흑자전환 위메이드, 개발 중인 신작만 ‘20여종’",
+        "url": "https://byline.network/2026/05/12-600/",
         "source": "ByLine Network",
-        "published": "2026-05-11T13:57:27+00:00",
-        "summary": "국내 IT 플랫폼 네이버와 신선식품 새벽배송 전문 기업 컬리가 물류 파트너로 거듭난다. 330억 원 규모의 지분 투자를 통해 단순한 제휴를 넘어, 서로의 강점을 나누고 약점을 채워주는 단단한 연합체를 구축했다. 지난 6일 컬리의 공식 보도자료에 따르면, 컬리는 네이버를 대상으로 330억 원 규모의 제3자배정 유상증자를 단행했다고 발표했다. 여기서 유상증자란, 회사가 사업을 키우기 위해 새로운 주식을 만들어 돈을 받고 파는 것을 뜻한다. 쉽게 말해 컬리가 자사의 새로운 주식을 만들테니, 네이버에게 돈을 내고 사라고 한 것이다.",
+        "published": "2026-05-12T21:36:40+00:00",
+        "summary": "위메이드가 법적 분쟁 해소와 비용 효율화를 바탕으로 올해 1분기 흑자 전환에 성공했다. 중국 킹넷으로부터 화해금을 받아내며 라이선스 수익이 실적에 반영됐고, 비용 효율화에 힘입어 수익성이 개선됐다. 회사는 현재 다양한 장르와 플랫폼을 지원하는 신작 20여종을 개발 중이며, 이를 통해 중장기 성장을 도모할 계획이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "SPACs and megarounds: What's going on in European quantum?",
-        "url": "https://sifted.eu/articles/europe-quantum-computing-record-megarounds/",
+        "title": "카카오페이 “초개인화 마케팅으로 가맹점 성장 지원”",
+        "url": "https://byline.network/2026/05/512/",
+        "source": "ByLine Network",
+        "published": "2026-05-12T21:34:45+00:00",
+        "summary": "카카오페이가 유저·데이터·기술을 기반으로 생태계를 확장해 국내 1위 온라인 간편결제 플랫폼으로 도약하겠다는 목표를 제시했다. 카카오페이는 12일 서울 중구 대한상공회의소에서 열린 프레스톡에서 초개인화 마케팅 전략을 통해 파트너 가맹점의 성장을 지원하겠다고 밝혔다. 이는 온라인 결제 시장 내 경쟁력을 강화하기 위한 핵심 전략으로 제시됐다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "DeepMind spinout Isomorphic Labs raises $2.1bn",
+        "url": "https://sifted.eu/articles/isomorphic-labs-2-1bn/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-11T10:45:28+00:00",
+        "published": "2026-05-12T15:35:07+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -219,10 +230,21 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "How UK investment can transform European scaleups",
-        "url": "https://sifted.eu/articles/how-uk-investment-can-transform-european-scaleups-brnd/",
+        "title": "European AI Funding Is Growing. Will That Boost The Region’s Startup Scene?",
+        "url": "https://news.crunchbase.com/venture/european-ai-funding-startups-recursive-ineffable-advanced-machine-intelligence/",
+        "source": "Crunchbase News",
+        "published": "2026-05-12T11:00:20+00:00",
+        "summary": "A growing percentage of European venture funding in 2026 was AI-driven. That includes investments in three new frontier model companies as well as startups in a wide variety of AI-centric sectors.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "How LEAP became a global meeting point for international tech players",
+        "url": "https://sifted.eu/articles/leap-a-global-meeting-point-brnd/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-11T10:01:03+00:00",
+        "published": "2026-05-12T09:02:18+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -230,44 +252,22 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "컬리 1분기 영업이익이 13배 늘어난 이유",
-        "url": "https://byline.network/2026/05/11_291828747/",
+        "title": "일루미오, 침해 격리 앞세워 국내 제로 트러스트 보안 시장 공략",
+        "url": "https://byline.network/2026/05/12-596/",
         "source": "ByLine Network",
-        "published": "2026-05-11T09:40:05+00:00",
-        "summary": "컬리가 올해 들어 1분기 만에 지난해 연간 영업이익의 두 배에 가까운 실적을 기록했다. 컬리N마트 등을 기반으로 매출이 고성장한 가운데, 영업 레버리지 효과가 커진 점이 긍정적인 영향을 미쳤다.",
+        "published": "2026-05-12T08:32:59+00:00",
+        "summary": "인공지능(AI)이 취약점 탐색과 공격 속도를 높이면서 조직의 보안 전략도 침입 차단 중심에서 침해 이후 확산을 억제하는 방식으로 바뀌어야 한다는 진단이 나왔다. 침해 격리 전문 기업 일루미오(Illumio)는 12일 서울 삼성동 아셈타워에서 기자간담회를 열고, AI 보안 그래프와 마이크로세그멘테이션을 기반으로 한국 제로 트러스트(Zero Trust) 시장 공략을 강화한다고 밝혔다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[미토스 이후, 전문가에게 듣는다④] 최영철 SGA솔루션즈 대표 “미토스는 핵폭탄급, 제로 트러스트 전환 앞당겨야”",
-        "url": "https://byline.network/2026/05/11-648/",
-        "source": "ByLine Network",
-        "published": "2026-05-11T08:15:54+00:00",
-        "summary": "최영철 SGA솔루션즈 대표는 미토스의 영향을 크게 두 갈래로 봤다. 하나는 시큐어코딩, 취약점 점검, 모의해킹 같은 보안산업 일부가 직접 받을 충격이다. 다른 하나는 미토스 같은 AI 모델이 상용화됐을 때 기업과 공공기관의 보안 운영 방식이 어떻게 바뀌어야 하는지의 문제다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "인간을 협박하던 AI, 앤트로픽은 어떻게 멈추게 했나",
-        "url": "https://byline.network/2026/05/anthropic-2/",
-        "source": "ByLine Network",
-        "published": "2026-05-11T07:45:48+00:00",
-        "summary": "AI가 인간을 협박하는 일이 실제로 일어난다고 한다. 앤트로픽의 연구에 따르면, 클로드 오푸스 4는 자신에게 위협적인 말을 하면 96%의 확률로 협박을 했다고 한다. 텍스트로 이런 메시지를 출력하거나, 실제로 작업을 방해하는 행동을 취하기도 했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[전문가 기고] AI 강국의 진짜 척도는 무엇인가",
-        "url": "https://byline.network/2026/05/douzone/",
-        "source": "ByLine Network",
-        "published": "2026-05-11T05:38:47+00:00",
-        "summary": "AI 강국을 향한 경쟁이 가속화되고 있다. 그런데 여기서 먼저 물어야 할 질문이 있다. 좋은 AI 모델을 몇 개 보유했느냐가 AI 강국의 진짜 척도인가. 그렇게 생각하지 않는다.",
+        "title": "A commercial talent crunch is looming for Europe’s quantum startups",
+        "url": "https://sifted.eu/articles/commercial-talent-quantum-startups/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-12T08:30:05+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,16 +276,106 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Spencer Pratt on LA’s drastic NGO problem: “They will steal $100M right in your face.”",
-        "url": "https://www.youtube.com/watch?v=hG5vOarnrX8",
+        "title": "How We Grew Koch Industries to $150 Billion Without Going Public: Charles &amp; Chase Koch",
+        "url": "https://www.youtube.com/watch?v=EIo3AuyvV84",
         "source": "All-In Podcast",
-        "published": "2026-05-11T17:26:55Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/hG5vOarnrX8/mqdefault.jpg",
+        "published": "2026-05-12T21:17:30Z",
+        "summary": "(0:00) David Friedberg welcomes Charles & Chase Koch (1:04) Koch Inc. Overview: Scale, Business Lines & History (2:21) ...",
+        "thumbnail": "https://i.ytimg.com/vi/EIo3AuyvV84/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "hG5vOarnrX8",
+          "videoId": "EIo3AuyvV84",
           "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Copper is ripping. Chamath told you it would.",
+        "url": "https://www.youtube.com/watch?v=5vEjSI0Zw-M",
+        "source": "All-In Podcast",
+        "published": "2026-05-12T18:19:14Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/5vEjSI0Zw-M/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "5vEjSI0Zw-M",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Far Away The Moon REALLY Is",
+        "url": "https://www.youtube.com/shorts/Gab74WWEIZQ",
+        "source": "Cleo Abram",
+        "published": "2026-05-12T14:51:33+00:00",
+        "summary": "Most people don’t understand how far away the moon really is… \n\nTo find out how many Earths you could fit between the moon and us… subscribe! \n\n#moon #space #animation #shorts",
+        "thumbnail": "https://i4.ytimg.com/vi/Gab74WWEIZQ/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "Gab74WWEIZQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Goldman Sachs Chairman on AI and the Future of Finance | The a16z Show",
+        "url": "https://www.youtube.com/watch?v=9qqLihL4AWk",
+        "source": "a16z",
+        "published": "2026-05-12T14:00:22+00:00",
+        "summary": "David Haber speaks with Lloyd Blankfein, former CEO of Goldman Sachs, about leadership, risk, and navigating moments of extreme uncertainty. Drawing on his experience leading Goldman through the financial crisis, Blankfein shares how organizations can build resilience, make decisions under pressure,",
+        "thumbnail": "https://i2.ytimg.com/vi/9qqLihL4AWk/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "9qqLihL4AWk",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The WORST car Ferrari ever made!",
+        "url": "https://www.youtube.com/watch?v=LmCUQwcdhWI",
+        "source": "Acquired",
+        "published": "2026-05-12T12:08:56Z",
+        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/LmCUQwcdhWI/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "LmCUQwcdhWI",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "죽은 기업도 살리는 &#39;반도체 붐&#39;",
+        "url": "https://www.youtube.com/watch?v=dwY_s50Hw3g",
+        "source": "슈카월드",
+        "published": "2026-05-12T10:57:09Z",
+        "summary": "0:00 나스닥 최고점 돌파, AI 테크주 달린다 6:57 인텔 9:39 ARM 11:30 AMD 13:25 소프트뱅크의 부활.",
+        "thumbnail": "https://i.ytimg.com/vi/dwY_s50Hw3g/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "dwY_s50Hw3g",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is AI Keeping the US Economy Afloat?",
+        "url": "https://www.youtube.com/watch?v=MU9-y4HjkR8",
+        "source": "TLDR News Global",
+        "published": "2026-05-12T08:30:11+00:00",
+        "summary": "Subscribe to Too Long: https://toolong.news/\nLearn More About TLDR Party: https://toolong.news/party\nWhat's the Big Deal with Greenland Documentary: https://toolong.news/pages/whats-the-big-deal-with-greenland\n\nWith the energy crisis looming, the American economy is looking surprisingly alright, wit",
+        "thumbnail": "https://i2.ytimg.com/vi/MU9-y4HjkR8/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "MU9-y4HjkR8",
+          "via": "rss"
         }
       },
       {
@@ -294,13 +384,13 @@
         "title": "The Golden Age Thesis | Marc Andreessen on MTS",
         "url": "https://www.youtube.com/watch?v=k1z0e7bGzq0",
         "source": "a16z",
-        "published": "2026-05-11T14:30:11Z",
-        "summary": "Erik Torenberg speaks with Marc Andreessen about the state of AI, media, and the broader cultural and economic shifts shaping ...",
-        "thumbnail": "https://i.ytimg.com/vi/k1z0e7bGzq0/mqdefault.jpg",
+        "published": "2026-05-11T14:30:11+00:00",
+        "summary": "Erik Torenberg speaks with Marc Andreessen about the state of AI, media, and the broader cultural and economic shifts shaping the internet. They discuss how narratives around AI, from fear to hype, are influencing public perception, and why real-world usage tells a very different story.\n\nThe convers",
+        "thumbnail": "https://i4.ytimg.com/vi/k1z0e7bGzq0/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "k1z0e7bGzq0",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -309,13 +399,13 @@
         "title": "Japan’s Military Buildup Explained",
         "url": "https://www.youtube.com/watch?v=kVtYPm4b-Hw",
         "source": "TLDR News Global",
-        "published": "2026-05-11T10:28:28Z",
-        "summary": "Subscribe to Too Long: https://toolong.news/ Learn More About TLDR Party: https://toolong.news/party What's the Big Deal with ...",
-        "thumbnail": "https://i.ytimg.com/vi/kVtYPm4b-Hw/mqdefault.jpg",
+        "published": "2026-05-11T10:28:28+00:00",
+        "summary": "Subscribe to Too Long: https://toolong.news/\nLearn More About TLDR Party: https://toolong.news/party\nWhat's the Big Deal with Greenland Documentary: https://toolong.news/pages/whats-the-big-deal-with-greenland\n\nJapan appears to be shedding its post-war military taboos, with the lifting of some arms ",
+        "thumbnail": "https://i4.ytimg.com/vi/kVtYPm4b-Hw/hqdefault.jpg",
         "extras": {
           "theme": "news",
           "videoId": "kVtYPm4b-Hw",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "dgCTXeegLIM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "묵묵히 자신의 차례를 기다리고 있는 당신에게 | 신수정",
-        "url": "https://www.youtube.com/watch?v=YX9vqXNoZtI",
-        "source": "EO 이오",
-        "published": "2026-05-11T09:03:52Z",
-        "summary": "\"저를 찾아오는 많은 사람들은 똑똑하고 성실한 사람들입니다. 하지만 그들에겐 공통적인 특징이 하나 있습니다...\" 각자의 자리에서 ...",
-        "thumbnail": "https://i.ytimg.com/vi/YX9vqXNoZtI/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "YX9vqXNoZtI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“메모리 효율화는 올 데까지 왔다. 그런데 수요는 상방이 없다” (조용민 언바운드랩스 대표)",
-        "url": "https://www.youtube.com/watch?v=uw8tEu-Njl4",
-        "source": "티타임즈TV",
-        "published": "2026-05-11T09:01:17Z",
-        "summary": "메모리 반도체를 더 효율화하는 것은 끝까지 왔거든요. 그런데 수요는 지금 상방이 없어요. 압축에는 천장이 있고 수요에는 천장이 ...",
-        "thumbnail": "https://i.ytimg.com/vi/uw8tEu-Njl4/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "uw8tEu-Njl4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“I’m doing this to fight evil&quot; - Spencer Pratt on Running for LA Mayor",
-        "url": "https://www.youtube.com/watch?v=dMXwOJyeobw",
-        "source": "All-In Podcast",
-        "published": "2026-05-11T03:15:59Z",
-        "summary": "Thanks to our partner http://Axon.ai for making this possible Most advertisers have never heard of the platform with an $11B ...",
-        "thumbnail": "https://i.ytimg.com/vi/dMXwOJyeobw/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "dMXwOJyeobw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The race after Enzo Ferrari&#39;s death Ferrari finished one-two at Monza",
-        "url": "https://www.youtube.com/watch?v=BjsIZcfp_08",
-        "source": "Acquired",
-        "published": "2026-05-10T20:11:04Z",
-        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/BjsIZcfp_08/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "BjsIZcfp_08",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "스탠포드 경제학자가 말하는 AI 시대 생존법 | 스탠포드 경제학자, 바라트 찬다르",
-        "url": "https://www.youtube.com/watch?v=2HscbzyzIH8",
-        "source": "EO 이오",
-        "published": "2026-05-10T00:00:02Z",
-        "summary": "[오디오 트랙]과 [자막]의 언어를 통일하면 더욱 원활한 시청이 가능합니다.** \"책으로 배운 지식(Implementation)은 이제 AI의 영역 ...",
-        "thumbnail": "https://i.ytimg.com/vi/2HscbzyzIH8/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "2HscbzyzIH8",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“왜 AI로 DT를 하려 하나요? AI를 1~2% 밖에 못쓰는 겁니다” (조용민 언바운드랩스 대표)",
-        "url": "https://www.youtube.com/watch?v=wjPpkUxqC7w",
-        "source": "티타임즈TV",
-        "published": "2026-05-09T22:00:54Z",
-        "summary": "클로드 코드, 클로드 코워크와 같은 모델 때문에 사스(SaaS) 회사들이 위험에 처할 거라는 우려가 많습니다. 소위 사스포 ...",
-        "thumbnail": "https://i.ytimg.com/vi/wjPpkUxqC7w/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "wjPpkUxqC7w",
           "via": "api"
         }
       }
