@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-13T02:54:25.564133+00:00",
+  "generated_at": "2026-05-14T02:57:01.887943+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Budget 2026 live updates: advocates call on crossbench to block NDIS cuts; funding pulled for Invictus",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/13/budget-2026-live-updates-reaction-jim-chalmers-tim-wilson-cost-of-living-capital-gains-negative-gearing-housing-tax-ntwnfb",
+        "title": "Here’s the latest.",
+        "url": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china/heres-the-latest",
+        "source": "NYT World",
+        "published": "2026-05-14T02:43:13+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump-Xi summit live: US president says relationship with China will be ‘better than ever’ as key meeting begins",
+        "url": "https://www.theguardian.com/us-news/live/2026/may/14/donald-trump-china-xi-jinping-live-updates-talks-meeting-summit-visit-beijing-latest-news",
         "source": "The Guardian World",
-        "published": "2026-05-13T02:50:02+00:00",
-        "summary": "Anthony Albanese defends changes to negative gearing and capital gains tax, which Bill Shorten says will give young people a ‘fighting chance’. Follow today’s news liveSee all our Australia budget 2026 coverageGet our breaking news email, free app or daily news podcastAustralia to send military plane to strait of Hormuz reopening missionAustralia will join an international mission to reopen the st",
+        "published": "2026-05-14T02:41:38+00:00",
+        "summary": "Ahead of the crucial talks, security has been heightened in Beijing, with trade, AI and the war in Iran set to dominate the meeting between the two leadersTrump lands in China for high-stakes summit with Xi Jinping as Iran war looms over talksExplainer: five key issues on the table at summitDonald Trump will drive through a Chinese capital that is smoggier than it was on his last visit in 2017, wh",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Coalition vows to repeal Labor’s ‘toxic’ negative gearing and capital gains tax budget reforms",
-        "url": "https://www.theguardian.com/australia-news/2026/may/13/coalition-response-to-labor-federal-budget-reforms-negative-gearing-capital-gains-tax-cgt",
+        "title": "Australia politics live: Tasmanian senator Tammy Tyrrell joins Labor; repatriation flight imminent for hantavirus cruise passengers",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/14/budget-reply-angus-taylor-anthony-albanese-jim-chalmers-tax-reform-property-investment-negative-gearing-capital-gains-housing-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-13T02:36:22+00:00",
-        "summary": "Opposition leader Angus Taylor and shadow treasurer Tim Wilson say future Coalition government would reinstate generous rules for property investorsFollow our Australia news live blog for latest updatesExplore all of our 2026 Australia federal budget coverageGet our breaking news email, free app or daily news podcastThe Coalition has vowed to repeal Labor’s proposed changes to negative gearing and",
+        "published": "2026-05-14T02:39:35+00:00",
+        "summary": "Anthony Albanese praises Tyrrell as ‘a fighter’ after joining Labor party. Follow today’s news liveGet our breaking news email, free app or daily news podcastHolding Jewish people responsible for Israel a ‘building block’ of racism, inquiry hearsThere will always be “edge cases”, Dr Dave Rich has told the antisemitism royal commission, where there are good faith disagreements on whether something ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Updates: Trump Says Iran Must Make Deal or Face Renewed Attacks",
-        "url": "https://www.nytimes.com/live/2026/05/12/world/iran-war-trump-ceasefire-hormuz",
+        "title": "As Trump and Xi Meet in China, American and Chinese People Are Drifting Apart",
+        "url": "https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html",
         "source": "NYT World",
-        "published": "2026-05-13T02:29:19+00:00",
-        "summary": "Iran stuck to its most recent demands after President Trump dismissed them as unacceptable. As Mr. Trump left for a summit in China, he told reporters the war was “very much under control.”",
+        "published": "2026-05-14T02:36:28+00:00",
+        "summary": "Past meetings between the presidents of the U.S. and China have involved friendly displays of cultural exchange. Those gestures have largely dried up.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-        "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-05-13T01:59:53+00:00",
-        "summary": "That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "U.S. and Mexican Officials Deny C.I.A. Had Lethal Role in Mexico Operation",
-        "url": "https://www.nytimes.com/2026/05/12/world/americas/mexico-cia-cartels.html",
+        "title": "The China Gambit: From Nixon to Trump",
+        "url": "https://www.nytimes.com/2026/05/13/us/politics/china-visits-nixon-to-trump.html",
         "source": "NYT World",
-        "published": "2026-05-13T01:56:21+00:00",
-        "summary": "The denials came after a CNN report claimed the C.I.A. had been involved in the assassination of a cartel member inside Mexico earlier this year.",
+        "published": "2026-05-14T02:35:10+00:00",
+        "summary": "President Trump’s visit to Beijing comes as relations with China have become more combative.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Dominican Republic Agrees to Take Third-Country Migrants Deported by U.S.",
-        "url": "https://www.nytimes.com/2026/05/12/world/americas/dominican-republic-deportees-us.html",
+        "title": "Judge Orders U.S. to Return Colombian Woman Deported to Congo",
+        "url": "https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html",
         "source": "NYT World",
-        "published": "2026-05-13T01:54:04+00:00",
-        "summary": "The agreement, which reverses President Luis Abinader’s previous stance, is part of President Trump’s efforts to find governments willing to accept deportees.",
+        "published": "2026-05-14T02:00:43+00:00",
+        "summary": "The unusual ruling came after the judge found that the Trump administration had most likely violated the law by deporting the 55-year-old woman to the African country despite its refusal to take her.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "FBI Director Kash Patel fires back at drinking allegations",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/aje-onl-nf_clip_fbi-director-patel-fires-back-at-allegations-120526?traffic_source=rss",
+        "title": "Families demand release of Pakistani crew captured by Somali pirates",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/families-demand-release-of-pakistani-crew-captured-by-somali-pirates?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-13T01:46:23+00:00",
-        "summary": "FBI Director Kash Patel and Senator Chris Van Hollen had a heated exchange during a Senate budget hearing.",
+        "published": "2026-05-14T01:51:38+00:00",
+        "summary": "Families of 10 Pakistani crew members taken hostage by Somali pirates have rallied in Karachi to demand their release.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Peru presidential candidate Roberto Sanchez charged with financial crimes",
-        "url": "https://www.aljazeera.com/news/2026/5/13/peru-presidential-candidate-roberto-sanchez-charged-with-financial-crimes?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-13T01:05:33+00:00",
-        "summary": "Prosecutor calls for leftist candidate to be jailed for five years and four months over false financial disclosures.",
+        "title": "Alberta Separation Petition Is Dealt a Court Blow",
+        "url": "https://www.nytimes.com/2026/05/13/world/canada/alberta-seperation-secession-judge.html",
+        "source": "NYT World",
+        "published": "2026-05-14T01:39:16+00:00",
+        "summary": "A judge sided with an Indigenous group that had asked for a petition by separatists to force a vote on the oil-rich province seceding from Canada to be thrown out.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Sony’s new Xperia phone gets an overdue redesign",
-        "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+        "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
+        "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
+        "source": "Hacker News Front",
+        "published": "2026-05-14T00:54:18+00:00",
+        "summary": "Article URL: https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758\nComments URL: https://news.ycombinator.com/item?id=48129789\nPoints: 24\n# Comments: 1",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Scorched Earth 2000 is back",
+        "url": "http://www.scorch2000.com/web/",
+        "source": "Hacker News Front",
+        "published": "2026-05-14T00:41:29+00:00",
+        "summary": "Article URL: http://www.scorch2000.com/web/\nComments URL: https://news.ycombinator.com/item?id=48129694\nPoints: 99\n# Comments: 32",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+        "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
         "source": "The Verge",
-        "published": "2026-05-13T02:00:00+00:00",
-        "summary": "Sony's Xperia 1 flagships have looked more or less the same since 2020, but that's finally changing with the Xperia 1 VIII, which moves to a chunky square camera island. The phone also boasts what should be a substantially improved telephoto camera, along with an AI camera assistant that looks like an improved version of [&#8230;]",
+        "published": "2026-05-13T22:04:28+00:00",
+        "summary": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at, summarize your open articles, and more. In its [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Starship V3",
-        "url": "https://www.spacex.com/updates#starship-v3",
-        "source": "Hacker News Front",
-        "published": "2026-05-13T01:29:31+00:00",
-        "summary": "Article URL: https://www.spacex.com/updates#starship-v3\nComments URL: https://news.ycombinator.com/item?id=48116781\nPoints: 37\n# Comments: 8",
+        "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+        "url": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+        "source": "Wired",
+        "published": "2026-05-13T21:58:47+00:00",
+        "summary": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-        "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+        "title": "Trump administration defends right to ban content moderation experts from US",
+        "url": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+        "source": "The Verge",
+        "published": "2026-05-13T21:58:44+00:00",
+        "summary": "The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard arguments in a lawsuit between the nonprofit Coalition for Independent Technology Research (CITR) and Secretary of State Marco Rubio and other Trump administration officials. The suit concerns [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
+        "url": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
+        "source": "Ars Technica",
+        "published": "2026-05-13T21:48:27+00:00",
+        "summary": "The final flight and complex legacy of a pioneering solar-powered aircraft.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
         "source": "TechCrunch",
-        "published": "2026-05-13T00:26:48+00:00",
-        "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+        "published": "2026-05-13T21:45:09+00:00",
+        "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-        "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-        "source": "Wired",
-        "published": "2026-05-13T00:10:05+00:00",
-        "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "My graduation cap runs Rust",
-        "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+        "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+        "url": "https://news.ycombinator.com/item?id=48128003",
         "source": "Hacker News Front",
-        "published": "2026-05-13T00:04:21+00:00",
-        "summary": "Article URL: https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/\nComments URL: https://news.ycombinator.com/item?id=48116207\nPoints: 65\n# Comments: 17",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
-        "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
-        "source": "Wired",
-        "published": "2026-05-13T00:00:00+00:00",
-        "summary": "Emails show that Elon Musk’s company is expanding its use of portable gas-fired power at its Colossus 2 site as a fight over air quality continues.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "You Don't Look Like a Gamer: On Toxicity, Gatekeeping, & Women Who Share Gaming",
-        "url": "https://gardinerbryant.com/you-dont-look-like-a-gamer/",
-        "source": "Hacker News Front",
-        "published": "2026-05-12T23:56:25+00:00",
-        "summary": "Article URL: https://gardinerbryant.com/you-dont-look-like-a-gamer/\nComments URL: https://news.ycombinator.com/item?id=48116142\nPoints: 10\n# Comments: 5",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
-        "url": "https://blog.cloudflare.com/quic-death-spiral-fix/",
-        "source": "Hacker News Front",
-        "published": "2026-05-12T23:46:28+00:00",
-        "summary": "Article URL: https://blog.cloudflare.com/quic-death-spiral-fix/\nComments URL: https://news.ycombinator.com/item?id=48116064\nPoints: 18\n# Comments: 1",
+        "published": "2026-05-13T21:40:18+00:00",
+        "summary": "I wanted to try codex after 5 months of claude code max subscription. And then I went back to my previous projects on claude design only to realize I don't have access to them anymore.This is a first. I never lost access to any of my past sessions because I unsubscribed in any of the LLM apps.I actually wanted to try out codex previously, but had similar experience with my credits. They gave extra",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,65 +186,65 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "네이버 웹툰엔터, ‘AI 번역’으로 글로벌 창작 플랫폼 통합",
-        "url": "https://byline.network/2026/05/0512-8/",
+        "title": "[주간 리포트] 게임의 룰이 바뀌었다, AI 추론 칩 전쟁",
+        "url": "https://byline.network/2026/05/11-654/",
         "source": "ByLine Network",
-        "published": "2026-05-13T00:20:10+00:00",
-        "summary": "네이버웹툰 본사인 웹툰엔터테인먼트가 인공지능(AI) 번역 기술을 이용해 국가별로 흩어져 있던 아마추어 창작 플랫폼 ‘캔버스(CANVAS)’를 하나로 묶는다. 창작자들이 언어 장벽 없이 자신의 작품을 전 세계에 동시에 연재할 수 있는 단일 생태계를 구축하겠다는 전략이다. 웹툰엔터테인먼트는 11일(현지시간) 진행된 2026년 1분기 실적발표 컨퍼런스콜에서 ‘글로벌 캔버스 플랫폼 통합 계획’을 발표했다.",
+        "published": "2026-05-14T02:22:14+00:00",
+        "summary": "바이라인 주간 프리미엄 트렌드 리포트 460호가 발간됐습니다. 이번 호 딥다이브에서는 ‘게임의 룰이 바뀌었다, AI 추론 칩 전쟁’을 다뤘습니다.\n지난 한 주 동안 놓치지 말았어야 할 국내외 IT 이슈들이 무엇이 있었는지 ▲전기·전자 ▲인터넷·콘텐츠·게임 ▲인공지능 ▲커머스 물류 ▲디지털 금융 ▲엔터프라이즈 IT 등 분야별 핫토픽과 옐로스토리, 딥다이브에서 확인하세요.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "흑자전환 위메이드, 개발 중인 신작만 ‘20여종’",
-        "url": "https://byline.network/2026/05/12-600/",
+        "title": "[IT와 노동] 코드 리뷰와 괴롭힘의 한 끗 차이: IT스타트업을 위한 소통 가이드",
+        "url": "https://byline.network/2026/05/labor/",
         "source": "ByLine Network",
-        "published": "2026-05-12T21:36:40+00:00",
-        "summary": "위메이드가 법적 분쟁 해소와 비용 효율화를 바탕으로 올해 1분기 흑자 전환에 성공했다. 중국 킹넷으로부터 화해금을 받아내며 라이선스 수익이 실적에 반영됐고, 비용 효율화에 힘입어 수익성이 개선됐다. 회사는 현재 다양한 장르와 플랫폼을 지원하는 신작 20여종을 개발 중이며, 이를 통해 중장기 성장을 도모할 계획이다.",
+        "published": "2026-05-14T02:07:54+00:00",
+        "summary": "“AI가 짜준 걸 그대로 복사만 할 거면, 집에 가세요.”\n\n팀 메신저에 올린 이 한 마디로 IT스타트업 시니어 개발자 A와 주니어 B의 갈등이 시작됐다. A는 코드 완성도를 위한 피드백의 일환이었다고 항변하였으나, 수개월 간 지속·반복된 인격 모독성 발언에 B는 결국 직장 내 괴롭힘 신고를 감행했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "카카오페이 “초개인화 마케팅으로 가맹점 성장 지원”",
-        "url": "https://byline.network/2026/05/512/",
+        "title": "“가짜뉴스 판별 기준, 플랫폼이 정해라?”…국회가 떠넘긴 모호한 입법",
+        "url": "https://byline.network/2026/05/0513-6/",
         "source": "ByLine Network",
-        "published": "2026-05-12T21:34:45+00:00",
-        "summary": "카카오페이가 유저·데이터·기술을 기반으로 생태계를 확장해 국내 1위 온라인 간편결제 플랫폼으로 도약하겠다는 목표를 제시했다. 카카오페이는 12일 서울 중구 대한상공회의소에서 열린 프레스톡에서 초개인화 마케팅 전략을 통해 파트너 가맹점의 성장을 지원하겠다고 밝혔다. 이는 온라인 결제 시장 내 경쟁력을 강화하기 위한 핵심 전략으로 제시됐다.",
+        "published": "2026-05-13T22:15:42+00:00",
+        "summary": "오는 7월부터 이른바 ‘가짜뉴스(허위조작정보)’ 유포를 제재하는 개정 정보통신망법이 시행된다. 하지만 무엇이 허위조작정보인지 판별하는 핵심 기준 설정과 그에 따른 법적 리스크를 정부나 사법부가 아닌 민간 플랫폼 기업들이 떠안게 되면서 현장의 우려가 커지고 있다. 국회가 법안을 통과시키면서 구체적인 판단 책임을 플랫폼의 자율규제로 뭉뚱그려 위임했기 때문이다. 한국인터넷자율정책기구(KISO)를 비롯해 플랫폼 업계에서는 법 시행에 따른 혼란을 최소화하기 위해 자체적인 가이드라인을 마련하고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "DeepMind spinout Isomorphic Labs raises $2.1bn",
-        "url": "https://sifted.eu/articles/isomorphic-labs-2-1bn/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-12T15:35:07+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "European AI Funding Is Growing. Will That Boost The Region’s Startup Scene?",
-        "url": "https://news.crunchbase.com/venture/european-ai-funding-startups-recursive-ineffable-advanced-machine-intelligence/",
+        "title": "Cerebras Sees Sizzling Demand For IPO Shares",
+        "url": "https://news.crunchbase.com/ai/cerebras-ipo-cbrs/",
         "source": "Crunchbase News",
-        "published": "2026-05-12T11:00:20+00:00",
-        "summary": "A growing percentage of European venture funding in 2026 was AI-driven. That includes investments in three new frontier model companies as well as startups in a wide variety of AI-centric sectors.",
+        "published": "2026-05-13T22:07:02+00:00",
+        "summary": "After years of heavy fundraising in the private markets and scrapping earlier IPO plans, AI chip startup Cerebras Systems is finally making its public-market debut on the Nasdaq.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "How LEAP became a global meeting point for international tech players",
-        "url": "https://sifted.eu/articles/leap-a-global-meeting-point-brnd/",
+        "title": "Anduril Raises Another $5B As Defense Tech Startups Shatter Funding Records",
+        "url": "https://news.crunchbase.com/defense-tech/anduril-5b-valuation-vc-funding-record-data/",
+        "source": "Crunchbase News",
+        "published": "2026-05-13T18:22:49+00:00",
+        "summary": "Defense tech startup Anduril Industries has raised $5 billion at a $61 billion valuation — double its previous valuation — as defense-tech startups haul in record amounts of venture cash.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "ElevenLabs hit with fresh lawsuit over use of voices by Pulitzer and Emmy-winning journalists",
+        "url": "https://sifted.eu/articles/elevenlabs-lawsuit-2026/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-12T09:02:18+00:00",
+        "published": "2026-05-13T15:36:43+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,21 +252,21 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "일루미오, 침해 격리 앞세워 국내 제로 트러스트 보안 시장 공략",
-        "url": "https://byline.network/2026/05/12-596/",
-        "source": "ByLine Network",
-        "published": "2026-05-12T08:32:59+00:00",
-        "summary": "인공지능(AI)이 취약점 탐색과 공격 속도를 높이면서 조직의 보안 전략도 침입 차단 중심에서 침해 이후 확산을 억제하는 방식으로 바뀌어야 한다는 진단이 나왔다. 침해 격리 전문 기업 일루미오(Illumio)는 12일 서울 삼성동 아셈타워에서 기자간담회를 열고, AI 보안 그래프와 마이크로세그멘테이션을 기반으로 한국 제로 트러스트(Zero Trust) 시장 공략을 강화한다고 밝혔다.",
+        "title": "Accel and Thiel’s Founders Fund back Fractile in $220m raise",
+        "url": "https://sifted.eu/articles/fractile-220m-accel/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-13T15:28:52+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "A commercial talent crunch is looming for Europe’s quantum startups",
-        "url": "https://sifted.eu/articles/commercial-talent-quantum-startups/",
+        "title": "Nvidia startup head: ‘Germany is not late’ on AI boom",
+        "url": "https://sifted.eu/articles/nvidia-startups-germany-ai-boom/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-12T08:30:05+00:00",
+        "published": "2026-05-13T14:00:32+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -276,30 +276,135 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "How We Grew Koch Industries to $150 Billion Without Going Public: Charles &amp; Chase Koch",
-        "url": "https://www.youtube.com/watch?v=EIo3AuyvV84",
+        "title": "Charles Koch: When People Lose Meaning, Societies Lose Freedom",
+        "url": "https://www.youtube.com/watch?v=8K_h8zbfvfQ",
         "source": "All-In Podcast",
-        "published": "2026-05-12T21:17:30Z",
-        "summary": "(0:00) David Friedberg welcomes Charles & Chase Koch (1:04) Koch Inc. Overview: Scale, Business Lines & History (2:21) ...",
-        "thumbnail": "https://i.ytimg.com/vi/EIo3AuyvV84/mqdefault.jpg",
+        "published": "2026-05-13T21:00:17Z",
+        "summary": "Thanks to our partner http://Axon.ai for making this possible Most advertisers have never heard of the platform with an $11B ...",
+        "thumbnail": "https://i.ytimg.com/vi/8K_h8zbfvfQ/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "EIo3AuyvV84",
+          "videoId": "8K_h8zbfvfQ",
           "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "Copper is ripping. Chamath told you it would.",
-        "url": "https://www.youtube.com/watch?v=5vEjSI0Zw-M",
+        "title": "Ford tried to buy Ferrari and Enzo blew up the deal at the finish line",
+        "url": "https://www.youtube.com/watch?v=n1ASMSD94kg",
+        "source": "Acquired",
+        "published": "2026-05-13T17:47:33Z",
+        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/n1ASMSD94kg/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "n1ASMSD94kg",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Spencer Pratt: I will make LA beautiful again.",
+        "url": "https://www.youtube.com/watch?v=uXY5J-RXPv8",
         "source": "All-In Podcast",
-        "published": "2026-05-12T18:19:14Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/5vEjSI0Zw-M/mqdefault.jpg",
+        "published": "2026-05-13T16:01:24Z",
+        "summary": "Thanks to our partner http://Axon.ai for making this possible Most advertisers have never heard of the platform with an $11B ...",
+        "thumbnail": "https://i.ytimg.com/vi/uXY5J-RXPv8/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "5vEjSI0Zw-M",
+          "videoId": "uXY5J-RXPv8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What’s Really Inside The Earth?",
+        "url": "https://www.youtube.com/watch?v=pag8Ncc7AwQ",
+        "source": "Cleo Abram",
+        "published": "2026-05-13T15:00:14Z",
+        "summary": "The deepest hole anyone has ever dug is only 0.2% of the way to the Earth's center. But then….how do we know that our Earth ...",
+        "thumbnail": "https://i.ytimg.com/vi/pag8Ncc7AwQ/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "pag8Ncc7AwQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Founders Who Left Tesla to Rebuild America | a16z",
+        "url": "https://www.youtube.com/watch?v=FnJaDj5zUhY",
+        "source": "a16z",
+        "published": "2026-05-13T14:39:25Z",
+        "summary": "Erin Price-Wright speaks with Turner Caldwell and Drew Baglino about what it will take to close America's critical minerals gap ...",
+        "thumbnail": "https://i.ytimg.com/vi/FnJaDj5zUhY/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "FnJaDj5zUhY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Paul Graham, Founder of Y Combinator, Live from Stockholm",
+        "url": "https://www.youtube.com/watch?v=QHJkUw31YX8",
+        "source": "Y Combinator",
+        "published": "2026-05-13T14:30:29Z",
+        "summary": "Paul Graham, the Founder of Y Combinator, speaks live from Stockholm Waterfront Congress Centre in Stockholm, Sweden.",
+        "thumbnail": "https://i.ytimg.com/vi/QHJkUw31YX8/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "QHJkUw31YX8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "치사율 최대 50% 한타바이러스, 세계를 떨게 하다.",
+        "url": "https://www.youtube.com/watch?v=gqOaifULb_8",
+        "source": "슈카월드",
+        "published": "2026-05-13T13:11:06Z",
+        "summary": "0:00 세계를 떨게 하고 있는 크루즈선 집단 바이러스 발병 14:15 한타 바이러스란 무엇인가.",
+        "thumbnail": "https://i.ytimg.com/vi/gqOaifULb_8/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "gqOaifULb_8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“반도체 1등 경쟁력은 소부장이 1등 아니면 불가능하다” (황철주 주성엔지니어링 회장)",
+        "url": "https://www.youtube.com/watch?v=FMLMmyHo9sQ",
+        "source": "티타임즈TV",
+        "published": "2026-05-13T09:00:27Z",
+        "summary": "엔지니어는 경력이 없는 신입사원만 뽑고, 고졸 인문계를 R&D에 투입하는 황철주 주성엔지니어링 회장의 경영 철학을 들어보시죠.",
+        "thumbnail": "https://i.ytimg.com/vi/FMLMmyHo9sQ/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "FMLMmyHo9sQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Aren’t Oil Prices Higher?",
+        "url": "https://www.youtube.com/watch?v=ICBjPCfOTn4",
+        "source": "TLDR News Global",
+        "published": "2026-05-13T08:45:18Z",
+        "summary": "Learn More about TLDR Party: https://toolong.news/party Sign up for the TLDR Party and Too Long Bundle using promo code ...",
+        "thumbnail": "https://i.ytimg.com/vi/ICBjPCfOTn4/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "ICBjPCfOTn4",
           "via": "api"
         }
       },
@@ -307,119 +412,14 @@
         "category": "videos",
         "kind": "video",
         "title": "How Far Away The Moon REALLY Is",
-        "url": "https://www.youtube.com/shorts/Gab74WWEIZQ",
+        "url": "https://www.youtube.com/watch?v=Gab74WWEIZQ",
         "source": "Cleo Abram",
-        "published": "2026-05-12T14:51:33+00:00",
-        "summary": "Most people don’t understand how far away the moon really is… \n\nTo find out how many Earths you could fit between the moon and us… subscribe! \n\n#moon #space #animation #shorts",
-        "thumbnail": "https://i4.ytimg.com/vi/Gab74WWEIZQ/hqdefault.jpg",
+        "published": "2026-05-12T14:51:33Z",
+        "summary": "Most people don't understand how far away the moon really is… To find out how many Earths you could fit between the moon and ...",
+        "thumbnail": "https://i.ytimg.com/vi/Gab74WWEIZQ/mqdefault.jpg",
         "extras": {
           "theme": "trend",
           "videoId": "Gab74WWEIZQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Goldman Sachs Chairman on AI and the Future of Finance | The a16z Show",
-        "url": "https://www.youtube.com/watch?v=9qqLihL4AWk",
-        "source": "a16z",
-        "published": "2026-05-12T14:00:22+00:00",
-        "summary": "David Haber speaks with Lloyd Blankfein, former CEO of Goldman Sachs, about leadership, risk, and navigating moments of extreme uncertainty. Drawing on his experience leading Goldman through the financial crisis, Blankfein shares how organizations can build resilience, make decisions under pressure,",
-        "thumbnail": "https://i2.ytimg.com/vi/9qqLihL4AWk/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "9qqLihL4AWk",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The WORST car Ferrari ever made!",
-        "url": "https://www.youtube.com/watch?v=LmCUQwcdhWI",
-        "source": "Acquired",
-        "published": "2026-05-12T12:08:56Z",
-        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/LmCUQwcdhWI/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "LmCUQwcdhWI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "죽은 기업도 살리는 &#39;반도체 붐&#39;",
-        "url": "https://www.youtube.com/watch?v=dwY_s50Hw3g",
-        "source": "슈카월드",
-        "published": "2026-05-12T10:57:09Z",
-        "summary": "0:00 나스닥 최고점 돌파, AI 테크주 달린다 6:57 인텔 9:39 ARM 11:30 AMD 13:25 소프트뱅크의 부활.",
-        "thumbnail": "https://i.ytimg.com/vi/dwY_s50Hw3g/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "dwY_s50Hw3g",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Is AI Keeping the US Economy Afloat?",
-        "url": "https://www.youtube.com/watch?v=MU9-y4HjkR8",
-        "source": "TLDR News Global",
-        "published": "2026-05-12T08:30:11+00:00",
-        "summary": "Subscribe to Too Long: https://toolong.news/\nLearn More About TLDR Party: https://toolong.news/party\nWhat's the Big Deal with Greenland Documentary: https://toolong.news/pages/whats-the-big-deal-with-greenland\n\nWith the energy crisis looming, the American economy is looking surprisingly alright, wit",
-        "thumbnail": "https://i2.ytimg.com/vi/MU9-y4HjkR8/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "MU9-y4HjkR8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Golden Age Thesis | Marc Andreessen on MTS",
-        "url": "https://www.youtube.com/watch?v=k1z0e7bGzq0",
-        "source": "a16z",
-        "published": "2026-05-11T14:30:11+00:00",
-        "summary": "Erik Torenberg speaks with Marc Andreessen about the state of AI, media, and the broader cultural and economic shifts shaping the internet. They discuss how narratives around AI, from fear to hype, are influencing public perception, and why real-world usage tells a very different story.\n\nThe convers",
-        "thumbnail": "https://i4.ytimg.com/vi/k1z0e7bGzq0/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "k1z0e7bGzq0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Japan’s Military Buildup Explained",
-        "url": "https://www.youtube.com/watch?v=kVtYPm4b-Hw",
-        "source": "TLDR News Global",
-        "published": "2026-05-11T10:28:28+00:00",
-        "summary": "Subscribe to Too Long: https://toolong.news/\nLearn More About TLDR Party: https://toolong.news/party\nWhat's the Big Deal with Greenland Documentary: https://toolong.news/pages/whats-the-big-deal-with-greenland\n\nJapan appears to be shedding its post-war military taboos, with the lifting of some arms ",
-        "thumbnail": "https://i4.ytimg.com/vi/kVtYPm4b-Hw/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "kVtYPm4b-Hw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "코스피 7,800 돌파, 박탈감에 시달리는 사람들",
-        "url": "https://www.youtube.com/watch?v=dgCTXeegLIM",
-        "source": "슈카월드",
-        "published": "2026-05-11T10:25:23Z",
-        "summary": "0:00 코스피 7800 무한 상승? 12:06 미국 사람들이 한국 주식 사려고 잠 못드는 시대 19:21 역대급 주식 FOMO 현상 27:09 벌긴 벌었 ...",
-        "thumbnail": "https://i.ytimg.com/vi/dgCTXeegLIM/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "dgCTXeegLIM",
           "via": "api"
         }
       }
