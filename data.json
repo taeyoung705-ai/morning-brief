@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-16T02:45:47.571211+00:00",
+  "generated_at": "2026-05-17T02:55:28.347928+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Gaza aid convoy in Libya prepares to head to Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/gaza-aid-convoy-in-libya-prepares-to-head-to-gaza?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-16T01:59:52+00:00",
-        "summary": "The &quot;Soumoud 2&quot; land convoy is preparing to leave Libya to bring aid to Gaza.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Colorado governor commuted Tina Peters’ sentence after Trump blocked funding for clean water project, Lauren Boebert claims – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
-        "source": "The Guardian World",
-        "published": "2026-05-16T01:58:49+00:00",
-        "summary": "This live blog is now closed.Colorado governor commutes sentence of election denier Tina PetersSign up for the Breaking News US emailJamieson Greer also said US export controls on semiconductor chips were not a major topic of discussions with Chinese officials in Beijing.The US trade representative’s comments to Bloomberg on Friday suggest a breakthrough on selling Nvidia’s advanced H200 chips to ",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
-        "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-05-16T01:32:47+00:00",
-        "summary": "It marks the third time a New York jury has considered the case against the 74-year-old disgraced film mogul.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Kataib Hezbollah: What to Know",
-        "url": "https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html",
+        "title": "How a Nature Cruise Turned Into a Nightmare",
+        "url": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
         "source": "NYT World",
-        "published": "2026-05-16T00:57:46+00:00",
-        "summary": "A commander of one of the most-hard line and powerful Iranian proxies in Iraq has been charged with plotting to attack Jewish sites in the United States.",
+        "published": "2026-05-17T02:32:50+00:00",
+        "summary": "The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "André Cerdini, Judge in Trial of Nazi Klaus Barbie, Dies at 96",
-        "url": "https://www.nytimes.com/2026/05/15/world/europe/andre-cerdini-dead.html",
-        "source": "NYT World",
-        "published": "2026-05-16T00:40:56+00:00",
-        "summary": "He calmly presided over the historic 1987 trial in which a French court, for the first time, convicted a Nazi official of crimes against humanity.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "‘A watchdog without resources is not a watchdog’: Labor accused of letting key accountability body languish",
-        "url": "https://www.theguardian.com/australia-news/2026/may/16/australian-national-audit-office-watchdog-cuts-labor-david-pocock",
+        "title": "Australia news live: Two high profile Liberals defect to One Nation; Qantas removes passenger from flight for allegedly biting attendant",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/17/australia-news-live-stafford-queensland-labor-lnp-jim-chalmers-federal-budget-anthony-albanese-angus-taylor-aukus-coalition-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-16T00:00:55+00:00",
-        "summary": "Criticism of budget funding comes amid warnings the Australian National Audit Office will struggle to meet its targets for independent reviewsGet our breaking news email, free app or daily news podcastLabor has been accused inadequately funding one of the central institutions safeguarding public administration, with transparency advocates and independent David Pocock criticising commitments for th",
+        "published": "2026-05-17T02:28:44+00:00",
+        "summary": "Former NSW Liberal senator Hollie Hughes and former Liberal vice-president Teena McQueen both defected to One Nation on Saturday. Follow live updatesGet our breaking news email, free app or daily news podcastJim Chalmers says the opposition’s policy to index tax brackets would cost the budget a quarter of a trillion dollars over ten years, while claiming that the government is returning bracket cr",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "POV: you’re Jim Chalmers using social media to sell the most ambitious budget of your life",
-        "url": "https://www.theguardian.com/australia-news/2026/may/16/pov-youre-jim-chalmers-using-social-media-to-sell-the-most-ambitious-budget-of-your-life",
-        "source": "The Guardian World",
-        "published": "2026-05-16T00:00:54+00:00",
-        "summary": "Politicians still care about traditional media, but winning over people spending more of their lives online is the challenge for modern MPsGet our breaking news email, free app or daily news podcastHe’s up before sunrise, pounding the pavement in a cap and running shorts. He’s still up late into the night, having slipped into a comfortable sweater while he checks figures in a darkened office by la",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+        "title": "Activists troll far-right UK rally with giant pro-immigration clip",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-led-by-donkeys-hijack-far-right-rally-160526?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-16T00:00:00+00:00",
-        "summary": "Lebanon&#039;s Ministry of Health said Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
+        "published": "2026-05-17T02:14:28+00:00",
+        "summary": "Led By Donkeys has snuck a big screen streaming pro-immigration messages into a far-right rally in the UK.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘She was phenomenal, she was iconic’: Delta Goodrem wins praise as Australia places fourth at Eurovision",
+        "url": "https://www.theguardian.com/music/2026/may/17/delta-goodrem-eurovision-fourth-place-australia-wins-praise-eclipse",
+        "source": "The Guardian World",
+        "published": "2026-05-17T02:07:30+00:00",
+        "summary": "Prime minister says ‘all Australians are proud of Delta’ as Bulgaria soars to unexpected maiden winFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastDelta Goodrem’s fourth-placed Eurovision finish has dashed Australia’s hopes of winning the world’s biggest song contest for the first time but won resounding praise for the “iconic” singe",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Venezuela Extradites Billionaire Tycoon Alex Saab to U.S.",
+        "url": "https://www.nytimes.com/2026/05/16/world/americas/venezuela-extradites-tycoon-alex-saab.html",
+        "source": "NYT World",
+        "published": "2026-05-17T01:26:02+00:00",
+        "summary": "The extradition of Alex Saab, who is tied to a huge graft scheme, is part of a purge of powerful figures who helped the deposed president, Nicolás Maduro, stay in power.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Tunisians rally amid economic crisis and political arrests",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/tunisians-rally-amid-economic-crisis-and-political-arrests?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-17T01:18:49+00:00",
+        "summary": "Hundreds of Tunisians have marched through the capital to denounce a worsening economic crisis and crackdown on dissent.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "LNP falls ‘agonisingly short’ in Stafford byelection as Labor suffers swing against it",
+        "url": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor",
+        "source": "The Guardian World",
+        "published": "2026-05-17T00:45:04+00:00",
+        "summary": "Opposition expected to retain the northern Brisbane seat, with Luke Richmond ahead of Fiona Hammond by more than 700 votesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastQueensland’s opposition leader, Steven Miles, says he has caucus support to remain Labor leader “right now”, after the party suffered a swing against it at a byelect",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iraq’s new PM Ali al-Zaidi formally takes over",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-17T00:14:03+00:00",
+        "summary": "Iraq’s new prime minister Ali al‑Zaidi has formally taken office in Baghdad, pledging reforms.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
-        "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+        "title": "Hosting a website on an 8-bit microcontroller",
+        "url": "https://maurycyz.com/projects/mcusite/",
         "source": "Hacker News Front",
-        "published": "2026-05-16T00:36:02+00:00",
-        "summary": "Article URL: https://kevinpatel.xyz/posts/no-way-to-prevent-this/\nComments URL: https://news.ycombinator.com/item?id=48155690\nPoints: 175\n# Comments: 53",
+        "published": "2026-05-17T01:25:26+00:00",
+        "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 19\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "I broke AppLovin's mediation cipher protocol",
-        "url": "https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/",
+        "title": "Self-Distillation Enables Continual Learning [PDF]",
+        "url": "https://arxiv.org/abs/2601.19897",
         "source": "Hacker News Front",
-        "published": "2026-05-16T00:35:01+00:00",
-        "summary": "Article URL: https://www.buchodi.com/i-broke-applovins-mediation-cipher-protocol/\nComments URL: https://news.ycombinator.com/item?id=48155678\nPoints: 13\n# Comments: 2",
+        "published": "2026-05-17T01:19:14+00:00",
+        "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 6\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
-        "url": "https://ljtn.github.io/epiq/",
+        "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+        "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
         "source": "Hacker News Front",
-        "published": "2026-05-16T00:18:03+00:00",
-        "summary": "Issue trackers typically live outside of your workflow, with poor ergonomics. Epiq aims to solve that, bringing issue tracking into your terminal. Multi-user collaboration is achieved via git using user-scoped immutable event logs that converge in memory. Put my all into it. Let me know what you think.\n\nComments URL: https://news.ycombinator.com/item?id=48155570\nPoints: 18\n# Comments: 5",
+        "published": "2026-05-16T23:59:47+00:00",
+        "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 66\n# Comments: 17",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-        "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-        "source": "MIT Technology Review",
-        "published": "2026-05-15T23:39:35+00:00",
-        "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development&#8230;",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The main thing about P2P meth is that there's so much of it (2022)",
-        "url": "https://dynomight.net/p2p-meth/",
+        "title": "A nicer voltmeter clock",
+        "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
         "source": "Hacker News Front",
-        "published": "2026-05-15T23:37:32+00:00",
-        "summary": "Article URL: https://dynomight.net/p2p-meth/\nComments URL: https://news.ycombinator.com/item?id=48155324\nPoints: 55\n# Comments: 36",
+        "published": "2026-05-16T22:45:16+00:00",
+        "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 79\n# Comments: 14",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Erlang/OTP 29.0",
-        "url": "https://www.erlang.org/news/188",
+        "title": "MCP Hello Page",
+        "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
         "source": "Hacker News Front",
-        "published": "2026-05-15T23:33:32+00:00",
-        "summary": "Article URL: https://www.erlang.org/news/188\nComments URL: https://news.ycombinator.com/item?id=48155297\nPoints: 117\n# Comments: 6",
+        "published": "2026-05-16T22:25:33+00:00",
+        "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 56\n# Comments: 23",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Spectre Programming Language",
-        "url": "https://spectre-docs.pages.dev",
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
         "source": "Hacker News Front",
-        "published": "2026-05-15T23:14:51+00:00",
-        "summary": "Article URL: https://spectre-docs.pages.dev\nComments URL: https://news.ycombinator.com/item?id=48155159\nPoints: 28\n# Comments: 2",
+        "published": "2026-05-16T22:23:50+00:00",
+        "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 192\n# Comments: 55",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Xbox is now XBOX",
-        "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
-        "source": "The Verge",
-        "published": "2026-05-15T23:10:13+00:00",
-        "summary": "Xbox just allcapsmaxxed: Meet XBOX. This isn't a joke; Microsoft appears to be actually rebranding Xbox to XBOX. Asha Sharma, Xbox CEO, ran a poll on X earlier this week, asking fans whether Microsoft should use Xbox or XBOX. The results were in favor of XBOX, and the company has now renamed its X account. [&#8230;]",
+        "title": "The haves and have nots of the AI gold rush",
+        "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+        "source": "TechCrunch",
+        "published": "2026-05-16T20:17:16+00:00",
+        "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+        "source": "Hacker News Front",
+        "published": "2026-05-16T20:14:06+00:00",
+        "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 86\n# Comments: 76",
         "thumbnail": "",
         "extras": {}
       }
@@ -208,6 +208,17 @@
       {
         "category": "startup",
         "kind": "article",
+        "title": "투키디데스의 함정 앞에서",
+        "url": "https://platum.kr/archives/287032?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2588%25ac%25ed%2582%25a4%25eb%2594%2594%25eb%258d%25b0%25ec%258a%25a4%25ec%259d%2598-%25ed%2595%25a8%25ec%25a0%2595-%25ec%2595%259e%25ec%2597%2590%25ec%2584%259c",
+        "source": "Platum",
+        "published": "2026-05-15T18:25:09+00:00",
+        "summary": "도널드 트럼프 대통령이 베이징 인민대회당 황금홀(金色大厅) 연회장에 들어섰을 때, 시진핑이 꺼낸 키워드 중 하나는 &#8216;투키디데스 함정(Thucydides Trap)&#8217;이었다. 2,500년 전 그리스 역사가가 기록한 명제—기존 패권국과 신흥 강국의 충돌은 필연인가. 시진핑은 같은 질문을 트럼프에게 돌렸다. &#8220;미국과 중국이 이 함정을 넘어설 수 있겠느냐&#8221;고. 트럼프의 답은 짧았다. &#8220;이번 방문은 굉장했다(incredible). 많은 성과가 있었고, 양국 모두에 좋은 무역 합의가 이뤄졌다.&#8221; ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
         "title": "Dutch dronemaker Destinus in €200m funding talks, reports say",
         "url": "https://sifted.eu/articles/destinuse-defence-fundraise-report/",
         "source": "Sifted (EU startups)",
@@ -230,49 +241,83 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "5 Interesting Startup Deals You May Have Missed: A Law Firm Operating System, Building Defense Tech Near The Battlefield, And Cell-Based Milk",
-        "url": "https://news.crunchbase.com/venture/interesting-startup-deals-defense-physical-ai-manifest-law-solar-recycling-cell-milk/",
-        "source": "Crunchbase News",
-        "published": "2026-05-15T11:00:52+00:00",
-        "summary": "Most of the interesting companies that caught our eye in the past month were working on problems in the physical world, often far from the glow of a laptop screen. They include a supplier of cell-based milk, a startup that bills itself as the operating system for modern law firms, and a defense tech startup that makes containerized manufacturing platforms for drones and other equipment near the ba",
+        "title": "원티드랩, 1분기 매출 89억…AX 신사업 비중 23%로 성장",
+        "url": "https://platum.kr/archives/287024?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259b%2590%25ed%258b%25b0%25eb%2593%259c%25eb%259e%25a9-1%25eb%25b6%2584%25ea%25b8%25b0-%25eb%25a7%25a4%25ec%25b6%259c-89%25ec%2596%25b5ax-%25ec%258b%25a0%25ec%2582%25ac%25ec%2597%2585-%25eb%25b9%2584%25ec%25a4%2591-23%25eb%25a1%259c-%25ec%2584%25b1%25ec%259e%25a5",
+        "source": "Platum",
+        "published": "2026-05-15T11:31:06+00:00",
+        "summary": "원티드랩이 2026년 1분기 매출 89억 원을 기록했다고 15일 공시했다. 전년 동기 대비 12.1% 증가한 수치다. 영업손실은 9억 원으로, 전년 동기 대비 18.7% 개선됐다. AX(AI 전환) 신사업 매출은 전체 매출의 23%를 차지하며 성장세를 이어갔다. 원티드랩은 기업용 AI 에이전트 생성·운영 솔루션 브랜드 &#8216;엔노이아(Ennoia)&#8217;를 중심으로 임직원 교육, 사내 AI 환경 구축, AI 기반 인재 관리를 아우르는 &#8216;AX 통합 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "1분기 게임업계, 잘한 곳은 더 잘했다",
-        "url": "https://byline.network/2026/05/15-592/",
-        "source": "ByLine Network",
-        "published": "2026-05-15T08:45:26+00:00",
-        "summary": "주요 국내 게임사들이 1분기 실적을 일제히 공개했다. 탄탄한 지식재산권(IP)과 흥행 신작을 앞세운 기업은 역대 최대 실적을 경신했지만, 신작 공백과 기존 작품 매출 둔화에 직면한 기업은 부진한 성적표를 받았다. 검증된 IP와 글로벌 흥행 경험을 갖춘 기업이 성장세를 이어간 반면, 그렇지 못한 곳은 비용 효율화와 조직 재정비 등 고강도 체질개선에 나서는 모습이다.",
+        "title": "중기부, 인도 진출 스타트업과 간담회…한-인도 창업 협력 후속 지원 본격화",
+        "url": "https://platum.kr/archives/286987?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b8%25b0%25eb%25b6%2580-%25ec%259d%25b8%25eb%258f%2584-%25ec%25a7%2584%25ec%25b6%259c-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ea%25b3%25bc-%25ea%25b0%2584%25eb%258b%25b4%25ed%259a%258c%25ed%2595%259c-%25ec%259d%25b8%25eb%258f%2584-%25ec%25b0%25bd%25ec%2597%2585",
+        "source": "Platum",
+        "published": "2026-05-15T11:27:28+00:00",
+        "summary": "중소벤처기업부가 15일 서울 용산구에서 인도에 진출 중인 국내 창업기업과 오찬 간담회를 열고 인도 시장 진출 애로사항과 협력 확대 방안을 논의했다. 이번 간담회는 지난 4월 인도 국빈 방문 계기로 추진한 한-인도 중소벤처기업 협력 행사의 후속 차원에서 마련됐다. 현지 일정에 동행한 맥킨리라이스, 고피자, 덴탈브릿지, 어피닛, 디비스쿨, 라위드 등 6개사 대표들이 참석해 현장에서 체감한 시장 분위기와 정책 건의를 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "하나은행은 왜 두나무에 투자했을까",
-        "url": "https://byline.network/2026/05/0515-4/",
-        "source": "ByLine Network",
-        "published": "2026-05-15T08:42:22+00:00",
-        "summary": "하나은행이 국내 최대 디지털자산거래소 두나무 지분 6.55%를 확보하며 4대 주주에 올라섰다. 금융권에서는 이번 투자를 디지털자산 시장 주도권 확보를 위한 전략적 행보로 보고 있다. 원화 스테이블코인과 법인투자 시장 확대, 향후 네이버파이낸셜과의 협업 가능성까지 염두에 둔 결정이라는 분석이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[미토스 이후, 전문가에게 듣는다⑤] 윤두식 이로운앤컴퍼니 대표 “AI 보안의 출발점은 거버넌스”",
-        "url": "https://byline.network/2026/05/15-590/",
-        "source": "ByLine Network",
-        "published": "2026-05-15T08:11:52+00:00",
-        "summary": "윤두식 이로운앤컴퍼니 대표는 미토스 이후 기업 AI 보안의 핵심을 ‘거버넌스’에서 찾았다. 여기서 거버넌스는 추상적인 관리 체계를 뜻하지 않는다. 기업 안에서 누가 어떤 AI 모델을 쓰고, 어떤 데이터를 입력했으며, 어떤 답변을 받았는지 볼 수 있게 하는 가시성 체계에 가깝다. 여기에 민감정보 필터링, 유해 프롬프트 분류, 사용자·부서별 권한 관리, 사용량과 비용 관리, 감사 로그를 결합해야 실제 통제가 가능하다는 설명이다.",
+        "title": "야놀자, 1분기 매출 2,367억·통합거래액 9.5조…해외 비중 76%",
+        "url": "https://platum.kr/archives/287013?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25bc%25eb%2586%2580%25ec%259e%2590-1%25eb%25b6%2584%25ea%25b8%25b0-%25eb%25a7%25a4%25ec%25b6%259c-2367%25ec%2596%25b5%25c2%25b7%25ed%2586%25b5%25ed%2595%25a9%25ea%25b1%25b0%25eb%259e%2598%25ec%2595%25a1-9-5%25ec%25a1%25b0%25ed%2595%25b4%25ec%2599%25b8-%25eb%25b9%2584%25ec%25a4%2591-76",
+        "source": "Platum",
+        "published": "2026-05-15T11:17:30+00:00",
+        "summary": "글로벌 트래블 테크 기업 야놀자가 2026년 1분기 연결 기준 매출액 2,367억 원을 기록했다. 전년 동기 대비 8.5% 증가한 수치다. 조정 EBITDA는 58억 원을 기록했으며, 글로벌 사업 확대와 AI·데이터 전문 역량 내재화를 위한 선제적 투자 비용이 집행된 영향이다. 통합거래액(Aggregate TTV)은 전년 동기 대비 31.9% 성장한 9.5조 원을 기록했다. 전체 통합거래액 중 해외 비중은 약 76%로, 엔터프라이즈 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What’s the biggest volcano?",
+        "url": "https://www.youtube.com/shorts/xxbkGphvnhY",
+        "source": "Cleo Abram",
+        "published": "2026-05-16T15:53:10+00:00",
+        "summary": "Depends who you ask! Here are the top 3 contenders… and by the end, you decide the real winner.\n\nBut if we look BEYOND our planet, there’s another volcano that's even bigger\n\nTo see that…subscribe!\n\n#shorts #volcano #biggest #hawaii #eruption #earth",
+        "thumbnail": "https://i1.ytimg.com/vi/xxbkGphvnhY/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "xxbkGphvnhY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why has Trump Gone Soft on China?",
+        "url": "https://www.youtube.com/watch?v=J05taiLeEk4",
+        "source": "TLDR News Global",
+        "published": "2026-05-16T09:00:07+00:00",
+        "summary": "Learn More about TLDR Party: https://toolong.news/party\nSign up for the TLDR Party and Too Long Bundle using promo code GREENLAND: https://toolong.news/collections/too-long-summer-2026\n\nIn Trump's second term, it appears he's softened the hawkish stance on China that defined the foreign policy of hi",
+        "thumbnail": "https://i3.ytimg.com/vi/J05taiLeEk4/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "J05taiLeEk4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Thanks for a great time, India 🇮🇳",
+        "url": "https://www.youtube.com/shorts/yMt2oSemobE",
+        "source": "Y Combinator",
+        "published": "2026-05-16T05:00:49+00:00",
+        "summary": "",
+        "thumbnail": "https://i2.ytimg.com/vi/yMt2oSemobE/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "yMt2oSemobE",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -375,51 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "4aU4y02V8AA",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“I Walked Into My Boss's Office and Fired Myself”",
-        "url": "https://www.youtube.com/shorts/E0oG7EtwsIw",
-        "source": "All-In Podcast",
-        "published": "2026-05-14T19:16:10+00:00",
-        "summary": "Thanks to our partner http://Axon.ai for making this possible\n\nMost advertisers have never heard of the platform with an $11B annual run rate in ad spend.\n\nhttp://Axon.ai by AppLovin — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spe",
-        "thumbnail": "https://i2.ytimg.com/vi/E0oG7EtwsIw/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "E0oG7EtwsIw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "세계에서 가장 AI에 진심인 나라",
-        "url": "https://www.youtube.com/watch?v=b0SGZQWvPC8",
-        "source": "슈카월드",
-        "published": "2026-05-14T13:56:27+00:00",
-        "summary": "0:00 전세계를 홀린 화제의 야구장 여신\n11:13 세계 최고 AI 짤 생성국\n20:45 한국인들은 왜 이렇게 AI에 진심일까",
-        "thumbnail": "https://i3.ytimg.com/vi/b0SGZQWvPC8/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "b0SGZQWvPC8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“AI 때문에 할 줄 모르게 된 것들이 많아졌다” (김재인 경희대 교수)",
-        "url": "https://www.youtube.com/watch?v=VQDV8IJx-Us",
-        "source": "티타임즈TV",
-        "published": "2026-05-14T09:00:15+00:00",
-        "summary": "누구나 처음은 있습니다. \n어렵고 복잡하게 느껴지는 '마음의 벽'을  깨부숴야 새로운 길이 열립니다.\n지금 티타임즈와 함께 바이브코딩의 첫 걸음을 내딛어보세요\n\n💻코딩 몰라도 된다! 업무자동화를 위한 바이브코딩 강좌\n\n· 실습 강연으로 따라 해보는 AI업무 자동화!\n· 업계 최고 AI교육 전문가 4인이 전수하는 바이브코딩!\n· 스마트한 AI활용부터 AI에이전트 만드는 방법까지!\n\n📍 기업 구매 문의 :  02-724-7718, ttimes6000@gmail.com\n📍 개인 구매 : 검색창에 '티타임즈 라이브클래스' 검색 후\n👉강좌구",
-        "thumbnail": "https://i3.ytimg.com/vi/VQDV8IJx-Us/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "VQDV8IJx-Us",
           "via": "rss"
         }
       }
