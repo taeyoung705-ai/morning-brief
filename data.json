@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-18T03:32:19.711019+00:00",
+  "generated_at": "2026-05-19T03:25:32.528816+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: judge warns about ‘controversy’ as pianist sues orchestra; NSW landlords fined over no-fault evictions",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
+        "title": "Australia news live: Karl Stefanovic and Eddie McGuire sign to co-host weekly radio show; diphtheria outbreak spreads to three states",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-18T03:13:24+00:00",
-        "summary": "Musician’s case against Melbourne Symphony Orchestra will not be a ‘roving inquiry’ on conflict in the Middle East, judge says. Follow today’s news liveGet our breaking news email, free app or daily news podcastData reveals how Coles and Woolworths switch promotions in syncYou’re looking to buy an electric toothbrush. You’re in Woolworths and you see one of the Oral-B kits advertised for sale at $",
+        "published": "2026-05-19T03:18:06+00:00",
+        "summary": "The new format, The Long Weekend, will broadcast live on ARN’s Gold network. Follow today’s news liveGet our breaking news email, free app or daily news podcastGlobal Sumud Flotilla participants urge Australian government to intervene and ‘keep us safe’The Australians that the Global Sumud Flotilla allege have been kidnapped by the Israel Defense Forces (IDF) are academics, doctors, students, acti",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
-        "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-        "source": "NYT World",
-        "published": "2026-05-18T03:11:57+00:00",
-        "summary": "The agency made the declaration just a day after Africa’s top public health agency first announced the outbreak. There is no approved vaccine for this species of Ebola.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Pianist Jayson Gillham’s case against MSO mustn’t turn into ‘roving inquiry’ on Middle East conflict, judge warns",
-        "url": "https://www.theguardian.com/australia-news/2026/may/18/pianist-jayson-gillham-cancellation-case-mso-melbourne-symphony-orchestra-court-palestianian-journalists-gaza-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-05-18T03:04:16+00:00",
-        "summary": "Federal court case of classical pianist who alleges Melbourne Symphony Orchestra unlawfully discriminated due to his views beginsThe judge hearing the case of a classical pianist who alleges the Melbourne Symphony Orchestra unlawfully discriminated against him because of his views on Israeli forces killing Palestianian journalists says the matter will not be a “roving inquiry” over conflict in the",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "US says China to buy billions in agricultural goods after Trump-Xi talks",
-        "url": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks?traffic_source=rss",
+        "title": "WHO responding to ‘complex, difficult’ Ebola outbreak in DR Congo",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/aje-onl-nf_clip-who-responds-to-ebola-outbreak-in-drc-180526?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-18T02:43:12+00:00",
-        "summary": "China will buy &#039;at least&#039; $17bn worth of US agricultural goods annually, the White House says.",
+        "published": "2026-05-19T03:10:46+00:00",
+        "summary": "The World Health Organization is getting health experts and supplies to DR Congo to battle the Ebola outbreak.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations",
-        "url": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
-        "source": "NYT World",
-        "published": "2026-05-18T02:38:24+00:00",
-        "summary": "Iranian attacks and the stoppage of seaborne transit have paralyzed Qatar’s vital gas exports, stalling the economic pivots intended to anchor the country’s growth.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "What to Know About the Latest Ebola Outbreak",
-        "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-        "source": "NYT World",
-        "published": "2026-05-18T02:21:19+00:00",
-        "summary": "The World Health Organization declared a global health emergency after about 80 people died from the virus in the Democratic Republic of Congo.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Moment of collision between two Navy jets at Idaho air show",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/moment-of-collision-between-two-navy-jets-at-idaho-air-show?traffic_source=rss",
+        "title": "Russia-China ties ‘stabilising’ force in world, Putin says before Xi talks",
+        "url": "https://www.aljazeera.com/news/2026/5/19/russia-china-ties-stabilising-force-in-world-putin-says-before-xi-talks?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-18T02:11:03+00:00",
-        "summary": "Two US Navy jets collided during an air show at Mountain Home AFB.",
+        "published": "2026-05-19T03:09:24+00:00",
+        "summary": "Russia&#039;s Vladimir Putin is travelling to China for second meeting with Chinese leader Xi Jinping in less than a year.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Passenger detained and banned from Qantas after allegedly biting attendant on flight from Australia to US",
-        "url": "https://www.theguardian.com/business/2026/may/17/qantas-passenger-banned-alleged-biting-flight-attendant-melbourne-tahiti-dallas-ntwnfb",
+        "title": "Liberal senator breaks ranks to take aim at Angus Taylor’s ‘negative’ rhetoric on immigration",
+        "url": "https://www.theguardian.com/australia-news/2026/may/19/liberal-senator-breaks-ranks-to-take-aim-at-angus-taylors-negative-rhetoric-on-immigration",
         "source": "The Guardian World",
-        "published": "2026-05-18T02:03:30+00:00",
-        "summary": "Flight from Melbourne to Dallas forced to land in Tahiti due to man’s alleged disruptive behaviourGet our breaking news email, free app or daily news podcastA passenger has been detained in Tahiti and banned from future Qantas travel after a plane travelling on a long-haul flight from Australia to the US was diverted at the weekend after the man allegedly bit a flight attendant.The QF21 flight lef",
+        "published": "2026-05-19T02:54:40+00:00",
+        "summary": "‘We cannot continue to blame migrants for the problems of our economy,’ backbencher Andrew McLachlan says A Liberal senator has broken ranks to criticise Angus Taylor’s plan to bar non-citizens from accessing welfare, warning it will create “two types of members of the community” and is “not the Australian way”.The outspoken backbencher Andrew McLachlan said migrants should not be blamed for econo",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+        "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-05-19T02:40:57+00:00",
+        "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Nauru Hopes You Will Call It by a New Name",
+        "url": "https://www.nytimes.com/2026/05/18/world/nauru-naoero-country-name-change.html",
+        "source": "NYT World",
+        "published": "2026-05-19T02:00:06+00:00",
+        "summary": "Tiny Nauru could soon be called Naoero.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+        "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-05-19T01:35:30+00:00",
+        "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Experts locate bodies of four missing Italian divers inside Maldives cave",
+        "url": "https://www.theguardian.com/world/2026/may/18/maldives-cave-italian-divers-bodies",
+        "source": "The Guardian World",
+        "published": "2026-05-19T00:52:25+00:00",
+        "summary": "Spokesperson for Indian Ocean island nation says they will try to recover explorers in next couple of daysRescuers have located the bodies of four Italian divers deep inside an underwater cave in an atoll in the Maldives, four days after they were reported missing.Searches had resumed after being suspended following the death of a local military diver during a perilous mission to try to reach them",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Most Americans don't trust AI – or the people in charge of it",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+        "title": "Peter Salus has died",
+        "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
         "source": "Hacker News Front",
-        "published": "2026-05-18T01:39:30+00:00",
-        "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai\nComments URL: https://news.ycombinator.com/item?id=48174808\nPoints: 11\n# Comments: 0",
+        "published": "2026-05-19T02:56:42+00:00",
+        "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 13\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-        "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+        "title": "The American Rebellion Against AI Is Gaining Steam",
+        "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
         "source": "Hacker News Front",
-        "published": "2026-05-17T23:10:09+00:00",
-        "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 13\n# Comments: 1",
+        "published": "2026-05-19T01:51:48+00:00",
+        "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529\nComments URL: https://news.ycombinator.com/item?id=48188310\nPoints: 36\n# Comments: 26",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Design posters showcasing your country's electrical grid",
-        "url": "https://github.com/open-energy-transition/grid2poster",
+        "title": "The last six months in LLMs in five minutes",
+        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
         "source": "Hacker News Front",
-        "published": "2026-05-17T22:47:05+00:00",
-        "summary": "Article URL: https://github.com/open-energy-transition/grid2poster\nComments URL: https://news.ycombinator.com/item?id=48173849\nPoints: 66\n# Comments: 17",
+        "published": "2026-05-19T01:30:42+00:00",
+        "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 25\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-        "url": "https://xca-attacks.github.io/fabricked/",
-        "source": "Hacker News Front",
-        "published": "2026-05-17T22:23:30+00:00",
-        "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 28\n# Comments: 16",
+        "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+        "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+        "source": "The Verge",
+        "published": "2026-05-19T01:10:12+00:00",
+        "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have only been capable of [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-        "url": "https://www.jdhodges.com/blog/thinkpad-history/",
-        "source": "Hacker News Front",
-        "published": "2026-05-17T21:56:40+00:00",
-        "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 62\n# Comments: 32",
+        "title": "Here’s why Elon Musk lost his suit against OpenAI",
+        "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+        "source": "MIT Technology Review",
+        "published": "2026-05-19T00:53:10+00:00",
+        "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-        "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+        "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+        "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
         "source": "Hacker News Front",
-        "published": "2026-05-17T21:45:30+00:00",
-        "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 121\n# Comments: 99",
+        "published": "2026-05-18T23:18:10+00:00",
+        "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48187201\nPoints: 133\n# Comments: 82",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "GenCAD",
-        "url": "https://gencad.github.io/",
+        "title": "Click (2016)",
+        "url": "https://clickclickclick.click/",
         "source": "Hacker News Front",
-        "published": "2026-05-17T21:40:35+00:00",
-        "summary": "Article URL: https://gencad.github.io/\nComments URL: https://news.ycombinator.com/item?id=48173429\nPoints: 145\n# Comments: 32",
+        "published": "2026-05-18T23:03:02+00:00",
+        "summary": "Article URL: https://clickclickclick.click/\nComments URL: https://news.ycombinator.com/item?id=48187054\nPoints: 222\n# Comments: 52",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Prolog Coding Horror",
-        "url": "https://www.metalevel.at/prolog/horror",
-        "source": "Hacker News Front",
-        "published": "2026-05-17T21:15:51+00:00",
-        "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 66\n# Comments: 24",
+        "title": "OSHA probing worker death at SpaceX’s Starbase site",
+        "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
+        "source": "TechCrunch",
+        "published": "2026-05-18T21:55:02+00:00",
+        "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,55 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[커머스BN] 독일의 DH는 왜 배민을 팔려 할까",
-        "url": "https://byline.network/2026/05/17_2012873/",
+        "title": "클라우드플레어 “미토스 써봤더니…차원이 달라”",
+        "url": "https://byline.network/2026/05/cloudflare-mythos/",
         "source": "ByLine Network",
-        "published": "2026-05-17T12:16:32+00:00",
-        "summary": "독일 딜리버리히어로(이하 DH)가 국내 1위 배달앱 '배달의민족(이하 배민)' 매각 작업에 착수한 것으로 알려졌습니다. 배민은 연 매출 5조2829억원, 영업이익률만 약 10%에 달하는 플랫폼입니다. 여러 나라에서 배달앱을 운영하는 DH 입장에서도 가장 수익성이 좋은 포트폴리오고요.\n\n그런 배민을 DH가 매각한다고 하니 관심이 쏠립니다. 황금알을 낳는 거위의 배를 가르는 것 아니냐는 이야기도 나오죠.\n\nDH는 왜 배민을 매각하려 하는 걸까요?",
+        "published": "2026-05-19T01:22:34+00:00",
+        "summary": "클라우드플레어가 앤트로픽의 차세대 AI 모델 ‘클로드 미토스 프리뷰’를 자사 인프라 코드에 직접 투입해 테스트한 결과를 18일(현지시각) 블로그에 공개했다. 기존 AI 모델과의 결정적 차이는 개별 취약점을 연결해 실제 공격 시나리오로 만들어내는 능력이었다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "실리콘밸리 큰손들, 한 손엔 오픈AI·다른 손엔 앤트로픽…9,000억 달러 라운드 주도",
-        "url": "https://platum.kr/archives/287048?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a4%25eb%25a6%25ac%25ec%25bd%2598%25eb%25b0%25b8%25eb%25a6%25ac-%25ed%2581%25b0%25ec%2586%2590%25eb%2593%25a4-%25ed%2595%259c-%25ec%2586%2590%25ec%2597%2594-%25ec%2598%25a4%25ed%2594%2588ai%25c2%25b7%25eb%258b%25a4%25eb%25a5%25b8-%25ec%2586%2590%25ec%2597%2594-%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c",
-        "source": "Platum",
-        "published": "2026-05-17T08:11:11+00:00",
-        "summary": "오픈AI의 주요 주주들이 경쟁사 앤트로픽의 신규 투자 라운드도 함께 이끈다. 앤트로픽이 9,000억 달러(약 1,250조 원)의 프리머니 기업가치로 300억 달러(약 42조 원) 규모의 투자 유치 협상을 마무리한 가운데, 공동 주도사로 나선 드래거니어(Dragoneer), 그리노크스(Greenoaks), 세쿼이아 캐피털, 알티미터 캐피털 4곳 중 3곳이 오픈AI의 주요 주주이기도 하다. 파이낸셜타임스가 현지 시간 15일 보도했다. 드래거니어는 지난해 오픈AI에 약 30억 달러를 투자했고, ... 더 읽기",
+        "title": "머스크, 오픈AI 소송서 패소…배심원단 “소멸시효 지났다“",
+        "url": "https://byline.network/2026/05/musk-altman/",
+        "source": "ByLine Network",
+        "published": "2026-05-19T00:49:42+00:00",
+        "summary": "일론 머스크가 샘 올트먼과 오픈AI를 상대로 제기한 소송에서 패소했다. 머스크의 제소가 소멸 시효를 넘겼기 때문이다. \n\n캘리포니아 오클랜드 연방 배심원단은 18일(현지시각) 머스크가 오픈AI와 샘 올트먼 최고경영자(CEO)를 상대로 낸 소송이 3년 소멸시효를 초과했다는 평결을 내렸다. 2시간도 채 안 된 심리 끝에 나온 이 권고적 평결을 판사가 즉시 채택하면서 확정됐다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "‘장관에게 직접 제안하세요’ 100일, 322건 중 절반이 제도 개선 요구",
-        "url": "https://platum.kr/archives/287042?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259e%25a5%25ea%25b4%2580-%25ec%25a7%2581%25ed%2586%25b5-%25ec%25b1%2584%25eb%2584%2590-100%25ec%259d%25bc-322%25ea%25b1%25b4-%25ec%25a0%259c%25ec%2595%2588-%25ec%25a4%2591-%25ec%25a0%2588%25eb%25b0%2598%25ec%259d%25b4-%25ec%25a0%259c%25eb%258f%2584-%25ea%25b0%259c%25ec%2584%25a0-%25ec%259a%2594%25ea%25b5%25ac",
-        "source": "Platum",
-        "published": "2026-05-17T07:44:59+00:00",
-        "summary": "중소벤처기업부가 올해 2월 개설한 &#8216;장관에게 직접 제안하세요&#8217; 창구에 100일간 322건의 제안이 접수됐다. 이 중 절반가량이 정책·제도 개선 요구였고, 일부는 실제 제도 변경으로 이어졌다. 중기부는 5월 13일 기준 운영 현황 통계를 누리집에 공개했다. 100일간 접수된 322건을 중기부는 5개 유형으로 분류했다. 정책·제도 개선 과제가 159건(49.4%)으로 가장 많고, 질의·안내 등 현장 소통이 59건, 타부처 협업이나 입법이 필요한 중장기 ... 더 읽기",
+        "title": "키네토스 “스포츠 강의는 디지털화되지 않은 마지막 시장”",
+        "url": "https://byline.network/2026/05/518/",
+        "source": "ByLine Network",
+        "published": "2026-05-18T21:16:55+00:00",
+        "summary": "인공지능(AI) 기반 테니스 레슨 플랫폼 키네토스의 이건우 대표가 18일 서울 중구 은행회관에서 열린 ‘은행권 공동 소상공인 컨설팅 사업 성과 공유회’에서 이 같이 밝혔다. 키네토스는 AI 매칭 기반 스포츠 플랫폼으로 현재 개인 강사에게 회원 유치·관리·시설 대관 등 스포츠 강의 거래에 필요한 일련의 과정을 통합적으로 제공하고 있다. 향후 개발되는 자체 AI 서비스는 회원이 자신에게 맞는 강사를 효율적으로 찾을 수 있도록 매칭하는 서비스를 제공할 예정이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "’21세기 대군부인’이 남긴 숫자들",
-        "url": "https://platum.kr/archives/287039?utm_source=rss&utm_medium=rss&utm_campaign=21%25ec%2584%25b8%25ea%25b8%25b0-%25eb%258c%2580%25ea%25b5%25b0%25eb%25b6%2580%25ec%259d%25b8%25ec%259d%25b4-%25eb%2582%25a8%25ea%25b8%25b4-%25ec%2588%25ab%25ec%259e%2590%25eb%2593%25a4",
-        "source": "Platum",
-        "published": "2026-05-17T07:28:27+00:00",
-        "summary": "7.8%로 시작했다. 13.8%로 끝났다. MBC 금토드라마 〈21세기 대군부인〉이 5월 16일 최종회를 마쳤다. 분당 최고 시청률 16.1%, MBC 역대 금토드라마 시청률 3위. 12회 내내 동시간대 1위를 지킨 곡선이 이 작품의 흥행 구조를 가장 단순하게 보여준다. 시청률이 말하는 것 이 드라마의 시청률 곡선에는 한 가지 특징이 있다. 동시간대 1위를 한 번도 내준 적이 없다는 점이다. 첫 회 ... 더 읽기",
+        "title": "[해시드와 AI 창업자③] GPTO가 ‘AI판 옥외광고’ 만드는 법",
+        "url": "https://byline.network/2026/05/0518-5/",
+        "source": "ByLine Network",
+        "published": "2026-05-18T21:16:06+00:00",
+        "summary": "어크로스는 지난해 8월 창업해 프라이머와 해시드의 기술 심사를 거쳐 초기 투자를 유치했다. 투자 유치 배경으로는 바이브코딩을 기반으로 한 빠른 개발 속도가 꼽힌다. 현재 200개 이상의 고객사를 확보하고 있으며 손익분기점을 맞춘 상태다. 매달 매출이 2배씩 성장하고 있어 수익성 또한 빠르게 개선되고 있다. 또한 아마존웹서비스(AWS), 대홍기획 등 국내외 기업들과 파트너십을 확대하고 있다. 이재홍 대표는 ‘나이트로 바이 해시드(Nitro by Hashed)’ 프로그램을 해시드와 공동으로 기획하며 협업을 이어가고 있다. 이 대표를 만나 창업 계기와 향후 목표를 들어봤다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "1분기 벤처투자 3.3조원·펀드 결성 4.4조원…동반 역대 최고",
-        "url": "https://platum.kr/archives/287036?utm_source=rss&utm_medium=rss&utm_campaign=1%25eb%25b6%2584%25ea%25b8%25b0-%25eb%25b2%25a4%25ec%25b2%2598%25ed%2588%25ac%25ec%259e%2590-3-3%25ec%25a1%25b0%25ec%259b%2590%25c2%25b7%25ed%258e%2580%25eb%2593%259c-%25ea%25b2%25b0%25ec%2584%25b1-4-4%25ec%25a1%25b0%25ec%259b%2590%25eb%258f%2599%25eb%25b0%2598-%25ec%2597%25ad%25eb%258c%2580-%25ec%25b5%259c",
-        "source": "Platum",
-        "published": "2026-05-17T04:52:55+00:00",
-        "summary": "2026년 1분기 벤처투자가 3조 3,189억원을 기록하며 역대 두 번째 실적을 달성했다. 벤처펀드 신규 결성은 4조 4,652억원으로 사상 최대치다. 저금리 호황기였던 2021년 1분기보다도 투자는 34.3%, 펀드 결성은 57.2% 많다. 중소벤처기업부는 17일 이 같은 내용의 2026년 1분기 벤처투자 및 펀드 결성 동향을 발표했다. 전년 동기 대비 벤처투자는 24.1%, 펀드 결성은 30.7% 늘었다. 여기에 모험자본 공급 의무가 있는 ... 더 읽기",
+        "title": "EQT beats Atomico to manage €5bn Scaleup Europe Fund",
+        "url": "https://sifted.eu/articles/eqt-manage-scaleup-europe-fund/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-18T17:16:23+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Sequoia backs AI agents scaleup Dust in $40m Series B",
+        "url": "https://sifted.eu/articles/dust-series-b-40m/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-18T14:57:22+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Sector Snapshot: Quantum Computing Startup Investment Slows In 2026 While Public Markets Hold Strong",
+        "url": "https://news.crunchbase.com/venture/quantum-computing-startup-investment-data-quantinuum-ipo/",
+        "source": "Crunchbase News",
+        "published": "2026-05-18T11:00:57+00:00",
+        "summary": "While deal counts remain robust for quantum startup investments and big rounds are still getting done, overall funding is on track to decline some from last year’s peaks.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Exclusive: The ‘lobby wars’ pitting Europe’s chip startups against semiconductor giants",
+        "url": "https://sifted.eu/articles/chips-act-lobby-wars/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-18T10:45:34+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
@@ -243,31 +276,136 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Chamath: The Real Reason Taiwan Matters, And Why It Won't in 18 Months",
-        "url": "https://www.youtube.com/shorts/XkfQ35Ane7c",
+        "title": "Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+        "url": "https://www.youtube.com/watch?v=ipiKIgdynZE",
+        "source": "Acquired",
+        "published": "2026-05-18T20:44:21Z",
+        "summary": "Vanguard is the most effective vehicle ever created for participating in the fruits of American capitalism. Today it's the single ...",
+        "thumbnail": "https://i.ytimg.com/vi/ipiKIgdynZE/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "ipiKIgdynZE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Marc Benioff hilariously recaps the last year in AI: “Sex bots off, coding agents on!” 😂",
+        "url": "https://www.youtube.com/watch?v=TCdglOfn_NM",
         "source": "All-In Podcast",
-        "published": "2026-05-18T00:30:32+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i1.ytimg.com/vi/XkfQ35Ane7c/hqdefault.jpg",
+        "published": "2026-05-18T19:15:37Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/TCdglOfn_NM/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "XkfQ35Ane7c",
+          "videoId": "TCdglOfn_NM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Can Earth Get Rings Like Saturn?",
+        "url": "https://www.youtube.com/watch?v=h-0YMkZccg8",
+        "source": "Cleo Abram",
+        "published": "2026-05-18T16:10:57Z",
+        "summary": "Can Earth get rings like Saturn? Well, let's look at how Saturn's rings formed in the first place. It starts… with sacrificing the moon.",
+        "thumbnail": "https://i.ytimg.com/vi/h-0YMkZccg8/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "h-0YMkZccg8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Founders Can Build for Law Enforcement and First Responders | The a16z Show",
+        "url": "https://www.youtube.com/watch?v=Ie07zcmbnhM",
+        "source": "a16z",
+        "published": "2026-05-18T14:30:32+00:00",
+        "summary": "David Ulevitch speaks with Col. Jeffrey Glover and Rahul Sidhu about how AI, drones, and sensor networks are reshaping public safety and what it takes to bring new technology into law enforcement at scale. As departments face staffing shortages, burnout, and rising complexity, they examine how the r",
+        "thumbnail": "https://i2.ytimg.com/vi/Ie07zcmbnhM/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "Ie07zcmbnhM",
           "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "Marc Benioff to SaaS CEOs: Grow up, wipe your tears, focus on the customer",
-        "url": "https://www.youtube.com/shorts/0E3oGyTO0aU",
+        "title": "삼성전자 총파업 초읽기, 협상 마지막 하루",
+        "url": "https://www.youtube.com/watch?v=i-8ociNpAGs",
+        "source": "슈카월드",
+        "published": "2026-05-18T12:51:59Z",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/i-8ociNpAGs/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "i-8ociNpAGs",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "인도 중산층 10억 명이 쓰는 서비스를 만들었습니다 | 어피닛 이철원",
+        "url": "https://www.youtube.com/watch?v=8ba1NyZoYZA",
+        "source": "EO 이오",
+        "published": "2026-05-18T09:22:26Z",
+        "summary": "오늘은 아시아 시장에서 피처폰 부가서비스 판매 사업을 하다 피봇해, 인도 중산층 10억 명을 위한 핀테크 서비스를 만들어낸 어피 ...",
+        "thumbnail": "https://i.ytimg.com/vi/8ba1NyZoYZA/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "8ba1NyZoYZA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "&#39;커리어 사춘기&#39;가 왔다면 퇴사 대신 이것부터 하세요 (김나이 커리어 액셀러레이터)",
+        "url": "https://www.youtube.com/watch?v=6JuBcfrZC8w",
+        "source": "티타임즈TV",
+        "published": "2026-05-18T09:06:31Z",
+        "summary": "책 이벤트 김나이 커리어 액셀러레이터와의 이야기 어떠셨나요? 시청 소감, 책에 대한 기대평, 책을 다 읽으신 분이시라면 소감을 남겨 ...",
+        "thumbnail": "https://i.ytimg.com/vi/6JuBcfrZC8w/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "6JuBcfrZC8w",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why a Democrat Sweep Looks Increasingly Likely",
+        "url": "https://www.youtube.com/watch?v=T5bytkspDFA",
+        "source": "TLDR News Global",
+        "published": "2026-05-18T08:30:14Z",
+        "summary": "Learn More about TLDR Party: https://toolong.news/party Sign up for the TLDR Party and Too Long Bundle using promo code ...",
+        "thumbnail": "https://i.ytimg.com/vi/T5bytkspDFA/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "T5bytkspDFA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Chamath: The Real Reason Taiwan Matters, And Why It Won&#39;t in 18 Months",
+        "url": "https://www.youtube.com/watch?v=XkfQ35Ane7c",
         "source": "All-In Podcast",
-        "published": "2026-05-17T20:00:00+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i1.ytimg.com/vi/0E3oGyTO0aU/hqdefault.jpg",
+        "published": "2026-05-18T00:30:32Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/XkfQ35Ane7c/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "0E3oGyTO0aU",
-          "via": "rss"
+          "videoId": "XkfQ35Ane7c",
+          "via": "api"
         }
       },
       {
@@ -276,118 +414,13 @@
         "title": "3000억 기업가치 아정당 대표와의 지분 매각 후토크 | 하이퍼스 팟캐스트",
         "url": "https://www.youtube.com/watch?v=GjFoMTctKaw",
         "source": "EO 이오",
-        "published": "2026-05-17T06:13:33+00:00",
-        "summary": "오늘 하이퍼스 팟캐스트의 주인공은 아정당 김민기 대표님입니다\n\n최근에 1500억이 입금되는 장면을 SNS에 올려 많은 사람들에게 화제가 된 인물이죠\n\n새롭게 패키징된 EO의 팟캐스트 하이퍼스에서\n김민기 대표님과의 솔직하고 담담한 대화를 통해\n3000억의 기업가치를 인정 받은 아정당의 운영 노하우를 물어봤습니다\n\n귀로 듣는 팟캐스트로 제작된 콘텐츠입니다\n\n두 사람의 대화를 편안하게 옅들어보시기 바랍니다\n\n0:00 인트로\n0:37 지분 매각 후의 감정\n7:32 입금 영상 올린 이유\n9:07 내부 직원들의 반응\n10:14 아정당의 사업 ",
-        "thumbnail": "https://i4.ytimg.com/vi/GjFoMTctKaw/hqdefault.jpg",
+        "published": "2026-05-17T06:13:33Z",
+        "summary": "오늘 하이퍼스 팟캐스트의 주인공은 아정당 김민기 대표님입니다 최근에 1500억이 입금되는 장면을 SNS에 올려 많은 사람들에게 ...",
+        "thumbnail": "https://i.ytimg.com/vi/GjFoMTctKaw/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "GjFoMTctKaw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Big is the Biggest Volcano?",
-        "url": "https://www.youtube.com/shorts/xxbkGphvnhY",
-        "source": "Cleo Abram",
-        "published": "2026-05-16T15:53:10+00:00",
-        "summary": "Depends who you ask! Here are the top 3 contenders… and by the end, you decide the real winner.\n\nBut if we look BEYOND our planet, there’s another volcano that's even bigger\n\nTo see that…subscribe!\n\n#shorts #volcano #biggest #hawaii #eruption #earth",
-        "thumbnail": "https://i1.ytimg.com/vi/xxbkGphvnhY/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "xxbkGphvnhY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why has Trump Gone Soft on China?",
-        "url": "https://www.youtube.com/watch?v=J05taiLeEk4",
-        "source": "TLDR News Global",
-        "published": "2026-05-16T09:00:07+00:00",
-        "summary": "Learn More about TLDR Party: https://toolong.news/party\nSign up for the TLDR Party and Too Long Bundle using promo code GREENLAND: https://toolong.news/collections/too-long-summer-2026\n\nIn Trump's second term, it appears he's softened the hawkish stance on China that defined the foreign policy of hi",
-        "thumbnail": "https://i3.ytimg.com/vi/J05taiLeEk4/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "J05taiLeEk4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Thanks for a great time, India 🇮🇳",
-        "url": "https://www.youtube.com/shorts/yMt2oSemobE",
-        "source": "Y Combinator",
-        "published": "2026-05-16T05:00:49+00:00",
-        "summary": "",
-        "thumbnail": "https://i2.ytimg.com/vi/yMt2oSemobE/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "yMt2oSemobE",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "2년 만에 2000억, 5년 만에 1조 매출 달성한 스마트폰 회사 | Nothing 창업자 칼 페이",
-        "url": "https://www.youtube.com/watch?v=gS6v1TLxxDw",
-        "source": "EO 이오",
-        "published": "2026-05-16T00:00:43+00:00",
-        "summary": "\"스마트폰은 이제 우리를 돕는 도구가 아니라, 우리의 시간을 갉아먹는 '멍청한 기계'일 뿐입니다. 기술은 인간의 능력을 확장해야지, 우리를 가두어서는 안 됩니다.\"\n\nNothing의 창업자 칼 페이가 분석한 현재의 기술 산업은 지루하고 정체되어 있습니다. 그는 스마트폰이 인간을 돕는 도구가 아닌, 오히려 우리를 멍청하게 만드는 '바보 상자'가 되었다고 말합니다. '기술적 따뜻함'이라는 디자인 철학과 '커뮤니티와 회사의 경계를 허무는 협업방식'으로 스마트폰 시장에 도전하고 있는 칼 페이의 인터뷰를 통해 기술 기업에 대한 인사이트를 얻",
-        "thumbnail": "https://i4.ytimg.com/vi/gS6v1TLxxDw/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "gS6v1TLxxDw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "컨설팅, 데이터분석, 마케팅… 수많은 일을 혼자 할 수 있는 이유 (고영혁 전 트레저데이터코리아 대표)",
-        "url": "https://www.youtube.com/watch?v=0huA3Fx7NVc",
-        "source": "티타임즈TV",
-        "published": "2026-05-15T22:00:21+00:00",
-        "summary": "'맥미니 10대와 창업했어요'라는 말, 들어보셨을 겁니다. AI에이전트의 능력이 점점 더 강력해지면서 소수의 사람과 다수의 AI에이전트가 협업해 인간 여러 명이 수행해야했던 팀 단위 일을 척척 해내고 있습니다. \n\n그로스해킹 전문가 고영혁 고넥터 대표도 최근 컨설팅, 코칭, 데이터분석, 마케팅 등 다양한 업무를 홀로 해내고 있습니다. 정확히는 12개의 AI에이전트와 팀을 이뤄하고 있죠. \n\n고 대표가 자신과 함께 일하는 12개의 AI에이전트를 소개하고, 실제 업무하는 방법을 시연한다고 하는데요, AI에이전트 팀이 일하는 방식과 결과",
-        "thumbnail": "https://i1.ytimg.com/vi/0huA3Fx7NVc/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "0huA3Fx7NVc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Is There Life on Venus?",
-        "url": "https://www.youtube.com/shorts/Qqwn4rzZ-Dk",
-        "source": "Cleo Abram",
-        "published": "2026-05-15T14:38:47+00:00",
-        "summary": "There are technically three planets in the goldilocks zone of our own solar system. \n\nMars has garnered a ton of attention as a place that might be host to alien life. We’ve successfully landed rovers and sampled the martian atmosphere and ground, but Venus largely remains a mystery. \n\nThis earth-si",
-        "thumbnail": "https://i2.ytimg.com/vi/Qqwn4rzZ-Dk/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "Qqwn4rzZ-Dk",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "미국 주식 사면 관세 내야되나요?",
-        "url": "https://www.youtube.com/watch?v=iV1IOGlFHiw",
-        "source": "슈카월드",
-        "published": "2026-05-15T10:43:54+00:00",
-        "summary": "0:00 미국 무역법원, 트럼프 관세 무효 판결\n3:08 미국 컨텐츠 보면 관세 내야 되나요?\n18:57 WTO 인터넷 무관세 회의 결과\n27:31 관세와 무관세가 동시에 필요한 미국의 입장",
-        "thumbnail": "https://i2.ytimg.com/vi/iV1IOGlFHiw/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "iV1IOGlFHiw",
-          "via": "rss"
+          "via": "api"
         }
       }
     ]
