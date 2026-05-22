@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-21T03:32:18.480816+00:00",
+  "generated_at": "2026-05-22T03:30:59.555230+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Queensland cabinet minister referred to federal police over electoral enrolment allegations; unexpected rise in unemployment rate",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/21/australia-news-live-penny-wong-israel-flotilla-budget-capital-gains-negative-gearing-anthony-albanese-jim-chalmers-ntwnfb",
+        "title": "US to send 5,000 more troops to Poland, Trump says",
+        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-05-22T03:25:48+00:00",
+        "summary": "The announcement comes a week after the Pentagon cancelled a planned deployment of 4,000 troops to the country.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australia news live: Crisafulli says ex-minister didn’t warn him about police referral; Ten axes I’m A Celebrity Get Me Out Of Here!",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/22/australia-news-live-flotilla-sumud-israel-al-roj-camp-isis-budget-capital-gains-negative-gearing-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-21T03:23:54+00:00",
-        "summary": "Tim Mander has denied any wrongdoing and referred himself to election authorities. Follow today’s news liveGet our breaking news email, free app or daily news podcastAlbanese leaves door open to extending fuel excise cutThe prime minister, Anthony Albanese, has not ruled out extending the temporary cut to the fuel excise as the Middle East conflict continues to disrupt the global oil market.We’ll ",
+        "published": "2026-05-22T03:11:31+00:00",
+        "summary": "Queensland premier says he was taken by surprise by news that his Olympics minister had been referred to the Australian federal police. Follow today’s news liveGuzman y Gomez, the Mexican-themed fast food chain, is pulling out of the United States in a spectacular turnaround on its American market ambitions, AAP reports.The decision was made because the financial performance of the US business was",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Nvidia posts record profit and revenue amid AI chip boom",
-        "url": "https://www.aljazeera.com/economy/2026/5/21/nvidia-posts-record-profit-and-revenue-amid-ai-chip-boom?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-21T03:08:39+00:00",
-        "summary": "Chip giant announces $80bn stock buyback scheme and dividend hike in boon to shareholders.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-        "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+        "title": "Elon Musk's SpaceX postpones Starship launch",
+        "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-21T03:01:15+00:00",
-        "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+        "published": "2026-05-22T02:57:12+00:00",
+        "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "The French Civil Servant Accused of Drugging More Than 100 Women",
-        "url": "https://www.nytimes.com/2026/05/20/world/europe/french-civil-servant-accused-drugging-women.html",
+        "title": "Cuba Celebrates Raúl Castro After the U.S. Accuses Him of Murder",
+        "url": "https://www.nytimes.com/2026/05/21/world/americas/cuba-raul-castro-murder-indictment.html",
         "source": "NYT World",
-        "published": "2026-05-21T02:49:55+00:00",
-        "summary": "For years, prosecutors have accused Christian Nègre, once a senior official, of slipping diuretics into women’s drinks. Despite admitting to some accusations in an interview with a French daily, he is yet to stand trial.",
+        "published": "2026-05-22T02:46:11+00:00",
+        "summary": "Cuban officials closed ranks around Mr. Castro, their embattled former president, who was indicted on murder charges in the downing of two civilian planes 30 years ago.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Ebola Outbreak Is Unlikely to Become Global Threat, W.H.O. Says",
-        "url": "https://www.nytimes.com/2026/05/20/world/africa/ebola-congo-tedros-rubio.html",
-        "source": "NYT World",
-        "published": "2026-05-21T01:42:55+00:00",
-        "summary": "Tedros Adhanom Ghebreyesus, the World Health Organization’s director general, said the outbreak in central Africa was “not a pandemic emergency.”",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Indonesians sue government over deadly Sumatra flood response",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/21/indonesians-sue-government-over-deadly-sumatra-flood-response?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-21T01:31:14+00:00",
-        "summary": "Survivors of Indonesia’s deadly Sumatra floods are suing the government over inadequate disaster recovery",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Video Shows Itamar Ben-Gvir Taunting Pro-Palestinian Activists",
-        "url": "https://www.nytimes.com/2026/05/20/world/middleeast/israel-minister-taunts-pro-palestine-activists-video.html",
-        "source": "NYT World",
-        "published": "2026-05-21T01:28:40+00:00",
-        "summary": "The national security minister, Itamar Ben-Gvir, posted a video in which he is seen with handcuffed activists forced to kneel on the deck of a ship. It drew a rebuke from Prime Minister Benjamin Netanyahu.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Samsung strike on hold as workers push for AI bonus",
-        "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
+        "title": "Alberta to hold referendum on whether to remain in Canada",
+        "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-21T01:18:56+00:00",
-        "summary": "The walkout, which was due to start on Thursday, has been suspended while union members vote on a tentative deal.",
+        "published": "2026-05-22T02:40:58+00:00",
+        "summary": "Voters in the western province will decide next October whether they want to stay in Canada or move ahead with a process for a binding independence referendum.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Malaysia orders TikTok to address ‘defamatory’ content about king",
+        "url": "https://www.aljazeera.com/economy/2026/5/22/malaysia-orders-tiktok-to-address-defamatory-content-about-king?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-22T02:32:16+00:00",
+        "summary": "Watchdog instructs social media giant to strengthen moderation following circulation of &#039;grossly offensive&#039; content.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Guzman y Gomez exits US after succumbing to ‘graveyard’ for Australian fast food chains",
+        "url": "https://www.theguardian.com/australia-news/2026/may/22/guzman-y-gomez-exits-us-after-succumbing-to-graveyard-for-australian-fast-food-chains",
+        "source": "The Guardian World",
+        "published": "2026-05-22T02:28:27+00:00",
+        "summary": "Company founder Steven Marks says US stores will close as it can no longer justify cost of trying to break into crowded marketFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastGuzman y Gomez is closing its US business after failing to establish itself in a market already rich with Mexican food, confirming the American country’s reputat",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "In Jab at Trump, Mexico Targets Foreign Election Meddling",
+        "url": "https://www.nytimes.com/2026/05/21/world/americas/mexico-election-interference-trump.html",
+        "source": "NYT World",
+        "published": "2026-05-22T02:23:49+00:00",
+        "summary": "Mexico is moving to add protections from “foreign interference” in elections. The rules seem aimed at Washington, but they raised concerns about Mexico’s democracy.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Haskell Foundation 2026 Update",
-        "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-        "source": "Hacker News Front",
-        "published": "2026-05-21T02:13:23+00:00",
-        "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 9\n# Comments: 2",
+        "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
+        "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+        "source": "Ars Technica",
+        "published": "2026-05-22T02:05:37+00:00",
+        "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "What is Demand Coop and why tech workers should join one",
-        "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+        "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+        "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
         "source": "Hacker News Front",
-        "published": "2026-05-21T01:20:52+00:00",
-        "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 32\n# Comments: 31",
+        "published": "2026-05-22T01:30:45+00:00",
+        "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126\nComments URL: https://news.ycombinator.com/item?id=48230892\nPoints: 61\n# Comments: 14",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
-        "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+        "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+        "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+        "source": "TechCrunch",
+        "published": "2026-05-22T00:37:00+00:00",
+        "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+        "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+        "source": "TechCrunch",
+        "published": "2026-05-22T00:07:47+00:00",
+        "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+        "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
         "source": "Wired",
-        "published": "2026-05-21T00:43:13+00:00",
-        "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
+        "published": "2026-05-22T00:04:25+00:00",
+        "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Intuit to lay off over 3k employees to refocus on AI",
-        "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+        "title": "The IBM-ification of Google?",
+        "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
         "source": "Hacker News Front",
-        "published": "2026-05-21T00:36:01+00:00",
-        "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 61\n# Comments: 38",
+        "published": "2026-05-21T23:30:10+00:00",
+        "summary": "Article URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/\nComments URL: https://news.ycombinator.com/item?id=48230049\nPoints: 106\n# Comments: 92",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-        "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-        "source": "TechCrunch",
-        "published": "2026-05-21T00:28:31+00:00",
-        "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+        "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+        "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+        "source": "The Verge",
+        "published": "2026-05-21T23:00:00+00:00",
+        "summary": "Anker has announced a new version of its Soundcore Liberty Pro earbuds: the new Liberty 5 Pro. These are the company's first earbuds featuring the Thus AI audio chip Anker announced last month, here being used to bolster noise reduction capabilities and help ensure the user's voice can be clearly heard during calls, even in [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Anthropic says it’s about to have its first profitable quarter",
-        "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-        "source": "TechCrunch",
-        "published": "2026-05-21T00:21:21+00:00",
-        "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The Letter S, by Donald Knuth (1980) [pdf]",
-        "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
-        "source": "Hacker News Front",
-        "published": "2026-05-20T23:58:51+00:00",
-        "summary": "Article URL: https://gwern.net/doc/design/typography/1980-knuth.pdf\nComments URL: https://news.ycombinator.com/item?id=48216016\nPoints: 54\n# Comments: 6",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: I reverse engineered Apple's video wallpapers",
-        "url": "https://github.com/kageroumado/phosphene",
-        "source": "Hacker News Front",
-        "published": "2026-05-20T23:54:06+00:00",
-        "summary": "Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.I built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn't going to pay off. So I'm open-sourcing it.WallpaperExtensionKit.framework is what powers macOS wallpapers. It contro",
+        "title": "Anker’s new earbuds have the best call quality I’ve ever heard",
+        "url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
+        "source": "The Verge",
+        "published": "2026-05-21T23:00:00+00:00",
+        "summary": "Soundcore, Anker's audio brand, has mostly lived in the budget-to-midrange world, but with its new Liberty 5 Pro earbuds, it's aiming at the big guys. The two new earbuds - the Liberty 5 Pro and Liberty 5 Pro Max - use Anker's new Thus chip, which has more processing power than previous Soundcore earbuds to [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,183 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "구글I/O 2026 개발자 뉴스 모아보기, 그리고 반응",
-        "url": "https://byline.network/2026/05/21-575/",
+        "title": "“AI 레디 데이터의 핵심은 시맨틱 레이어”",
+        "url": "https://byline.network/2026/05/21-579/",
         "source": "ByLine Network",
-        "published": "2026-05-21T02:16:14+00:00",
-        "summary": "구글이 연례 개발자 행사 ‘구글I/O 2026’에서 제미나이 3.5 모델과 함께 AI 개발자를 위한 다양한 신규 기능과 서비스, 도구를 선보였다. AI 에이전트형 코딩 플랫폼으로 재탄생한 안티그래비티 2.0를 비롯해 새로운 에이전트를 갖춘 제미나이 API, 구글 AI 스튜디오의 안드로이드 지원 등이 하이라이트로 지목됐다. 그러나 개발자 커뮤니티의 반응은 부정적 기류로 흐르고 있다.",
+        "published": "2026-05-21T21:55:47+00:00",
+        "summary": "유철민 아마존웹서비스(AWS) 코리아 시니어 딜리버리 컨설턴트는 21일 ‘AWS 서밋 서울 2026’ 둘째 날 세션에서 AI 레디 데이터(AI-Ready Data)의 중요성을 강조했다. AI 레디 데이터란 AI가 추가적인 가공 없이 분석 및 실행에 바로 활용할 수 있는 데이터를 뜻한다. 유 컨설턴트는 AI 레디 데이터의 핵심 축으로 ‘시맨틱 레이어’를 꼽았다",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Digital Banking Startup Mercury Lands $200M At $5.2B Valuation Amid Fintech Funding Uptick",
-        "url": "https://news.crunchbase.com/venture/fintech-funding-digital-banking-startup-mercury-lands-200m/",
-        "source": "Crunchbase News",
-        "published": "2026-05-20T19:15:47+00:00",
-        "summary": "Digital banking startup Mercury has raised $200 million in a Series D round at a $5.2 billion valuation, the company announced Wednesday.\nThat’s up 49% from the $3.5 billion valuation it achieved when announcing its $300 million Series C — which included primary and secondary funding — in March of 2025.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[커머스BN] 배민 주춤한 사이…쿠팡이츠는 달린다",
-        "url": "https://byline.network/2026/05/20_1929183/",
+        "title": "[인터뷰] 이정우 코빗 CTO “원화 입출금 이중화, 거래 안정성의 출발점”",
+        "url": "https://byline.network/2026/05/0521-4/",
         "source": "ByLine Network",
-        "published": "2026-05-20T14:51:43+00:00",
-        "summary": "지난해 배달앱 시장에서 화제였던 점은 서울에서의 배달앱 점유율입니다. 지난해 4분기부터 서울에서 쿠팡이츠가 배달의민족을 제치고 점유율 1위을 차지했기 때문입니다. 배민은 원래 공고한 업계 1위였으나, 2024년 와우멤버십 회원 대상 쿠팡이츠 무료배달을 시작하면서 상황은 급격하게 달라졌습니다.\n\n쿠팡이츠가 또 한 번 판을 뒤엎기 위해 두 가지 무기를 준비하고 있습니다. 업계에서는 두 전략 모두 쿠팡이츠의 경쟁사 서비스 기반을 무너뜨릴 수 있는 기반이 될 수 있을 것으로 전망하고 있습니다. 지금 배민의 운신 폭이 크게 줄어든 상황에서 쿠팡이츠가 중장기적으로는 서울을 넘어 전국 주요 지역에서 배달앱 점유율을 늘릴 수 있을 것이라는 이야기가 나옵니다.",
+        "published": "2026-05-21T21:52:22+00:00",
+        "summary": "디지털자산거래소 코빗이 업계 최초로 원화 입출금 시스템 이중화 구축을 완료했다. 특정 펌뱅킹(기업자금관리망) 솔루션 업체의 시스템 점검이나 일시적 장애 상황에서도 원화 입출금 서비스를 안정적으로 제공하기 위한 조치다. 코빗은 올해 3월 실명확인 입출금 계좌 발급 은행인 신한은행과 코빗을 연결하는 중간 펌뱅킹 망을 이중화했다고 밝혔다. 기존에 이용하던 헥토파이낸셜에 더해 금융 IT 솔루션 전문 기업 더즌 시스템을 추가 연동한 것이 핵심이다. 현재 코빗은 미래에셋그룹의 계열사인 미래에셋컨설팅과의 결합을 앞두고 있다. 향후 두 기업 간 시너지 효과로 시장 점유율이 높아질 가능성에 대비해 ‘거래 엔진’ 개선 작업을 이어가고 있다. 이정우 코빗 최고기술책임자(CTO)와 만나 이번 원화 입출금 시스템 이중화 구축 배경",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "금융위 “생산적금융·건전성 규제, 상충 아닌 상호보완 가치”",
-        "url": "https://byline.network/2026/05/0520-8/",
-        "source": "ByLine Network",
-        "published": "2026-05-20T13:45:52+00:00",
-        "summary": "배수암 금융위원회 금융산업국 은행과 사무관은 20일 서울 중구 은행회관에서 열린 ‘금융기관 건전성 규제와 생산적금융’ 세미나에서 생산적금융과 건전성 규제는 상충적으로 보일 수 있지만 상호보완적인 가치라고 밝혔다. 이어 건전성이 뒷받침되지 않은 채 금융 공급만 팽창할 경우 결국 부실로 귀결될 수 있다고 설명했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "After A 6-Figure Fertility Journey, This Founder Built An IVF Startup With ‘Outcome Protection’",
-        "url": "https://news.crunchbase.com/health-wellness-biotech/ivf-startup-ai-fertility-probability-gaia/",
+        "title": "The SpaceX IPO Filing Looks Nothing Like Those Of The Elite Group Of Tech Giants It’s Hoping To Join",
+        "url": "https://news.crunchbase.com/public/spacex-ipo-filing-different-nvda-goog-appl-msft-amzn/",
         "source": "Crunchbase News",
-        "published": "2026-05-20T12:00:29+00:00",
-        "summary": "Gaia uses artificial intelligence and machine learning — trained on millions of anonymized historical data points and fertility outcomes — to better understand risk and probability for fertility treatment.",
+        "published": "2026-05-21T18:35:49+00:00",
+        "summary": "SpaceX filed its public IPO prospectus Wednesday, highlighting many amazing things that it has accomplished in its reach for a trillion-dollar-plus valuation. For a sense of how the company compares at IPO time to other members of the trillion-plus-club, we took a look at their original S-1s from the 1980s and onward.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Embodied AI Fuels Record Robotics Funding In China As IPO Momentum Builds",
-        "url": "https://news.crunchbase.com/robotics/embodied-ai-fuels-record-funding-china-ipo-momentum-builds/",
-        "source": "Crunchbase News",
-        "published": "2026-05-20T11:00:50+00:00",
-        "summary": "Just through mid-May, China-based robotics companies have already raised $5.6 billion across 176 deals this year, Crunchbase data shows, a sum matching total venture funding to the nation’s robotics companies in all of 2021, the peak of the funding cycle.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "황금알을 파는 이유 – DH의 배민 매각이 말하는 것",
-        "url": "https://platum.kr/archives/287304?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%25a9%25ea%25b8%2588%25ec%2595%258c%25ec%259d%2584-%25ed%258c%258c%25eb%258a%2594-%25ec%259d%25b4%25ec%259c%25a0-dh%25ec%259d%2598-%25eb%25b0%25b0%25eb%25af%25bc-%25eb%25a7%25a4%25ea%25b0%2581%25ec%259d%25b4-%25eb%25a7%2590%25ed%2595%2598%25eb%258a%2594-%25ea%25b2%2583",
-        "source": "Platum",
-        "published": "2026-05-20T10:50:55+00:00",
-        "summary": "글로벌 배달 전쟁에서 밀린 플레이어가 가장 비싼 자산을 현금화하고 있다. 딜리버리히어로(DH)가 배달의민족 운영사 우아한형제들 매각에 공식 착수했다. 글로벌 배달 플랫폼 산업이 소수의 대형 플레이어 중심으로 빠르게 재편되는 가운데, DH가 더 이상 그 경쟁에서 버티기 어렵다는 판단이 이번 매각의 본질에 가깝다는 분석이 나온다. 국내 배달앱 1위, 연 매출 5조 원을 넘긴 핵심 자산을 내놓는 배경이다. 지각변동 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "European tech's most radical idea? Taking Sunday off",
-        "url": "https://sifted.eu/articles/the-tech-culture-wars/",
+        "title": "Earlybird raising €500m defence fund with French investor AVP, sources say",
+        "url": "https://sifted.eu/articles/earlybird-avp-defence-fund-joint-venture/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-20T10:40:27+00:00",
+        "published": "2026-05-21T17:18:21+00:00",
         "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "KKR backs UK’s newest unicorn in $80m round",
+        "url": "https://sifted.eu/articles/kkr-backs-uks-newest-unicorn-in-80m-round/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-21T15:00:10+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Strike drones startup Stark targeting blockbuster new funding round, sources say",
+        "url": "https://sifted.eu/articles/stark-drone-startup-funding-round/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-21T11:47:17+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Where Funded Founders Went To School: 2026 Edition",
+        "url": "https://news.crunchbase.com/venture/top-universities-funded-founders-2026-stanford/",
+        "source": "Crunchbase News",
+        "published": "2026-05-21T11:00:31+00:00",
+        "summary": "The findings from our annual Crunchbase survey of where recently funded founders attended college or university found that alumni of the most selective U.S. schools secure a disproportionately high share of startup funding rounds.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "AI·사이버보안 규제, 수출 기업 새 관문 됐다",
+        "url": "https://byline.network/2026/05/21-578/",
+        "source": "ByLine Network",
+        "published": "2026-05-21T09:53:45+00:00",
+        "summary": "“AI와 사이버보안 규제가 수출 조건이 되는 시대, 규제 대응 역량이 곧 수출 경쟁력입니다.” 산업통상부 국가기술표준원은 21일 서울 강남구에서 ‘2026 AI·사이버보안 규제 대응 세미나’를 열고 수출 기업이 준비해야 할 인공지능(AI)과 사이버보안 규제 대응 전략을 공유했다.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "OpenAI: $2M in tokens to every YC company in the spring and summer batches.",
+        "url": "https://www.youtube.com/watch?v=h0bhNm6kwT8",
+        "source": "Y Combinator",
+        "published": "2026-05-21T20:52:11Z",
+        "summary": "OpenAI is offering $2M in tokens to every YC company in the spring and summer batches. We extended the summer deadline to ...",
+        "thumbnail": "https://i.ytimg.com/vi/h0bhNm6kwT8/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "h0bhNm6kwT8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The First Ever Footage of a Giant Squid",
+        "url": "https://www.youtube.com/watch?v=H7e43lhxd4Y",
+        "source": "Cleo Abram",
+        "published": "2026-05-21T16:36:26Z",
+        "summary": "This is the first ever footage of a giant squid in its natural habitat. It took decades to get this footage. And some creative ...",
+        "thumbnail": "https://i.ytimg.com/vi/H7e43lhxd4Y/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "H7e43lhxd4Y",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How to Build a Self-Improving Company with AI",
+        "url": "https://www.youtube.com/watch?v=X_JsIHUfUjc",
+        "source": "Y Combinator",
+        "published": "2026-05-21T14:00:51Z",
+        "summary": "In this recent batch talk, YC General Partner Tom Blomfield breaks down how to build a self-improving company using AI.",
+        "thumbnail": "https://i.ytimg.com/vi/X_JsIHUfUjc/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "X_JsIHUfUjc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "이럴바에 &#39;스승의 날을 차라리 없애자&#39;는 선생님들",
+        "url": "https://www.youtube.com/watch?v=mz9Sl1Id4Fg",
+        "source": "슈카월드",
+        "published": "2026-05-21T10:51:40Z",
+        "summary": "0:00 어버이날 스승의날 왜 둘다 카네이션? 1:43 스승의날에 더이상 카네이션을 팔지 않는 꽃집들 6:06 '스승의 날 없애자' 12:14 교직 ...",
+        "thumbnail": "https://i.ytimg.com/vi/mz9Sl1Id4Fg/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "mz9Sl1Id4Fg",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Trump’s “Deal” with the IRS Explained",
+        "url": "https://www.youtube.com/watch?v=Jp2VHN5b6Xo",
+        "source": "TLDR News Global",
+        "published": "2026-05-21T09:30:13Z",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr Pre-Order a copy of Too Long: ...",
+        "thumbnail": "https://i.ytimg.com/vi/Jp2VHN5b6Xo/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "Jp2VHN5b6Xo",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI로 바뀌는 공공기관, 성공하려면 무엇이 달라야 할까? (김창일 한국학중앙연구원 박사)",
+        "url": "https://www.youtube.com/watch?v=6kbZUJTdzZg",
+        "source": "티타임즈TV",
+        "published": "2026-05-21T09:00:26Z",
+        "summary": "AI와 디지털 전환은 민간 기업만의 과제가 아닙니다. 최근 공공기관도 AI 도입 움직임이 본격화되고 있지만 쉽지 않은 현실이 있습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/6kbZUJTdzZg/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "6kbZUJTdzZg",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -295,7 +385,7 @@
         "url": "https://www.youtube.com/watch?v=ZJ6uqOwRjJk",
         "source": "TLDR News Global",
         "published": "2026-05-20T09:30:27Z",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/bp/tldr Last week, a Philippine senator wanted by the ICC ...",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr Last week, a Philippine senator wanted by the ICC ...",
         "thumbnail": "https://i.ytimg.com/vi/ZJ6uqOwRjJk/mqdefault.jpg",
         "extras": {
           "theme": "news",
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "analysis",
           "videoId": "F4U1P2cuWgA",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Our episode on Vanguard is now live!",
-        "url": "https://www.youtube.com/watch?v=guUruw49kKc",
-        "source": "Acquired",
-        "published": "2026-05-19T17:35:47Z",
-        "summary": "Vanguard has directly saved investors $500 billion in fees since 1975. And it's all because of their unique structure: they have no ...",
-        "thumbnail": "https://i.ytimg.com/vi/guUruw49kKc/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "guUruw49kKc",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Is Defense the Next Trillion-Dollar Category? | a16z American Dynamism Summit",
-        "url": "https://www.youtube.com/watch?v=pddFfZy4nZU",
-        "source": "a16z",
-        "published": "2026-05-19T14:30:37Z",
-        "summary": "Erin Price-Wright speaks with Michael Duffey and Dino Mavrookas about what it will take to rebuild the American defense ...",
-        "thumbnail": "https://i.ytimg.com/vi/pddFfZy4nZU/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "pddFfZy4nZU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What’s Really Inside The Sun?",
-        "url": "https://www.youtube.com/watch?v=VFdyFPbLHpk",
-        "source": "Cleo Abram",
-        "published": "2026-05-19T14:22:16Z",
-        "summary": "If you dove into the sun, the first layer you'd hit is hot enough to make diamonds BOIL. If you're magically protected, then you'd be ...",
-        "thumbnail": "https://i.ytimg.com/vi/VFdyFPbLHpk/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "VFdyFPbLHpk",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Zepto&#39;s Aadit Palicha Turned Down Stanford to Deliver Groceries",
-        "url": "https://www.youtube.com/watch?v=YKZCU0ynEbs",
-        "source": "Y Combinator",
-        "published": "2026-05-19T14:00:50Z",
-        "summary": "Aadit Palicha is the co-founder and CEO of Zepto, one of India's largest quick-commerce grocery platforms. What began as a ...",
-        "thumbnail": "https://i.ytimg.com/vi/YKZCU0ynEbs/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "YKZCU0ynEbs",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "트럼프 중국 방문 결과, 여행 유튜버인줄?",
-        "url": "https://www.youtube.com/watch?v=-4A-_duZR_0",
-        "source": "슈카월드",
-        "published": "2026-05-19T09:03:27Z",
-        "summary": "0:00 1기 집권 당시에 이어 2번째 중국을 방문한 미대통령 11:32 ??? : 중국 가서 뭐하셨어요? 22:21 미국 방중 성과 한 짤 요약.",
-        "thumbnail": "https://i.ytimg.com/vi/-4A-_duZR_0/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "-4A-_duZR_0",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Another US-Iran War Looks Inevitable",
-        "url": "https://www.youtube.com/watch?v=qSbVF97Dq60",
-        "source": "TLDR News Global",
-        "published": "2026-05-19T08:30:05Z",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/bp/tldr The war in Iran is seemingly never-ending with a ...",
-        "thumbnail": "https://i.ytimg.com/vi/qSbVF97Dq60/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "qSbVF97Dq60",
           "via": "api"
         }
       }
