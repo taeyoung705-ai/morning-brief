@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-23T02:49:40.779260+00:00",
+  "generated_at": "2026-05-24T03:27:54.560482+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "More than 40,000 Californians evacuated due to chemical tank leak",
-        "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+        "title": "At least 82 killed in Chinese coal mine explosion",
+        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-23T01:59:08+00:00",
-        "summary": "Officials have warned that the tank contains a \"highly volatile\" substance that could lead to an explosion.",
+        "published": "2026-05-24T03:18:38+00:00",
+        "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Mob Burns Congo Ebola Center Amid Rare Strain Outbreak",
-        "url": "https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html",
-        "source": "NYT World",
-        "published": "2026-05-23T01:35:27+00:00",
-        "summary": "Several hundred people massed at the gates of a hospital to demand the body of a suspected Ebola victim. Violence broke out when staff refused the request.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "SpaceX launches massive Starship V3 rocket on test flight",
-        "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-05-23T01:32:46+00:00",
-        "summary": "The first attempted launch on Thursday was postponed due to a malfunctioning hydraulic pin in the launch tower.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
-        "url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
-        "source": "NYT World",
-        "published": "2026-05-23T01:27:47+00:00",
-        "summary": "Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
-        "url": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
-        "source": "NYT World",
-        "published": "2026-05-23T01:27:26+00:00",
-        "summary": "A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Three die in ‘horrific’ south Sydney vehicle crash after police welfare check",
-        "url": "https://www.theguardian.com/australia-news/2026/may/23/three-die-in-horrific-south-sydney-vehicle-crash-after-police-welfare-check",
+        "title": "Australia news live: David Pocock open to independents forming party to counter One Nation; detained Gaza flotilla activists set to return",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-23T01:24:01+00:00",
-        "summary": "A 42-year-old fled from police before being involved in a two-vehicle crash in Sans Souci, police sayGet our breaking news email, free app or daily news podcastThree people have died in a crash in Sydney after a man fled police who had been attempting to carry out a welfare check.A 42-year-old man fled in a white Audi after officers were called to a welfare check at a property in Gymea Bay, southe",
+        "published": "2026-05-24T03:14:40+00:00",
+        "summary": "Senator says there are ‘plenty of conversations going on’ about the best way to tackle One Nation’s riseGet our breaking news email, free app or daily news podcastClimate activists say they have blocked two coal ships from entering Newcastle portClimate activists say they have stopped two coal ships from entering the Port of Newcastle this morning after kayakers and a small boat entered the channe",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Ebola outbreak disrupts life along the DRC-Uganda border",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/ebola-outbreak-disrupts-life-along-the-drc-uganda-border?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-23T00:46:34+00:00",
-        "summary": "With almost 750 suspected Ebola cases in the DRC, health measures intensified along the DRC–Uganda border",
+        "title": "Suspect killed after opening fire on Secret Service near White House",
+        "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-05-24T03:14:04+00:00",
+        "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
+        "title": "Iran War Live Updates: Trump Says Peace Deal Is Near",
+        "url": "https://www.nytimes.com/live/2026/05/23/world/us-iran-war-trump",
+        "source": "NYT World",
+        "published": "2026-05-24T02:56:04+00:00",
+        "summary": "President Trump said the United States and Iran had “largely negotiated” an agreement, but American and Iranian officials described the terms differently.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Here’s the latest.",
+        "url": "https://www.nytimes.com/2026/05/23/world/middleeast/heres-the-latest.html",
+        "source": "NYT World",
+        "published": "2026-05-24T02:56:03+00:00",
+        "summary": "PresidTrump provided few details about the preliminary agreement, which he said was “largely negotiated.”",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iranian sources lay out Iran-US deal details",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-23T00:00:00+00:00",
-        "summary": "Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.",
+        "published": "2026-05-24T02:16:42+00:00",
+        "summary": "Al Jazeera’s Ali Hashem reveals details of Iran&#039;s position on the potential peace agreement with the US.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australia’s ‘Prettiest Street’ Is Grappling With TikTok and Instagram Fame",
+        "url": "https://www.nytimes.com/2026/05/23/world/australia/gerringong-tasman-drive-tourists-beautiful-street.html",
+        "source": "NYT World",
+        "published": "2026-05-24T01:49:58+00:00",
+        "summary": "For many years, Tasman Drive in Gerringong was a secret held by locals. Now residents must coexist with tourists hungry for the perfect shot.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Many Questions, Few Details in Latest Iran Peace Proposal",
+        "url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-peace-deal-trump-proposal.html",
+        "source": "NYT World",
+        "published": "2026-05-24T01:43:18+00:00",
+        "summary": "It is too early to tell what exactly Trump and Iran have agreed to, or if they have agreed to much at all.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Is AI Profitable Yet?",
-        "url": "https://isaiprofitable.com/",
+        "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
         "source": "Hacker News Front",
-        "published": "2026-05-23T02:10:38+00:00",
-        "summary": "Article URL: https://isaiprofitable.com/\nComments URL: https://news.ycombinator.com/item?id=48243863\nPoints: 4\n# Comments: 1",
+        "published": "2026-05-24T01:21:13+00:00",
+        "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 71\n# Comments: 17",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-        "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+        "title": "Scammers are abusing an internal Microsoft account to send spam links",
+        "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
         "source": "Hacker News Front",
-        "published": "2026-05-23T00:34:25+00:00",
-        "summary": "Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware\nComments URL: https://news.ycombinator.com/item?id=48243293\nPoints: 55\n# Comments: 15",
+        "published": "2026-05-24T00:51:32+00:00",
+        "summary": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\nComments URL: https://news.ycombinator.com/item?id=48253186\nPoints: 48\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "SpaceX launches Starship v3 rocket",
-        "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
+        "title": "Wake up! 16b",
+        "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
         "source": "Hacker News Front",
-        "published": "2026-05-22T23:41:55+00:00",
-        "summary": "Article URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505\nComments URL: https://news.ycombinator.com/item?id=48242959\nPoints: 151\n# Comments: 53",
+        "published": "2026-05-24T00:30:50+00:00",
+        "summary": "Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48253060\nPoints: 76\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "I was bored so I turned my dev tools into an alien planet ruled by my dog",
-        "url": "https://github.com/bkawa-bot/planet-maiko",
+        "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
+        "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
         "source": "Hacker News Front",
-        "published": "2026-05-22T23:40:14+00:00",
-        "summary": "Article URL: https://github.com/bkawa-bot/planet-maiko\nComments URL: https://news.ycombinator.com/item?id=48242949\nPoints: 13\n# Comments: 1",
+        "published": "2026-05-23T23:39:43+00:00",
+        "summary": "Article URL: https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning\nComments URL: https://news.ycombinator.com/item?id=48252720\nPoints: 96\n# Comments: 24",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "AI is being used to resurrect the voices of dead pilots",
-        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-        "source": "TechCrunch",
-        "published": "2026-05-22T23:03:33+00:00",
-        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "title": "My I3-Emacs Integration",
+        "url": "https://khz.ac/software/i3-integration.html",
+        "source": "Hacker News Front",
+        "published": "2026-05-23T23:13:42+00:00",
+        "summary": "Article URL: https://khz.ac/software/i3-integration.html\nComments URL: https://news.ycombinator.com/item?id=48252535\nPoints: 39\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-        "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-        "source": "TechCrunch",
-        "published": "2026-05-22T22:55:57+00:00",
-        "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+        "title": "Record Club is trying to be Letterboxd for music nerds",
+        "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+        "source": "The Verge",
+        "published": "2026-05-23T22:41:11+00:00",
+        "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
-        "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
-        "source": "Ars Technica",
-        "published": "2026-05-22T22:50:23+00:00",
-        "summary": "\"This capability is not common for satellites conducting typical missions.\"",
+        "title": "Byrne's Euclid",
+        "url": "https://www.c82.net/euclid/",
+        "source": "Hacker News Front",
+        "published": "2026-05-23T22:19:36+00:00",
+        "summary": "Article URL: https://www.c82.net/euclid/\nComments URL: https://news.ycombinator.com/item?id=48252146\nPoints: 25\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
-        "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
-        "source": "Ars Technica",
-        "published": "2026-05-22T22:24:03+00:00",
-        "summary": "Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
+        "title": "Toxic chemical leak at a manufacturing facility in Orange County",
+        "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
+        "source": "Hacker News Front",
+        "published": "2026-05-23T22:09:05+00:00",
+        "summary": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go\nComments URL: https://news.ycombinator.com/item?id=48252060\nPoints: 128\n# Comments: 87",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,11 +186,44 @@
       {
         "category": "startup",
         "kind": "article",
+        "title": "[인터뷰] 금융보안원은 디지털자산 시대를 어떻게 대비하나",
+        "url": "https://byline.network/2026/05/0522-4/",
+        "source": "ByLine Network",
+        "published": "2026-05-24T03:14:05+00:00",
+        "summary": "금융보안원은 올해 초 조직개편을 통해 디지털금융 보안 대응 체계를 강화했다. 특히 기존 1팀 규모였던 디지털자산 전담 조직을 ‘1실 2팀’ 체계로 확대 개편한 것이 핵심이다. 디지털자산실은 정책 지원을 담당하는 디지털자산전략팀과 금융사 대상 보안 점검 및 기술 대응을 맡는 디지털자산기술팀으로 구성된다. 조직 규모는 실장을 포함해 총 7명이다. 주요 업무는 디지털자산 보안 조사·연구를 비롯해 관련 보안 프레임워크 개발, 보안 점검, 보안 위협 정보 공유 등이다. 초대 디지털자산실장은 허세경 실장이 맡고 있다. 디지털자산 보안 체계 구축 방향과 금융권 대응 전략에 대한 이야기를 들어봤다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "검은사막에서 붉은사막까지…펄어비스 쌍끌이 승부수 통했다",
+        "url": "https://byline.network/2026/05/22-558/",
+        "source": "ByLine Network",
+        "published": "2026-05-24T03:13:25+00:00",
+        "summary": "펄어비스가 대표 지식재산권(IP) 검은사막과 붉은사막 성과에 힘입어 글로벌 게임 시장에서 존재감을 키우고 있다. 회사는 검은사막을 통해 글로벌 라이브 서비스 경험을 장기간 축적했고, 이를 바탕으로 7년여간 개발한 AAA급 대작 붉은사막의 세계적 흥행을 달성했다. 펄어비스는 두 작품을 발판 삼아 글로벌 영향력을 한층 확대할 방침이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
         "title": "The Week’s 10 Biggest Funding Rounds: Massive Deals For Medical Devices, Futuristic AI Gadgets And Frontier Labs Lead",
         "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/",
         "source": "Crunchbase News",
         "published": "2026-05-22T18:09:12+00:00",
         "summary": "Along with the usual heavy dose of AI, this week’s list also includes large deals for aerospace and defense, fintech, and retail technology.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "마중물이 강이 되려면",
+        "url": "https://platum.kr/archives/287536?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%25a4%2591%25eb%25ac%25bc%25ec%259d%25b4-%25ea%25b0%2595%25ec%259d%25b4-%25eb%2590%2598%25eb%25a0%25a4%25eb%25a9%25b4",
+        "source": "Platum",
+        "published": "2026-05-22T14:44:12+00:00",
+        "summary": "판매 개시 10분 만에 온라인 물량이 동났다. 은행 영업점 앞에는 개점 전부터 대기 줄이 늘어섰고, 5대 은행 2200억 원어치는 반나절을 버티지 못했다. 국민참여형 국민성장펀드 첫날의 풍경이었다. 오픈런은 언제나 시대를 읽는 단서다. 2021년의 오픈런이 유동성 과잉과 자산 격차의 공포를 반영했다면, 오늘의 오픈런은 조금 다른 심리를 드러낸다. 최대 40% 소득공제에 분리과세까지, 절세 혜택이 투자 판단을 앞질렀다는 해석도 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
@@ -237,42 +270,54 @@
         "summary": "구글이 25년간 유지해온 검색의 문법을 뒤엎었다. 지금까지 키워드 중심의 검색 서비스를 운영했다면, 앞으로는 텍스트부터 영상까지 '모든 것(everything)'을 검색할 수 있는 서비스로 진화한다.",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "위기의 청년 일자리…“AI 고용 대책, 현실적 인프라부터 챙겨야”",
-        "url": "https://byline.network/2026/05/0520-9/",
-        "source": "ByLine Network",
-        "published": "2026-05-22T08:45:35+00:00",
-        "summary": "“기업들이 AI를 활용해 10명의 일을 1~2명으로 압축함에 따라 신규 채용 문호가 좁아지고, 청년들의 일자리 사다리가 붕괴하고 있습니다” 20일 국회에서 열린 ‘제9차 AI 인사이츠 포럼’에서 발제를 맡은 송영희 서울과학종합대학원 객원교수(전 KT 전무)가 말했다. 소프트웨어를 넘어 로봇과 자동화 설비가 물리적 현실 세계를 제어하는 ‘피지컬 AI’ 시대가 오면서 청년들의 일자리가 감소하고 있다는 지적이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "오프라인 결제 시장서 역마진도 감수하는 카카오페이",
-        "url": "https://byline.network/2026/05/521/",
-        "source": "ByLine Network",
-        "published": "2026-05-22T08:44:41+00:00",
-        "summary": "카카오페이가 오프라인 결제 프로모션에 따른 일부 역마진 수수료까지 감수하고 있는 것으로 나타났다. 오프라인 결제 시장 데이터를 확보하고 카카오 생태계 기반 금융 서비스를 고도화하기 위한 투자에 나선 것으로 풀이된다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "잠실 삼킨 ‘메이플스토리’, 현실 속 단풍 세계 가보니",
-        "url": "https://byline.network/2026/05/22-555/",
-        "source": "ByLine Network",
-        "published": "2026-05-22T08:00:27+00:00",
-        "summary": "잠실 롯데월드타워 일대가 넥슨을 대표하는 지식재산권(IP) ‘메이플스토리’로 물들었다. 인근이 모두 단풍 세계로 변했다. 석촌호수에는 게임을 대표하는 몬스터 주황버섯 형상을 한 거대한 아트벌룬이 떠 있다. 그 뒤 잔디광장에는 게임 속 마을 헤네시스를 본뜬 체험형 공간이 위치한다. 마치 게임 속 일부를 현실로 그대로 옮긴 듯한 느낌이다.",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "'탈쿠팡' 효과, 어디까지 영향을 미쳤을까?",
+        "url": "https://www.youtube.com/watch?v=1jf7tRd27WI",
+        "source": "티타임즈TV",
+        "published": "2026-05-23T22:00:36+00:00",
+        "summary": "쿠팡의 2026년 1분기 실적이 공개되며 '탈쿠팡 효과'와 이커머스 판도 변화를 꼼꼼히 따져볼 수 있게 됐습니다. 8%라는 저성장과 3500억원대 분기 적자, 멤버십 고객 이탈 등 핵심 데이터를 확인할 수 있었죠. 이를 틈타 네이버·컬리·롯데 등 경쟁사들은 연합군을 결성해 고객을 빼앗아가려는 움직임입니다.\n쿠팡 이츠의 경우에는 최대 경쟁사인 배민이 더 크게 흔들리면서 성장세를 지속했는데요, 배민의 모회사인 딜리버리히어로가 배민을 매각하려는 움직임을 보이면서, 우버-네이버 연합군이 최대 인수 후보로 떠오르고 있습니다. 흔들리는 쿠팡과",
+        "thumbnail": "https://i2.ytimg.com/vi/1jf7tRd27WI/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "1jf7tRd27WI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI가 모든 답을 아는 시대, 우리가 진짜 배워야 할 단 한 가지 | Axiom Math, 켄 오노",
+        "url": "https://www.youtube.com/watch?v=lkIYFatfzFs",
+        "source": "EO 이오",
+        "published": "2026-05-23T10:32:05+00:00",
+        "summary": "\"지식을 쌓는 것으로 AI를 이기려 한다면 우리는 반드시 패배할 것입니다. 이제 지식은 세상에서 가장 값싼 자원이 되었습니다. 중요한 건 '얼마나 많이 아느냐'가 아니라, '어떤 질문을 던지고 어떻게 연결하느냐'입니다.\"\n\n오늘 영상은 세계적인 수학자이자, 전설적인 천재 '라마누잔'의 삶을 연구하며 현대 수학의 지평을 넓혀온 켄 오노(Ken Ono) 교수의 강연입니다.\n\n챗GPT의 등장으로 \"수학자의 시대는 끝났다\"며 절망했던 그가, 어떻게 다시 인류의 가장 찬란한 기회를 발견하게 되었을까요?\n\n켄 오노 교수의 이야기를 통해 AI가",
+        "thumbnail": "https://i1.ytimg.com/vi/lkIYFatfzFs/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "lkIYFatfzFs",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Will China’s Housing Slump Ever End?",
+        "url": "https://www.youtube.com/watch?v=9z0Q0wEeGnE",
+        "source": "TLDR News Global",
+        "published": "2026-05-23T09:30:03+00:00",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nPre-Order a copy of Too Long: https://toolong.news/collections/too-long-summer-2026\n\nA few years ago, there was a lot of talk about China's property crisis and how it could affect the economy. So, in this video, we're t",
+        "thumbnail": "https://i2.ytimg.com/vi/9z0Q0wEeGnE/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "9z0Q0wEeGnE",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -351,21 +396,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "'대딸깍 시대' 80점짜리 결과물로는 절대 살아남지 못하는 이유 (고승원 대표)",
-        "url": "https://www.youtube.com/watch?v=w3D-PbbgW3k",
-        "source": "티타임즈TV",
-        "published": "2026-05-22T09:00:10+00:00",
-        "summary": "[전진수의 궁금한 건 못 참아] AI가 개발자의 핵심 역량까지 대체하는 시대, 지금 가장 빠르게 변하는 일자리 환경에서 우리는 어떻게 살아남아야 할까요? 고승원 대표는 26년 커리어 중 자신만의 장점이 AI에 의해 빠르게 대체되는 위기를 직접 체감했다고 합니다.  AI 덕분에 모두가 70~80점짜리 결과물을 쉽게 만들어낼 수 있어졌기 때문에 대중에게 선택받기 위해서는 '100점짜리' 가치를 만들어야만 한다는 거죠. 고 대표가 찾은 차별화된 가치의 핵심은 무엇이었을까요?\n\n편집 : 박선희 영상디자이너\n촬영 : 장민주 PD\n진행 : 전",
-        "thumbnail": "https://i4.ytimg.com/vi/w3D-PbbgW3k/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "w3D-PbbgW3k",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "OpenAI: $2M in tokens to every YC company in the spring and summer batches.",
         "url": "https://www.youtube.com/shorts/h0bhNm6kwT8",
         "source": "Y Combinator",
@@ -390,36 +420,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "H7e43lhxd4Y",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "이럴바에 '스승의 날을 차라리 없애자'는 선생님들",
-        "url": "https://www.youtube.com/watch?v=mz9Sl1Id4Fg",
-        "source": "슈카월드",
-        "published": "2026-05-21T10:51:40+00:00",
-        "summary": "0:00 어버이날 스승의날 왜 둘다 카네이션?\n1:43 스승의날에 더이상 카네이션을 팔지 않는 꽃집들\n6:06 '스승의 날 없애자'\n12:14 교직 생활을 통해 보람과 긍지를 느끼십니까?",
-        "thumbnail": "https://i2.ytimg.com/vi/mz9Sl1Id4Fg/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "mz9Sl1Id4Fg",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Trump’s “Deal” with the IRS Explained",
-        "url": "https://www.youtube.com/watch?v=Jp2VHN5b6Xo",
-        "source": "TLDR News Global",
-        "published": "2026-05-21T09:30:13+00:00",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nPre-Order a copy of Too Long: https://toolong.news/collections/too-long-summer-2026\n\nEarlier this week, Trump settled a lawsuit with his own government that would see the IRS banned from investigating his tax affairs or",
-        "thumbnail": "https://i3.ytimg.com/vi/Jp2VHN5b6Xo/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "Jp2VHN5b6Xo",
           "via": "rss"
         }
       }
