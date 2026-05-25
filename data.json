@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-24T03:27:54.560482+00:00",
+  "generated_at": "2026-05-25T03:39:06.338855+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "At least 82 killed in Chinese coal mine explosion",
-        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-05-24T03:18:38+00:00",
-        "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: David Pocock open to independents forming party to counter One Nation; detained Gaza flotilla activists set to return",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/24/australia-news-live-queensland-police-gunshots-white-house-tax-reform-david-pocock-anthony-albanese-jim-chalmers-angus-taylor-labor-coalition-ntwnfb",
+        "title": "Australia news live: Asio chief warns antisemitism royal commission he is seeing ‘more permission for violence’",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/25/teals-new-party-gaza-flotilla-activists-anthony-albanese-jim-chalmers-labor-angus-taylor-coalition-one-nation-budget-capital-gains-tax-estimates-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-24T03:14:40+00:00",
-        "summary": "Senator says there are ‘plenty of conversations going on’ about the best way to tackle One Nation’s riseGet our breaking news email, free app or daily news podcastClimate activists say they have blocked two coal ships from entering Newcastle portClimate activists say they have stopped two coal ships from entering the Port of Newcastle this morning after kayakers and a small boat entered the channe",
+        "published": "2026-05-25T03:27:53+00:00",
+        "summary": "Mike Burgess says that the national terrorism risk remains at the ‘upper end of probable’. Follow today’s news liveGet our breaking news email, free app or daily news podcastWere the teal party conversations sparked by the government’s electoral reforms?Yes and no, Allegra Spender and Zali Steggall say.There are many things that favour major party structures, and again, the public was incredibly c",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Suspect killed after opening fire on Secret Service near White House",
-        "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+        "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-24T03:14:04+00:00",
-        "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+        "published": "2026-05-25T03:15:09+00:00",
+        "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Live Updates: Trump Says Peace Deal Is Near",
-        "url": "https://www.nytimes.com/live/2026/05/23/world/us-iran-war-trump",
-        "source": "NYT World",
-        "published": "2026-05-24T02:56:04+00:00",
-        "summary": "President Trump said the United States and Iran had “largely negotiated” an agreement, but American and Iranian officials described the terms differently.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/2026/05/23/world/middleeast/heres-the-latest.html",
-        "source": "NYT World",
-        "published": "2026-05-24T02:56:03+00:00",
-        "summary": "PresidTrump provided few details about the preliminary agreement, which he said was “largely negotiated.”",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iranian sources lay out Iran-US deal details",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss",
+        "title": "Building collapse in Philippines leaves 3 dead, 17 missing",
+        "url": "https://www.aljazeera.com/news/2026/5/25/building-collapse-in-philippines-leaves-3-dead-17-missing?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-24T02:16:42+00:00",
-        "summary": "Al Jazeera’s Ali Hashem reveals details of Iran&#039;s position on the potential peace agreement with the US.",
+        "published": "2026-05-25T02:57:23+00:00",
+        "summary": "Rescuers search for survivors after thermal scans show signs of breathing and heartbeats beneath debris.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia’s ‘Prettiest Street’ Is Grappling With TikTok and Instagram Fame",
-        "url": "https://www.nytimes.com/2026/05/23/world/australia/gerringong-tasman-drive-tourists-beautiful-street.html",
+        "title": "Iran War Live Updates: U.S.-Iran Peace Deal Nearer, But Could Take Days to Nail Down, U.S. Official Says",
+        "url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
         "source": "NYT World",
-        "published": "2026-05-24T01:49:58+00:00",
-        "summary": "For many years, Tasman Drive in Gerringong was a secret held by locals. Now residents must coexist with tourists hungry for the perfect shot.",
+        "published": "2026-05-25T02:54:27+00:00",
+        "summary": "The official said the sides had agreed in principle to reopen the Strait of Hormuz and commit Iran to disposing of its highly enriched uranium, but stressed that a deal had not yet been signed.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Many Questions, Few Details in Latest Iran Peace Proposal",
-        "url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-peace-deal-trump-proposal.html",
+        "title": "Kyiv, Ukraine, Hit in Russian Missile Attack",
+        "url": "https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html",
         "source": "NYT World",
-        "published": "2026-05-24T01:43:18+00:00",
-        "summary": "It is too early to tell what exactly Trump and Iran have agreed to, or if they have agreed to much at all.",
+        "published": "2026-05-25T02:37:50+00:00",
+        "summary": "Buildings rattled in the Ukrainian capital for hours early Sunday. Russia launched an Oreshnik intermediate-range ballistic missile for only the third time in the war.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Zali Steggall says donation rules favour teals forming own party but other independents rule out idea",
+        "url": "https://www.theguardian.com/australia-news/2026/may/25/zali-steggall-teals-forming-own-party-independents-alliance",
+        "source": "The Guardian World",
+        "published": "2026-05-25T02:24:05+00:00",
+        "summary": "Warringah MP among those most active in alliance discussions while Monique Ryan, Helen Haines and Kate Chaney distance themselves from possible moveFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastZali Steggall says funding rules that disadvantage independents and looming changes to donations laws are factors in favour of “teal” indep",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Rubio Rebukes Hezbollah Chief Over Call for Lebanese to ‘Take to the Streets’",
+        "url": "https://www.nytimes.com/2026/05/24/world/middleeast/naim-qassem-hezbollah-rubio.html",
+        "source": "NYT World",
+        "published": "2026-05-25T02:22:26+00:00",
+        "summary": "The militant leader, in a speech, had criticized the Lebanese government for engaging in direct talks with Israel.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Dezi Freeman inquest: police investigating alleged sexual assault of child when two killed, coroner hears",
+        "url": "https://www.theguardian.com/australia-news/2026/may/25/dezi-freeman-inquest-porepunkah-shooting-police-investigating-child-sexual-assault-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-05-25T02:10:19+00:00",
+        "summary": "Directions hearing over deaths of Victoria police officers Neal Thompson and Vadim De Waart-Hottart told of new details of Porepunkah shootingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe alleged sexual assault of a child has been revealed as the reason for a search warrant against Dezi Freeman that ended with him shooting dead",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-        "source": "Hacker News Front",
-        "published": "2026-05-24T01:21:13+00:00",
-        "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 71\n# Comments: 17",
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "source": "TechCrunch",
+        "published": "2026-05-24T21:39:21+00:00",
+        "summary": "We're in the transition period -- all of us.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Scammers are abusing an internal Microsoft account to send spam links",
-        "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+        "title": "A fundamental principle of aeronautical engineering has been overturned",
+        "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
         "source": "Hacker News Front",
-        "published": "2026-05-24T00:51:32+00:00",
-        "summary": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\nComments URL: https://news.ycombinator.com/item?id=48253186\nPoints: 48\n# Comments: 6",
+        "published": "2026-05-24T19:10:26+00:00",
+        "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 90\n# Comments: 52",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Wake up! 16b",
-        "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-        "source": "Hacker News Front",
-        "published": "2026-05-24T00:30:50+00:00",
-        "summary": "Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48253060\nPoints: 76\n# Comments: 6",
+        "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+        "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+        "source": "TechCrunch",
+        "published": "2026-05-24T19:00:00+00:00",
+        "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
-        "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
+        "title": "Defeating Git Rigour Fatigue with Jujutsu",
+        "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
         "source": "Hacker News Front",
-        "published": "2026-05-23T23:39:43+00:00",
-        "summary": "Article URL: https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning\nComments URL: https://news.ycombinator.com/item?id=48252720\nPoints: 96\n# Comments: 24",
+        "published": "2026-05-24T18:39:10+00:00",
+        "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 106\n# Comments: 104",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "My I3-Emacs Integration",
-        "url": "https://khz.ac/software/i3-integration.html",
+        "title": "Building Pi with Pi",
+        "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
         "source": "Hacker News Front",
-        "published": "2026-05-23T23:13:42+00:00",
-        "summary": "Article URL: https://khz.ac/software/i3-integration.html\nComments URL: https://news.ycombinator.com/item?id=48252535\nPoints: 39\n# Comments: 7",
+        "published": "2026-05-24T17:22:48+00:00",
+        "summary": "Article URL: https://lucumr.pocoo.org/2026/5/24/pi-oss/\nComments URL: https://news.ycombinator.com/item?id=48259192\nPoints: 33\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Record Club is trying to be Letterboxd for music nerds",
-        "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-        "source": "The Verge",
-        "published": "2026-05-23T22:41:11+00:00",
-        "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with other fans. Record Club is clean and [&#8230;]",
+        "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+        "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+        "source": "Hacker News Front",
+        "published": "2026-05-24T17:00:46+00:00",
+        "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=48258995\nPoints: 0\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Byrne's Euclid",
-        "url": "https://www.c82.net/euclid/",
-        "source": "Hacker News Front",
-        "published": "2026-05-23T22:19:36+00:00",
-        "summary": "Article URL: https://www.c82.net/euclid/\nComments URL: https://news.ycombinator.com/item?id=48252146\nPoints: 25\n# Comments: 6",
+        "title": "6 kitchen gadgets that make adulting feel easier",
+        "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+        "source": "TechCrunch",
+        "published": "2026-05-24T17:00:00+00:00",
+        "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Toxic chemical leak at a manufacturing facility in Orange County",
-        "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
         "source": "Hacker News Front",
-        "published": "2026-05-23T22:09:05+00:00",
-        "summary": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go\nComments URL: https://news.ycombinator.com/item?id=48252060\nPoints: 128\n# Comments: 87",
+        "published": "2026-05-24T16:31:29+00:00",
+        "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 323\n# Comments: 344",
         "thumbnail": "",
         "extras": {}
       }
@@ -204,75 +204,69 @@
         "summary": "펄어비스가 대표 지식재산권(IP) 검은사막과 붉은사막 성과에 힘입어 글로벌 게임 시장에서 존재감을 키우고 있다. 회사는 검은사막을 통해 글로벌 라이브 서비스 경험을 장기간 축적했고, 이를 바탕으로 7년여간 개발한 AAA급 대작 붉은사막의 세계적 흥행을 달성했다. 펄어비스는 두 작품을 발판 삼아 글로벌 영향력을 한층 확대할 방침이다.",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: Massive Deals For Medical Devices, Futuristic AI Gadgets And Frontier Labs Lead",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-medical-devices-futuristic-ai-gadgets-frontier-labs-mirus/",
-        "source": "Crunchbase News",
-        "published": "2026-05-22T18:09:12+00:00",
-        "summary": "Along with the usual heavy dose of AI, this week’s list also includes large deals for aerospace and defense, fintech, and retail technology.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "마중물이 강이 되려면",
-        "url": "https://platum.kr/archives/287536?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%25a4%2591%25eb%25ac%25bc%25ec%259d%25b4-%25ea%25b0%2595%25ec%259d%25b4-%25eb%2590%2598%25eb%25a0%25a4%25eb%25a9%25b4",
-        "source": "Platum",
-        "published": "2026-05-22T14:44:12+00:00",
-        "summary": "판매 개시 10분 만에 온라인 물량이 동났다. 은행 영업점 앞에는 개점 전부터 대기 줄이 늘어섰고, 5대 은행 2200억 원어치는 반나절을 버티지 못했다. 국민참여형 국민성장펀드 첫날의 풍경이었다. 오픈런은 언제나 시대를 읽는 단서다. 2021년의 오픈런이 유동성 과잉과 자산 격차의 공포를 반영했다면, 오늘의 오픈런은 조금 다른 심리를 드러낸다. 최대 40% 소득공제에 분리과세까지, 절세 혜택이 투자 판단을 앞질렀다는 해석도 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Smart ring maker Oura files for IPO in New York",
-        "url": "https://sifted.eu/articles/smart-ring-maker-oura-files-for-ipo-in-new-york/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-22T12:54:00+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "100+ companies the €5bn Scaleup Europe Fund could back",
-        "url": "https://sifted.eu/articles/scale-up-fund-companies/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-22T11:00:33+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[미토스 이후, 전문가에게 듣는다⑥] 최경진 가천대 교수 “AI 시대, ‘책임 있는 이용’ 논의 시작해야”",
-        "url": "https://byline.network/2026/05/22-557/",
-        "source": "ByLine Network",
-        "published": "2026-05-22T08:56:03+00:00",
-        "summary": "앤트로픽의 새 인공지능(AI) 모델 ‘클로드 미토스(Claude Mythos)’ 등장을 계기로 AI가 사이버보안 분야에 미칠 영향에 대한 논의가 커지고 있다. AI가 취약점을 찾고 공격 경로를 설계하는 능력을 어디까지 갖췄는지, 그리고 이를 방어 체계가 따라갈 수 있는지 등을 두고 우려가 커지고 있다. 바이라인네트워크는 ‘미토스 이후, 전문가에게 듣는다’ 시리즈로 미토스 프리뷰를 접한 전문가들의 견해와 에이전틱 AI 시대의 사이버보안 대응 방향을 살펴본다. 그 여섯 번째로 최경진 가천대학교 법과대학 교수를 인터뷰했다. 최 교수는 한국인공지능법학회 회장으로 활동하고 있다. [편집자주]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "25년 만에 검색창 뒤집은 구글, ‘AI 탭’ 띄우는 네이버",
-        "url": "https://byline.network/2026/05/21_2018374/",
-        "source": "ByLine Network",
-        "published": "2026-05-22T08:47:29+00:00",
-        "summary": "구글이 25년간 유지해온 검색의 문법을 뒤엎었다. 지금까지 키워드 중심의 검색 서비스를 운영했다면, 앞으로는 텍스트부터 영상까지 '모든 것(everything)'을 검색할 수 있는 서비스로 진화한다.",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "농림 위성은 한국 농업을 어떻게 바꿀 수 있을까? (성제훈 국립농업과학원장)",
+        "url": "https://www.youtube.com/watch?v=-1JotnInYm0",
+        "source": "티타임즈TV",
+        "published": "2026-05-24T22:00:01+00:00",
+        "summary": "오는 7월 대한민국 최초의 농림 위성이 발사됩니다. 그동안 외국에 의존하던 농업 데이터에서 벗어나 자체 위성으로 데이터 주권을 확보하게 되는 기회죠. 위성 데이터로 농작물 면적과 생육상태, 재해 피해까지 실시간 분석 가능해지는데요. 농업 데이터 소유와 활용을 둘러싼 쟁점부터 맞춤형 농업 컨설팅의 미래까지 성제훈 국립농업과학원장이 설명해 드립니다.\n\n편집 : 박수형 영상디자이너\n촬영 : 장민주 PD\n진행 : 박영선 전 장관\n섬네일 : 이소민 영상디자이너\n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.",
+        "thumbnail": "https://i2.ytimg.com/vi/-1JotnInYm0/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "-1JotnInYm0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "SpaceX's Unknown Origin Story: Elon Wanted to Back Up Earth",
+        "url": "https://www.youtube.com/shorts/enIK5neD52Q",
+        "source": "All-In Podcast",
+        "published": "2026-05-24T21:00:32+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i2.ytimg.com/vi/enIK5neD52Q/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "enIK5neD52Q",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Jupiter’s Moons Are Insane",
+        "url": "https://www.youtube.com/shorts/swr39JEbNz4",
+        "source": "Cleo Abram",
+        "published": "2026-05-24T16:21:47+00:00",
+        "summary": "Jupiter’s moons are insane. One is larger than the planet Mercury. The next is the most volcanic place in the solar system. And another might have alien life. And they do CRAZY stuff to each other… \n\nJupiter has over 100 different moons but these three are locked in a synchronized orbit. That cosmic",
+        "thumbnail": "https://i4.ytimg.com/vi/swr39JEbNz4/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "swr39JEbNz4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "SpaceX is About to Explode:  $15B from Anthropic is just the beginning",
+        "url": "https://www.youtube.com/shorts/PxL1QTrseGE",
+        "source": "All-In Podcast",
+        "published": "2026-05-24T15:30:01+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i1.ytimg.com/vi/PxL1QTrseGE/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "PxL1QTrseGE",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -321,36 +315,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "SpaceX’s $2T Case, Nvidia’s Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
-        "url": "https://www.youtube.com/watch?v=HGbA6ze0_3M",
-        "source": "All-In Podcast",
-        "published": "2026-05-22T23:24:57+00:00",
-        "summary": "(0:00) Gavin Baker joins the show!\n(0:30) Andrej Karpathy joins Anthropic; hypergrowth and profitability\n(12:42) Why Americans have turned on AI, anti-human perception\n(27:22) Trump pulls AI EO, US-China AI relationship, dystopian AI layoffs\n(45:19) SpaceX S-1 tear down! Breaking down the three majo",
-        "thumbnail": "https://i1.ytimg.com/vi/HGbA6ze0_3M/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "HGbA6ze0_3M",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "K-water가 AI로 1조1000억원 어치의 물을 지켜내는 방법 (정하동 AI본부장)",
-        "url": "https://www.youtube.com/watch?v=8CuowusS7vA",
-        "source": "티타임즈TV",
-        "published": "2026-05-22T22:00:17+00:00",
-        "summary": "챗GPT나 제미나이 같은 AI에 질문을 하나 던질 때마다 생수 한 병(500ml) 분량의 물이 공기 중으로 사라진다는 사실, 알고 계셨나요? 거대한 데이터센터 서버의 열기를 식히기 위한 냉각수로 80% 이상의 물이 대기 중으로 증발하고 있습니다. 여기에 서버에 들어가는 반도체를 만들기 위해서 한국에서만 하루 70만톤에 달하는 물을 사용하고 있다고 합니다. 인구 250만의 대구시에서 쓰는 생활용수 양과 비슷하죠. 물이 끊어지면? 당연히 공장도 멈추게 됩니다. AI와 반도체 산업의 생사가 '물'에 달린 시대입니다. \n\n이처럼 물의 중요",
-        "thumbnail": "https://i1.ytimg.com/vi/8CuowusS7vA/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "8CuowusS7vA",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "What If You Were A Whale?",
         "url": "https://www.youtube.com/shorts/2AgABtxjYIo",
         "source": "Cleo Abram",
@@ -390,36 +354,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "aD_K49LwobI",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "OpenAI: $2M in tokens to every YC company in the spring and summer batches.",
-        "url": "https://www.youtube.com/shorts/h0bhNm6kwT8",
-        "source": "Y Combinator",
-        "published": "2026-05-21T20:52:11+00:00",
-        "summary": "OpenAI is offering $2M in tokens to every YC company in the spring and summer batches.\n\nWe extended the summer deadline to May 25 so more founders can get in on it.\n\nycombinator.com/apply",
-        "thumbnail": "https://i1.ytimg.com/vi/h0bhNm6kwT8/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "h0bhNm6kwT8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The First Ever Footage of a Giant Squid",
-        "url": "https://www.youtube.com/shorts/H7e43lhxd4Y",
-        "source": "Cleo Abram",
-        "published": "2026-05-21T16:36:26+00:00",
-        "summary": "This is the first ever footage of a giant squid in its natural habitat. It took decades to get this footage. And some creative engineering.\n\nThe further down into the ocean you go the darker it gets, so when scientists make their way down there with ROV’s or subs the lights and motors typically caus",
-        "thumbnail": "https://i1.ytimg.com/vi/H7e43lhxd4Y/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "H7e43lhxd4Y",
           "via": "rss"
         }
       }
