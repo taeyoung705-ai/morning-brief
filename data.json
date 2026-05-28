@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-27T03:38:09.760278+00:00",
+  "generated_at": "2026-05-28T02:57:25.628120+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia politics live: Labor MP Ali France defends having vacant block as registered address; employment minister outlines jobseeker changes",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/27/australia-politics-live-quad-wong-jobseeker-capital-gains-tax-budget-anthony-albanese-angus-taylor-labor-coalition-one-nation-question-time-senate-estimates-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-05-27T03:27:39+00:00",
-        "summary": "MP says she lived at the address for five years before the house was knocked down. Follow today’s news liveGet our breaking news email, free app or daily news podcastSyrian children should be treated ‘sensitively and gently’, Ryan saysIndependent MP Monique Ryan says the women and children returning from a Syrian camp should be treated gently, after they arrived in Australia last night.We’re talki",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry",
-        "url": "https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html",
-        "source": "NYT World",
-        "published": "2026-05-27T03:07:46+00:00",
-        "summary": "The 36-year-old, named in the French news media as David G., is among more than 70 employees at schools in the capital who have been recently suspended or fired over allegations of sexual abuse and other misconduct.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "One killed and others missing after chemical explosion at US paper mill",
-        "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
+        "title": "US strikes targets in Iran for second time in three days",
+        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-27T03:02:27+00:00",
-        "summary": "Nine others were injured and another nine are missing after a tank ruptured at a paper mill in Longview, Washington.",
+        "published": "2026-05-28T02:55:25+00:00",
+        "summary": "The strikes come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand",
-        "url": "https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html",
+        "title": "Iran War Live Updates: U.S. Conducts New Strikes on Southern Iran",
+        "url": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
         "source": "NYT World",
-        "published": "2026-05-27T02:39:22+00:00",
-        "summary": "The co-founder of a prominent A.I. company was nearby as the pope implored A.I. leaders to slow down and consider the technology’s possible perils.",
+        "published": "2026-05-28T02:53:15+00:00",
+        "summary": "A U.S. official said on Wednesday the new attacks had been in self-defense and targeted attack drones and a drone ground-control station. They were the latest attacks to threaten a fragile cease-fire.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iceland, Rattled by Trump’s Greenland Threats, Weighs Joining the E.U.",
-        "url": "https://www.nytimes.com/2026/05/26/world/europe/iceland-eu-membership-trump.html",
+        "title": "Residents Watch as Israeli War Planes Circle Over Southern Lebanon",
+        "url": "https://www.nytimes.com/2026/05/27/world/middleeast/lebanon-israel-hezbollah-military-campaign.html",
         "source": "NYT World",
-        "published": "2026-05-27T02:22:21+00:00",
-        "summary": "Iceland has stood apart from the rest of Europe. But President Trump’s threats to Greenland have provoked a reconsideration.",
+        "published": "2026-05-28T02:49:31+00:00",
+        "summary": "Israel has intensified its deadly military campaign against Hezbollah, the Iran-backed militant group, in recent days, striking targets across Lebanon.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "High-Level British Spy Warns of Expanding Russia Threat",
-        "url": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
-        "source": "NYT World",
-        "published": "2026-05-27T01:44:38+00:00",
-        "summary": "The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Paul Keating urges Labor to stick with capital gains tax overhaul and avoid exemptions that would hurt economy",
-        "url": "https://www.theguardian.com/australia-news/2026/may/27/labor-budget-australia-economy-cgt-capital-gains-tax-changes-paul-keating-reponse",
+        "title": "Australia politics live: government sues manufacturer 3M over defence base Pfas contamination in ‘largest ever’ $2bn legal claim",
+        "url": "https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-05-27T01:40:46+00:00",
-        "summary": "Exclusive: Former PM says changes to tax rates are ‘so marginal that no entrepreneurial initiative is likely to be thwarted’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPaul Keating has urged Labor to stick to its guns on controversial changes to capital gains tax, warning that exempting commercial assets from the changes would fu",
+        "published": "2026-05-28T02:44:54+00:00",
+        "summary": "Attorney general says government seeking $2bn in damages to recover costs relating to firefighting foam at 28 defence bases. Follow updates liveGet our breaking news email, free app or daily news podcastScams come in all shapes and sizes (and none of them are nice), and the government is considering creating rules that would force banks, telcos and digital platforms to automatically reimburse vict",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Group of women and children with alleged ISIL ties returns to Australia",
-        "url": "https://www.aljazeera.com/news/2026/5/27/group-of-women-and-children-with-alleged-isil-ties-returns-to-australia?traffic_source=rss",
+        "title": "Google employee charged with insider trading over Polymarket bets",
+        "url": "https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-27T01:37:37+00:00",
-        "summary": "Australian Federal Police have not made any arrests but say inquiries are ongoing.",
+        "published": "2026-05-28T02:25:28+00:00",
+        "summary": "Michele Spagnuolo allegedly used insider information to profit from bets on people on Google&#039;s most-searched list.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
+        "url": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-28T02:18:55+00:00",
+        "summary": "A surge in malaria cases in Zimbabwe is exposing fragile health systems and growing treatment shortages in rural areas.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "U.S. Strikes Military Sites in Iran for Second Time in 3 Days",
+        "url": "https://www.nytimes.com/2026/05/27/world/middleeast/military-strikes-southern-iran.html",
+        "source": "NYT World",
+        "published": "2026-05-28T02:07:04+00:00",
+        "summary": "As a potential cease-fire hangs in the balance, an official said the strikes were in self-defense, with targets including four one-way attack drones launched by Iran.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Parisians defy swimming ban to cool off as record heat hits Europe",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-05-28T01:51:17+00:00",
+        "summary": "Parisians cooled off in the city’s Saint-Martin canal as an unprecedented heatwave pushed temperatures across Europe.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Where does next-token prediction leave us?",
-        "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
+        "title": "RamAIn (YC W26) Is Hiring",
+        "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
         "source": "Hacker News Front",
-        "published": "2026-05-27T01:10:44+00:00",
-        "summary": "Article URL: https://pop.rdi.sh/where-does-next-token-prediction-leave-us/\nComments URL: https://news.ycombinator.com/item?id=48288191\nPoints: 28\n# Comments: 7",
+        "published": "2026-05-28T02:21:11+00:00",
+        "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\nComments URL: https://news.ycombinator.com/item?id=48303599\nPoints: 0\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Tunecat: Simple Internet Radio",
-        "url": "https://codeberg.org/lindenii/tunecat/",
+        "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+        "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
         "source": "Hacker News Front",
-        "published": "2026-05-27T01:08:16+00:00",
-        "summary": "Article URL: https://codeberg.org/lindenii/tunecat/\nComments URL: https://news.ycombinator.com/item?id=48288174\nPoints: 10\n# Comments: 0",
+        "published": "2026-05-28T00:49:58+00:00",
+        "summary": "Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\nComments URL: https://news.ycombinator.com/item?id=48302822\nPoints: 30\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Stripe is friendly to “friendly fraud”",
-        "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
-        "source": "Hacker News Front",
-        "published": "2026-05-27T00:40:05+00:00",
-        "summary": "Article URL: https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/\nComments URL: https://news.ycombinator.com/item?id=48287982\nPoints: 147\n# Comments: 75",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Did the Pope use AI to write about the dangers of AI?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-        "source": "The Verge",
-        "published": "2026-05-27T00:38:11+00:00",
-        "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Erin Brockovich made a map to track data centers around the country",
-        "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
-        "source": "Hacker News Front",
-        "published": "2026-05-27T00:36:03+00:00",
-        "summary": "Article URL: https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/\nComments URL: https://news.ycombinator.com/item?id=48287952\nPoints: 143\n# Comments: 131",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
-        "url": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
-        "source": "Hacker News Front",
-        "published": "2026-05-27T00:03:04+00:00",
-        "summary": "Article URL: https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/\nComments URL: https://news.ycombinator.com/item?id=48287678\nPoints: 59\n# Comments: 9",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "AI tools are only as good as your judgment",
-        "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
-        "source": "Hacker News Front",
-        "published": "2026-05-27T00:00:35+00:00",
-        "summary": "Article URL: https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html\nComments URL: https://news.ycombinator.com/item?id=48287649\nPoints: 62\n# Comments: 22",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
-        "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+        "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+        "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
         "source": "TechCrunch",
-        "published": "2026-05-26T23:49:05+00:00",
-        "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
+        "published": "2026-05-28T00:45:37+00:00",
+        "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Can we have the day off?",
+        "url": "https://mlsu.io/posts/day-off/",
+        "source": "Hacker News Front",
+        "published": "2026-05-28T00:40:26+00:00",
+        "summary": "Article URL: https://mlsu.io/posts/day-off/\nComments URL: https://news.ycombinator.com/item?id=48302745\nPoints: 481\n# Comments: 290",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Why Google’s AI can’t spell Google (or anything else)",
+        "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+        "source": "TechCrunch",
+        "published": "2026-05-28T00:17:41+00:00",
+        "summary": "Google is embarrassing itself, again.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+        "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+        "source": "Wired",
+        "published": "2026-05-28T00:10:42+00:00",
+        "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+        "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+        "source": "Hacker News Front",
+        "published": "2026-05-27T23:23:29+00:00",
+        "summary": "Article URL: https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html\nComments URL: https://news.ycombinator.com/item?id=48302151\nPoints: 132\n# Comments: 66",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Pelica (YC P25) Is Hiring",
+        "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
+        "source": "Hacker News Front",
+        "published": "2026-05-27T22:52:15+00:00",
+        "summary": "Article URL: https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer\nComments URL: https://news.ycombinator.com/item?id=48301851\nPoints: 0\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,88 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "韓 AI 보안 스타트업 스틸컷, 美 상무부 주관 ‘SelectUSA 2026’ 최고상",
-        "url": "https://platum.kr/archives/287666?utm_source=rss&utm_medium=rss&utm_campaign=%25e9%259f%2593-ai-%25eb%25b3%25b4%25ec%2595%2588-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%258a%25a4%25ed%258b%25b8%25ec%25bb%25b7-%25e7%25be%258e-%25ec%2583%2581%25eb%25ac%25b4%25eb%25b6%2580-%25ec%25a3%25bc%25ea%25b4%2580-selectusa-2026-%25ec%25b5%259c%25ea%25b3%25a0",
-        "source": "Platum",
-        "published": "2026-05-27T02:39:34+00:00",
-        "summary": "한국 AI 보안 스타트업 스틸컷(StealCut)이 미국 연방 상무부가 주관하는 &#8216;SelectUSA 인베스트먼트 서밋(Investment Summit) 2026&#8217;에서 최고상을 수상했다. SelectUSA 2026은 지난 3일부터 6일까지 미국 메릴랜드주 내셔널 하버에서 열렸으며, 100여 개국 2,700여 개 기업이 참가했다. 행사 기간 총 560억 달러 규모의 투자 약정이 발표됐다. 하이라이트 세션인 &#8216;SelectUSA Tech&#8217; 피칭에는 27개국 230여 개 스타트업이 지원했으며, 6개 산업별 세션 우승 ... 더 읽기",
+        "title": "The Crunchbase Tech Layoffs Tracker",
+        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+        "source": "Crunchbase News",
+        "published": "2026-05-27T17:18:30+00:00",
+        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "레비오사AI, 중기부 ‘모두의 창업 프로젝트’ AI 솔루션 공급기업 선정",
-        "url": "https://platum.kr/archives/287663?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a0%2588%25eb%25b9%2584%25ec%2598%25a4%25ec%2582%25acai-%25ec%25a4%2591%25ea%25b8%25b0%25eb%25b6%2580-%25eb%25aa%25a8%25eb%2591%2590%25ec%259d%2598-%25ec%25b0%25bd%25ec%2597%2585-%25ed%2594%2584%25eb%25a1%259c%25ec%25a0%259d%25ed%258a%25b8-ai-%25ec%2586%2594%25eb%25a3%25a8%25ec%2585%2598-%25ea%25b3%25b5",
-        "source": "Platum",
-        "published": "2026-05-27T02:30:36+00:00",
-        "summary": "이커머스 운영 자동화 스타트업 레비오사에이아이(레비오사AI)가 중소벤처기업부 &#8216;2026년 모두의 창업 프로젝트&#8217;의 AI 솔루션 공급기업으로 선정됐다. 모두의 창업 프로젝트는 예비·초기 창업자의 창업 모델 고도화와 기술 기반 사업화를 지원하는 사업으로, 창업자가 실제 운영 과정에서 활용할 수 있는 AI 솔루션을 보유한 스타트업·벤처기업을 선발한다. 레비오사AI는 이번 사업을 통해 온라인 셀러를 대상으로 AI 기반 고객응대 자동화와 마케팅 콘텐츠 제작 기능을 제공한다. ... 더 읽기",
+        "title": "[K-게임사 체질개선⑭] 펄어비스, 단일 IP 넘어 글로벌 콘솔 명가로",
+        "url": "https://byline.network/2026/05/27-647/",
+        "source": "ByLine Network",
+        "published": "2026-05-27T14:16:47+00:00",
+        "summary": "오랜 기간 ‘검은사막’으로 해외 시장을 공략해 온 펄어비스가 ‘붉은사막’을 시작으로 성장 방식 전환에 나서고 있다. 그간 쌓아온 라이브 서비스 운영 경험에 대형 콘솔·PC 게임 개발 성공 역량이 더해지며 중장기 성장 기반을 넓히는 모습이다. 회사는 검은사막의 안정적인 서비스와 붉은사막의 전 세계 흥행을 발판 삼아, 신규 지식재산권(IP)을 활용한 대형 프로젝트를 선보이며 새로운 성장축 확보에 나설 전망이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "카카오, AI 산학 교류 행사 ‘카나나 스칼라 콜로키움’ 개최",
-        "url": "https://platum.kr/archives/287660?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4-ai-%25ec%2582%25b0%25ed%2595%2599-%25ea%25b5%2590%25eb%25a5%2598-%25ed%2596%2589%25ec%2582%25ac-%25ec%25b9%25b4%25eb%2582%2598%25eb%2582%2598-%25ec%258a%25a4%25ec%25b9%25bc%25eb%259d%25bc-%25ec%25bd%259c%25eb%25a1%259c%25ed%2582%25a4%25ec%259b%2580-%25ea%25b0%259c",
-        "source": "Platum",
-        "published": "2026-05-27T02:23:31+00:00",
-        "summary": "카카오가 지난 22일 경기도 용인 AI캠퍼스에서 AI 협력 프로그램 &#8216;카나나 스칼라(Kanana Scholar)&#8217;의 일환으로 콜로키움을 진행했다. 카나나 스칼라는 카카오가 지난 3월 학계 전문가 및 미래 인재와의 교류를 목적으로 출범한 AI 협력 프로그램이다. 국내 주요 대학 AI·컴퓨팅 분야 교수진 7인으로 구성된 자문 그룹이 카카오 AI 기술 및 서비스 전반에 대한 자문을 맡고 있다. 이번 행사에서 카카오는 카나나 ... 더 읽기",
+        "title": "보안 취약점 쏟아내는 미토스, 검증·패치 속도가 병목",
+        "url": "https://byline.network/2026/05/27-646/",
+        "source": "ByLine Network",
+        "published": "2026-05-27T14:16:05+00:00",
+        "summary": "‘클로드 미토스 프리뷰’의 소프트웨어 취약점 탐지 능력이 실제 수치로 드러나면서 이에 대응할 보안 생태계 역량이 도마에 올랐다. 발견된 취약점을 검증하고 패치하는 속도의 한계가 보안 업계의 발목을 잡을 수 있다는 우려가 나온다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "벤처기업협회, ‘이달의 우수 벤처기업’ 첫 선정…씨이엘랩·나유타",
-        "url": "https://platum.kr/archives/287650?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%25a4%25ec%25b2%2598%25ea%25b8%25b0%25ec%2597%2585%25ed%2598%2591%25ed%259a%258c-%25ec%259d%25b4%25eb%258b%25ac%25ec%259d%2598-%25ec%259a%25b0%25ec%2588%2598-%25eb%25b2%25a4%25ec%25b2%2598%25ea%25b8%25b0%25ec%2597%2585-%25ec%25b2%25ab-%25ec%2584%25a0%25ec%25a0%2595%25ec%2594%25a8%25ec%259d%25b4",
-        "source": "Platum",
-        "published": "2026-05-27T02:10:46+00:00",
-        "summary": "벤처기업협회가 기술혁신과 사업성장이 우수한 벤처기업을 매월 발굴·홍보하는 &#8216;이달의 우수 벤처기업 선정사업&#8217;의 첫 번째 선정 결과를 27일 발표했다. K-딥테크 부문에는 씨이엘랩이, K-스케일업 부문에는 나유타가 각각 선정됐다. 씨이엘랩은 탄소포집(CCUS)·바이오가스 정제·수소회수 등에 활용할 수 있는 기체 분리용 고성능 멤브레인 기술을 개발한 기업이다. 기존 흡수·흡착 기반 공정 대비 에너지 소비를 약 20분의 1 수준으로 줄이는 하이브리드 멤브레인 제조기술을 보유하고 ... 더 읽기",
+        "title": "한국거래소 “저PBR 기업 명단 공개제도 올 하반기 도입”",
+        "url": "https://byline.network/2026/05/0527-3/",
+        "source": "ByLine Network",
+        "published": "2026-05-27T14:14:43+00:00",
+        "summary": "한국거래소가 주가순자산비율(PBR)이 낮은 상장사 명단을 대중에 공개하는 ‘네이밍 앤 쉐이밍(Naming and Shaming)’ 제도를 올 하반기 도입하고 1년 뒤 실제 기업 명단을 공개한다. 저평가 상태를 방치하는 기업에는 주식 거래 시스템 상에 태깅(Tagging)을 붙이는 실질적인 제재 수단도 함께 추진한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "한국여성벤처협회, 글로벌화 지원 프로그램 참여기업 모집",
-        "url": "https://platum.kr/archives/287647?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ea%25b5%25ad%25ec%2597%25ac%25ec%2584%25b1%25eb%25b2%25a4%25ec%25b2%2598%25ed%2598%2591%25ed%259a%258c-%25ea%25b8%2580%25eb%25a1%259c%25eb%25b2%258c%25ed%2599%2594-%25ec%25a7%2580%25ec%259b%2590-%25ed%2594%2584%25eb%25a1%259c%25ea%25b7%25b8%25eb%259e%25a8-%25ec%25b0%25b8%25ec%2597%25ac%25ea%25b8%25b0",
-        "source": "Platum",
-        "published": "2026-05-27T01:29:46+00:00",
-        "summary": "한국여성벤처협회가 중소벤처기업부 지원으로 운영하는 &#8216;여성벤처 글로벌화 지원 프로그램&#8217; 참여기업을 모집한다. 이 프로그램은 해외시장 정보와 글로벌 네트워크가 부족한 수출 초기 여성벤처·스타트업을 대상으로 해외 시장조사, 진출전략 수립, 수출상담회 등을 지원한다. 지난해 10개사를 대상으로 시범 운영해 약 5개월간 수출 4억 원의 성과를 냈으며, 올해는 참여기업 규모를 20개사로 늘렸다. 선정 기업에는 해외 진출 역량 진단을 바탕으로 시장조사와 진출전략 수립을 ... 더 읽기",
+        "title": "Exclusive: Capchase, The ‘Affirm for B2B,’ Secures $200M In Debt And Equity",
+        "url": "https://news.crunchbase.com/venture/fintech-capchase-b2b-bnpl-200m-debt-equity/",
+        "source": "Crunchbase News",
+        "published": "2026-05-27T14:00:50+00:00",
+        "summary": "Financing startup Capchase has secured a new round of funding, consisting of $26 million in equity and a $174 million credit facility, the company told Crunchbase News exclusively.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "인텔리시아, AI 리테일 시뮬레이션 소프트웨어 ‘파라스토어’ MIT 라이선스로 공개",
-        "url": "https://platum.kr/archives/287641?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b8%25ed%2585%2594%25eb%25a6%25ac%25ec%258b%259c%25ec%2595%2584-ai-%25eb%25a6%25ac%25ed%2585%258c%25ec%259d%25bc-%25ec%258b%259c%25eb%25ae%25ac%25eb%25a0%2588%25ec%259d%25b4%25ec%2585%2598-%25ec%2586%258c%25ed%2594%2584%25ed%258a%25b8%25ec%259b%25a8%25ec%2596%25b4-%25ed%258c%258c%25eb%259d%25bc%25ec%258a%25a4",
-        "source": "Platum",
-        "published": "2026-05-27T01:23:36+00:00",
-        "summary": "AI 합성소비자 조사 플랫폼 더서베이AI를 운영하는 인텔리시아가 합성소비자가 3D 가상 매장 안에서 직접 쇼핑하는 과정을 재현하는 리테일 시뮬레이션 소프트웨어 &#8216;파라스토어(Parastore)&#8217;를 26일 오픈소스로 공개했다. 매장 위치와 매대 도면, 고객 프로필을 입력하면 LLM(대규모 언어모델)이 수백 명의 합성소비자를 자동 생성하고, 이들이 입장·쇼핑·결제에 이르는 전 과정을 시뮬레이션하는 방식이다. 인텔리시아는 자사 합성소비자 엔진을 파라스토어에 결합해 실제 편의점 POS 데이터(고객 500명, ... 더 읽기",
+        "title": "Bek Ventures, formerly Earlybird Digital East, loses four investment team members in matter of months",
+        "url": "https://sifted.eu/articles/bek-ventures-investment-team-departures-earlybird/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-27T11:30:30+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "전화성의 스타트업 모닝커피 1322회_에너지렌트",
-        "url": "https://platum.kr/archives/287640?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25ed%2599%2594%25ec%2584%25b1%25ec%259d%2598-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1322%25ed%259a%258c_%25ec%2597%2590%25eb%2584%2588%25ec%25a7%2580%25eb%25a0%258c%25ed%258a%25b8",
-        "source": "Platum",
-        "published": "2026-05-27T01:20:04+00:00",
-        "summary": "‘스타트업 모닝커피’는 씨엔티테크 전화성 대표가 진행하는 유튜브 프로그램으로, 매일 오전 8시 40분 ‘전화성의 CNTV’ 채널에서 라이브로 방송되며, 다양한 스타트업의 핵심 역량과 시장 잠재성을 소개할 뿐만 아니라, 실시간 댓글을 통한 시청자와의 쌍방향 소통을 통해 스타트업 생태계에 관심 있는 이들에게 유용한 정보 플랫폼으로 자리잡고 있다. 1. 에너지렌트 기업은?  에너지렌트는 건물 자가 소비형 태양광 시장의 성장에 발맞추어, 실시간 ... 더 읽기",
+        "title": "The Savvy Logic Behind VC Bets In ‘Uninvestable’ Sectors",
+        "url": "https://news.crunchbase.com/venture/logic-behind-vc-bets-uninvestable-sectors-cuvelier-rtp-global/",
+        "source": "Crunchbase News",
+        "published": "2026-05-27T11:00:56+00:00",
+        "summary": "Historically “uninvestable” sectors are getting more opportunities to bring in funding, creating a rare opportunity for specialized founders and investors to disrupt trillion-dollar industrial markets with vertically integrated, AI-driven software. In this guest commentary, Thomas Cuvelier of RTP Global explains how VCs are using AI to overcome legacy barriers.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "노후 배전반 AI 안전진단 ‘에이치디하이테크’, 시드 투자 유치",
-        "url": "https://platum.kr/archives/287636?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2585%25b8%25ed%259b%2584-%25eb%25b0%25b0%25ec%25a0%2584%25eb%25b0%2598-ai-%25ec%2595%2588%25ec%25a0%2584%25ec%25a7%2584%25eb%258b%25a8-%25ec%2597%2590%25ec%259d%25b4%25ec%25b9%2598%25eb%2594%2594%25ed%2595%2598%25ec%259d%25b4%25ed%2585%258c%25ed%2581%25ac-%25ec%258b%259c%25eb%2593%259c",
-        "source": "Platum",
-        "published": "2026-05-27T01:07:23+00:00",
-        "summary": "배전반 AI 안전진단 솔루션 기업 에이치디하이테크가 시리즈벤처스로부터 시드 투자를 유치했다고 27일 밝혔다. 투자 금액은 비공개다. 배전반은 노후화되면 내부에서 미세한 방전이 일어나 화재나 정전으로 이어질 수 있는데, 현재는 대부분 연 1회 사람이 직접 점검하는 방식에 의존하고 있다. 에이치디하이테크는 배전반 상태를 24시간 자동으로 감시하고 이상 신호가 감지되면 그 종류·위치·심각도를 현장 화면과 중앙관제실에 즉시 알려주는 AI 안전진단 솔루션을 ... 더 읽기",
+        "title": "Can AI make us better parents?",
+        "url": "https://sifted.eu/articles/ai-parenting/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-05-27T10:40:35+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,16 +276,121 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Chamath Rips Cloudflare CEO’s Layoff Memo: “Shut the f**k up. You suck at this.”",
-        "url": "https://www.youtube.com/watch?v=ZJFevnwiCww",
+        "title": "3 Reasons Why College Students Hate AI - David Friedberg",
+        "url": "https://www.youtube.com/shorts/14TQ7Ww5yKs",
         "source": "All-In Podcast",
-        "published": "2026-05-26T14:51:04Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/ZJFevnwiCww/mqdefault.jpg",
+        "published": "2026-05-27T16:00:32+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i2.ytimg.com/vi/14TQ7Ww5yKs/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "14TQ7Ww5yKs",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "A WWI pilot&#39;s good luck charm became the Ferrari logo",
+        "url": "https://www.youtube.com/watch?v=gWPOpLc5Wus",
+        "source": "Acquired",
+        "published": "2026-05-27T15:20:17Z",
+        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/gWPOpLc5Wus/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "gWPOpLc5Wus",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Will The Universe Die?",
+        "url": "https://www.youtube.com/shorts/mD9386aqzyI",
+        "source": "Cleo Abram",
+        "published": "2026-05-27T15:07:52+00:00",
+        "summary": "How will the universe die?? There’s a big fight over the top three theories and this last one just got some brand new evidence…\n\nDon’t worry, all of these endings are MANY years away, but which one it is depends on just\nONE unknown number: The energy in empty space. \n\nAnd scientists are studying THI",
+        "thumbnail": "https://i2.ytimg.com/vi/mD9386aqzyI/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "mD9386aqzyI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Inside YC&#39;s AI Playbook",
+        "url": "https://www.youtube.com/watch?v=B246K_G7mHU",
+        "source": "Y Combinator",
+        "published": "2026-05-27T14:00:26Z",
+        "summary": "Building superintelligence inside a company isn't about adding AI as a feature. It's about making it the operating system the whole ...",
+        "thumbnail": "https://i.ytimg.com/vi/B246K_G7mHU/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "B246K_G7mHU",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Private Markets, Software Repricing and Capital Allocation | Marc Rowan on a16z",
+        "url": "https://www.youtube.com/watch?v=oYK_MmZW9XI",
+        "source": "a16z",
+        "published": "2026-05-27T14:00:13Z",
+        "summary": "In 1990, Marc Rowan walked out of Drexel with his belongings in a cardboard box. Within a year, Apollo was managing $6 billion.",
+        "thumbnail": "https://i.ytimg.com/vi/oYK_MmZW9XI/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "oYK_MmZW9XI",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "중국에도 파업이 있을까?",
+        "url": "https://www.youtube.com/watch?v=lFyS7x4BmZ0",
+        "source": "슈카월드",
+        "published": "2026-05-27T09:48:30Z",
+        "summary": "0:00 9시 출근, 9시 퇴근, 주 6일 출근 3:20 중국에 노조가 있다고? 13:00 현재 중국 노동 시장의 최대 문제.",
+        "thumbnail": "https://i.ytimg.com/vi/lFyS7x4BmZ0/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "lFyS7x4BmZ0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "&#39;AI영상 장인&#39;은 어떤 프롬프트로 영상을 뽑나? (허준호 감독)",
+        "url": "https://www.youtube.com/watch?v=ILzunqw4unI",
+        "source": "티타임즈TV",
+        "published": "2026-05-27T09:00:20Z",
+        "summary": "\"AI가 가짜라면, 이야기만큼은 진짜여야 한다\" AI 단편 영화로 최근 각종 영화제에서 상을 휩쓸고 있는 허준호 감독이 밝힌, AI영상 잘 ...",
+        "thumbnail": "https://i.ytimg.com/vi/ILzunqw4unI/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "ILzunqw4unI",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Chamath Rips Cloudflare CEO’s Layoff Memo: “Shut the f**k up. You suck at this.”",
+        "url": "https://www.youtube.com/shorts/ZJFevnwiCww",
+        "source": "All-In Podcast",
+        "published": "2026-05-26T14:51:04+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i3.ytimg.com/vi/ZJFevnwiCww/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "ZJFevnwiCww",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -315,111 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "Vqiw5-n9-Gg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ferrari Said They’d Never Make This New Car",
-        "url": "https://www.youtube.com/watch?v=K-o0r2zSgCE",
-        "source": "Cleo Abram",
-        "published": "2026-05-25T20:11:51Z",
-        "summary": "The first all electric Ferrari, the Ferrari Luce, isn't what you think... (feat. Apple legend Jony Ive and Ferrari Chief Designer Flavio ...",
-        "thumbnail": "https://i.ytimg.com/vi/K-o0r2zSgCE/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "K-o0r2zSgCE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Chamath Lays Out the Case for SpaceX at $2 Trillion",
-        "url": "https://www.youtube.com/watch?v=6f3yzCihfsE",
-        "source": "All-In Podcast",
-        "published": "2026-05-25T15:30:22Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/6f3yzCihfsE/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "6f3yzCihfsE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "그래서 결국 얼마예요?",
-        "url": "https://www.youtube.com/watch?v=gOC0yZ7tr34",
-        "source": "슈카월드",
-        "published": "2026-05-25T11:02:33Z",
-        "summary": "0:00 삼성전자 노사 합의안 내용 8:13 그래서 얼마를 받는다는 말인가 16:35 DS부문 / DX부문 차이에 관하여 22:47 예상되는 후폭풍 ...",
-        "thumbnail": "https://i.ytimg.com/vi/gOC0yZ7tr34/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "gOC0yZ7tr34",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why US Inflation is So High (and going higher)",
-        "url": "https://www.youtube.com/watch?v=haJ6d5DCrDU",
-        "source": "TLDR News Global",
-        "published": "2026-05-25T09:30:08Z",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr US inflation has risen further and faster than many ...",
-        "thumbnail": "https://i.ytimg.com/vi/haJ6d5DCrDU/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "haJ6d5DCrDU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "농림 위성은 한국 농업을 어떻게 바꿀 수 있을까? (성제훈 국립농업과학원장)",
-        "url": "https://www.youtube.com/watch?v=-1JotnInYm0",
-        "source": "티타임즈TV",
-        "published": "2026-05-24T22:00:01Z",
-        "summary": "오는 7월 대한민국 최초의 농림 위성이 발사됩니다. 그동안 외국에 의존하던 농업 데이터에서 벗어나 자체 위성으로 데이터 주권을 ...",
-        "thumbnail": "https://i.ytimg.com/vi/-1JotnInYm0/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "-1JotnInYm0",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Jupiter’s Moons Are Insane",
-        "url": "https://www.youtube.com/watch?v=swr39JEbNz4",
-        "source": "Cleo Abram",
-        "published": "2026-05-24T16:21:47Z",
-        "summary": "Jupiter's moons are insane. One is larger than the planet Mercury. The next is the most volcanic place in the solar system.",
-        "thumbnail": "https://i.ytimg.com/vi/swr39JEbNz4/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "swr39JEbNz4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI가 모든 답을 아는 시대, 우리가 진짜 배워야 할 단 한 가지 | Axiom Math, 켄 오노",
-        "url": "https://www.youtube.com/watch?v=lkIYFatfzFs",
-        "source": "EO 이오",
-        "published": "2026-05-23T10:32:05Z",
-        "summary": "\"지식을 쌓는 것으로 AI를 이기려 한다면 우리는 반드시 패배할 것입니다. 이제 지식은 세상에서 가장 값싼 자원이 되었습니다. 중요한 ...",
-        "thumbnail": "https://i.ytimg.com/vi/lkIYFatfzFs/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "lkIYFatfzFs",
           "via": "api"
         }
       }
