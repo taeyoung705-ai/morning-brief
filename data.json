@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-29T03:26:35.799146+00:00",
+  "generated_at": "2026-05-30T02:53:37.685848+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Entertainment elite gather to farewell James Valentine; Angus Taylor challenged on ‘arrogant prick’ comment about PM",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-05-29T03:18:33+00:00",
-        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastWho’s leading the fight against Labor’s CGT reform – and what’s in it for them?People with direct personal financial stakes in Labor’s tax reforms are among the loudest voices opposing the changes. Continue reading...",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "A.I.’s Big Next Step",
-        "url": "https://www.nytimes.com/2026/05/28/world/ai-ipo-anthropic-openai-spacex-iran.html",
-        "source": "NYT World",
-        "published": "2026-05-29T03:14:09+00:00",
-        "summary": "Three major companies are planning to go public with share sales in the coming months. They could be some of the biggest market debuts in history.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "After New Push by the Bolsonaros, U.S. Labels Brazilian Gangs as Terrorist Groups",
-        "url": "https://www.nytimes.com/2026/05/28/world/americas/brazil-gangs-terrorist-bolsonaro-trump.html",
-        "source": "NYT World",
-        "published": "2026-05-29T03:08:44+00:00",
-        "summary": "Following through on threats, the Trump administration has designated Brazil’s two largest drug gangs as terrorist groups.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Moment Blue Origin rocket explodes during test in Florida",
-        "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+        "title": "Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival",
+        "url": "https://www.bbc.com/news/articles/c1w21gn340xo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-29T03:02:48+00:00",
-        "summary": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
+        "published": "2026-05-30T02:09:47+00:00",
+        "summary": "Corruption probes of colleagues and relatives have put Spain's premier into a fight for survival.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "KPMG Australia’s CEO Andrew Yates quits over whistleblower scandal",
-        "url": "https://www.theguardian.com/business/2026/may/29/kpmg-australia-ceo-andrew-yates-quits-whistleblower-scandal-ntwnfb",
+        "title": "Vivid Sydney cancels all drone shows after 83 drones plunged into Darling Harbour",
+        "url": "https://www.theguardian.com/culture/2026/may/30/vivid-sydney-cancels-all-drone-shows-after-83-drones-plunged-into-darling-harbour",
         "source": "The Guardian World",
-        "published": "2026-05-29T02:56:47+00:00",
-        "summary": "Yates says ‘we have let ourselves down’ when dealing with allegations of client information being misusedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastKPMG’s Australian chief, Andrew Yates, will step down immediately, after taking responsibility for the consultancy firm’s failure to properly respond to whistleblower allegations aro",
+        "published": "2026-05-30T02:06:36+00:00",
+        "summary": "Fireworks displays will replace all drone shows at the iconic festival after a technical issue saw dozens fall from the sky on Monday nightGet our breaking news email, free app or daily news podcastVivid Sydney has cancelled all remaining drone shows after 83 fell from the sky into Darling Harbour this week, prompting a “full assessment” of the aerial light show.On Monday, audiences looked on as a",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US Treasury secretary confirms plans for banknote featuring Trump’s face",
-        "url": "https://www.aljazeera.com/news/2026/5/29/us-treasury-secretary-confirms-plans-for-banknote-featuring-trumps-face?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-29T02:13:18+00:00",
-        "summary": "Proposed $250 bill would mark the first time a living person has appeared on US currency in more than a century.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’",
-        "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
-        "source": "The Guardian World",
-        "published": "2026-05-29T02:10:11+00:00",
-        "summary": "Tedros Adhanom Ghebreyesus heads for Ituri province where epidemic is centred and calls for halt to fighting that hampers medical relief effortsThe deadly Ebola outbreak in the Democratic Republic of the Congo can be stopped, the World Health Organization (WHO) head, Tedros Adhanom Ghebreyesus, said as he arrived in Kinsasha.Tedros landed in the DRC on Thursday evening and was due on Friday to tra",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz",
-        "url": "https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal",
+        "title": "Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal",
+        "url": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal",
         "source": "NYT World",
-        "published": "2026-05-29T02:06:17+00:00",
-        "summary": "President Trump has not signed off on the emerging framework, according to U.S. officials. But it could set the table for extending the cease-fire and more substantive negotiations.",
+        "published": "2026-05-30T02:01:16+00:00",
+        "summary": "The president met with aides for two hours at the White House about a possible cease-fire extension, according to a senior administration official. Earlier, Mr. Trump had suggested in a social media post that he was ready to make a decision.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘Essentially diving in coffee’: Australian diver among team rushing to rescue people trapped in flooded Laos cave",
+        "url": "https://www.theguardian.com/world/2026/may/29/essentially-diving-in-coffee-australian-diver-among-team-rushing-to-rescue-people-trapped-in-flooded-laos-cave",
+        "source": "The Guardian World",
+        "published": "2026-05-30T01:53:55+00:00",
+        "summary": "Josh Richards joins international mission to help five found alive and search for missing divers, with one person extracted successfully Get our breaking news email, free app or daily news podcastAn Australian cave diver is part of an international team that has brought one man out alive from a remote flooded cave in Laos, with the rescue operation continuing for six more men still trapped undergr",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
+        "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-05-30T01:49:39+00:00",
+        "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+        "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-05-30T01:34:38+00:00",
+        "summary": "BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
+        "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+        "source": "NYT World",
+        "published": "2026-05-30T01:24:33+00:00",
+        "summary": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump’s Boat Strikes Have Failed to Curb Cocaine Flow to U.S., Experts Say",
+        "url": "https://www.nytimes.com/2026/05/29/world/americas/us-boat-strikes-cocaine-trump-south-america.html",
+        "source": "NYT World",
+        "published": "2026-05-30T01:00:19+00:00",
+        "summary": "Despite the rising body count off the South American coast, researchers say cocaine is as easy to get in many parts of the United States as it was before the strikes began.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Cars are trying to spy on you, and it's only just the beginning",
-        "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-        "source": "Hacker News Front",
-        "published": "2026-05-29T03:01:00+00:00",
-        "summary": "Article URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse\nComments URL: https://news.ycombinator.com/item?id=48318481\nPoints: 32\n# Comments: 10",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Blue Origin’s New Glenn rocket explodes during testing in Florida",
-        "url": "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+        "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business",
+        "url": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
         "source": "TechCrunch",
-        "published": "2026-05-29T01:22:16+00:00",
-        "summary": "The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.",
+        "published": "2026-05-30T02:00:00+00:00",
+        "summary": "The ruling drew support from founders, while lawyers said it could force platforms to revisit how they handle trademarked keywords.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Blue Origin's New Glenn blows up during static fire test",
-        "url": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+        "title": "WH proposes rules giving political appointees final approval on research grants",
+        "url": "https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/",
         "source": "Hacker News Front",
-        "published": "2026-05-29T01:16:38+00:00",
-        "summary": "Article URL: https://twitter.com/nasaspaceflight/status/2060164928472854821\nComments URL: https://news.ycombinator.com/item?id=48317774\nPoints: 110\n# Comments: 49",
+        "published": "2026-05-30T01:39:52+00:00",
+        "summary": "Article URL: https://www.scientificamerican.com/article/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants/\nComments URL: https://news.ycombinator.com/item?id=48331511\nPoints: 22\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
-        "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+        "title": "I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides",
+        "url": "https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/",
         "source": "TechCrunch",
-        "published": "2026-05-29T00:44:37+00:00",
-        "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+        "published": "2026-05-30T00:39:13+00:00",
+        "summary": "The Enhanced Games — a singular sporting competition where a majority of the athletes were on performance enhancing drugs — may herald a new business model that the tech industry is ready to embrace.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Where are the economies of scale in homebuilding?",
-        "url": "https://www.construction-physics.com/p/where-are-the-economies-of-scale",
+        "title": "Ember.js 7.0",
+        "url": "https://blog.emberjs.com/ember-released-7-0/",
         "source": "Hacker News Front",
-        "published": "2026-05-29T00:16:20+00:00",
-        "summary": "Article URL: https://www.construction-physics.com/p/where-are-the-economies-of-scale\nComments URL: https://news.ycombinator.com/item?id=48317339\nPoints: 54\n# Comments: 49",
+        "published": "2026-05-29T23:57:45+00:00",
+        "summary": "Article URL: https://blog.emberjs.com/ember-released-7-0/\nComments URL: https://news.ycombinator.com/item?id=48330902\nPoints: 17\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-        "url": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-        "source": "TechCrunch",
-        "published": "2026-05-29T00:14:35+00:00",
-        "summary": "A new law and AV tracker tool gives the clearest accounting yet of how many robotaxis and self-driving trucks are in Texas.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-        "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+        "title": "What Is a Dickover?",
+        "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
         "source": "Hacker News Front",
-        "published": "2026-05-29T00:09:35+00:00",
-        "summary": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/\nComments URL: https://news.ycombinator.com/item?id=48317294\nPoints: 15\n# Comments: 6",
+        "published": "2026-05-29T23:54:22+00:00",
+        "summary": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover\nComments URL: https://news.ycombinator.com/item?id=48330882\nPoints: 125\n# Comments: 56",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The GOP’s Attacks on James Talarico Are Straight Out of the Incel Handbook",
-        "url": "https://www.wired.com/story/gop-attacks-on-james-talarico-incel-handbook/",
-        "source": "Wired",
-        "published": "2026-05-28T23:49:53+00:00",
-        "summary": "Claims about low testosterone and false accusations of veganism might play well to the online far right, but will they win an election?",
+        "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+        "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+        "source": "The Verge",
+        "published": "2026-05-29T23:03:29+00:00",
+        "summary": "It's the world's worst kept secret that Nvidia is about to announce its own Arm-powered laptop chips at Computex this weekend, and now Microsoft, Nvidia, and Arm are all openly teasing the announcement. The Windows and Nvidia GeForce accounts on X both posted \"A new era of PC\" earlier today, and now Arm has followed [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Proposed new US funding rules: We can cancel any grant at any time",
+        "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+        "source": "Ars Technica",
+        "published": "2026-05-29T22:58:29+00:00",
+        "summary": "Peer review now optional, political staff would screen grants for forbidden topics.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "MCP is dead?",
+        "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+        "source": "Hacker News Front",
+        "published": "2026-05-29T22:56:49+00:00",
+        "summary": "Article URL: https://www.quandri.io/engineering-blog/mcp-is-dead\nComments URL: https://news.ycombinator.com/item?id=48330436\nPoints: 97\n# Comments: 82",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,65 +186,21 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[커머스BN] 네이버·카카오·배민의 ‘쇼핑+AI’",
-        "url": "https://byline.network/2026/05/29_19292883/",
-        "source": "ByLine Network",
-        "published": "2026-05-29T02:40:04+00:00",
-        "summary": "검색(네이버), 메신저(카카오), 배달(배달의민족)까지, 한국인이 가장 자주 쓰는 세 서비스는 AI를 어디에 활용하고 있을까요? 그리고 실제로 그 결과가 숫자로 나타날까요?",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "앤트로픽, 오푸스 4.8 출시…“수주일 내 미토스 공개”",
-        "url": "https://byline.network/2026/05/29-491/",
-        "source": "ByLine Network",
-        "published": "2026-05-29T02:00:01+00:00",
-        "summary": "앤트로픽이 프론티어 모델의 최신 버전 오푸스(Opus) 4.8을 출시했다. 오푸스 4.7을 출시한 지 한달 만이다. 가장 강력한 모델인 ‘미토스’의 일반 공개 시점을 수주일 내라고 예고했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "디지털자산 시대 앞둔 전통금융…거래소 투자 확대",
-        "url": "https://byline.network/2026/05/0528-7/",
-        "source": "ByLine Network",
-        "published": "2026-05-28T22:15:57+00:00",
-        "summary": "스테이블코인과 토큰증권(STO) 등 디지털자산 시장 확대를 앞두고 전통금융권과 디지털자산거래소 간 협업이 본격화되고 있다. 디지털자산 시장의 핵심 경쟁력이 ‘발행’보다 ‘유통’에 찍히면서 거래소 중심의 생태계 선점 경쟁이 본격화됐다는 평가가 나온다. 실제 달러 스테이블코인의 확산 역시 거래소 기반 유통 구조를 중심으로 이뤄졌다는 분석이다. 대표적으로 달러 스테이블코인 USDC 발행사 서클과 글로벌 디지털자산거래소 코인베이스의 사업 모델 역시 수익 상당 부분을 코인베이스가 가져가는 구조로 형성돼 있다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "국내 금융사 AI 에이전트 도입 부진…망분리·책임소재 부담",
-        "url": "https://byline.network/2026/05/0528-6/",
-        "source": "ByLine Network",
-        "published": "2026-05-28T22:11:16+00:00",
-        "summary": "인공지능(AI)이 사람을 대신해 금융 업무를 자율적으로 수행하는 AI 에이전트 기술에 대해 국내 금융사들이 다소 소극적인 태도를 취하고 있다는 분석이 나온다. 이에 빅테크 기업과의 기술 경쟁에서 뒤처질 수 있다는 가능성이 제기된다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Anthropic Nears $1T Valuation And Leapfrogs OpenAI On Unicorn Board With $65B Funding Round",
-        "url": "https://news.crunchbase.com/ai/anthropic-nears-1t-valuation-65b-seriesh/",
+        "title": "The Week’s 10 Biggest Funding Rounds: Anthropic Dominates In An Otherwise Slower Week For Megarounds",
+        "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/",
         "source": "Crunchbase News",
-        "published": "2026-05-28T19:11:47+00:00",
-        "summary": "Generative AI company Anthropic announced on Thursday that it has raised $65 billion in a Series H funding round, more than doubling its post-money valuation to a staggering $965 billion.",
+        "published": "2026-05-29T19:15:09+00:00",
+        "summary": "Venture funding has always been a world of haves and have nots. And these days, the haves are having more than ever. Case in point this week was generative AI giant Anthropic's $65 billion Series H funding, followed by a billion-dollar funding for an AI software developer.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Carissa Véliz on the dangers of predictive AI",
-        "url": "https://sifted.eu/articles/carissa-veliz-podcast/",
+        "title": "Will Europe’s VCs catch up to the influencer craze?",
+        "url": "https://sifted.eu/articles/will-europes-vcs-catch-up-to-the-influencer-craze/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-28T16:53:53+00:00",
+        "published": "2026-05-29T11:30:02+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,10 +208,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Mistral strikes deals with BMW and Airbus in ‘industrial AI’ push",
-        "url": "https://sifted.eu/articles/mistral-industrial-ai-push/",
+        "title": "They Saw Women Shut Out Of VC, So A PayPal Veteran And Former Navy Officer Built An Alternative",
+        "url": "https://news.crunchbase.com/diversity/venture-women-owned-startup-funding-aequitas-invest/",
+        "source": "Crunchbase News",
+        "published": "2026-05-29T11:00:59+00:00",
+        "summary": "Co-founded by Molly Huyck and Amie Konwinski, Aequitas Invest's funding portal provides women-led businesses a way to raise capital. Crunchbase News recently spoke to the founders to learn more about their plans to help female entrepreneurs raise and hold on to more equity.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Navigating The DPI Crunch And Startup Funding",
+        "url": "https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/",
+        "source": "Crunchbase News",
+        "published": "2026-05-29T11:00:53+00:00",
+        "summary": "Founders should evaluate investors’ financial health as carefully as their market thesis, writes guest author Marc Schröder, who emphasizes they should also prepare for acquisition-focused exits since venture-backed M&#038;A far outweighs IPO activity in the current market.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "AI 악용 사이버위협 ‘비상’…정부, 민관 합동 대응 본격 추진",
+        "url": "https://byline.network/2026/05/29-508/",
+        "source": "ByLine Network",
+        "published": "2026-05-29T09:54:43+00:00",
+        "summary": "정부가 앤트로픽 미토스 같은 고성능 인공지능(AI)을 악용한 사이버위협에 대응하기 위한 본격 행보에 나섰다. 과학기술정보통신부는 29일 열린 제9회 과학기술관계장관회의에서 ‘AI 기반 사이버위협에 대응하기 위한 민간 정보보호 추진계획(안)’을 발표했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Rewriting the M&A playbook: Inside Visma’s acquisition strategy",
+        "url": "https://sifted.eu/articles/inside-vismas-acquisition-strategy-brnd/",
         "source": "Sifted (EU startups)",
-        "published": "2026-05-28T12:01:59+00:00",
+        "published": "2026-05-29T09:13:12+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -263,11 +252,22 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Inside Mistral’s billion-dollar bet on building Europe’s AI cloud",
-        "url": "https://sifted.eu/articles/inside-mistral-billion-dollar-bet-europe-ai-cloud/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-28T11:12:32+00:00",
-        "summary": "",
+        "title": "인공지능 윤리원칙 초안 공개…3대 가치·6대 원칙 제시",
+        "url": "https://platum.kr/archives/287961?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b8%25ea%25b3%25b5%25ec%25a7%2580%25eb%258a%25a5-%25ec%259c%25a4%25eb%25a6%25ac%25ec%259b%2590%25ec%25b9%2599-%25ec%25b4%2588%25ec%2595%2588-%25ea%25b3%25b5%25ea%25b0%259c3%25eb%258c%2580-%25ea%25b0%2580%25ec%25b9%2598%25c2%25b76%25eb%258c%2580-%25ec%259b%2590%25ec%25b9%2599-%25ec%25a0%259c",
+        "source": "Platum",
+        "published": "2026-05-29T08:37:12+00:00",
+        "summary": "과학기술정보통신부가 정보통신정책연구원(KISDI)과 함께 인공지능(AI) 윤리원칙 초안을 마련하고 29일부터 공개 의견수렴에 들어간다. 이번 초안은 2020년 범정부 &#8216;AI 윤리기준&#8217;을 계승하면서 AI기본법 시행과 최근 기술·사회 환경 변화를 반영해 재정립한 것이다. 부처·기관별로 개별 축적된 가이드라인 간 기준 관계가 불명확해지고 적용 혼선이 발생할 수 있다는 문제에 대응해 상위 준거틀을 마련하는 데 의의가 있다. 초안은 3대 가치와 6대 원칙으로 구성됐다. 3대 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[바스리] AI가 먹을 데이터를 팝니다, 빅밸류",
+        "url": "https://byline.network/2026/05/bigvalue/",
+        "source": "ByLine Network",
+        "published": "2026-05-29T07:16:36+00:00",
+        "summary": "빅밸류는 이처럼 AI를 위한 데이터를 공급하는 회사다. 공공이나 민간에서 데이터를 수집해 AI와 에이전트가 바로 활용할 수 있는 형태로 공급한다. 회사 측은 스스로를 ‘데이터 테크 기업’이라고 정의한다.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,16 +276,136 @@
       {
         "category": "videos",
         "kind": "video",
+        "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
+        "url": "https://www.youtube.com/watch?v=4oq91rzQcO8",
+        "source": "All-In Podcast",
+        "published": "2026-05-29T22:47:49+00:00",
+        "summary": "(0:00) Bill Gurley joins the show!\n(6:00) Making yourself valuable in the age of AI, first class of \"AI Natives\"\n(17:37) Reacting to Pope Leo's AI encyclical: Who guards the guardians?\n(26:54) Anthropic's Digital God: Do they believe they are creating a superior species?\n(38:32) AI sovereignty, the ",
+        "thumbnail": "https://i1.ytimg.com/vi/4oq91rzQcO8/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "4oq91rzQcO8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI와 반도체 투자의 스토리라인이 완전히 달라졌다 (강정수 박사)",
+        "url": "https://www.youtube.com/watch?v=yrqvZVyF1H0",
+        "source": "티타임즈TV",
+        "published": "2026-05-29T22:00:01+00:00",
+        "summary": "AI와 반도체 시장의 스토리라인이 완전히 달라지고 있습니다. AI 에이전트의 등장으로 AI를 소비하고, AI를 통해 수익을 내는 구조가 완전히 바뀌면서 '소버린AI', 'AGI', '프롬프트 엔지니어링' 같은 단어들이 더 이상 미래를 설명하지 못하는 시대가 온 것인데요. AI 에이전트와 토큰 경제가 AI와 반도체 시장의 스토리라인을 어떻게 바꾸고 있는지, 그 속에서 어떤 기업들이 주목받고 있는지 강정수 박사와 함께 살펴봅니다.\n\n편집 : 이소민 영상디자이너, 박의정 영상디자이너\n촬영 : 장민주 PD\n자료 : 이재원 기자\n진행 : 이",
+        "thumbnail": "https://i2.ytimg.com/vi/yrqvZVyF1H0/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "yrqvZVyF1H0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+        "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+        "source": "Lex Fridman",
+        "published": "2026-05-29T16:18:31+00:00",
+        "summary": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep497-sb\nSee below for timestamps, and to give feedback, submit questions, contact Lex, etc.\n\n*CONT",
+        "thumbnail": "https://i2.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
+        "extras": {
+          "theme": "interview",
+          "videoId": "1M3Vdl6DRkU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Guess How Many Deep Sea Animals Are UNKNOWN",
+        "url": "https://www.youtube.com/shorts/MQwZdGiaPsw",
+        "source": "Cleo Abram",
+        "published": "2026-05-29T14:31:15+00:00",
+        "summary": "If you stuck a cup deep into the ocean and pulled up a sample of water you’d find all sorts of things: pieces of scales, poop, and other animal matter. In recent years, scientists have gotten really good at isolating and sequencing the DNA from these tiny leftovers. \n\nThis sort of detective work is ",
+        "thumbnail": "https://i2.ytimg.com/vi/MQwZdGiaPsw/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "MQwZdGiaPsw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Rule for Picking AI Winners | The a16z Show",
+        "url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
+        "source": "a16z",
+        "published": "2026-05-29T14:29:06+00:00",
+        "summary": "David George, General Partner at a16z, and David Clark, CIO at VenCap, discuss how AI is reshaping venture capital and the technology industry itself. They examine why today’s AI companies are scaling faster than any previous generation of startups, and why the eventual outcomes may be significantly",
+        "thumbnail": "https://i2.ytimg.com/vi/AiM9mZCmVPY/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "AiM9mZCmVPY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
+        "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
+        "source": "Y Combinator",
+        "published": "2026-05-29T12:30:27+00:00",
+        "summary": "Varun Vummadi is the co-founder of Giga, which builds AI agents for customer support for some of the biggest companies in the world, including DoorDash, one of the largest crypto exchanges in the US, and a top-three global telecom provider.\n\nAt Startup School India, Varun sat down YC General Partner",
+        "thumbnail": "https://i3.ytimg.com/vi/2Ap1dnv-GXA/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "2Ap1dnv-GXA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How index funds changed investing forever",
+        "url": "https://www.youtube.com/shorts/Hb95Vii6rp4",
+        "source": "Acquired",
+        "published": "2026-05-29T12:30:17+00:00",
+        "summary": "#business #podcast \n\n🎙 From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+        "thumbnail": "https://i1.ytimg.com/vi/Hb95Vii6rp4/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "Hb95Vii6rp4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Trump’s Republican Purge Might Backfire",
+        "url": "https://www.youtube.com/watch?v=I2T1fZ4rXqQ",
+        "source": "TLDR News Global",
+        "published": "2026-05-29T09:30:04+00:00",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nTrump-backed challengers have ousted incumbent Republicans Thomas Massie, John Cornyn, and Bill Cassidy, as part of a purge of lawmakers deemed insufficiently loyal to Donald Trump. But with tough midterm elections approaching, Trump",
+        "thumbnail": "https://i2.ytimg.com/vi/I2T1fZ4rXqQ/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "I2T1fZ4rXqQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
         "title": "Inference, Diffusion, World Models, and More | YC Paper Club",
         "url": "https://www.youtube.com/watch?v=wE1ZgJdt4uM",
         "source": "Y Combinator",
-        "published": "2026-05-28T20:37:13Z",
-        "summary": "Even if you're a current PhD student, it's hard to keep up with the latest AI research. That's why we started YC Paper Club, a small ...",
-        "thumbnail": "https://i.ytimg.com/vi/wE1ZgJdt4uM/mqdefault.jpg",
+        "published": "2026-05-28T20:37:13+00:00",
+        "summary": "Even if you’re a current PhD student, it's hard to keep up with the latest AI research. That's why we started YC Paper Club, a small group of researchers, engineers, and founders who will meet every two weeks this summer to present and discuss new papers together.\n\nThis was from our very first discu",
+        "thumbnail": "https://i4.ytimg.com/vi/wE1ZgJdt4uM/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "wE1ZgJdt4uM",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -301,126 +421,6 @@
           "theme": "analysis",
           "videoId": "8L14ufi8YI8",
           "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The First Nuclear Space Ship",
-        "url": "https://www.youtube.com/watch?v=NV8jFpd4INk",
-        "source": "Cleo Abram",
-        "published": "2026-05-28T14:25:46Z",
-        "summary": "NASA wants to split atoms in space to power a ship. Right now, we move spacecraft by burning fuel and shooting out the gas ...",
-        "thumbnail": "https://i.ytimg.com/vi/NV8jFpd4INk/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "NV8jFpd4INk",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "2026년 여름은 역사상 가장 뜨거운 해가 될 것인가",
-        "url": "https://www.youtube.com/watch?v=B7_VywdVC6U",
-        "source": "슈카월드",
-        "published": "2026-05-28T09:56:50+00:00",
-        "summary": "0:00 \"인도가 폭염 속에서 죽어가고 있다.\"\n6:53 슈퍼 울트라 엘니뇨가 온다.\n15:42 입어서 이기자",
-        "thumbnail": "https://i3.ytimg.com/vi/B7_VywdVC6U/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "B7_VywdVC6U",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Bolivia’s Protests Explained",
-        "url": "https://www.youtube.com/watch?v=dSptaTr62wM",
-        "source": "TLDR News Global",
-        "published": "2026-05-28T09:30:03+00:00",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nIn this video, we’re going to take a look at Bolivia’s political crisis, and how it might resolve.\n\n📰 Too Long: https://toolong.news/\n🎉 TLDR Party:  https://toolong.news/pages/tldr-party\n📖 Read our Manifesto: https://tldrnews.co.uk/m",
-        "thumbnail": "https://i1.ytimg.com/vi/dSptaTr62wM/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "dSptaTr62wM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "&#39;얼굴 바뀌지 않고 실제 사람처럼&#39; 마법의 주문 공개 (조선영 디자이너)",
-        "url": "https://www.youtube.com/watch?v=70cW9o7GKqI",
-        "source": "티타임즈TV",
-        "published": "2026-05-28T09:00:24Z",
-        "summary": "AI 이미지가 실물과 구분 어려울 정도로 진화한 지금, 현업 디자이너들은 어떤 노하우로 퀄리티를 높일까요? GPT 이미지2가 그렇게 ...",
-        "thumbnail": "https://i.ytimg.com/vi/70cW9o7GKqI/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "70cW9o7GKqI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How index funds were born",
-        "url": "https://www.youtube.com/watch?v=XPzO-9d7W1s",
-        "source": "Acquired",
-        "published": "2026-05-28T08:45:32Z",
-        "summary": "business #podcast From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/XPzO-9d7W1s/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "XPzO-9d7W1s",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "3 Reasons Why College Students Hate AI - David Friedberg",
-        "url": "https://www.youtube.com/shorts/14TQ7Ww5yKs",
-        "source": "All-In Podcast",
-        "published": "2026-05-27T16:00:32+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i2.ytimg.com/vi/14TQ7Ww5yKs/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "14TQ7Ww5yKs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "A WWI pilot&#39;s good luck charm became the Ferrari logo",
-        "url": "https://www.youtube.com/watch?v=gWPOpLc5Wus",
-        "source": "Acquired",
-        "published": "2026-05-27T15:20:17Z",
-        "summary": "business #podcast From Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/gWPOpLc5Wus/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "gWPOpLc5Wus",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Will The Universe Die?",
-        "url": "https://www.youtube.com/watch?v=mD9386aqzyI",
-        "source": "Cleo Abram",
-        "published": "2026-05-27T15:07:52Z",
-        "summary": "How will the universe die?? There's a big fight over the top three theories and this last one just got some brand new evidence…",
-        "thumbnail": "https://i.ytimg.com/vi/mD9386aqzyI/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "mD9386aqzyI",
-          "via": "api"
         }
       }
     ]
