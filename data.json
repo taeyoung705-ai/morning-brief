@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-05-31T03:39:04.523895+00:00",
+  "generated_at": "2026-06-01T03:54:08.750249+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Marles says only buying secondhand US subs will mean ‘significant’ Aukus savings; WA storm leaves thousands without power",
-        "url": "https://www.theguardian.com/australia-news/live/2026/may/31/clare-oneil-labor-tax-changes-richard-marles-shangri-la-dialogue-aukus-deal-politics-reactions-labor-coalition-tax-changes-housing-one-nation-ntwnfb",
+        "title": "Australia news live: Tony Abbott not ‘too excited’ by One Nation’s poll surge; Melbourne film festival hacked",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/01/australia-news-live-one-nation-labor-poll-free-public-transport-victoria-pauline-hanson-anthony-albanese",
         "source": "The Guardian World",
-        "published": "2026-05-31T03:33:11+00:00",
-        "summary": "Defence minister avoids directly blaming China for damage to undersea cables. Follow updates liveGet our breaking news email, free app or daily news podcastExtra negative gearing limits could hurt market and family budgets, Labor saysClare O’Neil has rejected calls from the Greens and others to put further limits on negative gearing access, saying the government should not interrupt “immediate arr",
+        "published": "2026-06-01T03:43:41+00:00",
+        "summary": "Liberal party president says Coalition still the ‘most credible’ alternative government. Follow today’s news liveGet our breaking news email, free app or daily news podcastTony Abbott, the new party president of the Liberals, said he wouldn’t get “too excited” by the poll showing One Nation’s surging support. But he told RN this morning he believes the country is in trouble and the Liberal/Nationa",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Emotional scenes as more survivors pulled from flooded Laos cave",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/aje-onl-nf_more-survivors-pulled-from-flooded-laos-cave-300526?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-31T02:22:29+00:00",
-        "summary": "Divers in Laos have rescued four more villagers trapped in a flooded cave. The first survivor was pulled out on Friday.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Hundreds arrested in France after wild Champions League celebrations",
-        "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+        "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
+        "url": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-31T02:04:18+00:00",
-        "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
+        "published": "2026-06-01T03:19:57+00:00",
+        "summary": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Rescues in eastern Syria after the Euphrates River bursts its banks",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/rescues-in-eastern-syria-after-the-euphrates-river-bursts-its-banks?traffic_source=rss",
+        "title": "Edgar Morin, ‘Grandfather’ of French Intellectuals, Dies at 104",
+        "url": "https://www.nytimes.com/2026/05/30/world/europe/edgar-morin-dead.html",
+        "source": "NYT World",
+        "published": "2026-06-01T03:10:01+00:00",
+        "summary": "A former member of the Resistance, he went on to a career spanning eras and disciplines. His books and pronouncements carried moral authority.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "US says ban on AI chip shipments applies to Chinese firms outside China",
+        "url": "https://www.aljazeera.com/economy/2026/6/1/us-says-ban-on-ai-chip-shipments-applies-to-chinese-firms-outside-china?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-05-31T00:27:27+00:00",
-        "summary": "Rescue workers have pulled stranded farmers from flood waters in eastern Syria after the Euphrates burst its banks.",
+        "published": "2026-06-01T03:01:29+00:00",
+        "summary": "Department of Commerce issues guidance on chip restrictions amid concerns about loopholes in export control regime.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
-        "url": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
+        "title": "Israel Captures Crusader Castle That Symbolized Its Long Lebanon Occupation",
+        "url": "https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html",
+        "source": "NYT World",
+        "published": "2026-06-01T02:39:35+00:00",
+        "summary": "The seizure of Beaufort in southern Lebanon called up bitter memories in both countries amid a widening Israeli conflict with Hezbollah that seems far from over.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Colombia Presidential Election Heads to a Runoff",
+        "url": "https://www.nytimes.com/2026/05/31/world/americas/colombia-election-president-candidates.html",
+        "source": "NYT World",
+        "published": "2026-06-01T01:57:20+00:00",
+        "summary": "The candidate forced a runoff on Sunday in what could herald another gain for the right-wing wave sweeping Latin America.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+        "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-31T00:11:56+00:00",
-        "summary": "Will Grant spoke to a 70-year-old widow who says the inability to use her building's elevator during a power outage trapped her and her husband when he needed medical care.",
+        "published": "2026-06-01T01:53:03+00:00",
+        "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-05-31T00:00:50+00:00",
-        "summary": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "The household battery revolution that could change energy bills … and the world",
-        "url": "https://www.theguardian.com/environment/ng-interactive/2026/may/31/cheaper-energy-bills-battery-revolution-climate-crisis",
-        "source": "The Guardian World",
-        "published": "2026-05-31T00:00:33+00:00",
-        "summary": "Australia is pioneering a revolution in home renewables and battery use, proving what is possible with the right policiesThe timing was rich with symbolism. As intense heatwaves pummelled Europe and Asia, and oil markets around the world leapt and sputtered, the two big chimneys of one of Australia’s largest power stations were being demolished. Meanwhile, the Australian energy minister was holdin",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "How Putin became master of the image",
-        "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss",
+        "title": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
+        "url": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-05-30T23:17:26+00:00",
-        "summary": "From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly reinvented his image, and himself.",
+        "published": "2026-06-01T01:32:07+00:00",
+        "summary": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-        "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+        "title": "Shift from a Leader-Follower to a Leader-Leader Approach",
+        "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
         "source": "Hacker News Front",
-        "published": "2026-05-30T23:26:13+00:00",
-        "summary": "Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)\nComments URL: https://news.ycombinator.com/item?id=48341578\nPoints: 504\n# Comments: 156",
+        "published": "2026-06-01T02:03:03+00:00",
+        "summary": "Article URL: https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a\nComments URL: https://news.ycombinator.com/item?id=48351858\nPoints: 27\n# Comments: 10",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Cheese Paper: a text editor specifically designed for writing",
-        "url": "https://brie.gay/cheese-paper/",
+        "title": "AMD’s new pitch: our old tech is so good you should just keep using it",
+        "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
+        "source": "The Verge",
+        "published": "2026-06-01T00:00:00+00:00",
+        "summary": "Computex 2026 is underway in Taiwan, and we're expecting all manner of flashy computers with jaw-dropping prices (or no prices at all) as the entire industry navigates RAMageddon. But for desktop PC gamers, AMD has a different pitch. It's relaunching three old components alongside a big new promise: you won't need to buy a new [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The QD-OLED gaming monitor that started it all got a big upgrade",
+        "url": "https://www.theverge.com/games/938956/alienware-computex-tandem-qd-oled-penta-rgb-stripe-gaming-monitors-specs",
+        "source": "The Verge",
+        "published": "2026-05-31T23:00:00+00:00",
+        "summary": "Alienware is taking to this year's Computex 2026 in Taipei to announce some cool gaming monitors, most notably two exciting OLED options that are coming at different points this year. First off, the company is debuting the successor to its very first QD-OLED gaming monitor from 2022 with a refreshed design and high-end specs that's [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor — with a temporary discount to $599",
+        "url": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price",
+        "source": "The Verge",
+        "published": "2026-05-31T23:00:00+00:00",
+        "summary": "Dell is making good on its tease from CES and finally announcing a new XPS 13. The XPS 13 returns as a budget-friendly option, launching in July at a promotional student price of $599 - though that introductory deal only runs until September for back-to-school shopping; it'll start at $699 for everyone else. The $599 [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Everyone Has Their Targets Set on the MacBook Neo",
+        "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
+        "source": "Wired",
+        "published": "2026-05-31T23:00:00+00:00",
+        "summary": "Dell, Microsoft, and others are unveiling new laptops to compete directly with the Neo, but not all are learning the right lessons from Apple.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Chuwi Minibook X: the netbook we deserve",
+        "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
         "source": "Hacker News Front",
-        "published": "2026-05-30T22:58:41+00:00",
-        "summary": "Article URL: https://brie.gay/cheese-paper/\nComments URL: https://news.ycombinator.com/item?id=48341407\nPoints: 63\n# Comments: 12",
+        "published": "2026-05-31T22:59:50+00:00",
+        "summary": "Article URL: https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/\nComments URL: https://news.ycombinator.com/item?id=48350598\nPoints: 110\n# Comments: 102",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Shantell Sans (2023)",
-        "url": "https://shantellsans.com/process",
+        "title": "It's Not Just X. It's Y",
+        "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
         "source": "Hacker News Front",
-        "published": "2026-05-30T22:06:38+00:00",
-        "summary": "Article URL: https://shantellsans.com/process\nComments URL: https://news.ycombinator.com/item?id=48341062\nPoints: 118\n# Comments: 12",
+        "published": "2026-05-31T21:57:48+00:00",
+        "summary": "Article URL: https://mail.cyberneticforests.com/its-not-just-data-its-post-training/\nComments URL: https://news.ycombinator.com/item?id=48350149\nPoints: 128\n# Comments: 94",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The AV2 Video Standard Has Released (Final v1.0 Specification)",
-        "url": "https://av2.aomedia.org",
-        "source": "Hacker News Front",
-        "published": "2026-05-30T21:46:18+00:00",
-        "summary": "Article URL: https://av2.aomedia.org\nComments URL: https://news.ycombinator.com/item?id=48340910\nPoints: 49\n# Comments: 2",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-        "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-        "source": "TechCrunch",
-        "published": "2026-05-30T21:45:00+00:00",
-        "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "This weekend’s two biggest movies were both directed by YouTubers",
-        "url": "https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/",
-        "source": "TechCrunch",
-        "published": "2026-05-30T21:12:37+00:00",
-        "summary": "The YouTube-to-prestige-horror pipeline is looking very strong.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Rotary GPU: Exploring Local Execution for Large MoE Models Under Limited VRAM",
-        "url": "https://arxiv.org/abs/2605.29135",
-        "source": "Hacker News Front",
-        "published": "2026-05-30T21:05:40+00:00",
-        "summary": "Article URL: https://arxiv.org/abs/2605.29135\nComments URL: https://news.ycombinator.com/item?id=48340616\nPoints: 24\n# Comments: 4",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Design Engineering Magazine",
-        "url": "https://interfaces.dev/",
-        "source": "Hacker News Front",
-        "published": "2026-05-30T20:46:54+00:00",
-        "summary": "Article URL: https://interfaces.dev/\nComments URL: https://news.ycombinator.com/item?id=48340448\nPoints: 66\n# Comments: 6",
+        "title": "Apple’s strategy for smart glasses is the same as smart watches",
+        "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
+        "source": "The Verge",
+        "published": "2026-05-31T21:33:11+00:00",
+        "summary": "Apple isn't just looking to take on Meta in the smart glasses market; it's looking to upend eyewear as a whole, according to Bloomberg's Mark Gurman. When the Apple Watch launched, it wasn't simply competing against the Pebbles and the Motorolas of the world. The company also had Swatch, Fossil, and Seiko in its crosshairs. [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,153 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "개발은 AI에 맡기고 사람은 네트워킹하는 해커톤, 해시드 OBA Run",
-        "url": "https://byline.network/2026/05/0530-3/",
-        "source": "ByLine Network",
-        "published": "2026-05-30T15:50:01+00:00",
-        "summary": "김서준 해시드 대표는 30일 경기도 용인시 카카오 AI 캠퍼스에서 열린 국내 오픈 API·오픈소스 개발자를 위한 주말 해커톤 'OBA(오픈 빌더스 얼라이언스) Run'에서 국내 API 생태계 확대의 필요성을 강조했다. 김 대표는 활용 가능한 국내 API가 많지 않아 대부분의 해커톤이 해외 IT 인프라를 기반으로 진행되고 있다고 설명했다. 이어 생성형 인공지능(AI) 기반 개발 방식인 바이브코딩 시대를 맞아 국내 서비스와 연결된 개방형 생태계를 조성하기 위해 이번 행사를 마련했다고 밝혔다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: Anthropic Dominates In An Otherwise Slower Week For Megarounds",
-        "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-ai-anthropic-65b-dominates/",
-        "source": "Crunchbase News",
-        "published": "2026-05-29T19:15:09+00:00",
-        "summary": "Venture funding has always been a world of haves and have nots. And these days, the haves are having more than ever. Case in point this week was generative AI giant Anthropic's $65 billion Series H funding, followed by a billion-dollar funding for an AI software developer.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Will Europe’s VCs catch up to the influencer craze?",
-        "url": "https://sifted.eu/articles/will-europes-vcs-catch-up-to-the-influencer-craze/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-29T11:30:02+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "They Saw Women Shut Out Of VC, So A PayPal Veteran And Former Navy Officer Built An Alternative",
-        "url": "https://news.crunchbase.com/diversity/venture-women-owned-startup-funding-aequitas-invest/",
-        "source": "Crunchbase News",
-        "published": "2026-05-29T11:00:59+00:00",
-        "summary": "Co-founded by Molly Huyck and Amie Konwinski, Aequitas Invest's funding portal provides women-led businesses a way to raise capital. Crunchbase News recently spoke to the founders to learn more about their plans to help female entrepreneurs raise and hold on to more equity.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Navigating The DPI Crunch And Startup Funding",
-        "url": "https://news.crunchbase.com/venture/dpi-crunch-startup-funding-schroder-mgv/",
-        "source": "Crunchbase News",
-        "published": "2026-05-29T11:00:53+00:00",
-        "summary": "Founders should evaluate investors’ financial health as carefully as their market thesis, writes guest author Marc Schröder, who emphasizes they should also prepare for acquisition-focused exits since venture-backed M&#038;A far outweighs IPO activity in the current market.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "AI 악용 사이버위협 ‘비상’…정부, 민관 합동 대응 본격 추진",
-        "url": "https://byline.network/2026/05/29-508/",
-        "source": "ByLine Network",
-        "published": "2026-05-29T09:54:43+00:00",
-        "summary": "정부가 앤트로픽 미토스 같은 고성능 인공지능(AI)을 악용한 사이버위협에 대응하기 위한 본격 행보에 나섰다. 과학기술정보통신부는 29일 열린 제9회 과학기술관계장관회의에서 ‘AI 기반 사이버위협에 대응하기 위한 민간 정보보호 추진계획(안)’을 발표했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Rewriting the M&A playbook: Inside Visma’s acquisition strategy",
-        "url": "https://sifted.eu/articles/inside-vismas-acquisition-strategy-brnd/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-05-29T09:13:12+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "인공지능 윤리원칙 초안 공개…3대 가치·6대 원칙 제시",
-        "url": "https://platum.kr/archives/287961?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b8%25ea%25b3%25b5%25ec%25a7%2580%25eb%258a%25a5-%25ec%259c%25a4%25eb%25a6%25ac%25ec%259b%2590%25ec%25b9%2599-%25ec%25b4%2588%25ec%2595%2588-%25ea%25b3%25b5%25ea%25b0%259c3%25eb%258c%2580-%25ea%25b0%2580%25ec%25b9%2598%25c2%25b76%25eb%258c%2580-%25ec%259b%2590%25ec%25b9%2599-%25ec%25a0%259c",
+        "title": "코스포 ‘더 피치 인 부산’, 동남권 스타트업 8개사 투자무대 올랐다",
+        "url": "https://platum.kr/archives/288079?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bd%2594%25ec%258a%25a4%25ed%258f%25ac-%25eb%258d%2594-%25ed%2594%25bc%25ec%25b9%2598-%25ec%259d%25b8-%25eb%25b6%2580%25ec%2582%25b0-%25eb%258f%2599%25eb%2582%25a8%25ea%25b6%258c-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-8%25ea%25b0%259c%25ec%2582%25ac-%25ed%2588%25ac%25ec%259e%2590",
         "source": "Platum",
-        "published": "2026-05-29T08:37:12+00:00",
-        "summary": "과학기술정보통신부가 정보통신정책연구원(KISDI)과 함께 인공지능(AI) 윤리원칙 초안을 마련하고 29일부터 공개 의견수렴에 들어간다. 이번 초안은 2020년 범정부 &#8216;AI 윤리기준&#8217;을 계승하면서 AI기본법 시행과 최근 기술·사회 환경 변화를 반영해 재정립한 것이다. 부처·기관별로 개별 축적된 가이드라인 간 기준 관계가 불명확해지고 적용 혼선이 발생할 수 있다는 문제에 대응해 상위 준거틀을 마련하는 데 의의가 있다. 초안은 3대 가치와 6대 원칙으로 구성됐다. 3대 ... 더 읽기",
+        "published": "2026-06-01T02:39:58+00:00",
+        "summary": "코리아스타트업포럼(이하 코스포)이 지난달 29일 부산 영도구 복합문화공간 블루포트 2021에서 초기 스타트업을 위한 투자설명회(IR) 프로그램 &#8216;The PITCH in Busan(더 피치 인 부산)&#8217;을 개최했다. 더 피치 인 부산은 아산나눔재단 후원으로 진행됐다. 동남권 소재 스타트업에 실전 IR 기회와 투자자 연계를 제공하고, 창업가와 생태계 전문가 간 교류를 활성화하기 위해 기획됐다. 참가 모집은 동남권 소재 스타트업을 대상으로 진행됐으며, 사전 심사를 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "이노버스, 25억 원 규모 프리A 투자 유치… 회수·선별에 집중",
+        "url": "https://platum.kr/archives/288076?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4%25eb%2585%25b8%25eb%25b2%2584%25ec%258a%25a4-25%25ec%2596%25b5-%25ec%259b%2590-%25ea%25b7%259c%25eb%25aa%25a8-%25ed%2594%2584%25eb%25a6%25aca-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598-%25ed%259a%258c%25ec%2588%2598%25c2%25b7%25ec%2584%25a0%25eb%25b3%2584%25ec%2597%2590",
+        "source": "Platum",
+        "published": "2026-06-01T02:37:16+00:00",
+        "summary": "AI 기반 무인 자원회수 솔루션 기업 이노버스가 25억 원 규모의 프리A(Pre-A) 라운드 투자 유치를 했다. 이노버스는 이번 투자금을 무인회수기 양산과 수도권 회수망 확대, 순도 99% 수준의 초고순도 PET 선별 인프라 고도화에 투입할 계획이다. 회사는 가공·재활용까지 직접 수행하는 수직 통합 모델 대신 자원순환 밸류체인의 앞단인 &#8216;회수-선별&#8217; 단계에 역량을 집중하는 전략을 택했다. 이노버스는 현재 순도 99% 수준의 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "데브디, SJ투자파트너스로부터 프리A 투자 유치",
+        "url": "https://platum.kr/archives/288073?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258d%25b0%25eb%25b8%258c%25eb%2594%2594-sj%25ed%2588%25ac%25ec%259e%2590%25ed%258c%258c%25ed%258a%25b8%25eb%2584%2588%25ec%258a%25a4%25eb%25a1%259c%25eb%25b6%2580%25ed%2584%25b0-%25ed%2594%2584%25eb%25a6%25aca-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598",
+        "source": "Platum",
+        "published": "2026-06-01T02:35:19+00:00",
+        "summary": "월세 카드결제 서비스 &#8216;집업페이&#8217;를 운영하는 핀테크 기업 데브디가 SJ투자파트너스로부터 프리A(Pre-A) 투자를 유치했다. 구체적인 투자 조건은 비공개다. 집업페이는 임차인이 임대인의 별도 동의 없이도 월세를 신용카드로 납부할 수 있도록 한 서비스다. 임차인이 임대차계약서를 앱에 업로드하면 플랫폼이 계약 내용을 자동 검증한 뒤 카드 결제 금액을 집주인 계좌로 직접 송금하는 구조다. 네이버페이·카카오페이 등 간편결제와 포인트 결제도 지원한다. 데브디에 따르면 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "화해, 국내외 합산 MAU 200만 돌파… 글로벌 웹이 국내 첫 추월",
+        "url": "https://platum.kr/archives/288060?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%2594%25ed%2595%25b4-%25ea%25b5%25ad%25eb%2582%25b4%25ec%2599%25b8-%25ed%2595%25a9%25ec%2582%25b0-mau-200%25eb%25a7%258c-%25eb%258f%258c%25ed%258c%258c-%25ea%25b8%2580%25eb%25a1%259c%25eb%25b2%258c-%25ec%259b%25b9%25ec%259d%25b4-%25ea%25b5%25ad%25eb%2582%25b4-%25ec%25b2%25ab-%25ec%25b6%2594",
+        "source": "Platum",
+        "published": "2026-06-01T02:12:25+00:00",
+        "summary": "뷰티 플랫폼 화해를 운영하는 화해글로벌이 국내 앱·웹과 글로벌 웹을 합산한 월간 활성 이용자 수(MAU)가 200만 명을 돌파했다. 지난 3월 기준 글로벌 웹 MAU는 전년 동기 대비 800% 이상 증가한 120만 명으로, 합산 MAU 200만 명 달성을 이끌었다. 글로벌 웹 MAU가 국내 앱·웹 MAU를 처음으로 넘어선 것으로, 회사는 K뷰티에 대한 해외 수요가 국내 시장 규모 이상으로 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "씨엔티테크, AI 기반 인증 중고타이어 플랫폼 ‘타이어플라이’에 투자",
+        "url": "https://platum.kr/archives/288057?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2594%25a8%25ec%2597%2594%25ed%258b%25b0%25ed%2585%258c%25ed%2581%25ac-ai-%25ea%25b8%25b0%25eb%25b0%2598-%25ec%259d%25b8%25ec%25a6%259d-%25ec%25a4%2591%25ea%25b3%25a0%25ed%2583%2580%25ec%259d%25b4%25ec%2596%25b4-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-%25ed%2583%2580%25ec%259d%25b4%25ec%2596%25b4%25ed%2594%258c",
+        "source": "Platum",
+        "published": "2026-06-01T02:10:17+00:00",
+        "summary": "투자 전문 액셀러레이터 씨엔티테크가 씨엔티테크 제22호 투자조합을 통해 AI 기반 인증 중고타이어 유통 및 방문 장착 플랫폼 기업 타이어플라이에 투자했다고 밝혔다. 투자 금액은 비공개다. 타이어플라이는 AI 정밀 스캔 기술로 중고타이어의 상태를 분석하고 등급과 가격을 표준화하는 &#8216;Re:tire&#8217; 서비스와 전국 방문 장착·관리 서비스 &#8216;TireFly&#8217;를 운영하는 모빌리티·리커머스 스타트업이다. 중고타이어 시장은 연간 약 200만 본 규모의 교체 수요가 발생하지만, ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "컬리, AI 솔루션 기업 ‘원지랩스’ 지분 100% 인수",
+        "url": "https://platum.kr/archives/288051?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bb%25ac%25eb%25a6%25ac-ai-%25ec%2586%2594%25eb%25a3%25a8%25ec%2585%2598-%25ea%25b8%25b0%25ec%2597%2585-%25ec%259b%2590%25ec%25a7%2580%25eb%259e%25a9%25ec%258a%25a4-%25ec%25a7%2580%25eb%25b6%2584-100-%25ec%259d%25b8%25ec%2588%2598",
+        "source": "Platum",
+        "published": "2026-06-01T02:07:26+00:00",
+        "summary": "컬리가 AI 솔루션 전문 기업 &#8216;원지랩스(1Z LABS)&#8217;를 인수하고 AI 전환(AX·AI Transformation)에 나선다. 컬리는 AI 기술 기반 사업 경쟁력 강화와 경영 효율성 제고 등을 위해 원지랩스와 소규모 주식교환을 결정했다고 1일 공시했다. 컬리와 원지랩스의 주식교환비율(보통주)은 1대 1.8437990으로, 컬리는 주식교환을 위해 보통주 45만 3518주를 신규 발행한다. 교환일은 오는 8월 4일이며, 이후 원지랩스는 컬리의 완전자회사로 편입된다. 컬리는 전사적 AX ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "5월 스타트업 투자 3.6조 원… 3개월 연속 월 1조 원 넘었다",
+        "url": "https://platum.kr/archives/288048?utm_source=rss&utm_medium=rss&utm_campaign=5%25ec%259b%2594-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ed%2588%25ac%25ec%259e%2590-3-6%25ec%25a1%25b0-%25ec%259b%2590-3%25ea%25b0%259c%25ec%259b%2594-%25ec%2597%25b0%25ec%2586%258d-%25ec%259b%2594-1%25ec%25a1%25b0-%25ec%259b%2590-%25eb%2584%2598%25ec%2597%2588%25eb%258b%25a4",
+        "source": "Platum",
+        "published": "2026-06-01T02:00:45+00:00",
+        "summary": "5월 국내 스타트업·중소기업 투자가 3조 6355억 원을 기록하며 3개월 연속 월간 1조 원을 넘어섰다. 2022년 투자 시장 침체가 본격화된 이후 처음이다. 스타트업 자본시장 데이터베이스 기업 더브이씨(The VC)가 공개한 2026년 5월 투자 통계에 따르면, 5월 한 달간 투자는 85건, 3조 6355억 원으로 집계됐다. 두나무의 대형 구주인수(2조 2160억 원)를 제외한 투자 금액도 1조 4195억 원으로 올해 월간 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "온리마음, 고령자 인지저하 예방 통합돌봄 솔루션 ‘리콜미’ 출시",
+        "url": "https://platum.kr/archives/288045?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a8%25eb%25a6%25ac%25eb%25a7%2588%25ec%259d%258c-%25ea%25b3%25a0%25eb%25a0%25b9%25ec%259e%2590-%25ec%259d%25b8%25ec%25a7%2580%25ec%25a0%2580%25ed%2595%2598-%25ec%2598%2588%25eb%25b0%25a9-%25ed%2586%25b5%25ed%2595%25a9%25eb%258f%258c%25eb%25b4%2584-%25ec%2586%2594%25eb%25a3%25a8%25ec%2585%2598-%25eb%25a6%25ac",
+        "source": "Platum",
+        "published": "2026-06-01T01:55:34+00:00",
+        "summary": "온리마음이 고령자의 인지저하 예방과 일상 건강관리를 지원하는 통합돌봄 솔루션 &#8216;리콜미(RecallMe)&#8217;를 공식 출시했다. 리콜미는 디지털 기술 기반의 맞춤형 건강관리 서비스로 고령자의 인지 건강 증진과 돌봄 공백 해소를 목표로 한다. 온리마음은 초고령사회 진입에 따라 늘어나는 인지건강 관리 수요와 지역사회 기반 돌봄 서비스의 필요성에 주목해 리콜미를 개발했다고 설명했다. 디지털 접근성을 고려한 사용자 친화적 인터페이스를 적용해 고령층도 쉽게 사용할 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "By 1996 Vanguard's index funds forced the entire industry to follow",
+        "url": "https://www.youtube.com/shorts/j3mAgvy2Sjo",
+        "source": "Acquired",
+        "published": "2026-05-31T18:54:34+00:00",
+        "summary": "#business #podcast \n\n🎙 From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+        "thumbnail": "https://i3.ytimg.com/vi/j3mAgvy2Sjo/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "j3mAgvy2Sjo",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why So Many Tornadoes Happen HERE",
+        "url": "https://www.youtube.com/shorts/ZyB1i6Y9_m4",
+        "source": "Cleo Abram",
+        "published": "2026-05-31T15:12:37+00:00",
+        "summary": "Why are there more tornadoes in the United States than anywhere else in the world? BY A LOT.\n\nThe United States sees well over 1000 tornadoes every year. That’s more than Australia, Canada, and every single European country combined. Most of them occur in one specific area in the central US. It’s ca",
+        "thumbnail": "https://i3.ytimg.com/vi/ZyB1i6Y9_m4/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "ZyB1i6Y9_m4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Billionaires Impressed By New College Grads Being AI Natives: They Are Totally Cracked",
+        "url": "https://www.youtube.com/shorts/LtF6vT7l5ac",
+        "source": "All-In Podcast",
+        "published": "2026-05-31T14:00:08+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i1.ytimg.com/vi/LtF6vT7l5ac/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "LtF6vT7l5ac",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "리크루터에게만 750억원을 지급한 미국의 AI 리크루팅 플랫폼 | Paraform John Kim",
+        "url": "https://www.youtube.com/watch?v=vIiLBV-JoVg",
+        "source": "EO 이오",
+        "published": "2026-05-31T05:03:56+00:00",
+        "summary": "AI시대에 역설적으로 리크루터의 가치에 집중하는 방식으로 채용 시장을 장악하고 있는 Paraform의 창업자 John Kim의 인터뷰입니다.\n\n대학교를 중퇴하고, 비자가 거부당하는 고난 속에서 결국 2026년 전년도 대비 매출을 10배 이상 성장시킨 만 26세의 젊은 CEO의 인사이트를 물어보았습니다. \n\n\n00:00 인트로\n00:55 인간에게 5,000만 달러를 지급하는 AI 스타트업\n01:23 인생에서 진정으로 중요한 것이 무엇인지 찾는 법\n02:10 모든 것을 바꿔놓은 병원 방문\n03:00 3년이라는 타임라인을 가지고 살아가기",
+        "thumbnail": "https://i3.ytimg.com/vi/vIiLBV-JoVg/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "vIiLBV-JoVg",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -336,21 +396,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?",
-        "url": "https://www.youtube.com/watch?v=4oq91rzQcO8",
-        "source": "All-In Podcast",
-        "published": "2026-05-29T22:47:49+00:00",
-        "summary": "(0:00) Bill Gurley joins the show!\n(6:00) Making yourself valuable in the age of AI, first class of \"AI Natives\"\n(17:37) Reacting to Pope Leo's AI encyclical: Who guards the guardians?\n(26:54) Anthropic's Digital God: Do they believe they are creating a superior species?\n(38:32) AI sovereignty, the ",
-        "thumbnail": "https://i1.ytimg.com/vi/4oq91rzQcO8/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "4oq91rzQcO8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "AI와 반도체 투자의 스토리라인이 완전히 달라졌다 (강정수 박사)",
         "url": "https://www.youtube.com/watch?v=yrqvZVyF1H0",
         "source": "티타임즈TV",
@@ -375,51 +420,6 @@
         "extras": {
           "theme": "interview",
           "videoId": "1M3Vdl6DRkU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Guess How Many Deep Sea Animals Are UNKNOWN",
-        "url": "https://www.youtube.com/shorts/MQwZdGiaPsw",
-        "source": "Cleo Abram",
-        "published": "2026-05-29T14:31:15+00:00",
-        "summary": "If you stuck a cup deep into the ocean and pulled up a sample of water you’d find all sorts of things: pieces of scales, poop, and other animal matter. In recent years, scientists have gotten really good at isolating and sequencing the DNA from these tiny leftovers. \n\nThis sort of detective work is ",
-        "thumbnail": "https://i2.ytimg.com/vi/MQwZdGiaPsw/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "MQwZdGiaPsw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The New Rule for Picking AI Winners | The a16z Show",
-        "url": "https://www.youtube.com/watch?v=AiM9mZCmVPY",
-        "source": "a16z",
-        "published": "2026-05-29T14:29:06+00:00",
-        "summary": "David George, General Partner at a16z, and David Clark, CIO at VenCap, discuss how AI is reshaping venture capital and the technology industry itself. They examine why today’s AI companies are scaling faster than any previous generation of startups, and why the eventual outcomes may be significantly",
-        "thumbnail": "https://i2.ytimg.com/vi/AiM9mZCmVPY/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "AiM9mZCmVPY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Two IIT Engineers Turned Down $550K Jobs To Build A Startup",
-        "url": "https://www.youtube.com/watch?v=2Ap1dnv-GXA",
-        "source": "Y Combinator",
-        "published": "2026-05-29T12:30:27+00:00",
-        "summary": "Varun Vummadi is the co-founder of Giga, which builds AI agents for customer support for some of the biggest companies in the world, including DoorDash, one of the largest crypto exchanges in the US, and a top-three global telecom provider.\n\nAt Startup School India, Varun sat down YC General Partner",
-        "thumbnail": "https://i3.ytimg.com/vi/2Ap1dnv-GXA/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "2Ap1dnv-GXA",
           "via": "rss"
         }
       }
