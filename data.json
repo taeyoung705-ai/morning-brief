@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-02T03:46:32.581079+00:00",
+  "generated_at": "2026-06-03T03:56:22.242908+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Massive Russian attack on cities across Ukraine kills at least nine people",
-        "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+        "title": "Australia politics live: PM pushes back at attacks on tax changes saying millions have ‘never even heard of a discretionary trust’",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-06-03T03:52:35+00:00",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastChaney said: AI companies should be able to unlock the majority of global content with a handful of individual deals – in the same way that every other industry licenses copyrighted content.Government could further work to facilitate this process for the remainder of the copyrighted content, either directly or throu",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-06-02T03:40:38+00:00",
-        "summary": "Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble.",
+        "published": "2026-06-03T03:40:53+00:00",
+        "summary": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Live Updates: Israel and Iran Step Back From Threats After Day of Tension",
-        "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
-        "source": "NYT World",
-        "published": "2026-06-02T03:40:36+00:00",
-        "summary": "President Trump wrote on social media that Israel and Hezbollah had “agreed” not to attack each other. Prime Minister Benjamin Netanyahu later distanced himself from talks of a cease-fire in Lebanon.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia politics live: One Nation MP sworn in; parliament to sit late as government pushes tax change bill",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-02T03:34:12+00:00",
-        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastThe foreign minister, Penny Wong, has announced new sanctions by the commonwealth over three Israeli individuals and four entities in response to “escalating settler violence against Palestinians in the West Bank”.The entities will receive targeted financial sanctions while the individuals will receive travel bans t",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Deadly air raids across Ukraine after warnings of Russian strike wave",
-        "url": "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv",
-        "source": "The Guardian World",
-        "published": "2026-06-02T03:24:16+00:00",
-        "summary": "Kyiv, Dnipro and Kharkiv hit, with apartment buildings among the targets according to officials, after president said intelligence predicted ‘massive strike’ Russian air raids on major Ukrainian centres including Kyiv, Dnipro and Kharkiv killed at least five people and wounded dozens by early morning on Tuesday, authorities said.Four people were killed and 16 injured in a Russian attack on Dnipro,",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Victorian minister under fire for writing 33 character references including for taxi driver who assaulted women",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/02/victorian-minister-under-fire-for-writing-33-character-references-including-for-taxi-driver-who-assaulted-women-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-02T03:12:27+00:00",
-        "summary": "Labor’s Luba Grigorovitch says she regrets six of the character references and vows never to write anotherFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastNewly promoted Victorian government minister Luba Grigorovitch says she will never write another character reference after revealing she regrets six she has penned, including one fo",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Woman assaulted by Dutch police at asylum centre speaks to Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/2/woman-assaulted-by-dutch-police-at-asylum-centre-speaks-to-al-jazeera?traffic_source=rss",
+        "title": "Rebecca Bennett wins New Jersey Democratic primary, to face Trump ally Kean",
+        "url": "https://www.aljazeera.com/news/2026/6/3/rebecca-bennett-wins-new-jersey-democratic-primary-to-face-trump-ally-kean?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-02T03:07:55+00:00",
-        "summary": "Malak Mahmoud, the pregnant woman filmed being thrown to the ground by a Dutch police officer has spoken to Al Jazeera.",
+        "published": "2026-06-03T03:36:11+00:00",
+        "summary": "Democrats pick former Navy commander to challenge Republican Tom Kean in New Jersey&#039;s 7th District.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump Finds High-Wire Iran Negotiations ‘Very Boring’",
-        "url": "https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html",
-        "source": "NYT World",
-        "published": "2026-06-02T02:36:11+00:00",
-        "summary": "President Trump told CNBC that he “couldn’t care less” if the negotiations with Iran break down.",
+        "title": "Benjamin Netanyahu faces Israeli backlash over Lebanon strategy",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/benjamin-netanyahu-faces-israeli-backlash-over-lebanon-strategy?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-03T03:15:34+00:00",
+        "summary": "Hawkish voices in Israel have accused Prime Minister Benjamin Netanyahu of holding back on bombing Beirut.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump Stands to Gain a Key Ally in Colombia’s Upcoming Election",
-        "url": "https://www.nytimes.com/2026/06/01/world/americas/trump-colombia-election-abelardo-de-la-espriella.html",
+        "title": "Murder of Henry Nowak, Who Was Handcuffed by Police While Dying, Fuels Outrage in UK",
+        "url": "https://www.nytimes.com/2026/06/02/world/europe/henry-nowak-murder-uk-stabbing.html",
         "source": "NYT World",
-        "published": "2026-06-02T02:27:29+00:00",
-        "summary": "Abelardo De La Espriella, a hard-line candidate on the right facing a left-wing rival in a presidential runoff, has pledged to crush drug traffickers.",
+        "published": "2026-06-03T03:13:09+00:00",
+        "summary": "The authorities in Britain are investigating police officers who handcuffed a student, Henry Nowak, while he was dying, in a case that been increasingly politicized.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran War Live Updates: Iran Targets Neighbors as U.S. Condemns ‘Aggressive’ Strikes",
+        "url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
+        "source": "NYT World",
+        "published": "2026-06-03T03:07:51+00:00",
+        "summary": "Iran aimed at Bahrain and Kuwait, but the attacks were shot down or failed, the U.S. military said. The U.S. launched what it called “self-defense” strikes in Iran.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Sydney academic used AI to write SMH opinion piece urging students to avoid using tech to ‘cut corners’",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/03/sydney-academic-used-ai-opinion-piece-urging-students-to-avoid-using-it-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-06-03T03:06:28+00:00",
+        "summary": "Sydney Morning Herald removes piece by Cath Ellis, despite Western Sydney University saying her use of AI was ‘appropriate’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA top Sydney academic used AI to write an opinion piece that urged students to “do the work” and not cut corners by using such technology, with the Sydney Morning H",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump Endorses Abelardo De La Espriella, Right-Wing Presidential Candidate in Colombia",
+        "url": "https://www.nytimes.com/2026/06/02/world/americas/trump-endorses-colombia-de-la-espriella.html",
+        "source": "NYT World",
+        "published": "2026-06-03T03:01:10+00:00",
+        "summary": "Mr. Trump said that the candidate, Abelardo De La Espriella, was important for the U.S.-Colombia relationship and called his left-wing rival a “Radical Left Marxist.”",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box",
-        "url": "https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/",
+        "title": "The American Missile Crisis",
+        "url": "https://research.contrary.com/report/the-american-missile-crisis",
         "source": "Hacker News Front",
-        "published": "2026-06-02T02:28:24+00:00",
-        "summary": "Article URL: https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/\nComments URL: https://news.ycombinator.com/item?id=48365237\nPoints: 18\n# Comments: 11",
+        "published": "2026-06-03T03:30:50+00:00",
+        "summary": "Article URL: https://research.contrary.com/report/the-american-missile-crisis\nComments URL: https://news.ycombinator.com/item?id=48379551\nPoints: 4\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "macOS needs its grid back",
-        "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+        "title": "HHS is overriding peer review to require changes to research scope, design",
+        "url": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
         "source": "Hacker News Front",
-        "published": "2026-06-02T01:28:34+00:00",
-        "summary": "Article URL: https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/\nComments URL: https://news.ycombinator.com/item?id=48364800\nPoints: 75\n# Comments: 40",
+        "published": "2026-06-03T03:07:48+00:00",
+        "summary": "Article URL: https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants\nComments URL: https://news.ycombinator.com/item?id=48379434\nPoints: 3\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Crystal Nights (2008)",
-        "url": "https://www.gregegan.net/MISC/CRYSTAL/Crystal.html",
+        "title": "Agentic Mfw",
+        "url": "https://agenticmotherfucking.website",
         "source": "Hacker News Front",
-        "published": "2026-06-02T01:22:42+00:00",
-        "summary": "Article URL: https://www.gregegan.net/MISC/CRYSTAL/Crystal.html\nComments URL: https://news.ycombinator.com/item?id=48364754\nPoints: 15\n# Comments: 2",
+        "published": "2026-06-03T02:32:48+00:00",
+        "summary": "Article URL: https://agenticmotherfucking.website\nComments URL: https://news.ycombinator.com/item?id=48379203\nPoints: 26\n# Comments: 11",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "How is Groq raising more money?",
-        "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+        "title": "Can A.I. produce writing that we want to read?",
+        "url": "https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read",
         "source": "Hacker News Front",
-        "published": "2026-06-02T01:05:29+00:00",
-        "summary": "Article URL: https://www.zach.be/p/how-the-hell-is-groq-raising-more\nComments URL: https://news.ycombinator.com/item?id=48364620\nPoints: 34\n# Comments: 17",
+        "published": "2026-06-03T02:08:29+00:00",
+        "summary": "Article URL: https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read\nComments URL: https://news.ycombinator.com/item?id=48378995\nPoints: 10\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Book Dedications",
-        "url": "https://walzr.com/dedications",
+        "title": "Capstone – multi-platform, multi-architecture disassembly framework",
+        "url": "https://www.capstone-engine.org/",
         "source": "Hacker News Front",
-        "published": "2026-06-02T00:36:03+00:00",
-        "summary": "Article URL: https://walzr.com/dedications\nComments URL: https://news.ycombinator.com/item?id=48364379\nPoints: 11\n# Comments: 1",
+        "published": "2026-06-03T01:59:46+00:00",
+        "summary": "Article URL: https://www.capstone-engine.org/\nComments URL: https://news.ycombinator.com/item?id=48378925\nPoints: 16\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+        "title": "Roku LT Operating System open source distribution",
+        "url": "https://blog.roku.com/developer/roku-lt-os",
         "source": "Hacker News Front",
-        "published": "2026-06-01T23:45:46+00:00",
-        "summary": "https://archive.ph/nKEVw\n\nComments URL: https://news.ycombinator.com/item?id=48364055\nPoints: 128\n# Comments: 281",
+        "published": "2026-06-03T01:13:38+00:00",
+        "summary": "Article URL: https://blog.roku.com/developer/roku-lt-os\nComments URL: https://news.ycombinator.com/item?id=48378495\nPoints: 28\n# Comments: 10",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Frame Problem (2004)",
-        "url": "https://plato.stanford.edu/entries/frame-problem/",
+        "title": "AI outperforms law professors in Stanford Law study",
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
         "source": "Hacker News Front",
-        "published": "2026-06-01T23:25:39+00:00",
-        "summary": "Article URL: https://plato.stanford.edu/entries/frame-problem/\nComments URL: https://news.ycombinator.com/item?id=48363903\nPoints: 18\n# Comments: 4",
+        "published": "2026-06-02T23:43:12+00:00",
+        "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_...\n\nComments URL: https://news.ycombinator.com/item?id=48377761\nPoints: 129\n# Comments: 120",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Age verification for social media, the beginning of the end for a free internet?",
-        "url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
-        "source": "Hacker News Front",
-        "published": "2026-06-01T23:22:28+00:00",
-        "summary": "Article URL: https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet\nComments URL: https://news.ycombinator.com/item?id=48363882\nPoints: 126\n# Comments: 68",
+        "title": "Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis",
+        "url": "https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/",
+        "source": "TechCrunch",
+        "published": "2026-06-02T23:25:20+00:00",
+        "summary": "Even in a future of robot taxis, someone still has to return the things passengers leave behind.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,54 +186,32 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "쏟아지는 신작에 AI 슬롭까지…게임 플랫폼 ‘풍요 속 빈곤’",
-        "url": "https://byline.network/2026/06/2-409/",
+        "title": "팬덤부터 신규 유입까지, 모니터 밖으로 나서는 게임사들",
+        "url": "https://byline.network/2026/06/2-423/",
         "source": "ByLine Network",
-        "published": "2026-06-02T03:25:06+00:00",
-        "summary": "매년 출시되는 게임 수가 늘어나는 가운데, 생성형 인공지능(AI) 활용 게임까지 늘어나면서 이용자가 원하는 게임을 찾기 어려워졌다는 분석이 나왔다. 콘텐츠 과잉 공급으로 유저 피로도가 높아지고, 인디 게임은 노출되기 힘든 환경이 조성됐다는 진단이다. 이에 게임 탐색 경험 개선을 위한 제도 정비가 필요하다는 목소리가 나오고 있다.",
+        "published": "2026-06-03T01:31:47+00:00",
+        "summary": "국내 주요 게임사들이 핵심 지식재산권(IP)을 들고 모니터 밖으로 나오고 있다. 팝업스토어, 전시 공간, 체험형 프로그램, 플리마켓 등 다양한 형태의 오프라인 행사를 통해 팬심 공략에 나서는 모습이다. 이용자 접점 확대에도 적극적이다. 인파가 몰리는 도심 속 공간을 게임 IP로 채우며, 게임을 접하지 않은 이들과 접점을 넓히고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "비트코인 최대 보유 기업 ‘스트레티지’, 처음으로 비트코인 팔았다",
-        "url": "https://byline.network/2026/06/mstr/",
+        "title": "[플레이 BN] 추억 없어도 통하는 재미 ‘포트리스3 블루’",
+        "url": "https://byline.network/2026/06/2-422/",
         "source": "ByLine Network",
-        "published": "2026-06-02T00:35:26+00:00",
-        "summary": "비트코인 최대 법인 보유자 스트래티지가 처음으로 비트코인을 매각했다. \n\n스트래티지가 1일(현지시각) 미국 증권거래위원회(SEC)에 제출한 8-K 공시를 보면, 5월 26일부터 31일 사이 비트코인 32개를 개당 평균 7만7135달러(약 1억1670만 원)에 매각해 총 250만달러(약 37억8000만원)를 확보했다.",
+        "published": "2026-06-03T01:29:16+00:00",
+        "summary": "난생 처음 즐겨본 포트리스. 결론부터 말하면, 꽤 재밌습니다. 고각으로 발사한 포탄이 상대가 숨은 지형지물을 부수고 정확히 내려꽂힐 때의 쾌감이 상당합니다. 세대를 넘어 친구나 가족과 함께 가볍게 즐길 게임으로 추천합니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "엔비디아, PC CPU 시장 진출…윈텔 대신 윈엔 될까",
-        "url": "https://byline.network/2026/06/nvidia-windows/",
-        "source": "ByLine Network",
-        "published": "2026-06-02T00:25:19+00:00",
-        "summary": "엔비디아가 컴퓨텍스 2026에서 자체 PC용 칩 RTX 스파크를 공개하며 인텔·AMD가 수십 년간 장악해온 윈도우 PC 프로세서 시장에 본격 진출한다. RTX 스파크의 정식 명칭은 N1X로, ARM 기반 CPU와 블랙웰 아키텍처 기반 GPU를 하나의 패키지에 통합한 슈퍼칩이다.\n\n젠슨 황 엔비디아 CEO는 1일 대만 타이베이에서 열린 GTC 타이완 기조연설에서 RTX 스파크를 발표하며 “40년 만에 처음으로 완전히 새롭게 설계된 PC 라인”이라고 설명했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Anthropic Files Confidentially For IPO",
-        "url": "https://news.crunchbase.com/public/ai-unicorn-anthropic-files-confidentially-for-ipo/",
-        "source": "Crunchbase News",
-        "published": "2026-06-01T17:19:04+00:00",
-        "summary": "Anthropic said Monday that it has submitted a confidential filing for a proposed IPO, marking an escalation in the race among generative AI behemoths to make it first to the public market.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "AI-powered finance startup Gradient Labs doubles Series A to $26m",
-        "url": "https://sifted.eu/articles/gradient-labs-doubles-series-a/",
+        "title": "Oxford Quantum Circuits raises blockbuster $350m Series C",
+        "url": "https://sifted.eu/articles/oxford-quantum-circuits-series-c/",
         "source": "Sifted (EU startups)",
-        "published": "2026-06-01T16:14:08+00:00",
+        "published": "2026-06-03T00:05:28+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -241,10 +219,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "SoftBank helps drive record €93bn of foreign investments for ‘Choose France’",
-        "url": "https://sifted.eu/articles/softbank-choose-france-record-93bn/",
+        "title": "SoftBank in talks to back Agile Robotics in $800m round, reports say",
+        "url": "https://sifted.eu/articles/softbank-in-talks-to-back-agile-robotics-in-800m-round-reports-say/",
         "source": "Sifted (EU startups)",
-        "published": "2026-06-01T15:56:20+00:00",
+        "published": "2026-06-02T15:40:44+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,22 +230,44 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "How I Raised $14M For My Startup When I Stopped Pitching And Started Speaking",
-        "url": "https://news.crunchbase.com/venture/startup-founder-building-personal-connections-fundraise-vandervorm-clyx/",
+        "title": "Sector Snapshot: Defense Startup Funding Hits An All-Time Record As VCs Begin To Eye Exits",
+        "url": "https://news.crunchbase.com/defense-tech/startup-venture-funding-all-time-record-ai-anduril/",
         "source": "Crunchbase News",
-        "published": "2026-06-01T11:00:26+00:00",
-        "summary": "When investor trust is built through repeated in-person encounters, authentic conversations and thought leadership on meaningful problems, relationships and visibility matter more than aggressive fundraising outreach, argues guest author Alyx van der Vorm, whose startup raised $14 million as the result of personal interactions.",
+        "published": "2026-06-02T13:00:52+00:00",
+        "summary": "Already this year, more than $14.6 billion in venture investment has gone into companies in Crunchbase’s military, national security and law enforcement categories, blowing past the sector's previous annual record of $9.6 billion raised in all of 2025.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Boston Startup Fundraising Looks Strong Only By Pre-AI Parameters",
-        "url": "https://news.crunchbase.com/venture/boston-startup-funding-gains-ai-biotech-healthcare-whoop/",
+        "title": "Spacetech EnduroSat eyes $200m Series C months after last round, sources say",
+        "url": "https://sifted.eu/articles/endurosat-fundraise-spacetech/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-02T12:04:42+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Why mobile is becoming the next front in Europe’s superapp race",
+        "url": "https://sifted.eu/articles/mobile-europe-superapp-race/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-02T11:00:39+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "SaaS Is Dead. Long Live SaaS! AI And The End Of The Rationing Of Knowledge Work",
+        "url": "https://news.crunchbase.com/saas/knowledge-work-investment-ai-morse-strattam/",
         "source": "Crunchbase News",
-        "published": "2026-06-01T11:00:05+00:00",
-        "summary": "So far this year, investors have put about $7.8 billion into Boston-area startups, per Crunchbase data. That puts the region on track for a moderate annual gain and the strongest tally in about four years.",
+        "published": "2026-06-02T11:00:00+00:00",
+        "summary": "Reports of “SaaS being dead” are misguided, writes guest author Bob Morse, who contends that AI will enable software companies to move beyond selling productivity tools to deliver knowledge-work outcomes directly, unlocking massive unmet demand for services, ultimately growing the software industry.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,16 +276,91 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Three tailwinds that made indexing win over active management",
-        "url": "https://www.youtube.com/shorts/SKVKwMT1ZNE",
+        "title": "The Wellington Fund went from $2 billion to $480 million by 1973",
+        "url": "https://www.youtube.com/watch?v=rowIxEF5tpQ",
         "source": "Acquired",
-        "published": "2026-06-01T21:11:20+00:00",
-        "summary": "#business #podcast \n\n🎙 From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-        "thumbnail": "https://i4.ytimg.com/vi/SKVKwMT1ZNE/hqdefault.jpg",
+        "published": "2026-06-02T17:56:36Z",
+        "summary": "business #podcast From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/rowIxEF5tpQ/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "rowIxEF5tpQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "OpenAI CFO Sarah Friar on IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
+        "url": "https://www.youtube.com/watch?v=TjrShuj_Zsg",
+        "source": "All-In Podcast",
+        "published": "2026-06-02T15:40:44+00:00",
+        "summary": "(0:00) OpenAI CFO Sarah Friar joins the show!\n(0:31) How OpenAI thinks about its IPO timeline\n(3:31) OpenAI, Anthropic, Google: The AI arms race\n(7:43) Navigating the compute crunch and AI bottlenecks, device preview!\n(15:53) OpenAI's economics\n(26:08) Push into chips, the cloud\n(29:32) OpenAI's ad ",
+        "thumbnail": "https://i1.ytimg.com/vi/TjrShuj_Zsg/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "TjrShuj_Zsg",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Transistors Are WAY Smaller Than You Think",
+        "url": "https://www.youtube.com/watch?v=_bnO8RkdrsU",
+        "source": "Cleo Abram",
+        "published": "2026-06-02T14:49:21Z",
+        "summary": "I never realized just how small a transistor really is – the electronic switches in everything you use! Let me show you just how ...",
+        "thumbnail": "https://i.ytimg.com/vi/_bnO8RkdrsU/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "_bnO8RkdrsU",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "대한민국에 온 大상승의 시대",
+        "url": "https://www.youtube.com/watch?v=Cp4MVMW-1PY",
+        "source": "슈카월드",
+        "published": "2026-06-02T10:45:08Z",
+        "summary": "0:00 수출 물가 40.8% 상승, 전무후무한 수치 9:38 떼돈 번 사람들, 어디에 쓸까? 18:03 1분기 가계동향조사 결과, 모든 것이 오르는 ...",
+        "thumbnail": "https://i.ytimg.com/vi/Cp4MVMW-1PY/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "Cp4MVMW-1PY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "구글은 왜 그랜저가 아닌 아반떼를 내놨을까? (최지웅 유캔랩스 대표)",
+        "url": "https://www.youtube.com/watch?v=KUNap7VMW7Q",
+        "source": "티타임즈TV",
+        "published": "2026-06-02T09:00:31Z",
+        "summary": "최근 구글 I/O 2026 행사가 열렸습니다. 으레 플래그십 AI 모델을 발표하기 마련인데 구글은 자사 AI 모델 중 가장 가벼운 모델인 제미 ...",
+        "thumbnail": "https://i.ytimg.com/vi/KUNap7VMW7Q/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "KUNap7VMW7Q",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Three tailwinds that made indexing win over active management",
+        "url": "https://www.youtube.com/watch?v=SKVKwMT1ZNE",
+        "source": "Acquired",
+        "published": "2026-06-01T21:11:20Z",
+        "summary": "business #podcast From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/SKVKwMT1ZNE/mqdefault.jpg",
         "extras": {
           "theme": "deep_dive",
           "videoId": "SKVKwMT1ZNE",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -336,91 +411,16 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "By 1996 Vanguard's index funds forced the entire industry to follow",
-        "url": "https://www.youtube.com/shorts/j3mAgvy2Sjo",
-        "source": "Acquired",
-        "published": "2026-05-31T18:54:34+00:00",
-        "summary": "#business #podcast \n\n🎙 From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-        "thumbnail": "https://i3.ytimg.com/vi/j3mAgvy2Sjo/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "j3mAgvy2Sjo",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "Why So Many Tornadoes Happen HERE",
-        "url": "https://www.youtube.com/shorts/ZyB1i6Y9_m4",
+        "url": "https://www.youtube.com/watch?v=ZyB1i6Y9_m4",
         "source": "Cleo Abram",
-        "published": "2026-05-31T15:12:37+00:00",
-        "summary": "Why are there more tornadoes in the United States than anywhere else in the world? BY A LOT.\n\nThe United States sees well over 1000 tornadoes every year. That’s more than Australia, Canada, and every single European country combined. Most of them occur in one specific area in the central US. It’s ca",
-        "thumbnail": "https://i3.ytimg.com/vi/ZyB1i6Y9_m4/hqdefault.jpg",
+        "published": "2026-05-31T15:12:37Z",
+        "summary": "Why are there more tornadoes in the United States than anywhere else in the world? BY A LOT. The United States sees well over ...",
+        "thumbnail": "https://i.ytimg.com/vi/ZyB1i6Y9_m4/mqdefault.jpg",
         "extras": {
           "theme": "trend",
           "videoId": "ZyB1i6Y9_m4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Billionaires Impressed By New College Grads Being AI Natives: They Are Totally Cracked",
-        "url": "https://www.youtube.com/shorts/LtF6vT7l5ac",
-        "source": "All-In Podcast",
-        "published": "2026-05-31T14:00:08+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i1.ytimg.com/vi/LtF6vT7l5ac/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "LtF6vT7l5ac",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "리크루터에게만 750억원을 지급한 미국의 AI 리크루팅 플랫폼 | Paraform John Kim",
-        "url": "https://www.youtube.com/watch?v=vIiLBV-JoVg",
-        "source": "EO 이오",
-        "published": "2026-05-31T05:03:56Z",
-        "summary": "AI시대에 역설적으로 리크루터의 가치에 집중하는 방식으로 채용 시장을 장악하고 있는 Paraform의 창업자 John Kim의 인터뷰입니다 ...",
-        "thumbnail": "https://i.ytimg.com/vi/vIiLBV-JoVg/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "vIiLBV-JoVg",
           "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "\"They're Midwifing a Deity.\" - Bill Gurley on Anthropic's Digital God",
-        "url": "https://www.youtube.com/shorts/keI-wXX2hf0",
-        "source": "All-In Podcast",
-        "published": "2026-05-30T15:58:09+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i4.ytimg.com/vi/keI-wXX2hf0/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "keI-wXX2hf0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The FIRST Ferrari Electric Car",
-        "url": "https://www.youtube.com/shorts/tOZAKMm7jxY",
-        "source": "Cleo Abram",
-        "published": "2026-05-30T13:12:39+00:00",
-        "summary": "This is the most controversial car on the internet. \n\nFerrari just broke the rules with the Luce, the first-ever all-electric Ferrari that many thought would never exist. \n\nI’m joined by design legends Jony Ive and Flavio Manzoni at a secret track in Italy to reveal the radical technology and \"crazy",
-        "thumbnail": "https://i1.ytimg.com/vi/tOZAKMm7jxY/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "tOZAKMm7jxY",
-          "via": "rss"
         }
       }
     ]
