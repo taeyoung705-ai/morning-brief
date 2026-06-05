@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-04T03:51:11.220990+00:00",
+  "generated_at": "2026-06-05T03:35:56.026126+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
-        "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-06-04T03:36:10+00:00",
-        "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia politics live: independent MPs split as Labor’s tax bill passes lower house vote",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/04/australia-politics-live-capital-gains-tax-property-prices-economy-budget-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-senate-estimates-question-time-ntwnfb",
+        "title": "Australia news live: ASIC launches investigation into KPMG after whistleblower claims",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/05/tax-changes-labor-coalition-politics-housing-prices-nsw-pharmacists-trump-tariffs-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-06-04T03:33:02+00:00",
-        "summary": "After numerous divisions on amendments from the opposition and independents, the government has moved to vote on the substantive bill. Follow today’s news liveGet our breaking news email, free app or daily news podcastJim Chalmers’ budget bill will face debate and a vote in the House today, and he poses the legislation as a “really simple choice” for the Coalition.As we know, the government has se",
+        "published": "2026-06-05T03:20:20+00:00",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastJane Hume, the deputy opposition leader, accused the government of being “sneaky”, saying discussions around tax reforms in parliament were much too short to properly address so-called “generational” tax reforms.“What the government has done is essentially prevented scrutiny of the changes that this legislation is g",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Court fight over Bruce Lehrmann’s diary that allegedly contains eight pages of classified information",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/04/bruce-lehrmann-diary-court-case-declassification-legal-ntwnfb",
+        "title": "As Trump Toughens Rules on Cuba’s Economy, Hotel Chains Withdraw",
+        "url": "https://www.nytimes.com/2026/06/04/world/americas/cuba-hotels-economy-trump.html",
+        "source": "NYT World",
+        "published": "2026-06-05T03:05:27+00:00",
+        "summary": "The Trump administration’s efforts to tighten the economic noose on Cuba appear to be working, as more international firms announced they would leave the island.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Barnaby Joyce and One Nation colleague bungle details of key housing policy in ‘trainwreck’ interviews",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/05/barnaby-joyce-sky-news-interview-one-nation-housing-policy-backflip",
         "source": "The Guardian World",
-        "published": "2026-06-04T03:08:44+00:00",
-        "summary": "Commonwealth’s barrister tells federal court they will return diary to former political staffer but it must be declassified firstFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe contents of a diary written by Bruce Lehrmann that was seized from his home have to be declassified by the federal government to be returned to him, a cou",
+        "published": "2026-06-05T03:01:50+00:00",
+        "summary": "Sky News host Andrew Bolt says blunder shows Pauline Hanson’s party is ‘literally making up policy as it goes along’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBarnaby Joyce and a One Nation colleague have struggled to detail the party’s housing policy, with Joyce requesting a second TV appearance to do so and Senator Sean Bell b",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "UK far-right accused of exploiting killing of Henry Nowak",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/4/uk-far-right-accused-of-exploiting-killing-of-henry-nowak?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-04T02:59:28+00:00",
-        "summary": "UK Prime Minister Keir Starmer accused right-wing figures of exploiting the killing of Henry Nowak for political gain.",
+        "title": "What To Know as China’s Xi Jinping Heads to North Korea",
+        "url": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
+        "source": "NYT World",
+        "published": "2026-06-05T02:47:06+00:00",
+        "summary": "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "China bans four New Zealand MPs over Taiwan visit",
-        "url": "https://www.bbc.com/news/articles/cx21r1y223ro?at_medium=RSS&at_campaign=rss",
+        "title": "Zelenskyy calls for face-to-face Ukraine war negotiations in letter to Putin",
+        "url": "https://www.theguardian.com/world/2026/jun/04/zelenskyy-calls-for-face-to-face-negotiations-letter-putin-ukraine-russia-trump",
+        "source": "The Guardian World",
+        "published": "2026-06-05T02:12:54+00:00",
+        "summary": "Ukrainian president proposes meeting in neutral third country as Trump says both sides have to ‘make compromises’The Ukrainian president, Volodymyr Zelenskyy, has called for face-to-face negotiations in a public letter addressed directly to the Russian president, Vladimir Putin.The letter, the first Zelenskyy has publicly written directly to Putin since Russia launched its full-scale invasion in 2",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘You can stop your war’: Zelenskyy’s open letter to Putin – in full",
+        "url": "https://www.theguardian.com/world/2026/jun/05/volodymyr-zelenskyy-open-letter-to-putin-full-text-russia-ukraine-war",
+        "source": "The Guardian World",
+        "published": "2026-06-05T01:53:21+00:00",
+        "summary": "Russians are increasingly tired of the conflict and the time to end it is now, Ukraine’s president tells his Russian counterpart in an open letterVolodymyr Zelenskyy, in an open letter to the Vladimir Putin, has called for a face-to-face meeting with the Russian president to end his war against Ukraine.The letter sets out Zelenskyy’s view of the four-year-old conflict and says that while Ukrainian",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-06-04T02:54:21+00:00",
-        "summary": "Upon their return from Taiwan last month, the lawmakers were told that China had banned them for a year.",
+        "published": "2026-06-05T01:44:16+00:00",
+        "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Live Updates: Israel and Lebanon Agree to Renew Cease-Fire",
-        "url": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
-        "source": "NYT World",
-        "published": "2026-06-04T02:50:35+00:00",
-        "summary": "The U.S.-brokered agreement called for “a complete cessation” of fire from Hezbollah, an Iranian-backed militia that operates in southern Lebanon. A previous cease-fire has largely been ignored.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Israel and Lebanon Renew Cease-Fire, Calling for Evacuation of Hezbollah Operatives",
-        "url": "https://www.nytimes.com/2026/06/03/world/middleeast/israel-lebanon-ceasefire-hezbollah.html",
-        "source": "NYT World",
-        "published": "2026-06-04T02:42:17+00:00",
-        "summary": "The agreement depends on the cooperation of Hezbollah, the Iran-backed militia. The cease-fire could remove an obstacle in the talks between the United States and Iran.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Elon Musk’s SpaceX eyes $1.77tn valuation ahead of historic IPO",
-        "url": "https://www.aljazeera.com/economy/2026/6/4/elon-musks-spacex-eyes-1-77tn-valuation-ahead-of-historic-ipo?traffic_source=rss",
+        "title": "Why Mogadishu clashes are deepening Somalia’s political crisis again",
+        "url": "https://www.aljazeera.com/news/2026/6/5/why-mogadishu-clashes-are-deepening-somalias-political-crisis-again?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-04T02:38:51+00:00",
-        "summary": "Texas-based rocket company announces plans to sell shares at $135 apiece, aiming to raise approximately $75bn.",
+        "published": "2026-06-05T01:12:02+00:00",
+        "summary": "Tensions over Somali elections escalate into violence, leaving Mogadishu residents grappling with fear and disruption.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
-        "url": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
-        "source": "Ars Technica",
-        "published": "2026-06-04T02:46:35+00:00",
-        "summary": "With the case confirmed, it is the fly's first breach of the US-Mexico border.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "American capitalism has taken an apocalyptic turn",
-        "url": "https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn",
+        "title": "The Causes of Long Covid",
+        "url": "https://www.science.org/content/blog-post/causes-long-covid",
         "source": "Hacker News Front",
-        "published": "2026-06-04T02:44:40+00:00",
-        "summary": "Article URL: https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn\nComments URL: https://news.ycombinator.com/item?id=48393043\nPoints: 18\n# Comments: 1",
+        "published": "2026-06-05T03:04:28+00:00",
+        "summary": "Article URL: https://www.science.org/content/blog-post/causes-long-covid\nComments URL: https://news.ycombinator.com/item?id=48407451\nPoints: 3\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-        "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-        "source": "Wired",
-        "published": "2026-06-04T01:01:00+00:00",
-        "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-        "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+        "title": "Meta enables ADB on deprecated Portal devices [video]",
+        "url": "https://fb.watch/HxPu0fSyeH/",
         "source": "Hacker News Front",
-        "published": "2026-06-04T00:56:32+00:00",
-        "summary": "Article URL: https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/\nComments URL: https://news.ycombinator.com/item?id=48392343\nPoints: 83\n# Comments: 38",
+        "published": "2026-06-05T00:44:38+00:00",
+        "summary": "https://developers.meta.com/horizon/blog/build-apps-for-port...\n\nComments URL: https://news.ycombinator.com/item?id=48406640\nPoints: 107\n# Comments: 22",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
-        "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-        "source": "Hacker News Front",
-        "published": "2026-06-04T00:44:13+00:00",
-        "summary": "Article URL: https://e360.yale.edu/digest/trump-ooi-amoc\nComments URL: https://news.ycombinator.com/item?id=48392232\nPoints: 205\n# Comments: 111",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
-        "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+        "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+        "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
         "source": "TechCrunch",
-        "published": "2026-06-04T00:30:00+00:00",
-        "summary": "The Bengaluru startup has crossed 1 million orders and reached a $50 million annualized GMV run rate within a year of launch.",
+        "published": "2026-06-05T00:06:47+00:00",
+        "summary": "The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The ways we contain Claude across products",
-        "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+        "title": "Open Code Review – An AI-powered code review CLI tool",
+        "url": "https://github.com/alibaba/open-code-review",
         "source": "Hacker News Front",
-        "published": "2026-06-04T00:27:52+00:00",
-        "summary": "Article URL: https://www.anthropic.com/engineering/how-we-contain-claude\nComments URL: https://news.ycombinator.com/item?id=48392082\nPoints: 63\n# Comments: 31",
+        "published": "2026-06-05T00:04:29+00:00",
+        "summary": "Article URL: https://github.com/alibaba/open-code-review\nComments URL: https://news.ycombinator.com/item?id=48406358\nPoints: 69\n# Comments: 18",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-        "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+        "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+        "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
         "source": "Hacker News Front",
-        "published": "2026-06-04T00:18:02+00:00",
-        "summary": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html\nComments URL: https://news.ycombinator.com/item?id=48392004\nPoints: 42\n# Comments: 17",
+        "published": "2026-06-04T23:45:56+00:00",
+        "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341\nComments URL: https://news.ycombinator.com/item?id=48406198\nPoints: 26\n# Comments: 13",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Do transformers need three projections? Systematic study of QKV variants",
+        "url": "https://arxiv.org/abs/2606.04032",
+        "source": "Hacker News Front",
+        "published": "2026-06-04T23:11:56+00:00",
+        "summary": "Article URL: https://arxiv.org/abs/2606.04032\nComments URL: https://news.ycombinator.com/item?id=48405931\nPoints: 114\n# Comments: 19",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+        "url": "https://arxiv.org/abs/2604.24881",
+        "source": "Hacker News Front",
+        "published": "2026-06-04T23:01:40+00:00",
+        "summary": "Article URL: https://arxiv.org/abs/2604.24881\nComments URL: https://news.ycombinator.com/item?id=48405841\nPoints: 16\n# Comments: 0",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
+        "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+        "source": "The Verge",
+        "published": "2026-06-04T22:48:53+00:00",
+        "summary": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. In a Thursday blog post detailing its Verified programs for both pieces of hardware, Valve concludes by saying that \"We're excited for players to try your titles on the new Steam hardware once they [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,21 +186,32 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "과기정통부, 티빙 개인정보 유출 사고 조사 착수…민관합동조사단 구성",
-        "url": "https://byline.network/2026/06/4-446/",
+        "title": "막 오른 6월 게임 축제…신작 쏟아진다",
+        "url": "https://byline.network/2026/06/4-450/",
         "source": "ByLine Network",
-        "published": "2026-06-04T00:24:11+00:00",
-        "summary": "과학기술정보통신부(장관 겸 부총리 배경훈)는 온라인 동영상 서비스(OTT) 제공 사업자인 티빙(TVING) 회원정보 유출로 인한 피해현황과 사고원인 등을 조사하기 위해 민관합동조사단을 3일 구성하고 본격적인 조사에 착수했다고 4일 밝혔다.",
+        "published": "2026-06-04T15:18:03+00:00",
+        "summary": "글로벌 게임 업계가 신작을 쏟아내는 여름 축제 시즌에 돌입했다. 단독 쇼케이스를 진행한 소니를 시작으로 엑스박스 쇼케이스 등 대형 퍼블리셔들이 하반기 핵심 라인업을 공개한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Wordsmith lands $70m Series B to turbocharge legal work with AI",
-        "url": "https://sifted.eu/articles/wordsmith-ai-legal-tech-raise-index-ventures-highland/",
+        "title": "[플레이BN] 원작 팬심 정조준, 넷마블 ‘왕좌의 게임: 킹스로드’",
+        "url": "https://byline.network/2026/06/604/",
+        "source": "ByLine Network",
+        "published": "2026-06-04T15:17:13+00:00",
+        "summary": "평소 미국 드라마 자주 보시나요. 제 인생작이자 가장 큰 실망을 준 후회작은 바로 HBO미드 ‘왕좌의 게임’ 입니다. 중반까지는 현실감 넘치는 전투와 첨예한 정치 관계를 다루는 인생 판타지 드라마였는데 마지막 시즌에서 허무한 결말과 캐릭터 붕괴로 큰 실망을 주었습니다. 저와 의견이 일치한 시청자들이 많았는지 제작사 HBO에 마지막 시즌8만 다시 만들어달라는 청원이 50만명을 넘었지요.\n그럼에도 불구하고 여전히 왕좌의 게임을 인생작으로 뽑는 사람들이 많습니다. 특히 시즌4는 대다수 시청자들이 수작이라 말했던 시즌입니다. 주요 인물인 ‘존 스노우’가 이끄는 나이트워치(밤의 경비대) 공성전이 펼쳐진 시즌이었거든요. 이번에 넷마블에서 나온 ‘왕좌의 게임 : 킹스로드’는 이 내용을 담고 있습니다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "‘Built in Europe’: Can Balderton’s new campaign spark Europe’s vibe shift?",
+        "url": "https://sifted.eu/articles/european-narrative-podcast/",
         "source": "Sifted (EU startups)",
-        "published": "2026-06-03T15:04:07+00:00",
+        "published": "2026-06-04T15:13:11+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -208,66 +219,55 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Anthropic Funding Pushed Startup Investment To Near-Record Levels In May As Exit Market Reopened",
-        "url": "https://news.crunchbase.com/venture/monthly-vc-funding-recap-ai-may-2026/",
+        "title": "What the EU’s new Sovereignty Package means for European tech",
+        "url": "https://sifted.eu/articles/eu-tech-sovereignty-package-analysis/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-04T14:45:00+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Revolut’s elusive cofounder steps back",
+        "url": "https://sifted.eu/articles/revolut-cofounder-vlad-yatsenko-quits-cto/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-04T12:25:03+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Revolut to launch five credit cards in UK",
+        "url": "https://sifted.eu/articles/revolut-to-launch-five-credit-cards-in-uk/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-04T12:21:49+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Active Startup Investors Didn’t Hold Back In May",
+        "url": "https://news.crunchbase.com/venture/active-startup-investors-may-2026-a16z-y-combinator-general-catalyst/",
         "source": "Crunchbase News",
-        "published": "2026-06-03T11:00:59+00:00",
-        "summary": "All told, global venture funding reached $92 billion in May, marking the second-largest monthly total on record, just behind February, Crunchbase data shows. Of that, Anthropic raised $50 billion, or 54% of the month’s total funding.",
+        "published": "2026-06-04T11:00:25+00:00",
+        "summary": "Overall, May’s active investor tallies painted a picture of a startup funding scene still dominated by familiar names.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Factorial raises $150m Series D backed by General Catalyst and Atomico",
-        "url": "https://sifted.eu/articles/factorial-raise-general-catalyst-atomico-series-d/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-03T10:55:11+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Europe is at risk of sleepwalking into AI armageddon",
-        "url": "https://sifted.eu/articles/europe-ai-armageddon/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-03T10:45:19+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Quantum startup Quobly raises €115m backed by STMicroelectronics",
-        "url": "https://sifted.eu/articles/quobly-series-a-115m/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-03T06:00:21+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "EQT: European tech’s new kingmaker?",
-        "url": "https://sifted.eu/articles/eqt-scaleup-europe-fund-kingmaker-investing/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-03T05:00:51+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "How we built our robot dog startup: ‘We took all our VC meetings at Ikea’",
-        "url": "https://sifted.eu/articles/how-we-built-our-robot-dog-we-took-all-our-vc-meetings-at-ikea/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-03T05:00:46+00:00",
-        "summary": "",
+        "title": "Exclusive: Scotch Raises $20M Series A To Disrupt Legacy Liquor Retail Tech With AI",
+        "url": "https://news.crunchbase.com/venture/scotch-raises-ai-funding-liquor-retail-tech/",
+        "source": "Crunchbase News",
+        "published": "2026-06-04T11:00:21+00:00",
+        "summary": "All-in-one software ecosystem provider Scotch is a Denver-based AI-native operating system designed specifically for liquor store owners.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,31 +276,136 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "How to Build an AI-Native Services Company",
-        "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI",
-        "source": "Y Combinator",
-        "published": "2026-06-03T14:00:38Z",
-        "summary": "Some of the biggest companies of the next decade won't be software businesses. They'll be services companies like insurance ...",
-        "thumbnail": "https://i.ytimg.com/vi/gSNFJbgoaHI/mqdefault.jpg",
+        "title": "A low cost index fund will outperform 85% of actively managed funds",
+        "url": "https://www.youtube.com/shorts/h467OrLtpWw",
+        "source": "Acquired",
+        "published": "2026-06-04T21:13:33+00:00",
+        "summary": "#business #podcast \n\n🎙 From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+        "thumbnail": "https://i1.ytimg.com/vi/h467OrLtpWw/hqdefault.jpg",
         "extras": {
-          "theme": "innovation",
-          "videoId": "gSNFJbgoaHI",
-          "via": "api"
+          "theme": "deep_dive",
+          "videoId": "h467OrLtpWw",
+          "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses",
+        "title": "Thomas Laffont: The $4T AI IPO Wave Is Coming… and We’ve Never Seen Anything Like It",
+        "url": "https://www.youtube.com/watch?v=UIoV8rG_25s",
+        "source": "All-In Podcast",
+        "published": "2026-06-04T18:32:07+00:00",
+        "summary": "(0:00) Coatue's Thomas Laffont joins the Besties!\n(0:30) Public markets are back as AI is dominates the \"Unicorn Economy\"\n(5:15) The $4T AI IPO explosion\n(7:48) The case for SpaceX: Compounding launch monopoly and Starlink\n(10:38) The 10x Paradox: Why we're seeing unprecedented scaling\n(15:33) Segme",
+        "thumbnail": "https://i2.ytimg.com/vi/UIoV8rG_25s/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "UIoV8rG_25s",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The World’s Purest Natural Water",
+        "url": "https://www.youtube.com/shorts/OZuWmpv6l0s",
+        "source": "Cleo Abram",
+        "published": "2026-06-04T15:00:25+00:00",
+        "summary": "I’m about to drink some of the world’s purest water…in Antarctica.\n\nWhy is this water SO crystal clear? And why are the rivers it comes from…BLUE?\n\nTo find out, watch and subscribe!\n\n#bluerivers #antarctica #ice #water #science",
+        "thumbnail": "https://i4.ytimg.com/vi/OZuWmpv6l0s/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "OZuWmpv6l0s",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup",
+        "url": "https://www.youtube.com/watch?v=fQmlML9Lay4",
+        "source": "Y Combinator",
+        "published": "2026-06-04T14:00:22+00:00",
+        "summary": "In the first episode of our new series Full Stack, Conductor CEO and co-founder Charlie Holtz takes us into the details of how he sets up his workflow for coding and managing AI agents. \n\nhttps://www.conductor.build/\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https:",
+        "thumbnail": "https://i3.ytimg.com/vi/fQmlML9Lay4/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "fQmlML9Lay4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "상장 앞둔 스페이스X 실적 공개",
+        "url": "https://www.youtube.com/watch?v=jVRF2G4MTbU",
+        "source": "슈카월드",
+        "published": "2026-06-04T10:09:22+00:00",
+        "summary": "0:00 스페이스X 상장 임박\n5:04 스페이스X는 사실 우주 기업이 아니다?\n14:35 머스크는 얼마를 벌까?\n24:04 국내 해외주식 1위 테슬라 보관금액 약 39조원\n27:28 주식을 빌려주고 대여료를 받는 서비스가 있다?\n\n🚛 주식 이사하면 100% 현금 받을 수 있다고?\n최대 천만원 당첨 기회! (~6/30)\nhttps://kko.to/y_EUiXIEol\n\n💸 잠자는 내 주식, 그냥 두기엔 아까워요\n카카오페이증권에서 주식 빌려주고 추가 수익도 챙겨보세요!\nhttps://kko.to/hv-9VTv1S6\n\n*투자전 설명청취 및",
+        "thumbnail": "https://i3.ytimg.com/vi/jVRF2G4MTbU/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "jVRF2G4MTbU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "'딸깍'을 위해 어떤 준비를 해야할까? (조선영 디자이너)",
+        "url": "https://www.youtube.com/watch?v=5IlNJMffzpw",
+        "source": "티타임즈TV",
+        "published": "2026-06-04T09:00:07+00:00",
+        "summary": "나노바나나, 챗GPT이미지2 등 AI 이미지 생성 기술이 고도화되면서 다양한 이미지를 만들고 수정하는 것 뿐만 아니라 이미지 안에 타이포그라피를 넣는 것 까지도 당장 현업에서 사용할 수 있는 수준이 됐습니다. 작업 구조를 미리 잘 만들어놓으면 이후부터는 버튼 한 번으로 브랜드 리서치, 기획, 프롬프트 생성, 이미지 생성, 타이포그라피 적용 등의 작업을 할 수 있습니다. 물론, 이 작업을 어떻게 구조화 해놓는 가는 사용자의 능력이자 시간과 노력이 들어가는 일이기도 합니다.\n\n조선영 디자이너가 요즘 디자이너가 AI를 어떻게 활용하는지를",
+        "thumbnail": "https://i2.ytimg.com/vi/5IlNJMffzpw/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "5IlNJMffzpw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is this the Beginning of the End for Netanyahu?",
+        "url": "https://www.youtube.com/watch?v=D50DdRGucGU",
+        "source": "TLDR News Global",
+        "published": "2026-06-04T08:30:32+00:00",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nIt's been a difficult week for Netanyahu. Following Trump's call, Netanyahu was forced to climbdown his plan to escalate the war in Lebanon with opposition politicians accusing him of failing to guarantee Israel's safety and turning ",
+        "thumbnail": "https://i1.ytimg.com/vi/D50DdRGucGU/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "D50DdRGucGU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How to Build an AI-Native Services Company",
+        "url": "https://www.youtube.com/watch?v=gSNFJbgoaHI",
+        "source": "Y Combinator",
+        "published": "2026-06-03T14:00:38+00:00",
+        "summary": "Some of the biggest companies of the next decade won't be software businesses. They'll be services companies like insurance carriers, law firms, and tax practices rebuilt from scratch with AI doing most of the work. \n\nIn this episode of Startup School, YC Visiting Partner Charlie Warren walks throug",
+        "thumbnail": "https://i4.ytimg.com/vi/gSNFJbgoaHI/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "gSNFJbgoaHI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Bill Ackman: Here's What the Market is MISSING",
         "url": "https://www.youtube.com/watch?v=_TJFqEhxQg4",
         "source": "All-In Podcast",
-        "published": "2026-06-03T12:08:28Z",
-        "summary": "(0:00) Bill Ackman joins the show! (0:30) Evolving investment philosophy: What's changed over 20 years? (4:40) AI: Greatest time ...",
-        "thumbnail": "https://i.ytimg.com/vi/_TJFqEhxQg4/mqdefault.jpg",
+        "published": "2026-06-03T12:08:28+00:00",
+        "summary": "(0:00) Bill Ackman joins the show!\n(0:30) Evolving investment philosophy: What's changed over 20 years?\n(4:40) AI: Greatest time to build a business, and a major threat to portfolios\n(7:50) Predicting market moves, the \"rubber band effect\"\n(16:00) Owning founder-led companies\n(19:30) Building the ne",
+        "thumbnail": "https://i4.ytimg.com/vi/_TJFqEhxQg4/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "_TJFqEhxQg4",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -309,118 +414,13 @@
         "title": "드디어 페라리가 미친 것일까?",
         "url": "https://www.youtube.com/watch?v=_X-CkhCHOZg",
         "source": "슈카월드",
-        "published": "2026-06-03T11:42:23Z",
-        "summary": "0:00 못생겨서 전세계에 충격을 준 페라리 신모델 7:41 왜 갑자기 전기차를? 15:26 페라리의 타겟층.",
-        "thumbnail": "https://i.ytimg.com/vi/_X-CkhCHOZg/mqdefault.jpg",
+        "published": "2026-06-03T11:42:23+00:00",
+        "summary": "0:00 못생겨서 전세계에 충격을 준 페라리 신모델\n7:41 왜 갑자기 전기차를?\n15:26 페라리의 타겟층",
+        "thumbnail": "https://i4.ytimg.com/vi/_X-CkhCHOZg/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "_X-CkhCHOZg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What's Gone Wrong with Indonesia’s Economy?",
-        "url": "https://www.youtube.com/watch?v=mlDTKj6vXyE",
-        "source": "TLDR News Global",
-        "published": "2026-06-03T08:30:34+00:00",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nOver the past 20 years, Indonesia's economy quietly become the 7th largest in the world. But things appear to be going south with sharp selloffs in bonds and currency. In this video, we're taking a look at Indonesia's economy and why",
-        "thumbnail": "https://i2.ytimg.com/vi/mlDTKj6vXyE/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "mlDTKj6vXyE",
           "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Wellington Fund went from $2 billion to $480 million by 1973",
-        "url": "https://www.youtube.com/watch?v=rowIxEF5tpQ",
-        "source": "Acquired",
-        "published": "2026-06-02T17:56:36Z",
-        "summary": "business #podcast From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/rowIxEF5tpQ/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "rowIxEF5tpQ",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "OpenAI CFO Sarah Friar on IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
-        "url": "https://www.youtube.com/watch?v=TjrShuj_Zsg",
-        "source": "All-In Podcast",
-        "published": "2026-06-02T15:40:44Z",
-        "summary": "(0:00) OpenAI CFO Sarah Friar joins the show! (0:31) How OpenAI thinks about its IPO timeline (3:31) OpenAI, Anthropic, Google: ...",
-        "thumbnail": "https://i.ytimg.com/vi/TjrShuj_Zsg/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "TjrShuj_Zsg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Transistors Are WAY Smaller Than You Think",
-        "url": "https://www.youtube.com/watch?v=_bnO8RkdrsU",
-        "source": "Cleo Abram",
-        "published": "2026-06-02T14:49:21Z",
-        "summary": "I never realized just how small a transistor really is – the electronic switches in everything you use! Let me show you just how ...",
-        "thumbnail": "https://i.ytimg.com/vi/_bnO8RkdrsU/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "_bnO8RkdrsU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "대한민국에 온 大상승의 시대",
-        "url": "https://www.youtube.com/watch?v=Cp4MVMW-1PY",
-        "source": "슈카월드",
-        "published": "2026-06-02T10:45:08Z",
-        "summary": "0:00 수출 물가 40.8% 상승, 전무후무한 수치 9:38 떼돈 번 사람들, 어디에 쓸까? 18:03 1분기 가계동향조사 결과, 모든 것이 오르는 ...",
-        "thumbnail": "https://i.ytimg.com/vi/Cp4MVMW-1PY/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "Cp4MVMW-1PY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "구글은 왜 그랜저가 아닌 아반떼를 내놨을까? (최지웅 유캔랩스 대표)",
-        "url": "https://www.youtube.com/watch?v=KUNap7VMW7Q",
-        "source": "티타임즈TV",
-        "published": "2026-06-02T09:00:31Z",
-        "summary": "최근 구글 I/O 2026 행사가 열렸습니다. 으레 플래그십 AI 모델을 발표하기 마련인데 구글은 자사 AI 모델 중 가장 가벼운 모델인 제미 ...",
-        "thumbnail": "https://i.ytimg.com/vi/KUNap7VMW7Q/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "KUNap7VMW7Q",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Three tailwinds that made indexing win over active management",
-        "url": "https://www.youtube.com/watch?v=SKVKwMT1ZNE",
-        "source": "Acquired",
-        "published": "2026-06-01T21:11:20Z",
-        "summary": "business #podcast From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-        "thumbnail": "https://i.ytimg.com/vi/SKVKwMT1ZNE/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "SKVKwMT1ZNE",
-          "via": "api"
         }
       }
     ]
