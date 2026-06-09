@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-08T03:51:37.515156+00:00",
+  "generated_at": "2026-06-09T02:55:54.633043+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Strong Earthquake in Philippines Topples Buildings and Prompts Tsunami Warnings",
-        "url": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunami-warning.html",
-        "source": "NYT World",
-        "published": "2026-06-08T03:46:55+00:00",
-        "summary": "The quake struck off the island of Mindanao, raising fears of possible tsunamis in the Philippines, Japan, Malaysia and Indonesia.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
-        "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-06-08T03:44:19+00:00",
-        "summary": "Markets in South Korea and Japan slid after a rally in tech stocks in recent weeks.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Live Updates: Iran and Israel Exchange Strikes for First Time Since April Cease-Fire",
-        "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
-        "source": "NYT World",
-        "published": "2026-06-08T03:43:15+00:00",
-        "summary": "Iran fired missiles at Israel in retaliation for an Israeli attack in Lebanon. Hours after the Iranian launches, the Israeli military said it had struck military targets in Iran.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: ‘We get the message,’ Plibersek says, after poll shows One Nation support surpassing Labor",
-        "url": "https://www.theguardian.com/science/live/2026/jun/08/australia-news-live-anthony-albanese-labor-one-nation-coalition-housing-crisis-angus-taylor-ntwnfb",
+        "title": "Australia news live: cost-of-living pressures ‘back with a vengeance’; ASX slumps amid tech selloff",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/09/anthony-albanese-labor-one-nation-pauline-hanson-coalition-angus-taylor-ndis-jacinta-allan-victoria-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-06-08T03:19:46+00:00",
-        "summary": "Social services minister says Labor agrees ‘this country needs to be changed’. Follow liveGet our breaking news email, free app or daily news podcastIs Australian music at risk of extinction? Here’s what the data tells usThe music that charts in Australia has changed considerably over the past couple of decades – rock is out, country is in and old tracks are new again.Because of Richard’s brillian",
+        "published": "2026-06-09T02:47:08+00:00",
+        "summary": "Analysis finds Australians have lower life satisfaction now than during height of Covid pandemic. Follow liveGet our breaking news email, free app or daily news podcast‘If Australian datacentres are going to power the AI revolution, we deserve a fair return’ – David PocockIndependent senator David Pocock has published an opinion piece about the growth of AI datacentres in Australia and how the gol",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Strong earthquake strikes southern Philippines with tsunami warnings issued",
-        "url": "https://www.theguardian.com/world/2026/jun/08/philippines-earthquake-mindanao-tsunami-warnings",
+        "title": "Jacinta Allan says Pauline Hanson ‘chooses to barrack for bullies’ over ‘ditch the witch’ billboard",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/09/victorian-premier-jacinta-allan-dismisses-leadership-spill-speculation-calls-out-hanson-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-06-08T03:17:36+00:00",
-        "summary": "People told to prepare for waves of up to three metres in parts of the Philippines, with smaller waves possible in Indonesia and MalaysiaA magnitude 7.8 earthquake shook part of the southern Philippines early on Monday, sparking tsunami warnings on some regional coasts, collapsing some houses and killing at least one person.“Many buildings were affected, but I cannot enumerate them now because we ",
+        "published": "2026-06-09T02:21:55+00:00",
+        "summary": "Victorian premier says she will always call out ‘misogynist’ views after One Nation leader says ‘if the shoe fits’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastJacinta Allan has dismissed leadership speculation and says she will continue to call out “sexist, misogynist, hateful” commentary directed at her, despite the One Nation le",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Peru’s Presidential Runoff in a Dead Heat",
-        "url": "https://www.nytimes.com/2026/06/07/world/americas/peru-presidential-election.html",
-        "source": "NYT World",
-        "published": "2026-06-08T03:16:33+00:00",
-        "summary": "The runoff pit a leftist seeking to win over undecided centrists against a right-winger with a tough-on-crime sales pitch.",
+        "title": "US lists China’s BYD, Alibaba, Baidu as ‘Chinese military companies’",
+        "url": "https://www.aljazeera.com/economy/2026/6/9/us-lists-chinas-byd-alibaba-baidu-as-chinese-military-companies?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-09T02:20:51+00:00",
+        "summary": "Chinese embassy in Washington, DC condemns designation, calling it &#039;discriminatory&#039;.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "‘Disgusted’: Gillard and Albanese condemn ‘ditch the witch’ campaign against Victorian premier Jacinta Allan",
-        "url": "https://www.theguardian.com/world/2026/jun/08/julia-gillard-victorian-premier-jacinta-allan-ditch-the-witch-condemned-ntwnfb",
+        "title": "Botswana diamond slump hits miners living on the edge of survival",
+        "url": "https://www.aljazeera.com/news/2026/6/9/botswana-diamond-slump-hits-miners-living-on-the-edge-of-survival?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-09T02:09:08+00:00",
+        "summary": "Botswana’s diamond-driven economy is under mounting strain as global demand weakens and production falls.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "The criminal cartels cashing in on the World Cup – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jun/09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast",
         "source": "The Guardian World",
-        "published": "2026-06-08T03:15:28+00:00",
-        "summary": "Trucks with billboards depicting phrase alongside Allan wearing a black pointed hat have been seen around Melbourne for about six weeksFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastJulia Gillard and Anthony Albanese have joined a chorus of politicians criticising a truck-mounted billboard featuring Victorian premier Jacinta Allan a",
+        "published": "2026-06-09T02:00:41+00:00",
+        "summary": "Football fans are celebrating the tournament coming to Guadalajara. But with a brutal crime syndicate holding sway there, what are the risks for fans – and the government?Excitement is mounting in Mexico as the World Cup opens in Mexico City, then heads to the city of Guadalajara.Mexican journalist Leon Krauze is a fan. He was there the last time the World Cup came to Mexico and will be watching a",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles/heres-the-latest",
+        "title": "Live Updates: Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say",
+        "url": "https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks",
         "source": "NYT World",
-        "published": "2026-06-08T02:28:09+00:00",
-        "summary": "",
+        "published": "2026-06-09T01:59:15+00:00",
+        "summary": "Prime Minister Benjamin Netanyahu said that Israel’s “fire is on hold” after a phone call with President Trump. Iran also said it would cease its attacks but, like Israel, warned it was ready to resume.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "New York City crowd boos US President Donald Trump at NBA playoff game",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/new-york-city-crowd-boos-us-president-donald-trump-at-nba-playoff-game?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-09T01:54:11+00:00",
+        "summary": "US President Donald Trump was loudly booed when he was shown on screens before Game 3 of the NBA Finals.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "UN questions legality of Israeli forced evacuation orders in Lebanon",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/9/un-questions-legality-of-israeli-forced-evacuation-orders-in-lebanon?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-09T01:20:13+00:00",
+        "summary": "A UN spokesman says forced evacuation orders issued across southern and eastern Lebanon are nearly impossible to follow",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "90210 – running the show without property tax",
-        "url": "https://github.com/Achint08/90210",
-        "source": "Hacker News Front",
-        "published": "2026-06-08T02:47:22+00:00",
-        "summary": "Article URL: https://github.com/Achint08/90210\nComments URL: https://news.ycombinator.com/item?id=48440811\nPoints: 12\n# Comments: 6",
+        "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+        "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+        "source": "TechCrunch",
+        "published": "2026-06-09T01:56:48+00:00",
+        "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
-        "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
+        "title": "We Think the SpaceX IPO Is Overvalued",
+        "url": "https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545",
         "source": "Hacker News Front",
-        "published": "2026-06-08T02:05:40+00:00",
-        "summary": "Article URL: https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/\nComments URL: https://news.ycombinator.com/item?id=48440610\nPoints: 33\n# Comments: 10",
+        "published": "2026-06-09T01:56:40+00:00",
+        "summary": "Article URL: https://www.morningstar.com/stocks/why-we-think-spacex-ipo-is-overvalued?content_id=20768396545\nComments URL: https://news.ycombinator.com/item?id=48455233\nPoints: 51\n# Comments: 31",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Tech sell-off widens as South Korea index plunges",
-        "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
-        "source": "Hacker News Front",
-        "published": "2026-06-08T02:01:04+00:00",
-        "summary": "Article URL: https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c\nComments URL: https://news.ycombinator.com/item?id=48440583\nPoints: 21\n# Comments: 9",
+        "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+        "url": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+        "source": "Ars Technica",
+        "published": "2026-06-09T00:59:40+00:00",
+        "summary": "The waiver \"serves the public interest by promoting a second large satellite broadband constellation.\"",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Algorithmic Monocultures in Hiring",
-        "url": "https://algorithmichiring.github.io/",
-        "source": "Hacker News Front",
-        "published": "2026-06-08T01:54:54+00:00",
-        "summary": "Article URL: https://algorithmichiring.github.io/\nComments URL: https://news.ycombinator.com/item?id=48440549\nPoints: 25\n# Comments: 2",
+        "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+        "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+        "source": "TechCrunch",
+        "published": "2026-06-09T00:45:56+00:00",
+        "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "New drug 'functionally cures' many hepatitis B virus infections",
-        "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+        "title": "Federal judge blocks H1B visa $100K fee",
+        "url": "https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/",
         "source": "Hacker News Front",
-        "published": "2026-06-08T01:41:42+00:00",
-        "summary": "Article URL: https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08\nComments URL: https://news.ycombinator.com/item?id=48440463\nPoints: 35\n# Comments: 1",
+        "published": "2026-06-09T00:01:37+00:00",
+        "summary": "Article URL: https://www.alaskasnewssource.com/2026/06/08/federal-judge-blocks-h1-b-visa-100k-fee/\nComments URL: https://news.ycombinator.com/item?id=48454210\nPoints: 84\n# Comments: 139",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-        "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-        "source": "Hacker News Front",
-        "published": "2026-06-08T01:39:30+00:00",
-        "summary": "Article URL: https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision\nComments URL: https://news.ycombinator.com/item?id=48440448\nPoints: 122\n# Comments: 27",
+        "title": "Instagram is finally letting everyone reorganize their profile grid",
+        "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+        "source": "The Verge",
+        "published": "2026-06-08T23:58:30+00:00",
+        "summary": "Nearly a year after it was announced, Instagram says it's delivering the ability to rearrange the posts in your profile grid. It had been available to some people in test groups, but as of June 8th, it's rolling out widely via the Android and iPhone mobile apps. Until now, the posts on your Instagram profile [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "1worldflag: A blue dot on a transparent background",
-        "url": "https://1worldflag.com/",
-        "source": "Hacker News Front",
-        "published": "2026-06-08T01:37:52+00:00",
-        "summary": "Article URL: https://1worldflag.com/\nComments URL: https://news.ycombinator.com/item?id=48440435\nPoints: 14\n# Comments: 6",
+        "title": "Apple’s Screen Time updates are too little, too late",
+        "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+        "source": "The Verge",
+        "published": "2026-06-08T23:41:00+00:00",
+        "summary": "Apple spending a big chunk of its WWDC keynote on parental controls was surprising for several reasons. But the biggest is that, despite all the airtime, it didn't announce much new beyond a redesigned interface. Almost all the features touted already exist or are upgrades to current options. Why Apple chose to do this isn't [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "APC–2 – A professional record cutter for producing original playback discs",
-        "url": "https://teenage.engineering/products/apc-2",
-        "source": "Hacker News Front",
-        "published": "2026-06-08T01:27:22+00:00",
-        "summary": "Article URL: https://teenage.engineering/products/apc-2\nComments URL: https://news.ycombinator.com/item?id=48440383\nPoints: 125\n# Comments: 60",
+        "title": "5 things I already love from the iOS 27 beta",
+        "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+        "source": "The Verge",
+        "published": "2026-06-08T23:30:00+00:00",
+        "summary": "iOS 27 has only been out for a few hours, and I've been messing around with the developer beta on my iPhone 16 Pro. I was most interested in trying out the new Siri AI, but unfortunately, I'm still on Apple's waitlist for that. In the meantime, I've been poking around a bunch of features [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,77 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "네이버-엔비디아, 초대형 글로벌 AI 팩토리 구축 공동 추진",
-        "url": "https://byline.network/2026/06/08_19288733/",
+        "title": "이해진 “네이버, GPU·AI 수요 만족할 수 있는 유일한 기업”",
+        "url": "https://byline.network/2026/06/08_9128773/",
         "source": "ByLine Network",
-        "published": "2026-06-08T02:13:02+00:00",
-        "summary": "네이버가 AI 팩토리 사업에 본격 힘을 싣는다. \n\n네이버는 엔비디아와 함꼐 기가와트(GW)급 초대형 글로벌 AI 팩토리 구축을 위한 공동 사업에 합의했다고 8일 밝혔다.",
+        "published": "2026-06-08T22:31:24+00:00",
+        "summary": "젠슨 황 엔비디아 CEO가 8일 오후 성남시 분당구에 위치한 네이버 사옥 ‘1784’에 방문했다. 이번 방한 일정 중 이해진 네이버 의장과는 두 번째 만남이다. 그만큼 이번 방한을 기점으로 네이버와 엔비디아의 협업이 강화되기 때문이다. 네이버가 사실상 엔비디아의 국내 최대 고객사가 되는 동시에, 주요 AI 협업사로의 입자가 강화될 전망이다. \n\n이날 이해진 의장은 \"네이버는 급격하게 증가하는 GPU와 AI 수요를 만족할 수 있는 유일한 기업\"이라며, 엔비디아와 기가와트(GW)급 AI 팩토리를 성공적으로 구축하겠다는 의지를 밝혔다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "성장 둔화된 IP 모바일 게임…메이플 키우기·카제나 선전",
-        "url": "https://byline.network/2026/06/5-439/",
+        "title": "UK announces new £1.1bn bet on AI infrastructure",
+        "url": "https://sifted.eu/articles/uk-announces-new-1-1bn-bet-on-ai-infrastructure/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-08T16:41:19+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Bending Spoons files for US IPO",
+        "url": "https://sifted.eu/articles/bending-spoons-files-for-us-ipo/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-08T15:18:56+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[미토스 이후, 전문가에게 듣는다⑨] 보안 전문가들이 본 AI 시대의 사이버보안, 무엇이 달라졌나",
+        "url": "https://byline.network/2026/06/8-484/",
         "source": "ByLine Network",
-        "published": "2026-06-07T22:09:40+00:00",
-        "summary": "데이터 분석 기업 센서타워가 ‘2026년 전 세계 IP 게임 시장 인사이트’ 보고서를 발표했다. 보고서에 따르면 IP 모바일 게임 시장은 고속 성장기를 지나 성숙기에 진입한 것으로 나타났다. 전반적으로 성장이 둔화된 시장에서 ‘메이플 키우기’와 ‘카오스 제로 나이트메어’ 등 유의미한 성과를 거둔 국내 게임도 눈에 띄었다.",
+        "published": "2026-06-08T13:34:07+00:00",
+        "summary": "미토스 이후의 변화에 대해 국내 보안 전문가들의 진단을 종합하면 이렇다. “미토스는 단순히 취약점을 잘 찾는 AI 모델이 아니라, 사이버 공격의 비용과 속도, 방어자의 대응 구조, 국가안보와 기업 거버넌스의 전제를 함께 흔드는 강력한 신호”라는 것이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "너도나도 서브컬처 게임, 신작 경쟁 본격화",
-        "url": "https://byline.network/2026/06/5-436/",
+        "title": "How Bigger ACVs Are Bringing Direct Sales Back To Vertical AI",
+        "url": "https://news.crunchbase.com/ai/bigger-acvs-bring-direct-sales-vertical-ai-agarwal-defy/",
+        "source": "Crunchbase News",
+        "published": "2026-06-08T11:00:27+00:00",
+        "summary": "Successful vertical AI startups are increasingly using channels like private equity networks and industry conferences to drive distribution, recognizing that larger deal sizes require a fundamentally different go-to-market playbook than traditional vertical SaaS. Guest author Medha Agarwal, a general partner at Defy.vc, explains just what that means.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "PhysicsX hits $2.4bn valuation after $300m Temasek-led funding round",
+        "url": "https://sifted.eu/articles/physicsx-funding-round-temasek-valuation/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-08T09:52:27+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "구글, 월 1.4조원에 스페이스X GPU 빌려 쓴다",
+        "url": "https://byline.network/2026/06/8-481/",
         "source": "ByLine Network",
-        "published": "2026-06-07T22:08:21+00:00",
-        "summary": "국내 서브컬처 게임 시장 경쟁이 뜨거워질 전망이다. 국내 주요 게임사들이 관련 신작을 잇달아 준비하고 있어서다. 넥슨, 넷마블, 엔씨를 비롯한 대형 게임사부터 중견 업체까지 각기 다른 서브컬처 작품을 개발 중이다. 일부 게임은 테스트를 진행했거나 앞두고 있다. 세계관, 캐릭터 등 신규 정보를 순차 공개하면서 이용자 기대감 높이기에 한창이다.",
+        "published": "2026-06-08T09:43:44+00:00",
+        "summary": "구글이 스페이스X의 대규모 AI 인프라를 대여하는 클라우드 서비스 계약을 체결했다. 구글은 컴퓨팅 용량 이용 대가로 올해 10월부터 2029년 6월까지 매달 9억2000만달러(약 1조4000억원)를 스페이스X에 지급한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[미토스 이후, 전문가에게 듣는다⑧] 김창훈 대구대 교수 “AI 위협, 사이버 팬데믹처럼 대응해야”",
-        "url": "https://byline.network/2026/06/5-438/",
+        "title": "젠슨 황 엔비디아 CEO “고 네이버! 고 코리아!”",
+        "url": "https://byline.network/2026/06/608-4/",
         "source": "ByLine Network",
-        "published": "2026-06-07T19:57:06+00:00",
-        "summary": "김창훈 대구대학교 컴퓨터정보공학부 교수는 미토스 이후 국내 AI 보안 대책이 보안 특화 모델 개발, 취약점 탐지, 빠른 패치 등 일부분에 매몰돼 있다고 지적했다. 모두 필요한 과제지만, 당장 공격자가 어디를 노릴지와 실제로 어떻게 막을지를 먼저 봐야 한다는 지적이다. 김 교수는 “본질은 막는 것”이라며 “취약점을 찾고 패치를 빨리 하자는 논의와 대책이 나오고 있지만, 정작 어디가 공격받을 가능성이 큰지, 그 기관을 실제로 어떻게 보호할지에 대한 현실적인 논의는 부족한 실정”이라고 짚었다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "이재명 대통령, 신임 국무총리에 한성숙 장관 지명",
-        "url": "https://byline.network/2026/06/07_192873/",
-        "source": "ByLine Network",
-        "published": "2026-06-07T05:21:16+00:00",
-        "summary": "이재명 대통령이 7일 차기 국무총리 후보자로 한성숙 현 중소벤처기업부 장관을 지명했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "월드컵이 콘서트 티켓처럼 팔린다 – 2026 대회가 시험하는 세 가지",
-        "url": "https://platum.kr/archives/288340?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259b%2594%25eb%2593%259c%25ec%25bb%25b5%25ec%259d%25b4-%25ec%25bd%2598%25ec%2584%259c%25ed%258a%25b8-%25ed%258b%25b0%25ec%25bc%2593%25ec%25b2%2598%25eb%259f%25bc-%25ed%258c%2594%25eb%25a6%25b0%25eb%258b%25a4-2026-%25eb%258c%2580%25ed%259a%258c%25ea%25b0%2580-%25ec%258b%259c%25ed%2597%2598%25ed%2595%2598",
-        "source": "Platum",
-        "published": "2026-06-06T17:46:55+00:00",
-        "summary": "가격·중계·제작, 스포츠 바깥에서 검증된 플랫폼·테크의 문법이 한 대회에서 동시에 시험대에 오른다 콘서트 티켓이나 항공권처럼, 월드컵 입장권 가격이 수요에 따라 움직인다. 2026 FIFA 월드컵은 사상 처음 이 방식을 도입했고, 가격은 이번 대회가 바꾼 것 가운데 하나일 뿐이다. 6월 11일 멕시코시티 에스타디오 아스테카의 개막전(멕시코-남아공)으로 막을 올리는 이번 대회는 참가국 48개·104경기·3개국 16개 도시로 1998년 이후 28년 만의 최대 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "테슬라 시총 넘어선다… 스페이스X, 1조 7700억 달러 IPO 출항",
-        "url": "https://platum.kr/archives/288337?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2585%258c%25ec%258a%25ac%25eb%259d%25bc-%25ec%258b%259c%25ec%25b4%259d-%25eb%2584%2598%25ec%2596%25b4%25ec%2584%25a0%25eb%258b%25a4-%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4x-1%25ec%25a1%25b0-7700%25ec%2596%25b5-%25eb%258b%25ac%25eb%259f%25ac-ipo-%25ec%25b6%259c%25ed%2595%25ad",
-        "source": "Platum",
-        "published": "2026-06-06T09:33:14+00:00",
-        "summary": "스페이스X의 공모 기업가치가 1조 7700억 달러로 책정됐다. 공모가 기준 미국 증시 시가총액 7위에 해당하는 규모로, 약 1조 6000억 달러인 테슬라를 웃돈다. 조달 목표액은 약 750억 달러로, 미국 상장 기준 최대였던 알리바바는 물론 글로벌 최대 기록인 2019년 사우디 아람코의 294억 달러도 2.5배 이상 넘어선다. 스페이스X는 6월 3일(현지시간) 미국 증권거래위원회(SEC)에 제출한 신고서에서 이 같은 공모 조건을 공개했다. ... 더 읽기",
+        "published": "2026-06-08T08:52:33+00:00",
+        "summary": "젠슨 황 엔비디아 CEO는 8일 경기도 판교 네이버 1784에 방문해 이해진 네이버 이사회 의장과 양사 파트너십 확장을 선언했다.\n이날 이 의장과 황 CEO의 만남은 네이버 생방송 플랫폼 ‘치지직’을 통해 실시간으로 중계됐다. 황 CEO는 양사의 협력 관계에 대해 “매우 소중한 자산”이라고 말했으며 황 CEO는 네이버와 파트너십을 확장하고 한국을 비롯해 전 세계에 거대한 AI 클라우드를 구축하겠다는 계획을 밝혔다.",
         "thumbnail": "",
         "extras": {}
       }
@@ -265,151 +276,151 @@
       {
         "category": "videos",
         "kind": "video",
+        "title": "AI로 만드는 브랜드 콘텐츠: 이미지부터 영상, 상세페이지까지 실습 강연",
+        "url": "https://www.youtube.com/watch?v=_PtORP1njcE",
+        "source": "티타임즈TV",
+        "published": "2026-06-09T02:00:35Z",
+        "summary": "유튜브 시대도 놓쳤는데, AI시대도 놓칠 건가요? 일단 배워놓아야 언제든 시작할 수 있습니다 티타임즈만의 맞춤, 온라인 라이브 ...",
+        "thumbnail": "https://i.ytimg.com/vi/_PtORP1njcE/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "_PtORP1njcE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Startup School is back!",
+        "url": "https://www.youtube.com/watch?v=qr6kVSKqBqo",
+        "source": "Y Combinator",
+        "published": "2026-06-08T22:21:00Z",
+        "summary": "Two days, packed with world-class speakers, hands-on demos, small group sessions with YC partners, and a room full of the most ...",
+        "thumbnail": "https://i.ytimg.com/vi/qr6kVSKqBqo/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "qr6kVSKqBqo",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Palo Alto Networks CEO: &quot;AI Found 5 Years of Bugs in 6 Weeks&quot;",
+        "url": "https://www.youtube.com/watch?v=hObRMv6qCi0",
+        "source": "All-In Podcast",
+        "published": "2026-06-08T20:06:28Z",
+        "summary": "(0:00) Palo Alto Networks CEO Nikesh Arora joins the Besties! (0:47) Claude Mythos found years of vulnerabilities in Palo Alto's ...",
+        "thumbnail": "https://i.ytimg.com/vi/hObRMv6qCi0/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "hObRMv6qCi0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Old Diamonds REALLY Are",
+        "url": "https://www.youtube.com/watch?v=B9vdFqX5qJc",
+        "source": "Cleo Abram",
+        "published": "2026-06-08T14:41:38Z",
+        "summary": "Most people don't understand how old diamonds really are. So we made a timeline to show you..starting from TODAY and going ...",
+        "thumbnail": "https://i.ytimg.com/vi/B9vdFqX5qJc/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "B9vdFqX5qJc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Coding is The First Undeniable AI Use case | a16z",
+        "url": "https://www.youtube.com/watch?v=ktl8mNiWqMM",
+        "source": "a16z",
+        "published": "2026-06-08T14:30:24Z",
+        "summary": "Erik Torenberg speaks with tech analyst Benedict Evans about the current state of AI, what has changed over the past year, and ...",
+        "thumbnail": "https://i.ytimg.com/vi/ktl8mNiWqMM/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "ktl8mNiWqMM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Warren Buffett crushed the S&amp;P 500",
+        "url": "https://www.youtube.com/watch?v=1cGJK9K7j_I",
+        "source": "Acquired",
+        "published": "2026-06-08T12:05:51Z",
+        "summary": "business #podcast From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/1cGJK9K7j_I/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "1cGJK9K7j_I",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "삼성전자 -10%, 건강한 조정이어야만 한다",
+        "url": "https://www.youtube.com/watch?v=6VMGVcmh1sM",
+        "source": "슈카월드",
+        "published": "2026-06-08T09:51:30Z",
+        "summary": "0:00 코스피 급락, 건강한 조정인거지..? 8:19 이번 급락의 원인 24:09 더 심각한 코인 시장 31:07 바이낸스, 삼성전자와 SK하이닉스 ...",
+        "thumbnail": "https://i.ytimg.com/vi/6VMGVcmh1sM/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "6VMGVcmh1sM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Could Syria Replace the Strait of Hormuz?",
+        "url": "https://www.youtube.com/watch?v=3WuCU8NvHW0",
+        "source": "TLDR News Global",
+        "published": "2026-06-08T09:30:14Z",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008 Syria is trying to position itself as an alternative transit hub ...",
+        "thumbnail": "https://i.ytimg.com/vi/3WuCU8NvHW0/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "3WuCU8NvHW0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "개발자가 살아남으려면 갖춰야 할 역량은 (앤드류 박 테커 대표)",
+        "url": "https://www.youtube.com/watch?v=YhL7v75Wu7c",
+        "source": "티타임즈TV",
+        "published": "2026-06-08T09:00:30Z",
+        "summary": "최근 실리콘밸리에서는 AI발 개발자 해고가 많다고 전해지고 있습니다. 과연 현실은 어떠한지 링크드인, 팔로알토네트웍스를 거쳐 ...",
+        "thumbnail": "https://i.ytimg.com/vi/YhL7v75Wu7c/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "YhL7v75Wu7c",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
         "title": "Why Secondary Markets Are Eating the IPO | All-In Liquidity Secondary Markets Panel",
         "url": "https://www.youtube.com/watch?v=V0lFjTWx36I",
         "source": "All-In Podcast",
-        "published": "2026-06-07T18:26:25+00:00",
-        "summary": "(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties!\n(0:47) Secondary Markets are Booming & Competing with IPOs\n(3:10) Why Companies are Staying Private So Long?\n(9:22) SPVs, the Forge-Schwab Deal, Democratizing Private Market Access\n(13:28) Secondary Markets as Exit Liquidity fo",
-        "thumbnail": "https://i3.ytimg.com/vi/V0lFjTWx36I/hqdefault.jpg",
+        "published": "2026-06-07T18:26:25Z",
+        "summary": "(0:00) Brad Gerstner, Gavin Baker, and Kelly Rodriques join the Besties! (0:47) Secondary Markets are Booming & Competing ...",
+        "thumbnail": "https://i.ytimg.com/vi/V0lFjTWx36I/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "V0lFjTWx36I",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI 데이터센터 병목과 돈이 될 길목, 한눈에 정리 (김지현 SK 부사장)",
-        "url": "https://www.youtube.com/watch?v=j05Omg4tpqQ",
-        "source": "티타임즈TV",
-        "published": "2026-06-06T22:00:37+00:00",
-        "summary": "김지현 SK 부사장과 AI 인프라, 즉 AI 데이터센터에서 1차 반도체, 2차 전력, 3차 광케이블 등 네트워크에 이어 4차 병목은 어디서 올지 확인해보시죠. \n\n“AI 인프라의 병목은 첫 번째 GPU였어요. 그다음은 HBM이었고요. 묶어서 반도체였었죠. 두 번째 병목은 전력이거든요. 냉각을 포함해서 말이죠. 3번째 병목은 네트워크에요. 이제 본격적으로 올거거든요. 실리콘포토닉스와 같은 광케이블쪽이죠. 온디바이스 시장이 부상한다면 수많은 기지국에 소규모 데이터센터가 들어갈 수 있습니다. 그리고 1~2년 후에 올 4차 병목이 있습니다",
-        "thumbnail": "https://i3.ytimg.com/vi/j05Omg4tpqQ/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "j05Omg4tpqQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Vanguard forced out Saint Jack Bogle in 1999",
-        "url": "https://www.youtube.com/shorts/03IdZlyiyIs",
-        "source": "Acquired",
-        "published": "2026-06-06T21:23:31+00:00",
-        "summary": "#business #podcast \n\n🎙 From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-        "thumbnail": "https://i1.ytimg.com/vi/03IdZlyiyIs/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "03IdZlyiyIs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "NASA Just Tested Its New Supersonic Plane",
-        "url": "https://www.youtube.com/shorts/6MJv7A17j60",
-        "source": "Cleo Abram",
-        "published": "2026-06-06T17:58:05+00:00",
-        "summary": "This new plane flies FASTER THAN SOUND but QUIETLY.\n\nAnd it’s a big deal for bringing back supersonic planes YOU can fly in! \n\nNASA just did a recent flight test to see how it handles aerodynamic stress.\n\nTo see the plane up close, go watch our longer video!\n\n#NASA #supersonic #X59 #plane #sonicboom",
-        "thumbnail": "https://i3.ytimg.com/vi/6MJv7A17j60/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "6MJv7A17j60",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel",
-        "url": "https://www.youtube.com/watch?v=jLICvWE7w2Q",
-        "source": "All-In Podcast",
-        "published": "2026-06-06T16:30:25+00:00",
-        "summary": "(0:00) CEOs Andrew Feldman (Cerebras) and Will Marshall (Planet Labs) join the Besties!\n(2:05) Both CEOs on going public: Impact on employees, customers, and business operations\n(13:18) Timelines for datacenters in space\n(19:28) Cerebras business breakdown, AI's impact on the silicon market\n(24:45) ",
-        "thumbnail": "https://i3.ytimg.com/vi/jLICvWE7w2Q/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "jLICvWE7w2Q",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Emergent: How Six Months of Tinkering Led To A $100M ARR Company",
-        "url": "https://www.youtube.com/watch?v=yyXCQHX55N4",
-        "source": "Y Combinator",
-        "published": "2026-06-06T12:30:10+00:00",
-        "summary": "Mukund Jha is the co-founder and CEO of Emergent, a platform that lets anyone without programming knowledge build, ship, and monetize real software by chatting with an AI agent. Launched roughly nine months ago, Emergent has surpassed 8.5 million users across 190 countries, seen more than 10 million",
-        "thumbnail": "https://i2.ytimg.com/vi/yyXCQHX55N4/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "yyXCQHX55N4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "장어 80%를 수입하는 일본 초비상!",
-        "url": "https://www.youtube.com/watch?v=4giHXpB8ajk",
-        "source": "슈카월드",
-        "published": "2026-06-06T10:18:04+00:00",
-        "summary": "0:00 EU 장어 국제 거래 규제 주장\n7:57 한중일 3국 도원결의\n17:18 장어 80% 수입하는 일본 비상\n22:24 장어 양식이 어려운 이유",
-        "thumbnail": "https://i1.ytimg.com/vi/4giHXpB8ajk/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "4giHXpB8ajk",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Somalia’s Government Implodes: What Next?",
-        "url": "https://www.youtube.com/watch?v=YvKwnUkrX-o",
-        "source": "TLDR News Global",
-        "published": "2026-06-06T09:30:30+00:00",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nViolence erupted in Mogadishu between government forces and opposition groups as the culmination of long-running disputes surrounding electoral reforms. So in this video we'll explain the history behind the fighting and why this is e",
-        "thumbnail": "https://i2.ytimg.com/vi/YvKwnUkrX-o/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "YvKwnUkrX-o",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "토큰 맥싱보다 토큰 성과, 토큰비용 관리가 경영이슈 된다 (김지현 SK 부사장)",
-        "url": "https://www.youtube.com/watch?v=hZ0--lhuOsU",
-        "source": "티타임즈TV",
-        "published": "2026-06-05T22:00:33+00:00",
-        "summary": "테크회사들에서 개발자의 성과를 '토큰을 얼마나‘ 썼는가로 평가한다고 하죠. 소위 토큰 맥싱입니다. 토큰을 많이 쓴 인재가 일도 많이 한다는 전제입니다. 하지만 향후 토큰 비용 관리가 기업의 화두가 될 것이라는 전망입니다. 어느 정도의 산출물에 어느 정도 토큰이 들어갔는지, 즉 토큰이 얼마로 성과로 이어졌는지, 토큰을 얼마나 값싸게 잘 썼느냐가 기업경영의 이슈가 될 거란 얘기입니다. \n\n편집 : 강채은 영상디자이너\n촬영 : 장민주 PD\n자료 : 박성수 PD \n진행 : 홍재의 기자 \n섬네일 : 박수형 영상디자이너 \n\n▶티타임즈 공식 홈",
-        "thumbnail": "https://i1.ytimg.com/vi/hZ0--lhuOsU/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "hZ0--lhuOsU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Investment fees matter more than you think",
-        "url": "https://www.youtube.com/shorts/sIu3gWdl1wo",
-        "source": "Acquired",
-        "published": "2026-06-05T21:43:29+00:00",
-        "summary": "#business #podcast \n\n🎙 From Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
-        "thumbnail": "https://i4.ytimg.com/vi/sIu3gWdl1wo/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "sIu3gWdl1wo",
-          "via": "rss"
+          "via": "api"
         }
       }
     ]
