@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-10T03:33:59.454995+00:00",
+  "generated_at": "2026-06-11T03:48:05.517626+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Live Updates: U.S. Launches Strikes on Iran; Tehran Claims Attacks on U.S. Fleet",
-        "url": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
-        "source": "NYT World",
-        "published": "2026-06-10T03:19:53+00:00",
-        "summary": "The exchange came after President Trump said Iranian forces had shot down a U.S. Apache helicopter near the Strait of Hormuz.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: AFL greats arrive for Neale Daniher’s state funeral; One Nation says it will ‘target Labor-held seats’",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/10/australia-news-live-penny-wong-sanctions-west-bank-settlers-australian-politics-high-court-israel-palestine-settlers-immigration-ntwnfb",
+        "title": "Australia news live: PM casts doubt on One Nation’s $1.9m donation claim; radio listeners abandon Kiis after Kyle and Jackie O exit",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/11/australia-news-live-labor-coalition-one-nation-anthony-albanese-pauline-hanson-capital-gains-housing-peptides-arthritis-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-06-10T03:19:05+00:00",
-        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastAlbanese says Australia still impacted by Middle East conflict ‘each and every day’The prime minister, Anthony Albanese, is now on the ABC News Breakfast couch. He said Australia remains concerned about the economic impact of the turmoil in the Middle East.Our job now is to demonstrate that we are a genuine and cred",
+        "published": "2026-06-11T03:28:33+00:00",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastWong not ‘interested’ in One Nation’s fundraisingWong says she isn’t concerned about One Nation’s fundraising efforts, but more about their policies. Pauline Hanson’s party says it has raised more than $1.5m in the last day, although those claims are unverified.I’m less interested in what Pauline Hanson fundraises a",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
-        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-06-10T03:12:34+00:00",
-        "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Bolivia approves military measures against nationwide protests",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/bolivia-approves-military-measures-against-nationwide-protests?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-10T03:09:22+00:00",
-        "summary": "Bolivia approves military measures against nationwide protests.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran strikes Bahrain and Jordan in retaliation for US attacks in Hormuz",
-        "url": "https://www.aljazeera.com/news/2026/6/10/iran-strikes-bahrain-and-jordan-in-retaliation-for-us-attacks-in-hormuz?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-10T02:58:08+00:00",
-        "summary": "Strikes come after US attacked Iranian ports and islands in the Strait of Hormuz over the downing of a helicopter.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Protesters torch cars, buildings in Belfast after knife attack",
-        "url": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-10T02:23:18+00:00",
-        "summary": "Unrest comes after a Sudanese man was arrested over a stabbing attack in north Belfast, UK.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Belfast plunged into chaos as vehicles set ablaze following stabbing attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_belfast-plunged-into-chaos-as-vehicles-set-ablaze-090626?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-10T02:13:23+00:00",
-        "summary": "Al Jazeera&#039;s Milena Veselinovic reports from Belfast, where protests have escalated into violent riots.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump’s Sharp Turn on China: Embracing It as a Peer Power",
-        "url": "https://www.nytimes.com/2026/06/09/us/politics/trump-china-taiwan.html",
+        "title": "Iran War Live Updates: U.S. and Iran Trade Strikes for a Second Day",
+        "url": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
         "source": "NYT World",
-        "published": "2026-06-10T02:00:07+00:00",
-        "summary": "President Trump’s warming with Xi Jinping of China, a leader he admires, has ignited anxieties in Washington and across Asia.",
+        "published": "2026-06-11T03:20:39+00:00",
+        "summary": "The exchanges raise the specter of a return to all-out war in the Middle East.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "FIFA’s Infantino defends US as World Cup host amid visa row, entry denials",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/fifas-infantino-defends-us-as-world-cup-host-amid-visa-row-entry-denials?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-11T03:07:23+00:00",
+        "summary": "FIFA chief says his organisation cannot rule on government policies after a Somali referee was denied entry into the US.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australian billionaire Brett Blundy wages high-stakes campaign to oust chair of Victoria’s Secret",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/11/brett-blundy-bbrc-victorias-secret",
+        "source": "The Guardian World",
+        "published": "2026-06-11T02:51:40+00:00",
+        "summary": "Blundy’s investment firm, BBRC International, owns about 13% of the US-listed lingerie brand, giving it a potential platform to launch a hostile takeoverFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralian billionaire Brett Blundy is waging a high-stakes campaign to oust the long-term chair of Victoria’s Secret &amp; Co, settin",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "States tell Albanese government that NDIS changes could mean people with disabilities are shifted into hospitals",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/11/ndis-disabilities-overhaul-hospital-australia",
+        "source": "The Guardian World",
+        "published": "2026-06-11T02:49:03+00:00",
+        "summary": "Plan to move 240,000 people off scheme leads states and territories to jointly warn they can’t ‘deliver like-for-like services to people who are exited from the NDIS’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastState and territory disability ministers have rung alarm bells over the Albanese government’s proposed overhaul of the ND",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Peter Weir receives inaugural AFTRS lifetime achievement award",
+        "url": "https://www.theguardian.com/film/2026/jun/11/peter-weir-director-film-maker-aftrs-lifetime-achievement-award",
+        "source": "The Guardian World",
+        "published": "2026-06-11T02:44:02+00:00",
+        "summary": "Director of Picnic at Hanging Rock and Gallipoli celebrated for defining Australian culture and ‘global influence on craft, form and storytelling’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPeter Weir, the director of Dead Poets Society, The Truman Show, Picnic at Hanging Rock and Gallipoli, was presented with the inaugural lifet",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Indonesian Military Court Sentences Four in Acid Attack on Rights Advocate",
+        "url": "https://www.nytimes.com/2026/06/10/world/asia/indonesia-military-acid-attack-andrie.html",
+        "source": "NYT World",
+        "published": "2026-06-11T02:41:01+00:00",
+        "summary": "The victim is an outspoken critic of Indonesia’s powerful military, and military prosecutors took over the case despite his objections.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Which World Cup teams, players and officials were denied US visas, entry?",
+        "url": "https://www.aljazeera.com/sports/2026/6/11/which-world-cup-teams-players-and-officials-were-denied-us-visas-entry?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-11T02:24:07+00:00",
+        "summary": "Top Somali referee Omar Artan latest victim of stringent US travel policies after Iranian squad&#039;s visas were delayed.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Rich Sutton on AI creativity and discovery",
-        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+        "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+        "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+        "source": "Wired",
+        "published": "2026-06-11T03:11:22+00:00",
+        "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "AI agent runs amok in Fedora and elsewhere",
+        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
         "source": "Hacker News Front",
-        "published": "2026-06-10T02:25:24+00:00",
-        "summary": "https://www.youtube.com/watch?v=K5LAFEjTlBA\n\nComments URL: https://news.ycombinator.com/item?id=48470581\nPoints: 26\n# Comments: 8",
+        "published": "2026-06-11T00:10:08+00:00",
+        "summary": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/\nComments URL: https://news.ycombinator.com/item?id=48484584\nPoints: 170\n# Comments: 41",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "German ruling declares Google liable for false answers in AI Overviews",
-        "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-        "source": "Hacker News Front",
-        "published": "2026-06-10T01:44:13+00:00",
-        "summary": "Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/\nComments URL: https://news.ycombinator.com/item?id=48470248\nPoints: 96\n# Comments: 29",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "macOS Container Machines",
-        "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-        "source": "Hacker News Front",
-        "published": "2026-06-10T00:29:01+00:00",
-        "summary": "Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md\nComments URL: https://news.ycombinator.com/item?id=48469658\nPoints: 284\n# Comments: 112",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Google just fired a warning shot in the AI subscription price wars",
-        "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-        "source": "TechCrunch",
-        "published": "2026-06-10T00:26:10+00:00",
-        "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "It's death",
-        "url": "https://jesseduffield.com/ITS-DEATH/",
-        "source": "Hacker News Front",
-        "published": "2026-06-09T23:44:16+00:00",
-        "summary": "Article URL: https://jesseduffield.com/ITS-DEATH/\nComments URL: https://news.ycombinator.com/item?id=48469347\nPoints: 126\n# Comments: 29",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "I tried Siri AI, and so far it actually works",
-        "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+        "title": "Bluesky is getting ‘communities’",
+        "url": "https://www.theverge.com/tech/948215/bluesky-communities-at-protocol-atmosphere-reddit",
         "source": "The Verge",
-        "published": "2026-06-09T23:43:00+00:00",
-        "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After [&#8230;]",
+        "published": "2026-06-11T00:05:48+00:00",
+        "summary": "Bluesky will be getting \"communities,\" which will function as smaller spaces where you can \"go deeper and hang out with people who care about the same stuff\" sometime this year, according to head of product Alex Benzer. They will be built on the decentralized AT Protocol that underpins Bluesky, with Benzer saying that \"it's a [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-        "source": "TechCrunch",
-        "published": "2026-06-09T23:17:51+00:00",
-        "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: Nucleus – A security-hardened, Nix-native container runtime",
-        "url": "https://github.com/sig-id/nucleus",
+        "title": "Deficient executive control in transformer attention",
+        "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
         "source": "Hacker News Front",
-        "published": "2026-06-09T23:03:40+00:00",
-        "summary": "Hi HN, I've been building Nucleus, a lightweight Linux container runtime focused on two workloads: ephemeral AI-agent sandboxes and declarative NixOS services. It's a single Rust binary, no daemon.It is not a Docker replacement and not a strict subset of Docker either. I dropped the entire image-and-distribution half (no Dockerfile, no layers, no registry, no pull/push, no persistent storage layer",
+        "published": "2026-06-10T23:35:01+00:00",
+        "summary": "Article URL: https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838\nComments URL: https://news.ycombinator.com/item?id=48484282\nPoints: 22\n# Comments: 8",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Framework delays its first Laptop 13 Pro shipments by a month",
+        "url": "https://www.theverge.com/gadgets/948044/framework-laptop-13-pro-delay-shipment-july-august",
+        "source": "The Verge",
+        "published": "2026-06-10T23:12:51+00:00",
+        "summary": "The Framework Laptop 13 Pro is delayed. The new 13-inch Framework flagship was set to launch in June, but shipments from the first batch are now expected in July - and there's still a chance some shipments could slip to early August. If you're not in the first batch, your Laptop 13 Pro shifts from [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Apple’s new Siri AI knows when to shut up",
+        "url": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+        "source": "The Verge",
+        "published": "2026-06-10T22:52:17+00:00",
+        "summary": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery and wordy. While a more [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Unix GC Remastered",
+        "url": "https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/",
+        "source": "Hacker News Front",
+        "published": "2026-06-10T22:48:58+00:00",
+        "summary": "Article URL: https://mohandacherir.github.io/Qdiv7/posts/unix_new_gc/\nComments URL: https://news.ycombinator.com/item?id=48483854\nPoints: 18\n# Comments: 2",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+        "source": "TechCrunch",
+        "published": "2026-06-10T22:31:19+00:00",
+        "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,65 +186,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "당근·번개장터·중고나라, 안심결제 확대로 수수료 매출 ‘껑충’",
-        "url": "https://byline.network/2026/06/609/",
+        "title": "‘3755만 유출·1117만 무단수집’ 개보위, 쿠팡에 6246억원 과징금 부과",
+        "url": "https://byline.network/2026/06/11_2188273/",
         "source": "ByLine Network",
-        "published": "2026-06-10T01:26:19+00:00",
-        "summary": "올해 1분기 중고거래 플랫폼 당근, 번개장터, 중고나라 중개 수수료 매출이 동반 상승했다. 세 플랫폼 안심결제 적용 범위 확대가 매출 증가로 이어지고 있다.",
+        "published": "2026-06-11T02:51:02+00:00",
+        "summary": "이용자 3755만명 개인정보를 무단유출하고, 11회원 동의없이 타 웹앱 이용이력 등을 수집, 활용한 개인정보보호위원회(이하 개보위)가 역대 최대 과징금을 부과했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Wise alumni raise $2m pre-seed for AI tax startup",
-        "url": "https://sifted.eu/articles/record-os-2m-pre-seed/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-10T00:01:14+00:00",
-        "summary": "",
+        "title": "카카오 노조 “카카오의 후진적 관행을 바꾸길 원한다”",
+        "url": "https://byline.network/2026/06/kakao-2/",
+        "source": "ByLine Network",
+        "published": "2026-06-10T22:48:59+00:00",
+        "summary": "카카오 창사 이래 처음으로 진행된 본사 4시간 파업에서 박영준 전국화학섬유식품산업노동조합(화섬식품노조) 수도권지부장은 앞에서 이같이 말했다. 10일 경기도 성남시에 위치한 카카오아지트 앞에서 열린 파업 행진과 결의대회에 카카오, 카카오페이, 카카오엔터프라이즈, 디케이테크인, 엑스엘게임즈 5개 법인이 참여했다. 파업 참여 인원은 노조 측 추산에 따르면 700여명이며 전체 법인 기준 1500명을 돌파했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "UK AI Hardware Plan ‘significant step’ forward, but missing key energy question",
-        "url": "https://sifted.eu/articles/uk-announces-new-1-1bn-bet-on-ai-infrastructure/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-09T16:41:19+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "All the decacorns in Europe: listed",
-        "url": "https://sifted.eu/articles/all-the-decacorns-in-europe-listed/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-09T12:00:25+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "AI Services And Robotics Lead Diverse Crop Of 29 New May Unicorns As SpaceX, Anthropic And OpenAI Line Up Blockbuster Exits",
-        "url": "https://news.crunchbase.com/venture/new-unicorn-startups-may-2026-openai-anthropic-ipos-spacex-robotics/",
+        "title": "The Crunchbase Tech Layoffs Tracker",
+        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
         "source": "Crunchbase News",
-        "published": "2026-06-09T11:00:24+00:00",
-        "summary": "A total of 29 companies joined The Crunchbase Unicorn Board in May, but the standout trend was not new AI models, but rather the businesses helping enterprises put AI to work.",
+        "published": "2026-06-10T17:45:30+00:00",
+        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Isar Aerospace raises €270m to scale launch operations",
-        "url": "https://sifted.eu/articles/isar-aerospace-raises-e270m-to-scale-launch-operations/",
+        "title": "Google DeepMind chose these startups for its first robotics accelerator",
+        "url": "https://sifted.eu/articles/google-deepmind-chose-these-startups-for-its-first-robotics-accelerator/",
         "source": "Sifted (EU startups)",
-        "published": "2026-06-09T10:09:53+00:00",
+        "published": "2026-06-10T17:00:08+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,27 +230,139 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[심재석의 입장] 펀블의 퇴장을 보며, 샌드박스를 되돌아보다",
-        "url": "https://byline.network/2026/06/sandbox/",
-        "source": "ByLine Network",
-        "published": "2026-06-09T09:15:34+00:00",
-        "summary": "지난달 조각투자 플랫폼 펀블이 서비스 종료를 발표했다. 수익증권 투자중개업 본인가 취득에 실패한 끝에 고객 자산 청산 절차에 들어간 것이다. 사실상 폐업 수순을 밟을 것으로 보인다. 이 소식을 접하고, 나는 2년 전 한 장면이 떠올랐다.",
+        "title": "London's AI talent war heats up as Cursor, Legora and Lovable expand",
+        "url": "https://sifted.eu/articles/londons-ai-talent-war-heats-up-as-cursor-legora-and-lovable-expand/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-10T16:53:54+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "왜 저기만 먼저? 게임사들의 ‘소프트 론칭’ 전략",
-        "url": "https://byline.network/2026/06/9-447/",
+        "title": "Neura Robotics raises $1.4bn backed by Amazon, Nvidia and Qualcomm",
+        "url": "https://sifted.eu/articles/neura-robotics-1-4bn-series-c/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-10T16:22:17+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Revolut product blitz curbed by European authorities",
+        "url": "https://sifted.eu/articles/european-authorities-curb-revolut/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-10T11:57:47+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "빅테크·보안업계, AI 에이전트 보안 솔루션 강화",
+        "url": "https://byline.network/2026/06/10-664/",
         "source": "ByLine Network",
-        "published": "2026-06-09T08:54:16+00:00",
-        "summary": "최근 정식 출시 전 일부 국가에 먼저 게임을 선보이는 사례가 늘어나고 있다. 이른바 '소프트 론칭' 전략이다. 공개 테스트처럼 개발 단계 빌드를 점검하는 것과는 다르다. 정식 서비스 전 완성 단계 빌드를 특정 지역에 먼저 출시해 이용자 반응과 주요 지표를 확인하고, 이를 바탕으로 게임 완성도를 높이거나 글로벌 출시 전략을 조정하는 것이다.",
+        "published": "2026-06-10T11:49:18+00:00",
+        "summary": "AI 에이전트가 기업의 보안 관리 대상으로 떠오르면서 빅테크와 보안 기업들이 AI 에이전트를 통제하는 솔루션을 잇달아 내놓고 있다.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner",
+        "url": "https://www.youtube.com/watch?v=0y28p0jqPro",
+        "source": "All-In Podcast",
+        "published": "2026-06-10T18:46:55Z",
+        "summary": "(0:00) PA Senators Fetterman and McCormick join the Besties (0:33) How Bipartisanship Actually Works in 2025 (6:38) Why the ...",
+        "thumbnail": "https://i.ytimg.com/vi/0y28p0jqPro/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "0y28p0jqPro",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What If The Earth Was Flat?",
+        "url": "https://www.youtube.com/watch?v=YSAwI50XS00",
+        "source": "Cleo Abram",
+        "published": "2026-06-10T15:38:44Z",
+        "summary": "What would happen if the Earth was actually flat? Would we… fall off? Would we spin to the edge? To find out how scientists know ...",
+        "thumbnail": "https://i.ytimg.com/vi/YSAwI50XS00/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "YSAwI50XS00",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The CEO Must Be the Chief AI Officer",
+        "url": "https://www.youtube.com/watch?v=mPAHvz8kW24",
+        "source": "Y Combinator",
+        "published": "2026-06-10T14:30:40Z",
+        "summary": "Brex co-founder and CEO Pedro Franceschi believes most people still underestimate how much AI will change the way ...",
+        "thumbnail": "https://i.ytimg.com/vi/mPAHvz8kW24/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "mPAHvz8kW24",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "우리나라에 강제노동이 있나요?",
+        "url": "https://www.youtube.com/watch?v=ZbvnTXAFA3A",
+        "source": "슈카월드",
+        "published": "2026-06-10T10:18:43Z",
+        "summary": "0:00 전세계 강제 노동을 막으러 트럼프가 간다. 16:25 기존 관세 15%에 비해서 좀 내려갔네요? 이득인가?",
+        "thumbnail": "https://i.ytimg.com/vi/ZbvnTXAFA3A/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "ZbvnTXAFA3A",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "제미나이 옴니와 플래시 3.5 시연, 평가는? (최지웅 유캔랩스 대표)",
+        "url": "https://www.youtube.com/watch?v=3iIAXsf2iho",
+        "source": "티타임즈TV",
+        "published": "2026-06-10T09:00:39Z",
+        "summary": "제미나이는 저렴하게 다양한 서비스를 이용하기 적절한 모델입니다. 일반 챗봇 기능부터 코딩, 이미지 생성, 영상 생성, 슬라이드나 ...",
+        "thumbnail": "https://i.ytimg.com/vi/3iIAXsf2iho/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "3iIAXsf2iho",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is the SpaceX IPO a Scam?",
+        "url": "https://www.youtube.com/watch?v=XSsiOb_aht4",
+        "source": "TLDR News Global",
+        "published": "2026-06-10T08:30:34Z",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going ...",
+        "thumbnail": "https://i.ytimg.com/vi/XSsiOb_aht4/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "XSsiOb_aht4",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -306,21 +396,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI&#39;s Atari Stage",
-        "url": "https://www.youtube.com/watch?v=0umrMuUClC4",
-        "source": "All-In Podcast",
-        "published": "2026-06-09T15:30:54Z",
-        "summary": "(0:00) Bill Maris joins the Besties! (0:33) Four critical lessons from a career in technology (5:58) Building Google Ventures with ...",
-        "thumbnail": "https://i.ytimg.com/vi/0umrMuUClC4/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "0umrMuUClC4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "엔비디아와 삼성, SK, 현대차, LG, 네이버의 득실은 (김지현 부사장)",
         "url": "https://www.youtube.com/watch?v=aENdfXK9g4g",
         "source": "티타임즈TV",
@@ -345,81 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "kkrndghn4v4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why South Korea’s Economy Looks a Bit Bubbly",
-        "url": "https://www.youtube.com/watch?v=TRUDIJy-UGI",
-        "source": "TLDR News Global",
-        "published": "2026-06-09T09:30:30+00:00",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nOrder a copy of our magazine Too Long: https://toolong.news/TL008\n\nIn this video, we’re going to look at South Korea’s economic boom, and why it’s b",
-        "thumbnail": "https://i1.ytimg.com/vi/TRUDIJy-UGI/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "TRUDIJy-UGI",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "월스트리트가 천재들을 죽이고 있습니다 | QFEX, Annanay Kapila",
-        "url": "https://www.youtube.com/watch?v=m-jTA7tyEQ0",
-        "source": "EO 이오",
-        "published": "2026-06-09T09:01:41Z",
-        "summary": "하루 15조 원을 굴리던 퀀트 트레이더. Annanay Kapila는 어느 순간 자신이 하는 일에 의문이 들었습니다. S&P 500 선물은 3개월마다 ...",
-        "thumbnail": "https://i.ytimg.com/vi/m-jTA7tyEQ0/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "m-jTA7tyEQ0",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI로 만드는 브랜드 콘텐츠: 이미지부터 영상, 상세페이지까지 실습 강연",
-        "url": "https://www.youtube.com/watch?v=_PtORP1njcE",
-        "source": "티타임즈TV",
-        "published": "2026-06-09T02:00:35Z",
-        "summary": "유튜브 시대도 놓쳤는데, AI시대도 놓칠 건가요? 일단 배워놓아야 언제든 시작할 수 있습니다 티타임즈만의 맞춤, 온라인 라이브 ...",
-        "thumbnail": "https://i.ytimg.com/vi/_PtORP1njcE/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "_PtORP1njcE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Startup School is back!",
-        "url": "https://www.youtube.com/watch?v=qr6kVSKqBqo",
-        "source": "Y Combinator",
-        "published": "2026-06-08T22:21:00Z",
-        "summary": "Two days, packed with world-class speakers, hands-on demos, small group sessions with YC partners, and a room full of the most ...",
-        "thumbnail": "https://i.ytimg.com/vi/qr6kVSKqBqo/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "qr6kVSKqBqo",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Old Diamonds REALLY Are",
-        "url": "https://www.youtube.com/watch?v=B9vdFqX5qJc",
-        "source": "Cleo Abram",
-        "published": "2026-06-08T14:41:38Z",
-        "summary": "Most people don't understand how old diamonds really are. So we made a timeline to show you..starting from TODAY and going ...",
-        "thumbnail": "https://i.ytimg.com/vi/B9vdFqX5qJc/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "B9vdFqX5qJc",
           "via": "api"
         }
       }
