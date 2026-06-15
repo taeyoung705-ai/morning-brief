@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-14T03:54:30.326130+00:00",
+  "generated_at": "2026-06-15T04:06:13.870247+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: NSW lifts drone ban over Sydney beach after shark attack; Australian child killed in Pakistanralian child killed in Pakistan",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb",
+        "title": "Australia news live: Victoria to require device-free time in schools; experts back Labor’s tax reforms in Senate review",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
         "source": "The Guardian World",
-        "published": "2026-06-14T03:42:04+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastThe Senate will deliver its report from the NDIS inquiry on Tuesday. Butler doesn’t directly answer a question about whether or not he is willing to make any significant changes to the legislation the government has put forward.He says:Look, the direction of travel I think is an important one for us to follow thro",
+        "published": "2026-06-15T03:48:35+00:00",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastThe prime minister and foreign minister have issued a lengthier statement welcoming the agreement made by the US and Iran, and called for continued restraint to avoid further escalation.President Donald Trump made the announcement he had signed a deal this morning, saying the strait of Hormuz would be reopened.Conti",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australian girl killed in Pakistan after reportedly being shot dead by police",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/14/australian-girl-killed-pakistan-punjab-province-reportedly-shot-dead-by-police-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-14T03:39:19+00:00",
-        "summary": "Nine-year-old visiting relatives in Punjab province when police opened fire on car, local media reportFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA nine-year-old Australian girl has been killed and two of her family members injured after reportedly being shot by police in Pakistan.The family were visiting a relative in Chakwal, i",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Knicks win first NBA title in 53 years with win over Spurs in Game 5",
-        "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-14T03:37:55+00:00",
-        "summary": "The New York Knicks ended their championship drought on Saturday, winning the best-of-seven NBA Finals series 4-1.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
-        "url": "https://www.aljazeera.com/features/2026/6/14/lion-of-mesopotamia-how-aymen-hussein-beat-tragedy-to-reach-world-cup?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-14T03:28:30+00:00",
-        "summary": "Iraq’s ‘most expensive footballer’, striker who scored Iraq’s qualifying goal against Bolivia, talks to Al Jazeera.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Butler warns Coalition against using NDIS cuts as ‘pawn in bigger game’ and says bill delays could cost billions",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/14/butler-warns-coalition-against-using-ndis-cuts-as-pawn-in-bigger-game-and-says-bill-delays-could-cost-billions",
-        "source": "The Guardian World",
-        "published": "2026-06-14T03:24:41+00:00",
-        "summary": "Opposition and Greens could team up to extend inquiry into changes but health minister ‘utterly convinced’ federal government’s plan is rightFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMark Butler has doubled down on his plans to pass contentious NDIS changes as early as this month, warning the opposition against using the bill a",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Scotland beat Haiti 1-0 to mark a winning return to the World Cup",
-        "url": "https://www.aljazeera.com/sports/2026/6/14/scotland-beat-haiti-1-0-to-mark-a-winning-return-to-the-world?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-14T03:23:14+00:00",
-        "summary": "John McGinn&#039;s deflected goal gives the Scots a World Cup win for the first time since 1990.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Liberal frontbencher Jonno Duniam to quit politics, says leadership spill ‘started to really wear on me’",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/14/liberal-frontbencher-jonno-duniam-to-quit-politics-in-blow-to-struggling-coalition",
-        "source": "The Guardian World",
-        "published": "2026-06-14T02:17:12+00:00",
-        "summary": "Tasmanian senator says he feels he is ‘letting down the team’ but needs to prioritise familyFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLiberal frontbencher Jonno Duniam will quit politics before the end of the year, in another major blow to the struggling Coalition which is experiencing its lowest levels of popularity in decades",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran War Live Updates: Trump Says Peace Deal Will Be Signed Sunday, but Iran Disputes Timeline",
-        "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
+        "title": "Iran War Live Updates: U.S. and Tehran Reach Framework for Peace",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
         "source": "NYT World",
-        "published": "2026-06-14T01:22:54+00:00",
-        "summary": "An Iranian foreign ministry official sought to temper expectations, saying there were no plans for a Sunday signing and an agreement could be inked in the coming days.",
+        "published": "2026-06-15T03:44:56+00:00",
+        "summary": "The deal was expected to open the Strait of Hormuz and lift the U.S. naval blockade on Iranian ports. But it would leave the thorniest nuclear issues for another day.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Here’s the latest.",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/heres-the-latest",
+        "source": "NYT World",
+        "published": "2026-06-15T03:44:55+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-06-15T03:17:36+00:00",
+        "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Uruguay squad lands in US after flight delay ahead of World Cup opener",
+        "url": "https://www.aljazeera.com/sports/2026/6/15/uruguay-squad-lands-in-us-after-flight-delay-ahead-of-world-cup-opener?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-15T03:05:55+00:00",
+        "summary": "Uruguay arrived in the US less than 24 hours before the kickoff time for their game against Saudi Arabia.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Shark expert says Tony Abbott ‘doesn’t understand the science’ after former PM calls for cull",
+        "url": "https://www.theguardian.com/environment/2026/jun/15/shark-expert-says-tony-abbott-doesnt-understand-the-science-after-former-pm-calls-for-cull",
+        "source": "The Guardian World",
+        "published": "2026-06-15T03:02:29+00:00",
+        "summary": "Another expert says drone technology may have prevented a shark attack at Coogee beach on SaturdayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA shark behaviour expert says Tony Abbott “doesn’t understand the science” after the former prime minister called for sharks to be culled in the wake of an attack at a Sydney beach.A woman,",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Pakistani police officer arrested over shooting death of ‘happy, bubbly, friendly’ Australian girl Hania Ahmed",
+        "url": "https://www.theguardian.com/world/2026/jun/15/pakistani-police-officer-arrested-over-shooting-death-of-happy-bubbly-friendly-australian-girl-hania-ahmed",
+        "source": "The Guardian World",
+        "published": "2026-06-15T03:01:09+00:00",
+        "summary": "Punjab police said an officer mistakenly opened fire at the Ahmed family, who were victims of a robbery at ChakwalA Pakistani police officer has been stood down and arrested after mistakenly shooting dead a young Australian girl who was on holiday with her family.Australian-born Hania Ahmed and her family were visiting a relative at Chakwal, in Pakistan’s Punjab province, when they were robbed whi",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "World leaders welcome news the Strait of Hormuz could soon reopen.",
+        "url": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us/world-leaders-welcome-news-the-strait-of-hormuz-could-soon-reopen",
+        "source": "NYT World",
+        "published": "2026-06-15T02:56:06+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,93 +96,126 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "As Anthropic suspends access to new models, India debates its AI future",
-        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+        "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
         "source": "TechCrunch",
-        "published": "2026-06-14T03:00:00+00:00",
-        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+        "published": "2026-06-15T04:01:00+00:00",
+        "summary": "Orbio announces $21 Million Series A in round led by Dawn Capital.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Redistribution of Housing Wealth Caused by Rent Control [pdf]",
-        "url": "https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf",
+        "title": "Even More Batteries Included with Emacs",
+        "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
         "source": "Hacker News Front",
-        "published": "2026-06-14T02:59:34+00:00",
-        "summary": "Article URL: https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf\nComments URL: https://news.ycombinator.com/item?id=48523773\nPoints: 26\n# Comments: 20",
+        "published": "2026-06-15T02:30:25+00:00",
+        "summary": "Article URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/\nComments URL: https://news.ycombinator.com/item?id=48535886\nPoints: 22\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Building a serial and VGA \"everything console\"",
-        "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+        "title": "The hallucinogenic mushroom that contains no known psychedelic",
+        "url": "https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the",
         "source": "Hacker News Front",
-        "published": "2026-06-14T02:31:15+00:00",
-        "summary": "Article URL: http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html\nComments URL: https://news.ycombinator.com/item?id=48523615\nPoints: 5\n# Comments: 0",
+        "published": "2026-06-15T01:07:37+00:00",
+        "summary": "Article URL: https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the\nComments URL: https://news.ycombinator.com/item?id=48535215\nPoints: 42\n# Comments: 14",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Apt Encounters of the Third Kind",
-        "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
+        "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+        "url": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
         "source": "Hacker News Front",
-        "published": "2026-06-14T02:17:13+00:00",
-        "summary": "Article URL: https://igor-blue.github.io/2021/03/24/apt1.html\nComments URL: https://news.ycombinator.com/item?id=48523550\nPoints: 5\n# Comments: 1",
+        "published": "2026-06-15T00:07:32+00:00",
+        "summary": "Article URL: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/\nComments URL: https://news.ycombinator.com/item?id=48534628\nPoints: 26\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "4 things to know about the new sunscreen ingredient the FDA approved",
-        "url": "https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol",
+        "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+        "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
         "source": "Hacker News Front",
-        "published": "2026-06-14T01:10:46+00:00",
-        "summary": "Article URL: https://www.npr.org/2026/06/13/nx-s1-5856385/sunscreen-skin-protection-bemotrizinol\nComments URL: https://news.ycombinator.com/item?id=48523203\nPoints: 57\n# Comments: 17",
+        "published": "2026-06-14T22:54:55+00:00",
+        "summary": "Article URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/\nComments URL: https://news.ycombinator.com/item?id=48533848\nPoints: 270\n# Comments: 114",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-        "url": "https://juniperspring.org/posts/honda-evil-valet/",
-        "source": "Hacker News Front",
-        "published": "2026-06-14T00:49:46+00:00",
-        "summary": "Article URL: https://juniperspring.org/posts/honda-evil-valet/\nComments URL: https://news.ycombinator.com/item?id=48523080\nPoints: 91\n# Comments: 14",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+        "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+        "url": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
         "source": "TechCrunch",
-        "published": "2026-06-14T00:03:49+00:00",
-        "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+        "published": "2026-06-14T21:55:34+00:00",
+        "summary": "JPMorgan can't be pleased by any of this.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
-        "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+        "title": "Windows 11 users are tired of MS account requirements creeping into everything",
+        "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
         "source": "Hacker News Front",
-        "published": "2026-06-13T23:22:05+00:00",
-        "summary": "Article URL: https://www.phoronix.com/news/ReactOS-Running-Half-Life\nComments URL: https://news.ycombinator.com/item?id=48522486\nPoints: 131\n# Comments: 19",
+        "published": "2026-06-14T21:42:12+00:00",
+        "summary": "Article URL: https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds\nComments URL: https://news.ycombinator.com/item?id=48533101\nPoints: 127\n# Comments: 57",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The FBI built a small town to simulate cyberattacks",
+        "url": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+        "source": "The Verge",
+        "published": "2026-06-14T20:35:41+00:00",
+        "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store, gas station, hospital, and even fully furnished houses. It's a [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "startup": [
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "European tech has discovered some swagger",
+        "url": "https://sifted.eu/articles/europe-tech-swagger-2031/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-15T05:00:34+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Can the UK roll out military AI at startup speed?",
+        "url": "https://sifted.eu/articles/uk-defence-raid-rapid-ai-in-defence-taskforce/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-15T05:00:02+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "美 정부, 앤트로픽 ‘페이블5·미토스5’ 외국인 접속 차단",
+        "url": "https://byline.network/2026/06/15-595/",
+        "source": "ByLine Network",
+        "published": "2026-06-15T02:29:30+00:00",
+        "summary": "미국 정부가 앤트로픽의 최신 모델 ‘페이블5’와 ‘미토스5’에 외국인 접속을 차단했다. 안드레 카파시를 비롯해 미국 내 앤트로픽 소속의 외국인 직원도 접근할 수 없었다. 이에 앤트로픽은 모든 고객에게 페이블5와 미토스5 서비스 제공을 중단했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
       {
         "category": "startup",
         "kind": "article",
@@ -208,71 +241,72 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "앤트로픽 ‘Fable 5’·’Mythos 5’, 미 정부 수출통제로 차단",
+        "title": "데이터는 지켜도 모델이 끊긴다면… ‘AI 수출통제’와 소버린 AI",
+        "url": "https://platum.kr/archives/288841?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25eb%258a%2594-%25ec%25a7%2580%25ec%25bc%259c%25eb%258f%2584-%25eb%25aa%25a8%25eb%258d%25b8%25ec%259d%25b4-%25eb%2581%258a%25ea%25b8%25b4%25eb%258b%25a4%25eb%25a9%25b4-ai-%25ec%2588%2598%25ec%25b6%259c%25ed%2586%25b5%25ec%25a0%259c%25ec%2599%2580",
+        "source": "Platum",
+        "published": "2026-06-13T08:46:07+00:00",
+        "summary": "앤트로픽이 미국 정부의 수출통제 지침에 따라 최신 AI 모델 &#8216;페이블 5(Fable 5)&#8217;와 &#8216;미토스 5(Mythos 5)&#8217;의 접근을 출시 사흘 만에 차단했다. 이 사안에서 정작 눈여겨볼 대목은 차단의 &#8216;형식&#8217;이다. 미국 정부는 클라우드로 접속하는 AI 모델을 반도체나 정밀장비 같은 물리적 수출품과 같은 &#8216;수출통제&#8217; 틀로 다뤘다. 서버는 미국에 그대로 있고 코드 한 줄 국경을 넘지 않았지만, 외국인의 접속 자체가 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "앤트로픽 ‘페이블 5’·’미토스 5’, 미 정부 수출통제로 차단",
         "url": "https://platum.kr/archives/288835?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-fable-5%25c2%25b7mythos-5-%25eb%25af%25b8-%25ec%25a0%2595%25eb%25b6%2580-%25ec%2588%2598%25ec%25b6%259c%25ed%2586%25b5%25ec%25a0%259c%25eb%25a1%259c-%25ec%25b0%25a8%25eb%258b%25a8",
         "source": "Platum",
         "published": "2026-06-13T04:55:54+00:00",
-        "summary": "공개 배포된 최첨단 인공지능(AI) 모델이 미국 정부의 수출통제 지침으로 출시 사흘 만에 전면 차단됐다. 주요 AI 기업이 연방정부 개입으로 이미 배포한 상용 모델을 오프라인 처리한 사례는 이례적이다. 앤트로픽은 6월 12일(현지시간) 미국 정부로부터 자사 모델 &#8216;Fable 5&#8217;와 &#8216;Mythos 5&#8217;에 대한 수출통제 지침을 받았으며, 두 모델 접근을 모든 고객 대상으로 중단했다고 밝혔다. 회사는 현지시간 오후 5시 21분 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: NinjaOne Leads With $400M As Large Deals Also Go To Blockchain, Cloud Infrastructure, Biotech And Robotics",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-healthcare-ninjaone-leads/",
-        "source": "Crunchbase News",
-        "published": "2026-06-12T18:48:32+00:00",
-        "summary": "In the U.S., the largest financings went to enterprise software company NinjaOne and blockchain technology provider Digital Asset. The largest deals of the week, however, were for European companies.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Why SpaceX IPO could spark a ‘$200bn private markets boom’",
-        "url": "https://sifted.eu/articles/spacex-secondaries-ipo/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-12T17:10:16+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Pleo lays off 50 employees in latest round of cuts",
-        "url": "https://sifted.eu/articles/pleo-lays-off-50-employees/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-12T15:17:37+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Mistral in talks to raise at €20bn valuation, reports say",
-        "url": "https://sifted.eu/articles/report-mistral-raise-20bn-valuation/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-12T15:07:25+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "SpaceX Shares Close Up 19% After Largest IPO Of All Time",
-        "url": "https://news.crunchbase.com/public/spacex-record-breaking-ipo-spcx/",
-        "source": "Crunchbase News",
-        "published": "2026-06-12T13:00:25+00:00",
-        "summary": "The SpaceX offering caps a remarkable journey for a company that has raised nearly $12 billion in private investment since its founding in 2002 to become the world’s most valuable venture-backed startup. Along the way, the company helped redefine both the space industry and the late-stage venture market.",
+        "summary": "공개 배포된 최첨단 인공지능(AI) 모델이 미국 정부의 수출통제 지침으로 출시 사흘 만에 전면 차단됐다. 주요 AI 기업이 연방정부 개입으로 이미 배포한 상용 모델을 오프라인 처리한 사례는 이례적이다. 앤트로픽은 6월 12일(현지시간) 미국 정부로부터 자사 모델 &#8216;Fable 5(페이블 5)&#8217;와 &#8216;Mythos 5(미토스 5)&#8217;에 대한 수출통제 지침을 받았으며, 두 모델 접근을 모든 고객 대상으로 중단했다고 밝혔다. 회사는 현지시간 오후 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The SpaceX Falcon 1's first flight... not exactly a success",
+        "url": "https://www.youtube.com/shorts/zY8fZcyrulI",
+        "source": "Acquired",
+        "published": "2026-06-14T15:45:29+00:00",
+        "summary": "Full episode (from May 2020) here: https://www.acquired.fm/episodes/spacex",
+        "thumbnail": "https://i3.ytimg.com/vi/zY8fZcyrulI/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "zY8fZcyrulI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What If The Moon EXPLODED?",
+        "url": "https://www.youtube.com/shorts/oNUe_q4KTqY",
+        "source": "Cleo Abram",
+        "published": "2026-06-14T15:38:50+00:00",
+        "summary": "What would happen if the moon EXPLODED?\n\nWould tides disappear? Would big chunks RAIN DOWN on Earth? \n\nBut most people don’t understand HOW FAR AWAY the moon is! To see that, subscribe!\n\n#shorts #moon #explosion #space #gravity #science",
+        "thumbnail": "https://i4.ytimg.com/vi/oNUe_q4KTqY/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "oNUe_q4KTqY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "David Friedberg: California’s Voting System Looks Fraudulent, But It’s Working Exactly as Designed",
+        "url": "https://www.youtube.com/shorts/jKZeMwiDJRg",
+        "source": "All-In Podcast",
+        "published": "2026-06-14T14:00:04+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i3.ytimg.com/vi/jKZeMwiDJRg/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "jKZeMwiDJRg",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -291,7 +325,7 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "1,000억 투자 받은 AI 스타트업 대표의 찐 조언 | Gumloop, Max Brodeur-Urbas| Gumloop, Max Brodeur-Urbas",
+        "title": "1,000억 투자 받은 AI 스타트업 대표의 찐 조언 | Gumloop, Max Brodeur-Urbas",
         "url": "https://www.youtube.com/watch?v=lhj4jc2D1FQ",
         "source": "EO 이오",
         "published": "2026-06-13T09:00:11+00:00",
@@ -375,51 +409,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "KALguk2ro7w",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "5 Papers That Show Where AI Research Is Heading Right Now",
-        "url": "https://www.youtube.com/watch?v=3rWSvrFahIY",
-        "source": "Y Combinator",
-        "published": "2026-06-12T14:00:20+00:00",
-        "summary": "It's hard to keep up with the latest AI research. That's why we started YC Paper Club — a small group of researchers, engineers, and founders who meet every two weeks at our Mountain View office to present and discuss new papers together. In this session, we cover whether scaling laws hold for prote",
-        "thumbnail": "https://i4.ytimg.com/vi/3rWSvrFahIY/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "3rWSvrFahIY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "현직 대통령 얼굴을 화폐에 넣어도 되나요?",
-        "url": "https://www.youtube.com/watch?v=asbufYS_QE8",
-        "source": "슈카월드",
-        "published": "2026-06-12T11:14:45+00:00",
-        "summary": "0:00 미국 250달러 신권 디자인 확정?\n7:16 영국 파운드화 차세대 지폐 디자인 투표\n14:10 처칠보다 개구리가 낫다?\n19:47 '10만원권'이 나올 뻔했던 우리나라",
-        "thumbnail": "https://i2.ytimg.com/vi/asbufYS_QE8/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "asbufYS_QE8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Is Iran Becoming a Forever War?",
-        "url": "https://www.youtube.com/watch?v=qvx4_ZVbvcA",
-        "source": "TLDR News Global",
-        "published": "2026-06-12T09:40:51+00:00",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nOrder a copy of our magazine Too Long: https://toolong.news/TL008\n\nThe US and Iran are once again trading missile strikes, with tensions flaring up ",
-        "thumbnail": "https://i2.ytimg.com/vi/qvx4_ZVbvcA/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "qvx4_ZVbvcA",
           "via": "rss"
         }
       }
