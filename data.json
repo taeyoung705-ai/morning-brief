@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-18T03:44:14.133219+00:00",
+  "generated_at": "2026-06-19T04:07:54.281833+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: press gallery ‘strongly objects’ to One Nation threats to ban journalists",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb",
+        "title": "What Does It All Mean? Once a Year, French Students Try to Explain.",
+        "url": "https://www.nytimes.com/2026/06/19/world/europe/france-education-high-school-philosophy.html",
+        "source": "NYT World",
+        "published": "2026-06-19T04:01:06+00:00",
+        "summary": "The high school philosophy exam is a rite of passage for French students. This year included questions about Friedrich Nietzsche’s 1878 book, “Human, All Too Human.”",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Norway MP’s join viral World Cup ‘Viking Row’ trend",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/norway-mps-join-viral-world-cup-viking-row-trend?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-19T03:57:57+00:00",
+        "summary": "Norwegian lawmakers paused a parliamentary session on Thursday to perform the team&#039;s trademark “Viking Row” celebration.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australia news live: Tony Modra still in critical condition as wife thanks first responders after truck accident",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-06-18T03:30:41+00:00",
-        "summary": "Get our breaking news email, free app or daily news podcastCoalition says it’s good Hanson and One Nation getting the scrutiny of a party on the riseKevin Hogan, the shadow assistant treasurer, says he thinks it’s good Hanson was able to speak at the press club yesterday as One Nation “needs to be put under much more scrutiny” amid surging support.The GetUp stunt completely backfired, it makes the",
+        "published": "2026-06-19T03:55:37+00:00",
+        "summary": "Follow today’s news live• Get our breaking news email, free app or daily news podcastThere were two small earthquakes in New South Wales this morning, according to Geoscience Australia.A 3.4 magnitude quake hit near Orange around 5.45am this morning, with at least 108 people reporting they felt the shakes. And a 3.2 magnitude temblor hit near Wilcannia two hours earlier. Just two people reported f",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Team Medic Recounts Iran’s ‘Stressful’ World Cup Debut in L.A.",
-        "url": "https://www.nytimes.com/2026/06/17/world/middleeast/iran-world-cup-united-states.html",
-        "source": "NYT World",
-        "published": "2026-06-18T03:22:33+00:00",
-        "summary": "A member of Iran’s medical team says the team endured delays, multiple security searches and a rushed exit, frustrating players and officials.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump’s MoU with Iran draws backlash from some Republicans",
-        "url": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
+        "title": "Ukraine urges EU to pressure Russia to end war before winter",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/ukraine-urges-eu-to-pressure-russia-to-end-war-before-winter?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-18T03:11:41+00:00",
-        "summary": "Louisiana Senator Bill Cassidy blasts US-Iran MoU as &#039;worst foreign policy blunder in decades&#039;.",
+        "published": "2026-06-19T03:55:30+00:00",
+        "summary": "Ukrainian President Volodymyr Zelenskyy say his country will need help if the war with Russia continues into the winter.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump Defends Deal to End the War With Iran as Details Emerge",
-        "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
+        "title": "Burnham Wins Makerfield By-Election, Clearing Path to Challenge Starmer as UK Prime Minister",
+        "url": "https://www.nytimes.com/2026/06/18/world/europe/uk-makerfield-election.html",
         "source": "NYT World",
-        "published": "2026-06-18T03:09:17+00:00",
-        "summary": "President Trump lashed out at critics who say the agreement achieves less than the one President Barack Obama signed in 2015, and he threatened to bomb Iran again if it violated the deal.",
+        "published": "2026-06-19T03:46:09+00:00",
+        "summary": "Andy Burnham, Labour’s most popular politician, beat the populist right-wing Reform U.K. party in the Makerfield by-election. The decisive victory will energize his bid to become prime minister.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "U.S. Details Agreement With Iran as Trump Departs G7 Summit",
-        "url": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france",
+        "title": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israel-strikes-southern-lebanon-in-sudden-clash-surge-with-hezbollah?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-19T03:44:11+00:00",
+        "summary": "Israel strikes southern Lebanon in sudden clash surge with Hezbollah",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Vance Issues Blunt Warning to Israel as He Defends Trump’s Deal",
+        "url": "https://www.nytimes.com/live/2026/06/18/world/iran-war-trump-us-deal",
         "source": "NYT World",
-        "published": "2026-06-18T02:58:19+00:00",
-        "summary": "A U.S. official provided what was described as the text of the preliminary agreement, which outlined a $300 billion plan for Iran’s reconstruction and 60 days of talks on its nuclear program.",
+        "published": "2026-06-19T02:54:47+00:00",
+        "summary": "The vice president delivered a rebuke to Israeli critics of the agreement, warning them not to alienate their most important ally, as the administration sought to rebut mounting criticism of the deal.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Albanese announces ‘generous’ capital gains tax exemptions for small businesses after budget backlash",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/18/albanese-announces-generous-capital-gains-tax-exemptions-for-small-businesses-after-budget-backlash",
-        "source": "The Guardian World",
-        "published": "2026-06-18T02:28:12+00:00",
-        "summary": "Startups and testamentary trusts to receive carve outs after criticism of Labor’s CGT changesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAll of Australia’s 2.7m small businesses will receive “generous” exemptions from capital gains tax, as Anthony Albanese flagged startups and testamentary trusts would receive carve outs from the",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Netanyahu under pressure in Israel after US-Iran agreement",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-18T02:27:44+00:00",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu is facing mounting pressure after he was cut out of the US-Iran agreement.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Who benefits from Zimbabwe’s lithium boom?",
-        "url": "https://www.aljazeera.com/news/2026/6/18/who-benefits-from-zimbabwes-lithium-boom?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-18T02:26:51+00:00",
-        "summary": "New projects and foreign-backed mines are reshaping Zimbabwe’s lithium sector, with uneven local gains.",
+        "title": "Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims",
+        "url": "https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html",
+        "source": "NYT World",
+        "published": "2026-06-19T02:54:45+00:00",
+        "summary": "The vice president said the United States had leverage to dictate the outcome of the next round of negotiations. But he claimed incorrectly that Iran got no new benefit from the lifting of oil sanctions.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-        "source": "The Verge",
-        "published": "2026-06-18T03:12:31+00:00",
-        "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "[x86] AI Compute Extensions (ACE) Specification",
-        "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+        "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
         "source": "Hacker News Front",
-        "published": "2026-06-18T02:32:01+00:00",
-        "summary": "Article URL: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/\nComments URL: https://news.ycombinator.com/item?id=48579913\nPoints: 8\n# Comments: 2",
+        "published": "2026-06-19T01:06:27+00:00",
+        "summary": "Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/\nComments URL: https://news.ycombinator.com/item?id=48593731\nPoints: 41\n# Comments: 10",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Midjourney Medical",
-        "url": "https://www.midjourney.com/medical/blogpost",
+        "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+        "url": "https://www.flexport.com/company/careers/",
         "source": "Hacker News Front",
-        "published": "2026-06-18T01:59:51+00:00",
-        "summary": "https://www.midjourney.com/medicalVideo: https://x.com/midjourney/status/2067422898407837797\n\nComments URL: https://news.ycombinator.com/item?id=48579650\nPoints: 183\n# Comments: 177",
+        "published": "2026-06-19T01:01:13+00:00",
+        "summary": "Article URL: https://www.flexport.com/company/careers/\nComments URL: https://news.ycombinator.com/item?id=48593694\nPoints: 0\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "How to turn off AI in your Google Docs",
-        "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+        "title": "Telegram ban in India sparks a rush to VPNs, rival apps",
+        "url": "https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/",
         "source": "TechCrunch",
-        "published": "2026-06-18T01:23:51+00:00",
-        "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+        "published": "2026-06-19T01:01:00+00:00",
+        "summary": "Telegram argues India should block specific content, not an entire platform used by millions.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
-        "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-        "source": "Hacker News Front",
-        "published": "2026-06-18T00:24:04+00:00",
-        "summary": "Article URL: https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt\nComments URL: https://news.ycombinator.com/item?id=48578894\nPoints: 68\n# Comments: 91",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-        "url": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+        "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+        "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
         "source": "TechCrunch",
-        "published": "2026-06-17T23:28:21+00:00",
-        "summary": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\"",
+        "published": "2026-06-19T00:51:11+00:00",
+        "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-        "url": "https://www.horg.com/horg/?page_id=921",
-        "source": "Hacker News Front",
-        "published": "2026-06-17T23:20:38+00:00",
-        "summary": "Article URL: https://www.horg.com/horg/?page_id=921\nComments URL: https://news.ycombinator.com/item?id=48578388\nPoints: 86\n# Comments: 16",
+        "title": "A bold satellite rescue mission came together in record time, but will it work?",
+        "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+        "source": "Ars Technica",
+        "published": "2026-06-19T00:39:30+00:00",
+        "summary": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Clojure Hosted on Go",
-        "url": "https://github.com/glojurelang/glojure",
+        "title": "Update on Ocean Observatories Initiative",
+        "url": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
         "source": "Hacker News Front",
-        "published": "2026-06-17T23:14:49+00:00",
-        "summary": "Article URL: https://github.com/glojurelang/glojure\nComments URL: https://news.ycombinator.com/item?id=48578326\nPoints: 48\n# Comments: 7",
+        "published": "2026-06-18T23:41:48+00:00",
+        "summary": "Article URL: https://www.nsf.gov/news/update-ocean-observatories-initiative\nComments URL: https://news.ycombinator.com/item?id=48593093\nPoints: 115\n# Comments: 20",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+        "source": "Ars Technica",
+        "published": "2026-06-18T23:28:52+00:00",
+        "summary": "Crypto Clipper spreads over USB and communicates over Tor.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Prime Day Early Deals 2026: Breville and Ninja Espresso Maker Deals",
+        "url": "https://www.wired.com/story/early-espresso-machine-deals-prime-day-2026/",
+        "source": "Wired",
+        "published": "2026-06-18T23:03:39+00:00",
+        "summary": "The Breville Barista Express and Ninja Luxe Cafe Pro are two of the best early Prime Day deals I’ve seen in 2026.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,32 +186,76 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "앤트로픽, 서울 오피스 공식 개소",
-        "url": "https://byline.network/2026/06/18-583/",
+        "title": "From post-Soviet farming to rewriting the EU's startup rulebook: Meet EU Inc's Iwona Anna Biernat",
+        "url": "https://sifted.eu/articles/iwona-anna-biernat-eu-inc-entrepreneurs-first-project-europe/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-19T05:00:41+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Cleo employees allege toxic workplace culture: ‘Directionless and deeply unhappy’",
+        "url": "https://sifted.eu/articles/cleo-fintech-startup-toxic-workplace-allegations/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-19T05:00:35+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Legora warns investors against unapproved share trades",
+        "url": "https://sifted.eu/articles/legora-hiive-shares/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-19T05:00:20+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "‘We’re in a very fast race’: Life at Nabla means big numbers and jet lag",
+        "url": "https://sifted.eu/articles/nabla-very-fast-race/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-19T05:00:04+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "마이크로소프트 “기존 보안 프레임, 에이전트엔 안 통한다”",
+        "url": "https://byline.network/2026/06/microsoft/",
         "source": "ByLine Network",
-        "published": "2026-06-17T23:32:14+00:00",
-        "summary": "앤트로픽은 지난 17일 서울 여의도 콘래드 호텔에서 기자간담회를 열어 서울 오피스 공식 개소를 선언하고, 한국 사업 전략을 발표했다. 앤트로픽은 국내 주요 기업부터 스타트업, AI 연구기관을 아우르는 한국 AI 생태계 전반으로 협력을 확대해 나갈 계획이라고 밝혔다.",
+        "published": "2026-06-19T02:33:41+00:00",
+        "summary": "“공격자는 이미 AI를 갖고 있습니다. 상대방이 핵무기를 만들면 여러분도 탱크만 갖고 싸울 수 없잖아요. AI를 이용한 방어는 더 이상 선택이 아니라 필수입니다.”\n\n바이라인네트워크가 지난 18일 서울 잠실 롯데호텔에서 개최한 에서 박상준 한국마이크로소프트 시큐리티 GTM 리드가 청중에게 던진 화두다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Crunchbase Tech Layoffs Tracker",
-        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+        "title": "The Week’s 10 Biggest Funding Rounds: World-Model Startup Odyssey Leads With $310M In Slower Week For Large Deals",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-defense-startup-ai-odyssey-leads/",
         "source": "Crunchbase News",
-        "published": "2026-06-17T16:35:30+00:00",
-        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+        "published": "2026-06-18T18:45:01+00:00",
+        "summary": "This week was not an exceptionally busy one for large funding deals, though we saw sizable rounds in a lively mix of sectors ranging from AI to fintech to quantum computing, biotech and cybersecurity.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "‘Companies will have to go the extra mile’: How Europe can future-proofing its hiring strategy",
-        "url": "https://sifted.eu/articles/europe-future-proofing-hiring-brnd/",
+        "title": "YC-backed Flagright raises $12.5m to fuel US expansion",
+        "url": "https://sifted.eu/articles/flagright-y-combinator-yc-infinity-funding-round/",
         "source": "Sifted (EU startups)",
-        "published": "2026-06-17T15:02:55+00:00",
+        "published": "2026-06-18T11:20:44+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -219,55 +263,11 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "3 ex-Palantir engineers raise $60m from Index, Iconiq, SAP for agentic operating system",
-        "url": "https://sifted.eu/articles/conduct-60m-series-a/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-17T13:00:11+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "‘This System Wasn’t Built For Me’: Black Founders Became Investors To Change Venture Capital",
-        "url": "https://news.crunchbase.com/venture/black-founders-turned-investors-bethea-woodruff/",
+        "title": "AT&T Ventures’ Head Vikram Taneja On The New Rules of Seed-Stage Defensibility",
+        "url": "https://news.crunchbase.com/seed/new-defensibility-rules-qa-taneja-att-ventures/",
         "source": "Crunchbase News",
-        "published": "2026-06-17T11:00:56+00:00",
-        "summary": "The consistently low numbers of U.S. venture funding to Black founders led some to turn to investing in an effort to help level the playing field. Crunchbase News talked with two such founders to hear more about their experiences in raising capital and what they’ve learned from investing.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "I Sold My AI Startup Before Revenue: Here’s What Investors Missed — And Founders Shouldn’t",
-        "url": "https://news.crunchbase.com/venture/foundational-ai-startup-investment-kardos-nyheim-thomson/",
-        "source": "Crunchbase News",
-        "published": "2026-06-17T11:00:34+00:00",
-        "summary": "The greatest long-term value in AI will come from companies solving deep technical challenges at the model and infrastructure level rather than application-layer products built on existing AI platforms, writes angel investor Alexander Kardos-Nyheim. In this guest commentary he shares processes and questions he uses to determine the investability of an AI startup.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Is this Europe’s most audacious founder?",
-        "url": "https://sifted.eu/articles/sifted-brunch-bertrand-duplat/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-17T10:40:00+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Mistral CEO pitches open source AI days after Anthropic ban: ‘We exist outside of state control’",
-        "url": "https://sifted.eu/articles/mistral-arthur-mensch-open-source-anthropic/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-17T10:18:30+00:00",
-        "summary": "",
+        "published": "2026-06-18T11:00:27+00:00",
+        "summary": "In an interview with Crunchbase News, Vikram Taneja, head of AT&#038;T Ventures, shares why he believes that while AI has drastically lowered the barrier to building software, it has also shifted the definition of seed-stage technical risk.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,16 +276,91 @@
       {
         "category": "videos",
         "kind": "video",
+        "title": "The First Photos On Venus’ Surface",
+        "url": "https://www.youtube.com/shorts/FHfveJBF3zM",
+        "source": "Cleo Abram",
+        "published": "2026-06-18T14:49:36+00:00",
+        "summary": "Landing on Venus is a nightmare and not just for the obvious reasons.\n\nVenus has no magnetic field, pressure nearly 93x that of Earth, and temperatures that can soar over 450 degrees celsius (that’s hot enough to melt lead!). \n\nIn the 1950’s, Soviet scientists started plans to do what seemed impossi",
+        "thumbnail": "https://i3.ytimg.com/vi/FHfveJBF3zM/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "FHfveJBF3zM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "전쟁 특수로 호황이라는 북한 근황",
+        "url": "https://www.youtube.com/watch?v=04Nmb_HeeqI",
+        "source": "슈카월드",
+        "published": "2026-06-18T10:54:44+00:00",
+        "summary": "0:00 시진핑은 왜 북한을 방문했는가\n7:22 북한에게 찾아온 대박의 기회\n17:41 나름 경제 발전을 하고 있는 북한\n23:53 그렇게 번 돈은 어디에 쓰일까?",
+        "thumbnail": "https://i1.ytimg.com/vi/04Nmb_HeeqI/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "04Nmb_HeeqI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Trump’s Deal is Worse Than Anyone Imagined",
+        "url": "https://www.youtube.com/watch?v=Pl3bsnCsAjE",
+        "source": "TLDR News Global",
+        "published": "2026-06-18T09:30:16+00:00",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nIn this video, we’re going to look at the deal between the Us and Iran, the $300 billion reconstruction fund, and explain why - as politically embarrassing as it might be for Trump - it could be genuinely great news for the Middle Ea",
+        "thumbnail": "https://i1.ytimg.com/vi/Pl3bsnCsAjE/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "Pl3bsnCsAjE",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "웨이모가 자율주행의 끝으로 가는 방법 (웨이모 AI엔지니어 김태환)",
+        "url": "https://www.youtube.com/watch?v=hAtz0yeNNnI",
+        "source": "티타임즈TV",
+        "published": "2026-06-18T09:00:21+00:00",
+        "summary": "“웨이모에서는 월드모델로 수많은 시나리오를 만든 다음 드라이빙 에이전트를 몇십만, 몇 억개의 시나리오에서 트레이닝시키는 방향으로 가고있습니다. 이 드라이빙 에이전트를 생각할 수 있는 모든 시나리오에서 트레이닝을 완벽하게 시키면 그게 자율주행의 끝이라고 생각을 합니다.”\n\n구글 자율주행 자회사 웨이모가 어떻게 학습을 시키는지 웨이모 AI엔지니어 김태환님한테 들어보시죠. 도로주행을 통해 얻는 실데이터뿐 아니라 월드모델에서 수많은 시나리오를 학습시킨다고 합니다.\n\n편집 : 허재석 영상디자이너\n촬영 : 장민주 PD\n자료 : 이사민 기자\n진",
+        "thumbnail": "https://i1.ytimg.com/vi/hAtz0yeNNnI/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "hAtz0yeNNnI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "시드 머니를 모으는 가장 좋은 방법",
+        "url": "https://www.youtube.com/shorts/ivgpN0sYeB8",
+        "source": "슈카월드",
+        "published": "2026-06-18T08:56:59+00:00",
+        "summary": "📌  6월 22일 출시 예정인 청년미래적금에 대해 더 궁금하신가요?\n\n금융위원회·서민금융진흥원 홈페이지에서 자세한 내용을 확인하실 수 있으며, 상담이 필요하신 경우 서민금융진흥원 청년금융콜센터(📞1397 → 3번)로 문의해 주세요!",
+        "thumbnail": "https://i2.ytimg.com/vi/ivgpN0sYeB8/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "ivgpN0sYeB8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
         "title": "OpenAI’s CFO Teases Their First Device",
-        "url": "https://www.youtube.com/watch?v=_afLPYkXln0",
+        "url": "https://www.youtube.com/shorts/_afLPYkXln0",
         "source": "All-In Podcast",
-        "published": "2026-06-17T19:36:24Z",
-        "summary": "Thanks to our partners for making this possible! EY - Great tech starts with a big idea. From startup to scale, EY helps tech ...",
-        "thumbnail": "https://i.ytimg.com/vi/_afLPYkXln0/mqdefault.jpg",
+        "published": "2026-06-17T19:36:24+00:00",
+        "summary": "Thanks to our partners for making this possible!\n\nEY - Great tech starts with a big idea. From startup to scale, EY helps tech founders get financials right early so they can focus on what’s next.\nhttps://www.ey.com/en_us/tech-sector/tech-startups?WT.mc_id=3501317&amp;AA.tsrc=sponsorship\n\nNYSE - Tha",
+        "thumbnail": "https://i4.ytimg.com/vi/_afLPYkXln0/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "_afLPYkXln0",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -294,28 +369,13 @@
         "title": "How To Pick A Startup Idea",
         "url": "https://www.youtube.com/watch?v=R56RJFZBasQ",
         "source": "Y Combinator",
-        "published": "2026-06-17T14:00:15Z",
-        "summary": "Many founders get stuck trying to find the perfect startup idea before they commit. But the perfect idea doesn't exist in the abstract.",
-        "thumbnail": "https://i.ytimg.com/vi/R56RJFZBasQ/mqdefault.jpg",
+        "published": "2026-06-17T14:00:15+00:00",
+        "summary": "Many founders get stuck trying to find the perfect startup idea before they commit. But the perfect idea doesn't exist in the abstract. The only way to find what works is to pick one, go deep, and get feedback from real customers.\n\nIn this episode of Startup School, YC General Partner Jon Xu breaks ",
+        "thumbnail": "https://i3.ytimg.com/vi/R56RJFZBasQ/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "R56RJFZBasQ",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "스페이스X 상장으로 대박난 사람들은 누구?",
-        "url": "https://www.youtube.com/watch?v=V5r7QtwBis4",
-        "source": "슈카월드",
-        "published": "2026-06-17T10:23:28Z",
-        "summary": "0:00 부동산 알아보러 다니는(?) 스페이스X 직원들 9:42 세계 최초 조만 장자가 된 머스크 17:19 스페이스X 상장으로 떼돈 번 사람들 ...",
-        "thumbnail": "https://i.ytimg.com/vi/V5r7QtwBis4/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "V5r7QtwBis4",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -324,13 +384,13 @@
         "title": "‘이것까지 가능하겠어?’ 실험하고, ‘왜 이렇게 하고 있지?’ 의심하기가 AX 시작 (김성준 국민대 교수)",
         "url": "https://www.youtube.com/watch?v=axGKIooHxac",
         "source": "티타임즈TV",
-        "published": "2026-06-17T09:00:14Z",
-        "summary": "\"이거 누가 했어? 문제가 터지만 사람부터 찾는 문화, 사람을 탓하는 순간 AI 전환을 못합니다. AX는 수많은 실패와 실수를 전제로 하는 ...",
-        "thumbnail": "https://i.ytimg.com/vi/axGKIooHxac/mqdefault.jpg",
+        "published": "2026-06-17T09:00:14+00:00",
+        "summary": "\"이거 누가 했어? 문제가 터지만 사람부터 찾는 문화, 사람을 탓하는 순간 AI 전환을 못합니다. AX는 수많은 실패와 실수를 전제로 하는 것인데 이걸 막아버리는 겁니다.\"\n\n\"AX의 첩경은 이겁니다. ‘설마 이것까지 가능하겠어’를 실험하는 것, 내가 계속 반복적인 업무를 하고 있다면 ‘내가 왜 이렇게 하고 있지?’ 의심해보는 것이죠.\"\n\n‘아는 만큼 일하는 것이 아니라 몰라도 할 수 있는’ AI 시대, 조직은 어떻게 바뀌어야 할까요? 김성준 국민대 교수의 이야기를 들어봅니다.\n\n편집 : 정지원 PD \n촬영 : 강기훈 PD\n자료 :",
+        "thumbnail": "https://i2.ytimg.com/vi/axGKIooHxac/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "axGKIooHxac",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -351,76 +411,16 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "The Trade That Put Bill Ackman on the Map: Forcing Wendy&#39;s to Spin Out Tim Hortons",
-        "url": "https://www.youtube.com/watch?v=_1BXHND0CRE",
+        "title": "The Trade That Put Bill Ackman on the Map: Forcing Wendy's to Spin Out Tim Hortons",
+        "url": "https://www.youtube.com/shorts/_1BXHND0CRE",
         "source": "All-In Podcast",
-        "published": "2026-06-16T20:41:57Z",
-        "summary": "Thanks to our partners for making this possible! EY - EY helps private equity firms turn market insight into action, navigating ...",
-        "thumbnail": "https://i.ytimg.com/vi/_1BXHND0CRE/mqdefault.jpg",
+        "published": "2026-06-16T20:41:57+00:00",
+        "summary": "Thanks to our partners for making this possible!\n\nEY - EY helps private equity firms turn market insight into action, navigating complexity and unlocking new paths to growth and long-term value.\nhttps://www.ey.com/en_us/industries/private-equity?WT.mc_id=3501315&amp;AA.tsrc=sponsorship\n\nNYSE - Thank",
+        "thumbnail": "https://i4.ytimg.com/vi/_1BXHND0CRE/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "_1BXHND0CRE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "They Moved the South Pole. And They&#39;ll Do It Again.",
-        "url": "https://www.youtube.com/watch?v=eg1EPuB3IsM",
-        "source": "Cleo Abram",
-        "published": "2026-06-16T14:31:14Z",
-        "summary": "All the way down in the center of Antarctica is a marker. That's the geographic south pole - the southernmost point on Earth!",
-        "thumbnail": "https://i.ytimg.com/vi/eg1EPuB3IsM/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "eg1EPuB3IsM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "대한민국은 어디로 가는가",
-        "url": "https://www.youtube.com/watch?v=1EpFQvwfpqo",
-        "source": "슈카월드",
-        "published": "2026-06-16T10:30:02Z",
-        "summary": "0:00 조울증 KOSPI 7:03 대한민국에 무슨 일이 벌어지고 있는가 : 유례 없는 GDP 상승 15:58 글로벌 거대한 2가지 흐름 18:31 미국 ...",
-        "thumbnail": "https://i.ytimg.com/vi/1EpFQvwfpqo/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "1EpFQvwfpqo",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“채용때 묻는 질문부터 달라졌어요”  (신상민 도어대시 엔지니어링 팀장)",
-        "url": "https://www.youtube.com/watch?v=buGBE7fKHJI",
-        "source": "티타임즈TV",
-        "published": "2026-06-16T09:00:36Z",
-        "summary": "실리콘밸리의 음식배달앱 도어대시에서 엔지니어링 팀장을 맡고 있는 신상민님에게서 '요즘 실리콘밸리에서는 AI 때문에 일하는 방식 ...",
-        "thumbnail": "https://i.ytimg.com/vi/buGBE7fKHJI/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "buGBE7fKHJI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Where Elon got the first rocket for SpaceX in 2001",
-        "url": "https://www.youtube.com/watch?v=3YqxeW4TARw",
-        "source": "Acquired",
-        "published": "2026-06-15T19:02:33Z",
-        "summary": "Full episode (from May 2020) here: https://www.acquired.fm/episodes/spacex.",
-        "thumbnail": "https://i.ytimg.com/vi/3YqxeW4TARw/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "3YqxeW4TARw",
-          "via": "api"
+          "via": "rss"
         }
       }
     ]
