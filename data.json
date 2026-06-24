@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-23T03:24:24.052721+00:00",
+  "generated_at": "2026-06-24T03:26:08.389120+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia politics live: Jim Chalmers hails ‘important day for tax reform’ after deal with Greens; paraquat herbicide gets regulator green light despite Parkinson’s fears",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb",
+        "title": "Australia politics live: Chalmers welcomes ‘better than expected’ inflation figures; government orders review of ‘ethical soundness’ at KPMG",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-06-23T03:17:58+00:00",
-        "summary": "Minor party says it will support Labor’s negative gearing and capital gains tax changes this fortnight in the Senate. Follow today’s news live Get our breaking news email, free app or daily news podcastBen Roberts-Smith invitation to war memorial event ‘appropriate’, says MarlesRichard Marles says it’s appropriate that the accused war criminal Ben Roberts-Smith will attend the official opening for",
+        "published": "2026-06-24T03:10:12+00:00",
+        "summary": "Follow today’s news live Get our breaking news email, free app or daily news podcastRuston pushes for overhaul to controversial aged care toolOver to her portfolio, the shadow health and aged care minister, Anne Ruston, will introduce a private member’s bill to change the government’s controversial integrated assessment tool.The three things it seeks to do is to restore the discretion of a human a",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Alan Greenspan, former US Federal Reserve chairman, dies at 100",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/alan-greenspan-former-us-federal-reserve-chairman-dies-at-100?traffic_source=rss",
+        "title": "Trump’s Colombia Prize",
+        "url": "https://www.nytimes.com/2026/06/23/world/trump-us-colombia-europe-heat-world-cup.html",
+        "source": "NYT World",
+        "published": "2026-06-24T02:55:42+00:00",
+        "summary": "Abelardo De La Espriella appears set to be the country’s next president. It adds another right-wing populist leader to a growing roster around the world.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+        "url": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+        "source": "NYT World",
+        "published": "2026-06-24T02:31:28+00:00",
+        "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Is the Australian Prime Minister’s Pragmatism Enough in Uncertain Times?",
+        "url": "https://www.nytimes.com/2026/06/23/world/australia/australia-albanese-prime-minister-popularity.html",
+        "source": "NYT World",
+        "published": "2026-06-24T02:05:58+00:00",
+        "summary": "Buffeted by global turmoil and a populist far-right ascendance at home, Anthony Albanese is trying to keep the country feeling hopeful.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Syrians reject Trump’s call for Syria to combat Hezbollah in Lebanon",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/syrians-reject-trumps-call-for-syria-to-combat-hezbollah-in-lebanon?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-23T02:58:53+00:00",
-        "summary": "Alan Greenspan, one of the most influential economic policymakers in modern US history, has died aged 100.",
+        "published": "2026-06-24T01:57:54+00:00",
+        "summary": "Residents in Damascus rejected US President Donald Trump&#039;s suggestion that Syria should confront Hezbollah in Lebanon.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Haaland scores two as Norway beat Senegal 3-2, enter World Cup knockouts",
-        "url": "https://www.aljazeera.com/sports/2026/6/23/haaland-scores-two-as-norway-beat-senegal-3-2-enter-world-cup-knockouts?traffic_source=rss",
+        "title": "Budimir gives Croatia a 1-0 win to eliminate Panama from the World Cup",
+        "url": "https://www.aljazeera.com/sports/2026/6/24/budimir-gives-croatia-a-1-0-win-to-eliminate-panama-from-the-world-cup?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-23T02:45:59+00:00",
-        "summary": "Senegal fought back until stoppage time but couldn’t draw level and must beat Iraq for a chance to progress.",
+        "published": "2026-06-24T01:42:11+00:00",
+        "summary": "Croatia are third in Group L, with England and Ghana on four points each, heading into the final round of matches.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US watchdog opens probe after Tesla crashes into Texas home, killing woman",
-        "url": "https://www.aljazeera.com/economy/2026/6/23/us-watchdog-opens-probe-after-tesla-crashes-into-texas-home-killing-woman?traffic_source=rss",
+        "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-23T02:41:18+00:00",
-        "summary": "Road safety regulator investigates crash involving a Model 3 that had been reportedly operating in self-driving mode.",
+        "published": "2026-06-24T01:29:51+00:00",
+        "summary": "US Senate votes to pause Iran war in rare rebuke to Trump",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
-        "url": "https://www.aljazeera.com/sports/2026/6/23/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+        "title": "England’s Spence appears to refuse handshake with booed Ghana player Partey",
+        "url": "https://www.aljazeera.com/sports/2026/6/24/englands-spence-appears-to-refuse-handshake-with-booed-ghana-player-partey?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-23T02:40:22+00:00",
-        "summary": "The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who&#039;s in and who&#039;s out.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Labor reaches deal with the Greens to pass changes to capital gains tax and negative gearing reforms",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/23/labor-greens-deal-capital-gains-tax-negative-gearing-reforms",
-        "source": "The Guardian World",
-        "published": "2026-06-23T02:13:54+00:00",
-        "summary": "Minor party says it has also negotiated an extension to the inquiry into controversial changes to the NDISFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Greens will support the Albanese government’s negative gearing and capital gains tax changes under a deal that will delay and tweak Labor’s planned overhaul of the national disa",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Ransom note claims Nancy Guthrie died after abduction",
-        "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-06-23T01:59:39+00:00",
-        "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-23T01:45:42+00:00",
-        "summary": "Iran’s chief negotiator said the Strait will never return to the way it was before the war.",
+        "published": "2026-06-24T01:18:08+00:00",
+        "summary": "Social media footage shows Djed Spence appearing to decline a handshake with Partey during pre-match introductions.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-        "url": "https://arxiv.org/abs/2606.16140",
+        "title": "How the war on terror primed America for autocracy",
+        "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
         "source": "Hacker News Front",
-        "published": "2026-06-23T02:01:25+00:00",
-        "summary": "Article URL: https://arxiv.org/abs/2606.16140\nComments URL: https://news.ycombinator.com/item?id=48639240\nPoints: 16\n# Comments: 3",
+        "published": "2026-06-24T02:23:39+00:00",
+        "summary": "Article URL: https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy\nComments URL: https://news.ycombinator.com/item?id=48654367\nPoints: 52\n# Comments: 20",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "1,700 Free Online Courses from Top Universities",
-        "url": "https://www.openculture.com/freeonlinecourses",
+        "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+        "url": "https://github.com/End2End-Diffusion/diffusion-bench",
         "source": "Hacker News Front",
-        "published": "2026-06-23T01:54:38+00:00",
-        "summary": "Article URL: https://www.openculture.com/freeonlinecourses\nComments URL: https://news.ycombinator.com/item?id=48639184\nPoints: 67\n# Comments: 8",
+        "published": "2026-06-24T02:12:31+00:00",
+        "summary": "Article URL: https://github.com/End2End-Diffusion/diffusion-bench\nComments URL: https://news.ycombinator.com/item?id=48654274\nPoints: 4\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-        "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "title": "Best Dyson Deals for Prime Day: Vacuums, Hair Tools, and More",
+        "url": "https://www.wired.com/story/prime-day-dyson-deals-2026/",
+        "source": "Wired",
+        "published": "2026-06-24T00:53:44+00:00",
+        "summary": "It's one of the best times to snag yourself a Dyson device, whether it's a vacuum or a beauty tool.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+        "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
         "source": "TechCrunch",
-        "published": "2026-06-23T01:27:55+00:00",
-        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "published": "2026-06-24T00:30:00+00:00",
+        "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "In Praise of Memcached",
-        "url": "https://jchri.st/blog/in-praise-of-memcached/",
+        "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+        "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
         "source": "Hacker News Front",
-        "published": "2026-06-23T01:15:05+00:00",
-        "summary": "Article URL: https://jchri.st/blog/in-praise-of-memcached/\nComments URL: https://news.ycombinator.com/item?id=48638886\nPoints: 61\n# Comments: 20",
+        "published": "2026-06-24T00:28:41+00:00",
+        "summary": "Article URL: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/\nComments URL: https://news.ycombinator.com/item?id=48653575\nPoints: 92\n# Comments: 25",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
-        "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
-        "source": "Hacker News Front",
-        "published": "2026-06-23T00:47:32+00:00",
-        "summary": "Article URL: https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/\nComments URL: https://news.ycombinator.com/item?id=48638660\nPoints: 149\n# Comments: 63",
+        "title": "Microsoft Comes Through With the Best Laptop Deal of Prime Day So Far",
+        "url": "https://www.wired.com/story/surface-laptop-prime-day-deal/",
+        "source": "Wired",
+        "published": "2026-06-24T00:25:47+00:00",
+        "summary": "The Surface Laptop is down to $835 for Prime Day—a killer discount on one of my favorite laptops.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-        "source": "TechCrunch",
-        "published": "2026-06-23T00:11:31+00:00",
-        "summary": "OpenAI is attempting to tackle the security issues of the open source software community.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+        "title": "The best robot vacuum deals available during Prime Day",
+        "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
         "source": "The Verge",
-        "published": "2026-06-22T23:24:32+00:00",
-        "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data [&#8230;]",
+        "published": "2026-06-24T00:17:27+00:00",
+        "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. Prime Day has kicked off, though more than just Amazon is offering deals on several models we&#8217;ve tested from brands like [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-        "url": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
-        "source": "TechCrunch",
-        "published": "2026-06-22T22:59:57+00:00",
-        "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs.",
+        "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+        "url": "https://github.com/y-times-y/y",
+        "source": "Hacker News Front",
+        "published": "2026-06-24T00:15:31+00:00",
+        "summary": "Article URL: https://github.com/y-times-y/y\nComments URL: https://news.ycombinator.com/item?id=48653476\nPoints: 23\n# Comments: 12",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,76 +186,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[커머스BN] 배달앱 수난시대 (2026.ver)",
-        "url": "https://byline.network/2026/06/23_129938/",
+        "title": "[단독] 네이버 쇼핑, 아마존·라쿠텐 연동 추진",
+        "url": "https://byline.network/2026/06/24_19228783/",
         "source": "ByLine Network",
-        "published": "2026-06-22T22:58:29+00:00",
-        "summary": "배달 앱 수난시대, 사실 하루이틀된 이야기는 아닙니다. 배달의민족(이하 배민)과 쿠팡이츠는 이미 국정감사 단골로 불려가고 있고, 지난해부터는 배달앱을 옥죄는 다양한 법안이 발의되고 있습니다.\n\n그러나 올해는 배달앱에 대한 압박 수위가 한 층 높아졌습니다. 공정위는 양사가 신청한 동의의결을 기각했고요. 여당과 중기부는 법을 통한 규제 준비에 착수했습니다.",
+        "published": "2026-06-24T02:40:42+00:00",
+        "summary": "네이버가 라쿠텐·아마존 등 해외 이커머스 플랫폼과 자가 쇼핑 생태계를 연동한다.\n\n24일 IT업계에 따르면, 네이버 쇼핑 부문은 라쿠텐·아마존에 스마트스토어 상품을 판매하는 한편, 두 플랫폼의 상품을 국내 소비자가 구매할 수 있는 직구·역직구 서비스를 준비하고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "네이버플러스 멤버십 전용 서비스 되는 컬리N마트 [Weekly Commerce]",
-        "url": "https://byline.network/2026/06/23_019287172/",
+        "title": "“금융사, AI 가이드라인 지켜야 임직원 책임 참작 가능”",
+        "url": "https://byline.network/2026/06/623/",
         "source": "ByLine Network",
-        "published": "2026-06-22T22:55:27+00:00",
-        "summary": "네이버가 오는 7월 15일부터 컬리 연동 서비스 ‘컬리N마트’를 네이버플러스 멤버십 회원 전용으로 운영합니다. 네이버는 지금까지 컬리N마트를 멤버십 가입 여부 상관 없이 이용할 수 있도록 했는데요. 어느 정도 멤버십 이용자들의 활성 지표가 올라온 지금, 이를 락인하기 위해 멤버십 전용으로 서비스 운영 방식을 전환하는 것으로 풀이됩니다.",
+        "published": "2026-06-24T02:34:22+00:00",
+        "summary": "강현정 김앤장 변호사는 지난 23일 서울 여의도에 있는 국회의원회관에서 열린 ‘AI 시대, 금융 시스템을 다시 설계하다’ 포럼에서 이같이 말했다. 강 변호사는 2024년부터 AI 거버넌스 자문 업무를 맡아 왔다. 이날 그는 현재 활용되고 있는 ‘금융 AI 가이드라인’ 준수의 중요성과 실무 환경 적용의 한계를 설명했다.\n먼저 강 변호사는 금융 AI 가이드라인은 AI 기본법과 달리 법적 구속력이 없다는 점을 짚었다. 올해 초에 발표된 가이드라인 초안은 AI 활용과 관련된 내부통제 및 위험관리 방향과 원칙에 대한 규범적인 내용을 권고하는 행정지도에 불과하다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "HPE “제로트러스트의 근간은 SASE…단일 솔루션 아닌 여정”",
-        "url": "https://byline.network/2026/06/22_10287273/",
-        "source": "ByLine Network",
-        "published": "2026-06-22T22:54:05+00:00",
-        "summary": "“매트릭스에서 모피어스가 네오를 설득할 때, “지금 내가 보고 있는 게 진짜인지 아닌지, 진짜 그걸 믿을 수 있겠느냐”고 말하는데, 네트워크와도 연관이 있다고 봅니다.”",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "소프트캠프 “AI 시대 보안, 차단 대신 안전한 연결이 답”",
-        "url": "https://byline.network/2026/06/22-574/",
-        "source": "ByLine Network",
-        "published": "2026-06-22T22:53:12+00:00",
-        "summary": "“생성형 인공지능(AI), 서비스형 소프트웨어(SaaS)에 연결돼 있는 것은 잠재적인 제로데이 공격 경로가 된다고 생각한다. 저희가 추구하는 방향은 이를 차단해서 막는 것도 아니고 아무 제한 없이 열어주자는 것도 아니다. 안전하게 통제된 상태로 사용하도록 하자는 의미다.” 김동훈 소프트캠프 부장은 18일 서울 잠실 롯데호텔 3층 크리스탈볼룸에서 가 개최한 ‘사이버보안 기술 전략 컨퍼런스 2026’에서 이같이 말했다. 김 부장은 이날 ‘AI 시대 차단에서 통제된 연결로’를 주제로 발표했다. 그는 기존 망분리 체계의 한계를 지적하며, 격리된 환경을 기반으로 한 보안 체계의 필요성을 역설했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Greenspan Penned ‘Irrational Exuberance’ 30 Years Ago. It Aged Well.",
-        "url": "https://news.crunchbase.com/policy-regulation/fed-chair-greenspan-dot-com-legacy/",
+        "title": "Anthropic Backer Menlo Ventures Raises $3B In New Funds To Back AI Startups Across Stages",
+        "url": "https://news.crunchbase.com/venture/menlo-ventures-raise-ai-startup-funding-across-stages-anthropic/",
         "source": "Crunchbase News",
-        "published": "2026-06-22T19:08:59+00:00",
-        "summary": "Longstanding Federal Reserve Chairman Alan Greenspan passed away Monday at age 100. But for those of us old enough to remember the dot-com boom, his legacy looms large.",
+        "published": "2026-06-23T19:06:49+00:00",
+        "summary": "Venture firm Menlo Ventures has raised $3 billion across two new funds, the largest capital raise in its 50-year history, to invest in AI startups from seed through growth stage. The firm says the new capital will target companies in sectors from enterprise tools to healthcare.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "AppsFlyer Reportedly Lands $1B At $2.7B Valuation To Help Companies Track Digital Ads",
-        "url": "https://news.crunchbase.com/venture/marketing-digital-ad-tracker-appsflyer-lands-1b/",
-        "source": "Crunchbase News",
-        "published": "2026-06-22T17:53:47+00:00",
-        "summary": "Data analytics company AppsFlyer is eyeing the public markets after reportedly securing more than $1 billion in a Series E funding round.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "What would Andy Burnham do for UK startups?",
-        "url": "https://sifted.eu/articles/andy-burnham-uk-startups/",
+        "title": "Drones startup Stark confirms €500m raise backed by Sequoia and Founders Fund",
+        "url": "https://sifted.eu/articles/stark-defence-drones-funding-round-confirms/",
         "source": "Sifted (EU startups)",
-        "published": "2026-06-22T16:40:43+00:00",
+        "published": "2026-06-23T16:53:00+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -263,11 +230,44 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "How these fintech founders crowdfunded €8m in less than an hour",
-        "url": "https://sifted.eu/articles/green-got-8m-crowdfund/",
+        "title": "Why Europe is rebuilding its tech stack",
+        "url": "https://sifted.eu/articles/why-europe-is-rebuilding-its-tech-stack-brnd/",
         "source": "Sifted (EU startups)",
-        "published": "2026-06-22T16:00:04+00:00",
+        "published": "2026-06-23T15:27:37+00:00",
         "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "판매자들의 ‘수출 대행사’로 진화하는 K-패션 플랫폼",
+        "url": "https://byline.network/2026/06/0623-9/",
+        "source": "ByLine Network",
+        "published": "2026-06-23T15:25:55+00:00",
+        "summary": "K패션 플랫폼이 단순 유통을 넘어 판매자의 해외 진출을 지원하는 서비스형 플랫폼으로 진화했다. 대표적인 플랫폼으로 무신사, 에이블리코퍼레이션(이하 에이블리), 더블유컨셉(W컨셉) 등이 있다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "클라우드플레어 “AI 해커 시대, 패치는 해법이 아니다“",
+        "url": "https://byline.network/2026/06/0622-7/",
+        "source": "ByLine Network",
+        "published": "2026-06-23T15:23:38+00:00",
+        "summary": "“인공지능(AI) 해커의 공격은 순식간에 이뤄집니다. 취약점 탐지부터 빈틈 파고들기(익스플로잇)까지 걸리는 시간이 일 단위에서 분 단위로 단축됐습니다. 해법은 사후 패치가 아니라 공격을 당하기 전에 안전한 보안 구조를 이미 만드는 것입니다.”",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "안랩 “에이전틱 AI로 해커 속도 잡겠다”",
+        "url": "https://byline.network/2026/06/0622-6/",
+        "source": "ByLine Network",
+        "published": "2026-06-23T15:22:06+00:00",
+        "summary": "“공격자가 최종 목표를 달성하는 데까지는 약 1시간 정도면 충분합니다. 반면 보안팀이 이를 탐지하고 조치하는 데는 약 11일이 걸립니다.” 가 지난 18일 서울 송파구 잠실 롯데호텔 3층 크리스탈볼룸에서 개최한 ‘사이버보안 기술 전략 컨퍼런스’에서 이건용 안랩 팀장은 이같이 밝혔다.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,31 +276,121 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "How to Get Your First 10 Customers",
-        "url": "https://www.youtube.com/watch?v=_FBivfgOvuE",
-        "source": "Y Combinator",
-        "published": "2026-06-22T16:54:40+00:00",
-        "summary": "When most founders look for customers, they reach for cold email and automation tools. But your first 10 customers almost never come from a tool. They come from you, working your warm network and doing the unscalable things most people won't.\n\nIn this episode of Startup School, YC Visiting Partner M",
-        "thumbnail": "https://i4.ytimg.com/vi/_FBivfgOvuE/hqdefault.jpg",
+        "title": "GameStop CEO Ryan Cohen’s $56B Plan to Take Over eBay",
+        "url": "https://www.youtube.com/watch?v=4j9RPGLENNI",
+        "source": "All-In Podcast",
+        "published": "2026-06-23T21:13:14+00:00",
+        "summary": "(0:00) David Friedberg intros GameStop CEO Ryan Cohen!\n(1:56) Building and selling Chewy for $3.35B, how to compete with Amazon in e-commerce\n(11:58) Post-Chewy life, activist investing, the road to GameStop CEO, expanding into collectibles\n(26:39) Why he wants to buy eBay for $56B: Massive potentia",
+        "thumbnail": "https://i1.ytimg.com/vi/4j9RPGLENNI/hqdefault.jpg",
         "extras": {
-          "theme": "innovation",
-          "videoId": "_FBivfgOvuE",
+          "theme": "analysis",
+          "videoId": "4j9RPGLENNI",
           "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "If You Drive Too Fast On the Moon...",
-        "url": "https://www.youtube.com/watch?v=E_JRs8IL1eI",
+        "title": "How did Disney become the best business of all the classic Hollywood studios?",
+        "url": "https://www.youtube.com/watch?v=vMWFu1HP7LE",
+        "source": "Acquired",
+        "published": "2026-06-23T18:49:14Z",
+        "summary": "Animation (which is uniquely well-suited to compounding), the flywheel, and... a lesson learned the hard way.",
+        "thumbnail": "https://i.ytimg.com/vi/vMWFu1HP7LE/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "vMWFu1HP7LE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
+        "url": "https://www.youtube.com/watch?v=7EUVr0-V6DA",
+        "source": "Acquired",
+        "published": "2026-06-23T16:05:40Z",
+        "summary": "The Walt Disney Company is the most successful enterprise ever created for monetizing human nostalgia. Today it's the king of ...",
+        "thumbnail": "https://i.ytimg.com/vi/7EUVr0-V6DA/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "7EUVr0-V6DA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "This Factory Breeds Mosquitos",
+        "url": "https://www.youtube.com/shorts/ejGIGCEPZE4",
         "source": "Cleo Abram",
-        "published": "2026-06-22T15:36:44Z",
-        "summary": "We are trying to go faster than ever before on the moon… There was a competition to build the next truck to drive on the lunar ...",
-        "thumbnail": "https://i.ytimg.com/vi/E_JRs8IL1eI/mqdefault.jpg",
+        "published": "2026-06-23T15:01:01+00:00",
+        "summary": "This factory is breeding MOSQUITOS. 100 million of them EVERY SINGLE WEEK and then RELEASING them! \n\nBut these aren’t ordinary mosquitos…they’ve been infected with a bacteria that prevents them from spreading certain diseases like dengue, and it’s working!! \n\nNow, Google wants to release 32 MILLION ",
+        "thumbnail": "https://i2.ytimg.com/vi/ejGIGCEPZE4/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "ejGIGCEPZE4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "환상 대신 임팩트! 산업의 골칫거리 풀어내는 문제 해결사들",
+        "url": "https://www.youtube.com/watch?v=iJdYV66nBRg",
+        "source": "티타임즈TV",
+        "published": "2026-06-23T09:00:04Z",
+        "summary": "올해로 10주년을 맞은 유럽 최대 테크 축제 '비바테크 2026'. 게다가 올해는 한불 수교 140주년이라는 역사적 타이밍도 더해졌습니다.",
+        "thumbnail": "https://i.ytimg.com/vi/iJdYV66nBRg/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "iJdYV66nBRg",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "미친 자산 변동, 누가 벌고 누가 깨졌나",
+        "url": "https://www.youtube.com/watch?v=NN4GVaBvroE",
+        "source": "슈카월드",
+        "published": "2026-06-23T08:53:45Z",
+        "summary": "0:00 어제는 9000 오늘은 8000 미친 변동성 10:52 SK하이닉스 vs 삼성전자 시총 1위 대결 21:21 5000조는 누가 벌었는가 26:18 ...",
+        "thumbnail": "https://i.ytimg.com/vi/NN4GVaBvroE/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "NN4GVaBvroE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How to Get Your First 10 Customers",
+        "url": "https://www.youtube.com/watch?v=_FBivfgOvuE",
+        "source": "Y Combinator",
+        "published": "2026-06-22T16:54:40Z",
+        "summary": "When most founders look for customers, they reach for cold email and automation tools. But your first 10 customers almost never ...",
+        "thumbnail": "https://i.ytimg.com/vi/_FBivfgOvuE/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "_FBivfgOvuE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "If You Drive Too Fast On the Moon...",
+        "url": "https://www.youtube.com/shorts/E_JRs8IL1eI",
+        "source": "Cleo Abram",
+        "published": "2026-06-22T15:36:44+00:00",
+        "summary": "We are trying to go faster than ever before on the moon… \n\nThere was a competition to build the next truck to drive on the lunar surface and this one was one of two winners.\n\nIt’s going to launch in 2028 and we got to test out the even more advanced version of this truck. \n\nTo see that, subscribe!\n\n",
+        "thumbnail": "https://i2.ytimg.com/vi/E_JRs8IL1eI/hqdefault.jpg",
         "extras": {
           "theme": "trend",
           "videoId": "E_JRs8IL1eI",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -309,13 +399,13 @@
         "title": "Jake Paul on Going From YouTube to Boxing to Investing | a16z ft. Anti Fund",
         "url": "https://www.youtube.com/watch?v=yfafpyhB-8E",
         "source": "a16z",
-        "published": "2026-06-22T14:35:28+00:00",
-        "summary": "Jake Paul and Geoff Woo join the podcast to announce Anti Fund’s new $100 million growth fund and discuss the evolution of their investment strategy.\n\nThe conversation covers the fund’s portfolio, including investments in companies such as SpaceX, OpenAI, Anthropic, Anduril, Cognition, Etched, and M",
-        "thumbnail": "https://i2.ytimg.com/vi/yfafpyhB-8E/hqdefault.jpg",
+        "published": "2026-06-22T14:35:28Z",
+        "summary": "Jake Paul and Geoff Woo join the podcast to announce Anti Fund's new $100 million growth fund and discuss the evolution of ...",
+        "thumbnail": "https://i.ytimg.com/vi/yfafpyhB-8E/mqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "yfafpyhB-8E",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "vrV9tu0p2LI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Could Turkey and Israel go to war?",
-        "url": "https://www.youtube.com/watch?v=C797zYxXcFU",
-        "source": "TLDR News Global",
-        "published": "2026-06-22T08:38:06Z",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008 In this video we're going to explain the dire state of ...",
-        "thumbnail": "https://i.ytimg.com/vi/C797zYxXcFU/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "C797zYxXcFU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Great Lie: It's not rich vs poor, it's makers vs takers",
-        "url": "https://www.youtube.com/shorts/FvxUX5oSDPw",
-        "source": "All-In Podcast",
-        "published": "2026-06-21T22:46:11+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i3.ytimg.com/vi/FvxUX5oSDPw/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "FvxUX5oSDPw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What If You Just Kept Digging?",
-        "url": "https://www.youtube.com/watch?v=_zs9ZBBh_9U",
-        "source": "Cleo Abram",
-        "published": "2026-06-21T16:03:05Z",
-        "summary": "What if I just dug a really deep hole? That's what the USSR did right here. It's 7.6 miles or 12.2 kilometers deep, making it deeper ...",
-        "thumbnail": "https://i.ytimg.com/vi/_zs9ZBBh_9U/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "_zs9ZBBh_9U",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "직무의 중분류, 소분류가 사라진다. 대분류만 남는다 (고려대 권기범 교수, 국민대 김성준 교수)",
-        "url": "https://www.youtube.com/watch?v=H8lYycctv3E",
-        "source": "티타임즈TV",
-        "published": "2026-06-20T22:00:38Z",
-        "summary": "인터넷 시대엔 핵심인재가 10%라고 했죠. 그런데 지금은 1%나 0.1%입니다. 핵심인재들이 쓸 수 있는 컴퓨팅 파워가 달라졌기 때문 ...",
-        "thumbnail": "https://i.ytimg.com/vi/H8lYycctv3E/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "H8lYycctv3E",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "중국을 덮친 &#39;한자 기억상실증&#39;",
-        "url": "https://www.youtube.com/watch?v=MOYn7_AOMcM",
-        "source": "슈카월드",
-        "published": "2026-06-20T12:23:29Z",
-        "summary": "0:00 한자 교육, 해야 할까? 12:38 중국 문해력 논란 26:17 일본 문자가 한자를 변형시킨 문자였던것같은데?",
-        "thumbnail": "https://i.ytimg.com/vi/MOYn7_AOMcM/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "MOYn7_AOMcM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Venezuela Isn’t Going to Plan.",
-        "url": "https://www.youtube.com/watch?v=e7Cq0L6QAHk",
-        "source": "TLDR News Global",
-        "published": "2026-06-20T09:30:12Z",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008 In this video, we thought we'd take a look at what's ...",
-        "thumbnail": "https://i.ytimg.com/vi/e7Cq0L6QAHk/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "e7Cq0L6QAHk",
           "via": "api"
         }
       }
