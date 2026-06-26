@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-25T03:24:03.351342+00:00",
+  "generated_at": "2026-06-26T03:32:24.131536+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia politics live: NSW opposition leader quotes Eminem in budget reply; Labor to tweak death clause in tax reforms",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-25T02:57:00+00:00",
-        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastMike Burgess says he’s really concerned about the level some nation-states, like Iran, could go to cause harm against Australians.Speaking to ABC RN Breakfast, the spy boss says the security level is worsening and we could see an Australian killed at the hands of a foreign government.Targeted killing … that could be",
+        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+        "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-06-26T03:24:12+00:00",
+        "summary": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Venezuela Hit by 7.1-Magnitude Earthquake",
-        "url": "https://www.nytimes.com/live/2026/06/24/world/venezuela-earthquake/earthquake-venezuela",
+        "title": "Matthew Guy demands Moira Deeming apologise for assault claim after Victoria police find ‘no offence detected’",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/26/victoria-police-close-investigation-moira-deeming-allegation-assault-by-matthew-guy-saying-no-offence-detected-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-06-26T03:23:57+00:00",
+        "summary": "‘There was no ambiguity. I did not do what was alleged,’ Guy says of fellow state Liberal MP’s accusationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVictorian Liberal MP Matthew Guy is demanding an apology from his colleague Moira Deeming after police closed their investigation into an allegation he assaulted her, finding there w",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australia news live: Socceroos fans pack city sites; police arrest woman after death at aged care home in Sydney",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-06-26T03:21:27+00:00",
+        "summary": "Follow today’s news liveLIVE: Australia vs Paraguay – Socceroos World Cup gameGet our breaking news email, free app or daily news podcastAlbanese says Stefanovic saga ‘unfortunate’, but ‘words do matter’The prime minister was asked by the ABC about Karl Stefanovic’s departure from Nine. He had this to say:It’s a matter, of course, for Channel 9, but words do matter, and what people who are very pr",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Wayne Swan likens Hanson to Trump and says Labor must stop One Nation’s ‘dark, dystopic picture of the future’",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/26/one-nation-hanson-trump-comparison-labor-party-president-wayne-swan-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-06-26T03:17:01+00:00",
+        "summary": "Australian Labor party president says authoritarian trends must not be ‘normalised’ in AustraliaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLabor must not allow increasingly authoritarian trends in Australian politics to become “normalised”, ALP president Wayne Swan has warned, likening Pauline Hanson’s attacks on multiculturalis",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Forever wars: Israel’s cycle of conflict shows no finish line",
+        "url": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-26T03:16:13+00:00",
+        "summary": "Despite ceasefires and shifting military fronts, Israel’s wars continue, with no clear end or lasting security gains.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Venezuela Live Updates: Search for Survivors Grows More Urgent More Than a Day After Quakes",
+        "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
         "source": "NYT World",
-        "published": "2026-06-25T02:45:53+00:00",
-        "summary": "",
+        "published": "2026-06-26T02:58:50+00:00",
+        "summary": "Back-to-back earthquakes left at least 235 dead and injured more than 4,300 people, according to Venezuela’s government. Residents of the port city of La Guaira estimated that hundreds of people were trapped in rubble. The toll was expected to rise.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Venezuela earthquakes live: state of emergency declared after officials warn of widespread damage and high casualties",
-        "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest",
-        "source": "The Guardian World",
-        "published": "2026-06-25T02:44:09+00:00",
-        "summary": "Two powerful earthquakes – with magnitudes of 7.2 and 7.5 – sent residents running into the streets as buildings shook and collapsedVenezuela earthquakes: back-to-back quakes collapse buildings in capital CaracasVolunteers, medics and relatives of victims have raced to the Altamira area in Caracas hoping to help save survivors from the rubble of collapsed buildings there.“I live far away [but] ...",
+        "title": "Hoping for Miracles as Venezuela Digs Out From Massive Quakes",
+        "url": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html",
+        "source": "NYT World",
+        "published": "2026-06-26T02:54:38+00:00",
+        "summary": "It is known as a “doublet,” two earthquakes in quick succession, and it has brought the Latin American country to its knees.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Last Islamic State-linked Australian woman from Syrian camp to return despite previous ban",
-        "url": "https://www.theguardian.com/world/2026/jun/25/last-is-linked-australian-woman-from-syrian-camp-to-return-despite-previous-ban",
-        "source": "The Guardian World",
-        "published": "2026-06-25T02:23:15+00:00",
-        "summary": "Home affairs minister Tony Burke says return permit ‘has to be issued’ following advice from agencies and lawyersFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn Australian woman linked to the Islamic State group has been given authorisation to return to Australia, after the government was advised it could no longer enforce a crimi",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
+        "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
+        "url": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-25T02:22:08+00:00",
-        "summary": "NATO chief Mark Rutte visited the White House to ease tensions with Trump ahead of next month&#039;s NATO summit.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Teen found not guilty of plotting terror attack on Peter Dutton after court hears of ‘edgy joke’",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/25/peter-dutton-terror-attack-teen-not-guilty-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-25T02:16:30+00:00",
-        "summary": "Queensland boy, now aged 17, wrote of ‘autistic interest in bombs’ alongside notes speaking to his troubled state of mind, court toldFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA teenager accused of plotting nailbomb attacks against the then opposition leader Peter Dutton and a Labour Day march has been found not guilty of prepar",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Russian opposition leader jailed over anti-war social media posts",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/russian-opposition-leader-jailed-over-anti-war-social-media-posts?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-25T01:34:19+00:00",
-        "summary": "Russian opposition leader jailed over anti-war social media posts.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Victorian Liberal party in turmoil as MP denies colleague’s accusations of assault",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/25/victorian-liberal-mp-assault-allegation-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-25T01:34:07+00:00",
-        "summary": "Police confirm they are investigating as sources close to accused MP say he vehemently denies the allegations and is considering legal actionFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA female Victorian Liberal MP has accused a member of her party room of assaulting her at a community event, throwing the party into turmoil just ",
+        "published": "2026-06-26T02:35:10+00:00",
+        "summary": "Brent crude rises after cargo ship comes under attack in key waterway.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Cloudflare launched self-managed OAuth for all",
-        "url": "https://blog.cloudflare.com/oauth-for-all/",
+        "title": "A data race that doesn't compile",
+        "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
         "source": "Hacker News Front",
-        "published": "2026-06-25T02:18:10+00:00",
-        "summary": "Article URL: https://blog.cloudflare.com/oauth-for-all/\nComments URL: https://news.ycombinator.com/item?id=48668033\nPoints: 8\n# Comments: 1",
+        "published": "2026-06-26T01:33:15+00:00",
+        "summary": "Article URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/\nComments URL: https://news.ycombinator.com/item?id=48681361\nPoints: 18\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Writers and Drugs",
-        "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+        "title": "AI children's books, body horror edition",
+        "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
         "source": "Hacker News Front",
-        "published": "2026-06-25T01:50:01+00:00",
-        "summary": "Article URL: https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/\nComments URL: https://news.ycombinator.com/item?id=48667853\nPoints: 6\n# Comments: 3",
+        "published": "2026-06-26T01:15:14+00:00",
+        "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition\nComments URL: https://news.ycombinator.com/item?id=48681250\nPoints: 133\n# Comments: 37",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Bible as RAG Database",
-        "url": "https://www.crosscanon.com/",
+        "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+        "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
         "source": "Hacker News Front",
-        "published": "2026-06-25T01:42:55+00:00",
-        "summary": "Article URL: https://www.crosscanon.com/\nComments URL: https://news.ycombinator.com/item?id=48667807\nPoints: 53\n# Comments: 23",
+        "published": "2026-06-26T01:10:52+00:00",
+        "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\nComments URL: https://news.ycombinator.com/item?id=48681220\nPoints: 53\n# Comments: 16",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Exploring the internal representations of Pangram 3.3.2",
-        "url": "https://www.pangram.com/pangram-space",
-        "source": "Hacker News Front",
-        "published": "2026-06-25T01:36:45+00:00",
-        "summary": "Article URL: https://www.pangram.com/pangram-space\nComments URL: https://news.ycombinator.com/item?id=48667761\nPoints: 12\n# Comments: 4",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Ending All Respiratory Infections",
-        "url": "https://blog.interceptfund.com/p/ending-respiratory-infections",
-        "source": "Hacker News Front",
-        "published": "2026-06-25T01:14:23+00:00",
-        "summary": "Article URL: https://blog.interceptfund.com/p/ending-respiratory-infections\nComments URL: https://news.ycombinator.com/item?id=48667588\nPoints: 48\n# Comments: 18",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Mixing Visual and Textual Code",
-        "url": "https://arxiv.org/abs/2603.15855",
-        "source": "Hacker News Front",
-        "published": "2026-06-25T01:11:10+00:00",
-        "summary": "Article URL: https://arxiv.org/abs/2603.15855\nComments URL: https://news.ycombinator.com/item?id=48667560\nPoints: 14\n# Comments: 0",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The Skylight Calendar Is One of My Favorite Products On Sale for Prime Day",
-        "url": "https://www.wired.com/story/skylight-calendar-prime-day-deal-2026/",
+        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+        "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
         "source": "Wired",
-        "published": "2026-06-25T00:59:18+00:00",
-        "summary": "The Skylight Calendar 2 and Calendar Max are both on sale for Prime Day if you've been dreaming of a digital calendar to manage your household.",
+        "published": "2026-06-26T00:49:13+00:00",
+        "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "What I'm Finding About LLM Code Style and Token Costs",
-        "url": "https://www.jimmont.com/llm-style-token-costs",
+        "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
+        "url": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
+        "source": "Wired",
+        "published": "2026-06-26T00:07:57+00:00",
+        "summary": "Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "source": "TechCrunch",
+        "published": "2026-06-25T23:34:39+00:00",
+        "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+        "source": "Wired",
+        "published": "2026-06-25T23:13:45+00:00",
+        "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+        "url": "https://gchandbook.org/",
         "source": "Hacker News Front",
-        "published": "2026-06-25T00:52:40+00:00",
-        "summary": "Article URL: https://www.jimmont.com/llm-style-token-costs\nComments URL: https://news.ycombinator.com/item?id=48667409\nPoints: 12\n# Comments: 3",
+        "published": "2026-06-25T23:10:30+00:00",
+        "summary": "Article URL: https://gchandbook.org/\nComments URL: https://news.ycombinator.com/item?id=48680370\nPoints: 65\n# Comments: 11",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,88 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Crunchbase Tech Layoffs Tracker",
-        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+        "title": "한싹 “망연계 넘어 통합보안으로 사업 확장, N2SF 시장 정조준”",
+        "url": "https://byline.network/2026/06/25-575/",
+        "source": "ByLine Network",
+        "published": "2026-06-26T00:48:16+00:00",
+        "summary": "한싹이 강점인 망연계 기술을 기반으로 분리망 보안통제(CDS), 통합접근제어, 패스워드 관리, 보안소켓계층(SSL) 가시성까지 사업 영역을 넓히며 국가망보안체계(N2SF) 시장 공략에 나선다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "치열한 AI 모델 경쟁 틈에서 AI 서비스가 사는 법",
+        "url": "https://byline.network/2026/06/25-574/",
+        "source": "ByLine Network",
+        "published": "2026-06-25T23:55:09+00:00",
+        "summary": "“여러 프론티어 AI 모델이 경쟁적으로 업그레이드되고 있지만, 결국 비슷해질 것이다. 그럼 모델의 가격 경쟁만 남게 된다. 그럼 다른 AI 계층의 회사를 중심으로 하는 또 다른 AI 생태계가 만들어질 수 있다.”",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "말만 해도 PPT 잘 뽑아주는 에이전트 ‘젠스파크’의 비결",
+        "url": "https://byline.network/2026/06/25-573/",
+        "source": "ByLine Network",
+        "published": "2026-06-25T22:25:50+00:00",
+        "summary": "“오픈AI, 앤트로픽 같은 선도적인 AI 모델 회사는 포뮬러원 스포츠카를 만듭니다. 일반인에게 포뮬러원이 필요한 건 아닙니다. 그런 차를 유지하려면 정확한 지식을 갖춘 전문가 그룹이 필요하고, 매일 운전하기에 불편하니까요. 젠스파크는 일반적인 지식 근로자를 위한 현대차, 토요타 같은 경제적인 자동차를 만듭니다. 지금은 모델의 성능을 주로 이야기 하지만, 일반인은 머지 않아 그런 것에 관심을 갖지 않고 완벽한 호환성을 더 따지게 될 겁니다. 중요한 건 사람의 기억과 맥락을 바탕으로 모든 것을 구축하고 생성해 줄 수 있는 AI 서비스입니다.” -에릭 징 젠스파크 CEO",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Brent Hoberman on UK tech post-Starmer: 'Are we going to tax everyone to high hell?'",
+        "url": "https://sifted.eu/articles/brent-hoberman-podcast/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-25T17:04:46+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "What it actually takes to scale AI in Europe: ‘The best founders aren’t building for the next funding round’",
+        "url": "https://sifted.eu/articles/scale-ai-in-europe-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-25T15:06:41+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[현장] 플로우 AX 페스타에서 본 AI 시대의 의미",
+        "url": "https://byline.network/2026/06/25-572/",
+        "source": "ByLine Network",
+        "published": "2026-06-25T14:31:02+00:00",
+        "summary": "“신대륙이 발견되고 대항해시대가 열렸을 때 가장 용기 있는 사람들이 새로운 기회를 얻었다. 인간이라는 단일 지능을 넘어 에이전틱 AI 등 다양한 지능이 공존하는 ‘다지능 시대’에도 마찬가지일 것이다.” 인공지능(AI) 전문가인 김대식 카이스트 교수는 플로우 개발사 마드라스체크가 25일 여의도 페어몬트 앰배서더에서 개최한 ‘플로우 AX 페스타 2026’에서 이같이 말했다. 이날 행사에서는 AI 시대를 통찰하는 전문가 강연과 함께 다양한 업무 현장의 실제 AX 전략이 소개됐다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Health unicorn Alan raises €480m Series G round led by Prosus",
+        "url": "https://sifted.eu/articles/alan-prosus-raise-series-g-valuation-health-tech/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-25T11:10:01+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Cursor Deal Puts US On Track For Record Startup M&A Year",
+        "url": "https://news.crunchbase.com/ma/2026-mergers-acquisitions-record-cursor-spcx/",
         "source": "Crunchbase News",
-        "published": "2026-06-24T15:50:30+00:00",
-        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "검찰 “무죄받은 카카오 주가조작 재판, 1심 재판부가 증거 외면”",
-        "url": "https://byline.network/2026/06/0624-5/",
-        "source": "ByLine Network",
-        "published": "2026-06-24T15:08:42+00:00",
-        "summary": "“원심(1심) 판결은 검찰이 제출한 주요 증거들과 주장들이 누락된 채 사실 인정 판단이 이뤄졌습니다.” 검찰 측이 24일 서울 서초구 서울고등법원에서 열린 카카오 자본시장법 위반 항소심 공판(2심)에서 한 말이다. 이번 공판은 지난 2023년 SM엔터테인먼트(이하 SM) 인수전 당시 하이브(HYBE)의 공개매수를 방해할 목적으로 카카오가 주가를 인위적으로 조작했는지 여부를 다시 판단하기 위해 열렸다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "현장 가득 에이수스 비즈니스 라인업…‘엑스퍼트북 울트라’에 눈길",
-        "url": "https://byline.network/2026/06/23-604/",
-        "source": "ByLine Network",
-        "published": "2026-06-24T14:05:46+00:00",
-        "summary": "에이수스가 23일 서울 여의도 콘래드호텔에서 비즈니스 기자간담회를 개최하고 신제품 ‘엑스퍼트북 울트라’를 발표했다. 현장에는 이날 공개된 엑스퍼트북 울트라를 비롯, 에이수스의 다양한 비즈니스 라인업을 직접 둘러볼 수 있는 체험 부스가 마련됐다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "불통의 시대는 잊어라…게임업계, 이용자와 소통 위해 안간힘",
-        "url": "https://byline.network/2026/06/24-606/",
-        "source": "ByLine Network",
-        "published": "2026-06-24T14:04:05+00:00",
-        "summary": "주요 국내 게임사들이 이용자와 소통을 강화하고 있다. 과거 불통으로 여론의 뭇매를 맞던 시절을 지나 ‘소통’이 하나의 서비스 기본값으로 자리 잡은 모습이다. 공지, 패치 노트 공개 등 일방향 전달 방식에서 벗어나 라이브 방송, 개발자 노트, 대규모 쇼케이스 등 다양한 형태로 이용자 접점을 넓히고 있다. 라이브 서비스 게임은 물론 패키지 게임까지 이용자와 소통을 중요하게 여기는 분위기다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "애자일소다 덕에 농협은행과 밀접해진 이노에이엑스",
-        "url": "https://byline.network/2026/06/0624-4/",
-        "source": "ByLine Network",
-        "published": "2026-06-24T14:01:23+00:00",
-        "summary": "NH농협은행이 애자일소다를 인수하면서 인공지능 전환(AX) 전문기업 이노에이엑스가 투자 수익과 사업 확대 기회를 동시에 확보했다는 평가가 나온다. 이노에이엑스는 애자일소다 지분 일부를 매각해 약 42억원의 차익을 거둔 것으로 추산된다. 향후 농협금융지주 계열사의 AI 사업이 확대될 경우 새로운 사업 기회도 기대된다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: XCures Lands $46M Series B To Clean Up Messy Medical Records With AI",
-        "url": "https://news.crunchbase.com/venture/xcures-lands-seriesb-medical-records-ai/",
-        "source": "Crunchbase News",
-        "published": "2026-06-24T14:00:11+00:00",
-        "summary": "XCures, a startup that uses AI to streamline patient data and medical records, has closed a Innovius Capital-led $46 million Series B financing round, it tells Crunchbase News exclusively.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "모바일 게임, 전성기 이끈 장르가 흔들린다",
-        "url": "https://byline.network/2026/06/24-605/",
-        "source": "ByLine Network",
-        "published": "2026-06-24T13:56:24+00:00",
-        "summary": "액션·전략 장르 모바일 게임 성장 지표가 지속적 감소세를 보이는 가운데, 기존 문법을 파괴하는 장르 융합이 대안으로 제시됐다. 데이터 분석 기업 센서타워는 최근 발간한 ‘게임 심층 분석: 액션 및 전략’ 보고서에서 모바일 액션·전략·RPG 장르가 수익화에 집중하는 단계에 접어들었다고 분석했다. 전략 장르에 타이쿤이나 캐주얼 등 색다른 요소를 접목해 유의미한 성과를 거둔 일부 사례도 소개했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Why Ex-Meta CTO Mike Schroepfer Says It’s A Great Time To Build A Hard Tech Company: ‘Infrastructure Is The Moat’",
-        "url": "https://news.crunchbase.com/venture/hard-tech-infrastructure-moat-schroepfer-gigascale/",
-        "source": "Crunchbase News",
-        "published": "2026-06-24T11:00:37+00:00",
-        "summary": "In this Crunchbase News Q&#038;A, Gigascale Capital founder Mike Schroepfer discusses the coming power crunch, why infrastructure has become a strategic moat, and how breakthroughs in everything from batteries to robotics could reshape the economy over the next decade.",
+        "published": "2026-06-25T11:00:18+00:00",
+        "summary": "While SpaceX’s $60 billion acquisition of Anysphere dominates the headlines, a number of other multibillion-dollar transactions have also closed this year. We take a look at the 10 largest M&#038;A deals so far in 2026.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,16 +276,91 @@
       {
         "category": "videos",
         "kind": "video",
+        "title": "World’s Biggest Experiment is Shutting Down",
+        "url": "https://www.youtube.com/shorts/wxZc0fxYMGo",
+        "source": "Cleo Abram",
+        "published": "2026-06-25T15:38:16+00:00",
+        "summary": "They’re shutting down the biggest science experiment to build something even cooler. \n\nThe Large Hadron Collider smashes particles together to discover new and rare ones, like the Higgs Boson. But right now, we only see the Higgs Boson in about 1 in a BILLION collisions… we need more collisions…. \n\n",
+        "thumbnail": "https://i4.ytimg.com/vi/wxZc0fxYMGo/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "wxZc0fxYMGo",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
+        "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
+        "source": "Y Combinator",
+        "published": "2026-06-25T14:00:34+00:00",
+        "summary": "Mark Pincus is the founder of Zynga and author of \"Life at the Speed of Play: Launch Products People Love\", which distills the product philosophy and founder playbook he developed across five companies. In this episode of the Main Function, Pincus sits down with Garry to talk about consumer in the A",
+        "thumbnail": "https://i4.ytimg.com/vi/oHwUD9b9_pg/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "oHwUD9b9_pg",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "충격의 신임 연준 의장 첫 FOMC 발언",
+        "url": "https://www.youtube.com/watch?v=knP57QdvQic",
+        "source": "슈카월드",
+        "published": "2026-06-25T11:07:47+00:00",
+        "summary": "0:00 \"드릴 말씀이 딱히 없다.\"\n6:32 \"저는 오픈 마인드입니다.\"\n18:10 30년 만에 기준금리 1%가 된 일본",
+        "thumbnail": "https://i4.ytimg.com/vi/knP57QdvQic/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "knP57QdvQic",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "프랑스 관람객이 한국 AI 스타트업에 몰린 이유",
+        "url": "https://www.youtube.com/watch?v=bLmWie5dQTU",
+        "source": "티타임즈TV",
+        "published": "2026-06-25T09:00:21+00:00",
+        "summary": "전 세계 테크 트렌드가 집결한 비바테크 2026. 한국 AI 스타트업 6팀이 유럽 시장의 문을 두드렸습니다. 프랑스 현지 투자자와 바이어들은 AI 기술만이 아닌 실제 현장 적용과 규제 대응력에 대해 집요하게 물었는데요. 스텝하우, 잉클, 그리네타, 본작, 우당네트웍, 스콘AI 등 6팀은 사내 AI 에이전트 서비스, 제조 데이터 플랫폼, 디지털 트윈 데이터의 3D 압축, AI 기반 향수 추천, AI 기반 화장품 추천, 초저지연 AI 통번역 등 각기 다른 현장용 AI로 평가받았습니다. AI 환상을 넘어 실제 임팩트에 도전한 6팀의 이야",
+        "thumbnail": "https://i3.ytimg.com/vi/bLmWie5dQTU/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "bLmWie5dQTU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "프랑스의 눈을 사로잡은 K-그린테크 5곳 (비바테크2026 K-스타트업 통합관)",
+        "url": "https://www.youtube.com/shorts/l-Rqw039sDM",
+        "source": "티타임즈TV",
+        "published": "2026-06-25T06:45:03+00:00",
+        "summary": "비바테크 2026에 도전장을 내민 그린테크 K-스타트업들. 국내 스타트업 5개사가 각종 신기술을 공개하면서 기후테크에 관심 많은 현지 투자자의 이목을 집중 시켰는데요. 한국 그린테크의 경쟁력을 지금 확인해보세요.\n\n※위 영상은 창업진흥원의 지원을 통해 제작되었습니다.\n\n#비바테크 #창업진흥원 #중소벤처기업부\n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.html\n▶비즈니스 문의 \nttimes6000@gmail.com",
+        "thumbnail": "https://i1.ytimg.com/vi/l-Rqw039sDM/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "l-Rqw039sDM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
         "title": "Against all odds. Congratulations Elon Musk and SpaceX.",
-        "url": "https://www.youtube.com/watch?v=gKboAPejVM8",
+        "url": "https://www.youtube.com/shorts/gKboAPejVM8",
         "source": "a16z",
-        "published": "2026-06-24T20:03:43Z",
-        "summary": "This material is solely for educational purposes and is not investment advice or an offer of investment advisory services.",
-        "thumbnail": "https://i.ytimg.com/vi/gKboAPejVM8/mqdefault.jpg",
+        "published": "2026-06-24T20:03:43+00:00",
+        "summary": "This material is solely for educational purposes and is not investment advice or an offer of investment advisory services. This material should not be used as the basis for an investment decision. a16z is an investor in SpaceX and Cursor through its managed funds, and thus has a financial interest i",
+        "thumbnail": "https://i4.ytimg.com/vi/gKboAPejVM8/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "gKboAPejVM8",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -309,13 +384,13 @@
         "title": "수출도 좋고, 코스피도 좋은데, 왜 환율은 계속 높을까?",
         "url": "https://www.youtube.com/watch?v=piTt9ttMPlQ",
         "source": "슈카월드",
-        "published": "2026-06-24T10:30:07Z",
-        "summary": "0:00 환율은 왜 안 내려 올까 7:35 한국은행 환율 급등 원인 분석 레포트 19:45 금융 당국 긴급회의.",
-        "thumbnail": "https://i.ytimg.com/vi/piTt9ttMPlQ/mqdefault.jpg",
+        "published": "2026-06-24T10:30:07+00:00",
+        "summary": "0:00 환율은 왜 안 내려 올까\n7:35 한국은행 환율 급등 원인 분석 레포트\n19:45 금융 당국 긴급회의",
+        "thumbnail": "https://i1.ytimg.com/vi/piTt9ttMPlQ/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "piTt9ttMPlQ",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -324,43 +399,13 @@
         "title": "What’s Gone Wrong with the Philippines’ Economy?",
         "url": "https://www.youtube.com/watch?v=MKwe5k9YDUc",
         "source": "TLDR News Global",
-        "published": "2026-06-24T09:30:03Z",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008 The Philippine economy used to outperform peers in it's ...",
-        "thumbnail": "https://i.ytimg.com/vi/MKwe5k9YDUc/mqdefault.jpg",
+        "published": "2026-06-24T09:30:03+00:00",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nThe Philippine economy used to outperform peers in it's region, but today it seems to be falling behind. So in this video we explain what's going on, and it's not just the war in Iran.\n\n📰 Too Long: https://toolong.news/\n🎉 TLDR Party:",
+        "thumbnail": "https://i2.ytimg.com/vi/MKwe5k9YDUc/hqdefault.jpg",
         "extras": {
           "theme": "news",
           "videoId": "MKwe5k9YDUc",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "자원을 효율적으로 안전하게! 유럽서 주목하는 K-스타트업",
-        "url": "https://www.youtube.com/watch?v=NS7CyjCfUw0",
-        "source": "티타임즈TV",
-        "published": "2026-06-24T09:00:11Z",
-        "summary": "비바테크 2026에서 그린테크 K-스타트업들이 본격적으로 주목을 받고 있습니다. 국내 혁신 스타트업 5곳이 데이터센터, 공장, 도시 등 ...",
-        "thumbnail": "https://i.ytimg.com/vi/NS7CyjCfUw0/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "NS7CyjCfUw0",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "지금 산업 현장을 바꾸려는 K-스타트업 7곳(비바테크2026 K-스타트업 통합관)",
-        "url": "https://www.youtube.com/watch?v=IMvvpNH9vuY",
-        "source": "티타임즈TV",
-        "published": "2026-06-24T08:45:21Z",
-        "summary": "올해로 10주년을 맞은 유럽 최대 테크 축제 '비바테크 2026'. 대한민국-프랑스 수교 140주년이라는 역사적 타이밍도 맞아 떨어졌는 ...",
-        "thumbnail": "https://i.ytimg.com/vi/IMvvpNH9vuY/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "IMvvpNH9vuY",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -376,51 +421,6 @@
           "theme": "analysis",
           "videoId": "4j9RPGLENNI",
           "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How did Disney become the best business of all the classic Hollywood studios?",
-        "url": "https://www.youtube.com/shorts/vMWFu1HP7LE",
-        "source": "Acquired",
-        "published": "2026-06-23T18:49:14+00:00",
-        "summary": "Animation (which is uniquely well-suited to compounding), the flywheel, and... a lesson learned the hard way.",
-        "thumbnail": "https://i3.ytimg.com/vi/vMWFu1HP7LE/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "vMWFu1HP7LE",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
-        "url": "https://www.youtube.com/watch?v=7EUVr0-V6DA",
-        "source": "Acquired",
-        "published": "2026-06-23T16:05:40+00:00",
-        "summary": "The Walt Disney Company is the most successful enterprise ever created for monetizing human nostalgia. Today it's the king of global entertainment, holding the intellectual property rights to the childhood memories of billions of people (including, likely, all of you) and is a reliable, predictable ",
-        "thumbnail": "https://i4.ytimg.com/vi/7EUVr0-V6DA/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "7EUVr0-V6DA",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "This Factory Breeds Mosquitos",
-        "url": "https://www.youtube.com/watch?v=ejGIGCEPZE4",
-        "source": "Cleo Abram",
-        "published": "2026-06-23T15:01:01Z",
-        "summary": "This factory is breeding MOSQUITOS. 100 million of them EVERY SINGLE WEEK and then RELEASING them! But these aren't ...",
-        "thumbnail": "https://i.ytimg.com/vi/ejGIGCEPZE4/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "ejGIGCEPZE4",
-          "via": "api"
         }
       }
     ]
