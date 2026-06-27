@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-26T03:32:24.131536+00:00",
+  "generated_at": "2026-06-27T02:54:57.595888+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-        "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-06-26T03:24:12+00:00",
-        "summary": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+        "published": "2026-06-27T02:48:12+00:00",
+        "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Matthew Guy demands Moira Deeming apologise for assault claim after Victoria police find ‘no offence detected’",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/26/victoria-police-close-investigation-moira-deeming-allegation-assault-by-matthew-guy-saying-no-offence-detected-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-26T03:23:57+00:00",
-        "summary": "‘There was no ambiguity. I did not do what was alleged,’ Guy says of fellow state Liberal MP’s accusationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVictorian Liberal MP Matthew Guy is demanding an apology from his colleague Moira Deeming after police closed their investigation into an allegation he assaulted her, finding there w",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: Socceroos fans pack city sites; police arrest woman after death at aged care home in Sydney",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-26T03:21:27+00:00",
-        "summary": "Follow today’s news liveLIVE: Australia vs Paraguay – Socceroos World Cup gameGet our breaking news email, free app or daily news podcastAlbanese says Stefanovic saga ‘unfortunate’, but ‘words do matter’The prime minister was asked by the ABC about Karl Stefanovic’s departure from Nine. He had this to say:It’s a matter, of course, for Channel 9, but words do matter, and what people who are very pr",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Wayne Swan likens Hanson to Trump and says Labor must stop One Nation’s ‘dark, dystopic picture of the future’",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/26/one-nation-hanson-trump-comparison-labor-party-president-wayne-swan-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-06-26T03:17:01+00:00",
-        "summary": "Australian Labor party president says authoritarian trends must not be ‘normalised’ in AustraliaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLabor must not allow increasingly authoritarian trends in Australian politics to become “normalised”, ALP president Wayne Swan has warned, likening Pauline Hanson’s attacks on multiculturalis",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Forever wars: Israel’s cycle of conflict shows no finish line",
-        "url": "https://www.aljazeera.com/news/2026/6/26/forever-wars-israels-conflict-cycle-shows-no-finish-line?traffic_source=rss",
+        "title": "Cape Verde qualify for World Cup Round of 32, set up date with Argentina",
+        "url": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-qualify-for-world-cup-round-of-32-set-up-date-with-argentina?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-26T03:16:13+00:00",
-        "summary": "Despite ceasefires and shifting military fronts, Israel’s wars continue, with no clear end or lasting security gains.",
+        "published": "2026-06-27T02:28:37+00:00",
+        "summary": "Cape Verde&#039;s third draw gives them a second-place finish in Group H and pits them against the world champions in the knockouts.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Venezuela Live Updates: Search for Survivors Grows More Urgent More Than a Day After Quakes",
-        "url": "https://www.nytimes.com/live/2026/06/25/world/venezuela-earthquake",
-        "source": "NYT World",
-        "published": "2026-06-26T02:58:50+00:00",
-        "summary": "Back-to-back earthquakes left at least 235 dead and injured more than 4,300 people, according to Venezuela’s government. Residents of the port city of La Guaira estimated that hundreds of people were trapped in rubble. The toll was expected to rise.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Hoping for Miracles as Venezuela Digs Out From Massive Quakes",
-        "url": "https://www.nytimes.com/2026/06/25/world/americas/venezuela-earthquake.html",
-        "source": "NYT World",
-        "published": "2026-06-26T02:54:38+00:00",
-        "summary": "It is known as a “doublet,” two earthquakes in quick succession, and it has brought the Latin American country to its knees.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Oil prices climb after attack in Strait of Hormuz halts evacuation plan",
-        "url": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
+        "title": "Newly released video exposes Henry Nowak killer’s lies",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/newly-released-video-exposes-henry-nowak-killers-lies?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-26T02:35:10+00:00",
-        "summary": "Brent crude rises after cargo ship comes under attack in key waterway.",
+        "published": "2026-06-27T02:23:36+00:00",
+        "summary": "Newly released footage has exposed the series of lies that led UK police to arrest a dying stabbing victim.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
+        "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
+        "source": "NYT World",
+        "published": "2026-06-27T01:58:42+00:00",
+        "summary": "The U.S. dispatched hundreds of rescue workers to help the Venezuelan  government, as the injured overwhelmed hospitals and the death toll rose to 920. The Pentagon sent two ships, transport planes and helicopters.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
+        "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+        "source": "NYT World",
+        "published": "2026-06-27T01:36:11+00:00",
+        "summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Nations Send Rescue Teams and Aid to Venezuela After Earthquakes",
+        "url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescue-teams-countries.html",
+        "source": "NYT World",
+        "published": "2026-06-27T01:09:49+00:00",
+        "summary": "The number of the dead continues to rise as search-and-rescue teams descended upon the country to dig out people buried in rubble.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Scenes of Collapse: The Emergency at Venezuela’s Hospitals",
+        "url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-hospitals-earthquake-collapse.html",
+        "source": "NYT World",
+        "published": "2026-06-27T00:51:44+00:00",
+        "summary": "A snapshot of the toll of the country’s twin quakes.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Religion row as Texas makes Bible stories required reading in schools",
+        "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-06-27T00:31:42+00:00",
+        "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "A data race that doesn't compile",
-        "url": "https://corentin-core.github.io/posts/ruxe-type-level-disjointness/",
-        "source": "Hacker News Front",
-        "published": "2026-06-26T01:33:15+00:00",
-        "summary": "Article URL: https://corentin-core.github.io/posts/ruxe-type-level-disjointness/\nComments URL: https://news.ycombinator.com/item?id=48681361\nPoints: 18\n# Comments: 5",
+        "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
+        "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
+        "source": "The Verge",
+        "published": "2026-06-27T02:33:54+00:00",
+        "summary": "There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we&#8217;ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal: another is seeing which products fellow Verge readers actually buy. Below, we&#8217;ve rounded up [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "AI children's books, body horror edition",
-        "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-        "source": "Hacker News Front",
-        "published": "2026-06-26T01:15:14+00:00",
-        "summary": "Article URL: https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition\nComments URL: https://news.ycombinator.com/item?id=48681250\nPoints: 133\n# Comments: 37",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-        "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-        "source": "Hacker News Front",
-        "published": "2026-06-26T01:10:52+00:00",
-        "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\nComments URL: https://news.ycombinator.com/item?id=48681220\nPoints: 53\n# Comments: 16",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-        "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-        "source": "Wired",
-        "published": "2026-06-26T00:49:13+00:00",
-        "summary": "Anthropic's critics argue it's rapidly accumulating power. The company says that's what responsible AI development looks like.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "This Is Probably Your Last Chance to Buy a Cheap MacBook for a While",
-        "url": "https://www.wired.com/story/apple-price-hikes-on-macbooks-on-prime-day/",
-        "source": "Wired",
-        "published": "2026-06-26T00:07:57+00:00",
-        "summary": "Apple has dramatically jacked up the prices of MacBooks, making the current Prime Day pricing that much more enticing.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
         "source": "TechCrunch",
-        "published": "2026-06-25T23:34:39+00:00",
-        "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+        "published": "2026-06-27T01:01:37+00:00",
+        "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+        "title": "The 28 Best Deals Under $100 Before Prime Day Ends",
+        "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
         "source": "Wired",
-        "published": "2026-06-25T23:13:45+00:00",
-        "summary": "The decision by Amazon-owned MGM Studios to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we look at where this is all headed.",
+        "published": "2026-06-27T00:59:29+00:00",
+        "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
-        "url": "https://gchandbook.org/",
+        "title": "99 Last Minute Prime Day Deals: Up to 50% Off (2026)",
+        "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/",
+        "source": "Wired",
+        "published": "2026-06-27T00:45:00+00:00",
+        "summary": "Prime Day is hours away from ending, so take one last look through our hand-picked deals before they're gone.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+        "url": "https://popflame.quickish.space/hn-flipboard/",
         "source": "Hacker News Front",
-        "published": "2026-06-25T23:10:30+00:00",
-        "summary": "Article URL: https://gchandbook.org/\nComments URL: https://news.ycombinator.com/item?id=48680370\nPoints: 65\n# Comments: 11",
+        "published": "2026-06-27T00:43:39+00:00",
+        "summary": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on. The recent flip board back and forth's on Twitter (X) are what inspired me.The idea here is that people (like me or you) can create something neat like this, and others can remix it, change it and publ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
+        "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+        "source": "The Verge",
+        "published": "2026-06-27T00:42:42+00:00",
+        "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is still [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
+        "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
+        "source": "TechCrunch",
+        "published": "2026-06-27T00:38:34+00:00",
+        "summary": "Mesh came out of stealth in February with a $50 million Series A.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Anthropic&#8217;s Mythos 5 is back",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+        "source": "The Verge",
+        "published": "2026-06-27T00:33:44+00:00",
+        "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,183 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "한싹 “망연계 넘어 통합보안으로 사업 확장, N2SF 시장 정조준”",
-        "url": "https://byline.network/2026/06/25-575/",
-        "source": "ByLine Network",
-        "published": "2026-06-26T00:48:16+00:00",
-        "summary": "한싹이 강점인 망연계 기술을 기반으로 분리망 보안통제(CDS), 통합접근제어, 패스워드 관리, 보안소켓계층(SSL) 가시성까지 사업 영역을 넓히며 국가망보안체계(N2SF) 시장 공략에 나선다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "치열한 AI 모델 경쟁 틈에서 AI 서비스가 사는 법",
-        "url": "https://byline.network/2026/06/25-574/",
-        "source": "ByLine Network",
-        "published": "2026-06-25T23:55:09+00:00",
-        "summary": "“여러 프론티어 AI 모델이 경쟁적으로 업그레이드되고 있지만, 결국 비슷해질 것이다. 그럼 모델의 가격 경쟁만 남게 된다. 그럼 다른 AI 계층의 회사를 중심으로 하는 또 다른 AI 생태계가 만들어질 수 있다.”",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "말만 해도 PPT 잘 뽑아주는 에이전트 ‘젠스파크’의 비결",
-        "url": "https://byline.network/2026/06/25-573/",
-        "source": "ByLine Network",
-        "published": "2026-06-25T22:25:50+00:00",
-        "summary": "“오픈AI, 앤트로픽 같은 선도적인 AI 모델 회사는 포뮬러원 스포츠카를 만듭니다. 일반인에게 포뮬러원이 필요한 건 아닙니다. 그런 차를 유지하려면 정확한 지식을 갖춘 전문가 그룹이 필요하고, 매일 운전하기에 불편하니까요. 젠스파크는 일반적인 지식 근로자를 위한 현대차, 토요타 같은 경제적인 자동차를 만듭니다. 지금은 모델의 성능을 주로 이야기 하지만, 일반인은 머지 않아 그런 것에 관심을 갖지 않고 완벽한 호환성을 더 따지게 될 겁니다. 중요한 건 사람의 기억과 맥락을 바탕으로 모든 것을 구축하고 생성해 줄 수 있는 AI 서비스입니다.” -에릭 징 젠스파크 CEO",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Brent Hoberman on UK tech post-Starmer: 'Are we going to tax everyone to high hell?'",
-        "url": "https://sifted.eu/articles/brent-hoberman-podcast/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-25T17:04:46+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "What it actually takes to scale AI in Europe: ‘The best founders aren’t building for the next funding round’",
-        "url": "https://sifted.eu/articles/scale-ai-in-europe-brnd/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-25T15:06:41+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[현장] 플로우 AX 페스타에서 본 AI 시대의 의미",
-        "url": "https://byline.network/2026/06/25-572/",
-        "source": "ByLine Network",
-        "published": "2026-06-25T14:31:02+00:00",
-        "summary": "“신대륙이 발견되고 대항해시대가 열렸을 때 가장 용기 있는 사람들이 새로운 기회를 얻었다. 인간이라는 단일 지능을 넘어 에이전틱 AI 등 다양한 지능이 공존하는 ‘다지능 시대’에도 마찬가지일 것이다.” 인공지능(AI) 전문가인 김대식 카이스트 교수는 플로우 개발사 마드라스체크가 25일 여의도 페어몬트 앰배서더에서 개최한 ‘플로우 AX 페스타 2026’에서 이같이 말했다. 이날 행사에서는 AI 시대를 통찰하는 전문가 강연과 함께 다양한 업무 현장의 실제 AX 전략이 소개됐다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Health unicorn Alan raises €480m Series G round led by Prosus",
-        "url": "https://sifted.eu/articles/alan-prosus-raise-series-g-valuation-health-tech/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-25T11:10:01+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Cursor Deal Puts US On Track For Record Startup M&A Year",
-        "url": "https://news.crunchbase.com/ma/2026-mergers-acquisitions-record-cursor-spcx/",
+        "title": "The Week’s 10 Biggest Funding Rounds: AI Drives Another Spree Of Megadeals",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/",
         "source": "Crunchbase News",
-        "published": "2026-06-25T11:00:18+00:00",
-        "summary": "While SpaceX’s $60 billion acquisition of Anysphere dominates the headlines, a number of other multibillion-dollar transactions have also closed this year. We take a look at the 10 largest M&#038;A deals so far in 2026.",
+        "published": "2026-06-26T20:00:55+00:00",
+        "summary": "This week, most of the largest U.S. startup funding rounds centered around the sector one would suspect: artificial intelligence. Beyond that, the next-biggest area for startup funding was biotech.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Berlin’s Peec AI targeting $200m valuation in new fundraise, sources say",
+        "url": "https://sifted.eu/articles/peec-ai-fundraise-new-valuation/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-26T17:18:53+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Revolut dials back remote work for graduates",
+        "url": "https://sifted.eu/articles/revolut-dials-back-remote-work-for-graduates/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-26T16:14:58+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "6 Startup Investors On What It Will Take To Fund More Black Founders",
+        "url": "https://news.crunchbase.com/venture/investors-funding-black-founder-recommendations/",
+        "source": "Crunchbase News",
+        "published": "2026-06-26T11:00:13+00:00",
+        "summary": "In the final installment of our series on the state of venture investment to Black-founded startups, six investors offer their advice for overlooked founders and explain how the venture industry can broaden access to capital by rethinking sourcing, networks and long-held investing patterns.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "박찬암 스틸리언 대표 “AI 시대의 보안 위협, 실행 권한·API 통제가 핵심”",
+        "url": "https://byline.network/2026/06/26-615/",
+        "source": "ByLine Network",
+        "published": "2026-06-26T09:40:07+00:00",
+        "summary": "“많은 사고 조사 현장에서 봐온 결과, AI 보안의 핵심은 ‘실행 권한 통제’와 ‘API 관리’에 있었습니다.” 박찬암 스틸리언 대표는 26일 서울 서초구 aT센터에서 열린 ‘미토스 AI 시대, 개인정보보호 규제 컴플라이언스’ 세미나에서 ‘미토스 AI 시대의 정보보안 위기와 대응’을 주제로 발표하며, 인공지능(AI) 에이전트가 가진 실행 권한과 애플리케이션 프로그래밍 인터페이스(API)를 함께 통제해야 한다고 강조했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "2026년 공공기관 개인정보 영향평가, 무엇이 달라졌나",
+        "url": "https://byline.network/2026/06/26-614/",
+        "source": "ByLine Network",
+        "published": "2026-06-26T09:34:39+00:00",
+        "summary": "공공기관의 개인정보 유출 신고가 늘면서 개인정보보호위원회(이하 개인정보위)가 2026년 공공기관 개인정보 보호수준 평가를 사전 예방 중심으로 바꾼다. 유출사고 감점은 최대 20점으로 높이고, 내부자 보안과 모의해킹 실적을 집중 평가한다. 황지은 개인정보위 자율보호정책과장은 26일 서울 서초구 aT센터에서 열린 ‘미토스 AI 시대, 개인정보보호 규제 컴플라이언스’ 세미나에서 이같이 밝혔다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "B2B 외부 협업 메신저 ‘조인트’, 10억 원 규모 시드 투자 유치",
+        "url": "https://platum.kr/archives/289901?utm_source=rss&utm_medium=rss&utm_campaign=b2b-%25ec%2599%25b8%25eb%25b6%2580-%25ed%2598%2591%25ec%2597%2585-%25eb%25a9%2594%25ec%258b%25a0%25ec%25a0%2580-%25ec%25a1%25b0%25ec%259d%25b8%25ed%258a%25b8-10%25ec%2596%25b5-%25ec%259b%2590-%25ea%25b7%259c%25eb%25aa%25a8-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598",
+        "source": "Platum",
+        "published": "2026-06-26T05:05:39+00:00",
+        "summary": "기업 간 외부 협업 메신저 조인트(joint)가 스트롱벤처스와 김기사랩이 주도한 시드 라운드를 마무리했다. 김대호 대표와 토스에서 함께 일한 업계 인사들이 엔젤투자자로 참여했으며, 총 조달액은 10억 원을 넘는다. 조인트는 거래처·파트너사와의 외부 소통을 위한 B2B 메신저다. 사내 협업은 슬랙·팀즈 같은 도구로 빠르게 디지털화됐지만, 외부 소통은 여전히 이메일과 개인 메신저에 의존하는 경우가 많다. 조인트는 이 공백을 겨냥해 거래처별 전용 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The seed rounds you may have missed in H1",
+        "url": "https://sifted.eu/articles/h1-seed-rounds-2026/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-06-26T05:00:49+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+        "url": "https://www.youtube.com/watch?v=w8ah_tA0yfg",
+        "source": "All-In Podcast",
+        "published": "2026-06-27T00:24:53+00:00",
+        "summary": "(0:00) Gavin Baker and Travis Kalanick join the show!\n(1:05) Mamdani-endorsed socialists sweep congressional primaries in NYC\n(22:51) Future of the Democratic Party, the Israel issue, social media bans\n(45:12) China's open-source AI catch up, distillation, OpenAI's new chip\n(1:01:46) Micron smashes ",
+        "thumbnail": "https://i4.ytimg.com/vi/w8ah_tA0yfg/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "w8ah_tA0yfg",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "젠스파크AI는 어떻게 리서치부터 이미지, 슬라이드 제작까지 한 번에 처리할 수 있을까?",
+        "url": "https://www.youtube.com/watch?v=ugbhoGjhaW0",
+        "source": "티타임즈TV",
+        "published": "2026-06-26T23:00:00+00:00",
+        "summary": "AI에이전트를 업무에 활용하고 계신가요? 바이브코딩을 하시는 분들은 에이전틱AI가 익숙할 수 있을지 몰라도, 직장인의 일반 업무에 AI에이전트를 잘 사용하는 건 쉽지 않습니다. 특히 리서치를 진행하고, 이미지나 영상 콘텐츠를 만들고, 보고서나 슬라이드(PPT)를 만드는 작업은 AI의 도움을 받을 뿐, 정작 마무리는 자신이 하기 마련입니다.\n그런면에서 젠스파크AI는 일반 직장인이 사용하기 가장 유용하고 편리한 AI에이전트라고 볼 수 있습니다. 젠스파크AI의 에이전트가 70개가 넘는 AI모델, 150개가 넘는 툴을 활용해 대부분의 작업",
+        "thumbnail": "https://i2.ytimg.com/vi/ugbhoGjhaW0/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "ugbhoGjhaW0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "This is New Media",
+        "url": "https://www.youtube.com/watch?v=JNu6c4G6q5M",
+        "source": "a16z",
+        "published": "2026-06-26T19:58:27+00:00",
+        "summary": "",
+        "thumbnail": "https://i3.ytimg.com/vi/JNu6c4G6q5M/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "JNu6c4G6q5M",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why the 7-Year Rule for Dogs Is Wrong",
+        "url": "https://www.youtube.com/shorts/_z_H0yZYc6c",
+        "source": "Cleo Abram",
+        "published": "2026-06-26T15:00:28+00:00",
+        "summary": "Turns out I’ve been estimating my dog’s age wrong, because “just multiply by 7” is NOT a real thing!\n\nThe whole “my dog at 1 is like a human at 7, at 2 they’re 14, etc.” is not backed by any research! Instead, geneticists created this chart - and it’s CURVED.\n\nWhat they’re measuring is the same kind",
+        "thumbnail": "https://i4.ytimg.com/vi/_z_H0yZYc6c/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "_z_H0yZYc6c",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is Socialism Coming to America?",
+        "url": "https://www.youtube.com/watch?v=3SpPozTj688",
+        "source": "TLDR News Global",
+        "published": "2026-06-26T09:15:31+00:00",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nIn this video, we thought we’d take a look at socialism’s alleged rise in America; whether it’s real; and where it might go.\n\n📰 Too Long: https://toolong.news/\n🎉 TLDR Party:  https://toolong.news/pages/tldr-party\n📖 Read our Manifesto",
+        "thumbnail": "https://i4.ytimg.com/vi/3SpPozTj688/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "3SpPozTj688",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "프랑스 파리에 뜬 K-인공지능 기업 수준 (비바테크2026 K-스타트업 통합관)",
+        "url": "https://www.youtube.com/shorts/GTrN_Eei2WM",
+        "source": "티타임즈TV",
+        "published": "2026-06-26T08:00:26+00:00",
+        "summary": "비바테크2026이 열린 프랑스 파리에서 국내 AI 스타트업 6개사의 AI 기술이 등장했습니다. 실제 현장에서 쓰이는 상품을 선보이면서 현지인들의 주목을 받았는데요. K-AI 스타트업의 이야기를 들어보겠습니다.\n\n※위 영상은 창업진흥원의 지원을 통해 제작되었습니다.\n\n#비바테크 #창업진흥원 #중소벤처기업부\n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.html\n▶비즈니스 문의 \nttimes6000@gmail.com",
+        "thumbnail": "https://i4.ytimg.com/vi/GTrN_Eei2WM/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "GTrN_Eei2WM",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -321,36 +411,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "프랑스 관람객이 한국 AI 스타트업에 몰린 이유",
-        "url": "https://www.youtube.com/watch?v=bLmWie5dQTU",
-        "source": "티타임즈TV",
-        "published": "2026-06-25T09:00:21+00:00",
-        "summary": "전 세계 테크 트렌드가 집결한 비바테크 2026. 한국 AI 스타트업 6팀이 유럽 시장의 문을 두드렸습니다. 프랑스 현지 투자자와 바이어들은 AI 기술만이 아닌 실제 현장 적용과 규제 대응력에 대해 집요하게 물었는데요. 스텝하우, 잉클, 그리네타, 본작, 우당네트웍, 스콘AI 등 6팀은 사내 AI 에이전트 서비스, 제조 데이터 플랫폼, 디지털 트윈 데이터의 3D 압축, AI 기반 향수 추천, AI 기반 화장품 추천, 초저지연 AI 통번역 등 각기 다른 현장용 AI로 평가받았습니다. AI 환상을 넘어 실제 임팩트에 도전한 6팀의 이야",
-        "thumbnail": "https://i3.ytimg.com/vi/bLmWie5dQTU/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "bLmWie5dQTU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "프랑스의 눈을 사로잡은 K-그린테크 5곳 (비바테크2026 K-스타트업 통합관)",
-        "url": "https://www.youtube.com/shorts/l-Rqw039sDM",
-        "source": "티타임즈TV",
-        "published": "2026-06-25T06:45:03+00:00",
-        "summary": "비바테크 2026에 도전장을 내민 그린테크 K-스타트업들. 국내 스타트업 5개사가 각종 신기술을 공개하면서 기후테크에 관심 많은 현지 투자자의 이목을 집중 시켰는데요. 한국 그린테크의 경쟁력을 지금 확인해보세요.\n\n※위 영상은 창업진흥원의 지원을 통해 제작되었습니다.\n\n#비바테크 #창업진흥원 #중소벤처기업부\n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.html\n▶비즈니스 문의 \nttimes6000@gmail.com",
-        "thumbnail": "https://i1.ytimg.com/vi/l-Rqw039sDM/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "l-Rqw039sDM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "Against all odds. Congratulations Elon Musk and SpaceX.",
         "url": "https://www.youtube.com/shorts/gKboAPejVM8",
         "source": "a16z",
@@ -360,66 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "gKboAPejVM8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "GameStop CEO: 3 Ways I’d Fix eBay",
-        "url": "https://www.youtube.com/shorts/PeNclyAl9N4",
-        "source": "All-In Podcast",
-        "published": "2026-06-24T18:36:16+00:00",
-        "summary": "Most advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in cl",
-        "thumbnail": "https://i1.ytimg.com/vi/PeNclyAl9N4/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "PeNclyAl9N4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "수출도 좋고, 코스피도 좋은데, 왜 환율은 계속 높을까?",
-        "url": "https://www.youtube.com/watch?v=piTt9ttMPlQ",
-        "source": "슈카월드",
-        "published": "2026-06-24T10:30:07+00:00",
-        "summary": "0:00 환율은 왜 안 내려 올까\n7:35 한국은행 환율 급등 원인 분석 레포트\n19:45 금융 당국 긴급회의",
-        "thumbnail": "https://i1.ytimg.com/vi/piTt9ttMPlQ/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "piTt9ttMPlQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What’s Gone Wrong with the Philippines’ Economy?",
-        "url": "https://www.youtube.com/watch?v=MKwe5k9YDUc",
-        "source": "TLDR News Global",
-        "published": "2026-06-24T09:30:03+00:00",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nThe Philippine economy used to outperform peers in it's region, but today it seems to be falling behind. So in this video we explain what's going on, and it's not just the war in Iran.\n\n📰 Too Long: https://toolong.news/\n🎉 TLDR Party:",
-        "thumbnail": "https://i2.ytimg.com/vi/MKwe5k9YDUc/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "MKwe5k9YDUc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "GameStop CEO Ryan Cohen’s $56B Plan to Take Over eBay",
-        "url": "https://www.youtube.com/watch?v=4j9RPGLENNI",
-        "source": "All-In Podcast",
-        "published": "2026-06-23T21:13:14+00:00",
-        "summary": "(0:00) David Friedberg intros GameStop CEO Ryan Cohen!\n(1:56) Building and selling Chewy for $3.35B, how to compete with Amazon in e-commerce\n(11:58) Post-Chewy life, activist investing, the road to GameStop CEO, expanding into collectibles\n(26:39) Why he wants to buy eBay for $56B: Massive potentia",
-        "thumbnail": "https://i1.ytimg.com/vi/4j9RPGLENNI/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "4j9RPGLENNI",
           "via": "rss"
         }
       }
