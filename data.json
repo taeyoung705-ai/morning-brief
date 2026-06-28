@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-27T02:54:57.595888+00:00",
+  "generated_at": "2026-06-28T03:37:47.964627+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "US conducts strikes on Iran after attack on cargo ship",
-        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-06-27T02:48:12+00:00",
-        "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+        "published": "2026-06-28T03:35:50+00:00",
+        "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Cape Verde qualify for World Cup Round of 32, set up date with Argentina",
-        "url": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-qualify-for-world-cup-round-of-32-set-up-date-with-argentina?traffic_source=rss",
+        "title": "Australia news live: auction clearance rates continue to hover under 50% as Chalmers defends tax reform plan",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-06-28T03:17:57+00:00",
+        "summary": "Follow the day’s updates liveGet our breaking news email, free app or daily news podcastBig tech not cooperating ‘as much as we’d like them to’: WattFederal cabinet minister Murray Watt, says the government knows it’s needed to take more action to ensure social media giants are complying with a ban for under 16s that came into effect in December.These laws were brand new, never developed anywhere ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
+        "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+        "source": "NYT World",
+        "published": "2026-06-28T03:13:41+00:00",
+        "summary": "U.S. forces carried out more airstrikes on Iran, calling them a retaliation for an attack on an oil tanker. Iran’s military later said it had attacked American targets in Bahrain and Kuwait.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Venezuela Live Updates: Chaotic Rush to Help Victims Delays Some Rescues",
+        "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
+        "source": "NYT World",
+        "published": "2026-06-28T03:11:09+00:00",
+        "summary": "A surge of people rushed into the devastated earthquake zone to offer help in northern Venezuela, slowing the advance of emergency responders. The death toll linked to twin quakes earlier in the week surpassed 1,400.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Here’s the latest.",
+        "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/heres-the-latest",
+        "source": "NYT World",
+        "published": "2026-06-28T02:32:14+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "U.S. Officials Said to Be Frustrated With Machado’s Call for Help",
+        "url": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
+        "source": "NYT World",
+        "published": "2026-06-28T02:30:02+00:00",
+        "summary": "María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "New Caledonia polls open in first local vote in the French territory since 2019",
+        "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
+        "source": "The Guardian World",
+        "published": "2026-06-28T02:26:48+00:00",
+        "summary": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s statusPolls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, after the vote was delayed as talks stalled over its political future.The election, initially planned for 2024, will determine the balance of pow",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
+        "url": "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-27T02:28:37+00:00",
-        "summary": "Cape Verde&#039;s third draw gives them a second-place finish in Group H and pits them against the world champions in the knockouts.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Newly released video exposes Henry Nowak killer’s lies",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/newly-released-video-exposes-henry-nowak-killers-lies?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-06-27T02:23:36+00:00",
-        "summary": "Newly released footage has exposed the series of lies that led UK police to arrest a dying stabbing victim.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Venezuela Live Updates: Trump’s Vow to ‘Run’ Venezuela Is Tested After Quakes",
-        "url": "https://www.nytimes.com/live/2026/06/26/world/venezuela-earthquake",
-        "source": "NYT World",
-        "published": "2026-06-27T01:58:42+00:00",
-        "summary": "The U.S. dispatched hundreds of rescue workers to help the Venezuelan  government, as the injured overwhelmed hospitals and the death toll rose to 920. The Pentagon sent two ships, transport planes and helicopters.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "U.S. Strikes Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
-        "url": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-        "source": "NYT World",
-        "published": "2026-06-27T01:36:11+00:00",
-        "summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Nations Send Rescue Teams and Aid to Venezuela After Earthquakes",
-        "url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-rescue-teams-countries.html",
-        "source": "NYT World",
-        "published": "2026-06-27T01:09:49+00:00",
-        "summary": "The number of the dead continues to rise as search-and-rescue teams descended upon the country to dig out people buried in rubble.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Scenes of Collapse: The Emergency at Venezuela’s Hospitals",
-        "url": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-hospitals-earthquake-collapse.html",
-        "source": "NYT World",
-        "published": "2026-06-27T00:51:44+00:00",
-        "summary": "A snapshot of the toll of the country’s twin quakes.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Religion row as Texas makes Bible stories required reading in schools",
-        "url": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-06-27T00:31:42+00:00",
-        "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
+        "published": "2026-06-28T01:52:39+00:00",
+        "summary": "Colombia book last 32 clash with Ghana, while Portugal will face Croatia in the first knockout stage.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "24 Prime Day deals Verge readers are grabbing before Prime Day ends",
-        "url": "https://www.theverge.com/gadgets/954880/amazon-prime-day-2026-popular-products-verge-readers",
-        "source": "The Verge",
-        "published": "2026-06-27T02:33:54+00:00",
-        "summary": "There are an overwhelming number of Prime Day deals to sort through, which is why we spend so much time highlighting products we&#8217;ve already tested and can stand behind. But our recommendations are only one way to identify a worthwhile deal: another is seeing which products fellow Verge readers actually buy. Below, we&#8217;ve rounded up [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-        "source": "TechCrunch",
-        "published": "2026-06-27T01:01:37+00:00",
-        "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The 28 Best Deals Under $100 Before Prime Day Ends",
-        "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
-        "source": "Wired",
-        "published": "2026-06-27T00:59:29+00:00",
-        "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "99 Last Minute Prime Day Deals: Up to 50% Off (2026)",
-        "url": "https://www.wired.com/story/amazon-prime-day-absolute-best-deals-06-26-2026/",
-        "source": "Wired",
-        "published": "2026-06-27T00:45:00+00:00",
-        "summary": "Prime Day is hours away from ending, so take one last look through our hand-picked deals before they're gone.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: Hacker News on a Train Station Style Flip Board",
-        "url": "https://popflame.quickish.space/hn-flipboard/",
+        "title": "Marfa Public Radio Puts You to Sleep",
+        "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
         "source": "Hacker News Front",
-        "published": "2026-06-27T00:43:39+00:00",
-        "summary": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I've been working on. The recent flip board back and forth's on Twitter (X) are what inspired me.The idea here is that people (like me or you) can create something neat like this, and others can remix it, change it and publ",
+        "published": "2026-06-28T02:23:08+00:00",
+        "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 50\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The 17 best robot vacuum deals you can still get before Prime Day ends",
-        "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-        "source": "The Verge",
-        "published": "2026-06-27T00:42:42+00:00",
-        "summary": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on the final day of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is still [&#8230;]",
+        "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
+        "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+        "source": "Hacker News Front",
+        "published": "2026-06-28T01:55:21+00:00",
+        "summary": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you\nComments URL: https://news.ycombinator.com/item?id=48703613\nPoints: 32\n# Comments: 13",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh",
-        "url": "https://techcrunch.com/2026/06/26/ftc-gives-musk-the-ok-to-acquire-spacex-alumni-startup-mesh/",
-        "source": "TechCrunch",
-        "published": "2026-06-27T00:38:34+00:00",
-        "summary": "Mesh came out of stealth in February with a $50 million Series A.",
+        "title": "Response to AI slop is from Robin Williams",
+        "url": "https://jayacunzo.com/blog/your-move-chief",
+        "source": "Hacker News Front",
+        "published": "2026-06-28T01:28:10+00:00",
+        "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief\nComments URL: https://news.ycombinator.com/item?id=48703452\nPoints: 73\n# Comments: 35",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Anthropic&#8217;s Mythos 5 is back",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-        "source": "The Verge",
-        "published": "2026-06-27T00:33:44+00:00",
-        "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
+        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "url": "https://decomp-academy.dev",
+        "source": "Hacker News Front",
+        "published": "2026-06-28T01:21:20+00:00",
+        "summary": "Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.Learning how to decompile was challenging. It's difficult to find any good learning resources for ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "source": "Hacker News Front",
+        "published": "2026-06-28T00:46:52+00:00",
+        "summary": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md\nComments URL: https://news.ycombinator.com/item?id=48703258\nPoints: 60\n# Comments: 2",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+        "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+        "source": "Hacker News Front",
+        "published": "2026-06-27T23:32:58+00:00",
+        "summary": "Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust\nComments URL: https://news.ycombinator.com/item?id=48702848\nPoints: 15\n# Comments: 0",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Choosing a Public DNS Resolver",
+        "url": "https://evilbit.de/dns-resolver-guide.html",
+        "source": "Hacker News Front",
+        "published": "2026-06-27T22:11:28+00:00",
+        "summary": "Article URL: https://evilbit.de/dns-resolver-guide.html\nComments URL: https://news.ycombinator.com/item?id=48702273\nPoints: 81\n# Comments: 28",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Michigan spent $1.8B and only created 602 jobs",
+        "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+        "source": "Hacker News Front",
+        "published": "2026-06-27T21:44:57+00:00",
+        "summary": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu\nComments URL: https://news.ycombinator.com/item?id=48702060\nPoints: 138\n# Comments: 57",
         "thumbnail": "",
         "extras": {}
       }
@@ -213,6 +213,17 @@
         "source": "Sifted (EU startups)",
         "published": "2026-06-26T16:14:58+00:00",
         "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "기후테크 스타트업 ‘뉴젠’, 마크앤컴퍼니에서 시드 투자 유치",
+        "url": "https://platum.kr/archives/289917?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b8%25b0%25ed%259b%2584%25ed%2585%258c%25ed%2581%25ac-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%2589%25b4%25ec%25a0%25a0-%25eb%25a7%2588%25ed%2581%25ac%25ec%2595%25a4%25ec%25bb%25b4%25ed%258d%25bc%25eb%258b%2588%25ec%2597%2590%25ec%2584%259c-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac",
+        "source": "Platum",
+        "published": "2026-06-26T11:38:47+00:00",
+        "summary": "전북 전주 기반 기후테크 스타트업 뉴젠이 마크앤컴퍼니로부터 시드 투자를 유치했다. 가축분뇨(우분)를 발전 연료로 바꾸는 고체연료화 사업에 속도를 낸다. 투자 금액은 공개되지 않았다. 뉴젠은 축산 농가에서 나오는 우분을 바이오매스 발전 연료로 쓸 수 있는 고체연료로 전환하는 기술을 개발한다. 그동안 골칫거리로 취급되던 우분을 에너지 자원으로 바꾸는 방식으로, 자원순환과 에너지 전환을 동시에 겨냥한다. 배경에는 늘어나는 전력 수요가 있다. ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
@@ -259,20 +270,99 @@
         "summary": "기업 간 외부 협업 메신저 조인트(joint)가 스트롱벤처스와 김기사랩이 주도한 시드 라운드를 마무리했다. 김대호 대표와 토스에서 함께 일한 업계 인사들이 엔젤투자자로 참여했으며, 총 조달액은 10억 원을 넘는다. 조인트는 거래처·파트너사와의 외부 소통을 위한 B2B 메신저다. 사내 협업은 슬랙·팀즈 같은 도구로 빠르게 디지털화됐지만, 외부 소통은 여전히 이메일과 개인 메신저에 의존하는 경우가 많다. 조인트는 이 공백을 겨냥해 거래처별 전용 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The seed rounds you may have missed in H1",
-        "url": "https://sifted.eu/articles/h1-seed-rounds-2026/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-26T05:00:49+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "아르테미스, 위성 통신, 우주 데이터센터...'우주산업'을 당장 공부해야 하는 이유",
+        "url": "https://www.youtube.com/watch?v=-hAr7RzkeOU",
+        "source": "티타임즈TV",
+        "published": "2026-06-27T23:00:24+00:00",
+        "summary": "스페이스X가 미국 증시에 상장하며 단숨에 시가총액 TOP10에 진입했습니다. 우주산업은 이제 반도체, AI와 함께 글로벌 미래 성장동력으로 주목받고 있습니다. 민간 주도의 '뉴 스페이스' 시대, 재사용 로켓과 스타링크 등 혁신이 어떻게 우주산업의 판을 바꿨는지 심재석 바이라인네트워크 대표, 최용식 아웃스탠딩 창업자와 함께 분석해 봅니다.\n\n편집 : 이소민 영상 디자이너\n촬영 : 강기훈 PD\n진행 : 홍재의 기자\n섬네일 : 이소민 영상 디자이너\n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.html\n",
+        "thumbnail": "https://i2.ytimg.com/vi/-hAr7RzkeOU/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "-hAr7RzkeOU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "India Can Create The Largest AI Companies",
+        "url": "https://www.youtube.com/watch?v=Ju8LVdvuxGM",
+        "source": "Y Combinator",
+        "published": "2026-06-27T12:30:39+00:00",
+        "summary": "In this final panel from Startup School India, the hosts reflect on why India's deep technical talent makes it uniquely positioned to produce some of the world's largest companies in this new AI wave and how young founders can break out of conventional advice from traditional education systems to re",
+        "thumbnail": "https://i3.ytimg.com/vi/Ju8LVdvuxGM/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "Ju8LVdvuxGM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The $1 Trillion Problem Diamonds Can Solve",
+        "url": "https://www.youtube.com/watch?v=HKJC84RLhyU",
+        "source": "Cleo Abram",
+        "published": "2026-06-27T12:02:51+00:00",
+        "summary": "Most people think of diamonds as expensive jewelry, or maybe as super-hard drills. But everyone’s missing the coolest story here… \n\nWe’ve built giant machines that can recreate the conditions inside our planet. And found new ways to make diamonds way cheaper, now unlocking the hidden potential of th",
+        "thumbnail": "https://i1.ytimg.com/vi/HKJC84RLhyU/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "HKJC84RLhyU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "세계적인 검열 강국이 되어가는 나라",
+        "url": "https://www.youtube.com/watch?v=A9p2K9uDIao",
+        "source": "슈카월드",
+        "published": "2026-06-27T11:48:44+00:00",
+        "summary": "0:00 영국 SNS 초강력 규제안\n7:25 반대의 목소리가 나오기 힘든 이유\n13:26 영국 총리가 강하게 추진하는 자동 검열 시스템\n17:19 걱정되는 현실판 마이너리티 리포트\n23:28 영국 고등법원 : 얼굴 스캔 합법",
+        "thumbnail": "https://i2.ytimg.com/vi/A9p2K9uDIao/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "A9p2K9uDIao",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How the “AI Dollar” Replaced the Petrodollar",
+        "url": "https://www.youtube.com/watch?v=Fv2kRW9v1xo",
+        "source": "TLDR News Global",
+        "published": "2026-06-27T09:32:02+00:00",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nA new class of economies is enjoying bumper surpluses: namely, those that manufacture basically anything AI-adjacent. We look at the evidence to suggest they’re recycling surpluses back to the US, similarly to the way oil exporters d",
+        "thumbnail": "https://i3.ytimg.com/vi/Fv2kRW9v1xo/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "Fv2kRW9v1xo",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "소규모 팀으로 100억 매출 찍은 노하우 | Chatbase, Yasser Elsaid",
+        "url": "https://www.youtube.com/watch?v=ZFgodrjx0NE",
+        "source": "EO 이오",
+        "published": "2026-06-27T09:00:00+00:00",
+        "summary": "AI 기술의 급격한 발전으로 부트스트랩형 스타트업이 눈에 띄게 많아졌습니다. 부트스트랩(Bootstrap)은 '외부 투자 없이 자력으로 성장하는 회사'를 뜻하는데요.\n\nAI를 회사 운영의 동력으로 이용해 외부 투자나 많은 팀원 없이도 빠르게 폭발적인 성장이 가능해졌죠.\n\n기업의 자체 데이터(웹사이트, PDF 등)를 학습해 맞춤형 AI 세일즈 에이전트를 구축해 주는 '챗베이스(Chatbase)'도 대표적인 부트스트래핑 회사인데요.\n\n챗베이스는 외부 투자금 없이 부트스트래핑만으로 연간 반복 매출(ARR) 1,000만 달러를 달성했습니다",
+        "thumbnail": "https://i3.ytimg.com/vi/ZFgodrjx0NE/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "ZFgodrjx0NE",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "_z_H0yZYc6c",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Is Socialism Coming to America?",
-        "url": "https://www.youtube.com/watch?v=3SpPozTj688",
-        "source": "TLDR News Global",
-        "published": "2026-06-26T09:15:31+00:00",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nIn this video, we thought we’d take a look at socialism’s alleged rise in America; whether it’s real; and where it might go.\n\n📰 Too Long: https://toolong.news/\n🎉 TLDR Party:  https://toolong.news/pages/tldr-party\n📖 Read our Manifesto",
-        "thumbnail": "https://i4.ytimg.com/vi/3SpPozTj688/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "3SpPozTj688",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "프랑스 파리에 뜬 K-인공지능 기업 수준 (비바테크2026 K-스타트업 통합관)",
-        "url": "https://www.youtube.com/shorts/GTrN_Eei2WM",
-        "source": "티타임즈TV",
-        "published": "2026-06-26T08:00:26+00:00",
-        "summary": "비바테크2026이 열린 프랑스 파리에서 국내 AI 스타트업 6개사의 AI 기술이 등장했습니다. 실제 현장에서 쓰이는 상품을 선보이면서 현지인들의 주목을 받았는데요. K-AI 스타트업의 이야기를 들어보겠습니다.\n\n※위 영상은 창업진흥원의 지원을 통해 제작되었습니다.\n\n#비바테크 #창업진흥원 #중소벤처기업부\n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.html\n▶비즈니스 문의 \nttimes6000@gmail.com",
-        "thumbnail": "https://i4.ytimg.com/vi/GTrN_Eei2WM/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "GTrN_Eei2WM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "World’s Biggest Experiment is Shutting Down",
-        "url": "https://www.youtube.com/shorts/wxZc0fxYMGo",
-        "source": "Cleo Abram",
-        "published": "2026-06-25T15:38:16+00:00",
-        "summary": "They’re shutting down the biggest science experiment to build something even cooler. \n\nThe Large Hadron Collider smashes particles together to discover new and rare ones, like the Higgs Boson. But right now, we only see the Higgs Boson in about 1 in a BILLION collisions… we need more collisions…. \n\n",
-        "thumbnail": "https://i4.ytimg.com/vi/wxZc0fxYMGo/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "wxZc0fxYMGo",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Zynga Founder: Consumer Is Not Investible Right Now - Thats Why You Should Build It",
-        "url": "https://www.youtube.com/watch?v=oHwUD9b9_pg",
-        "source": "Y Combinator",
-        "published": "2026-06-25T14:00:34+00:00",
-        "summary": "Mark Pincus is the founder of Zynga and author of \"Life at the Speed of Play: Launch Products People Love\", which distills the product philosophy and founder playbook he developed across five companies. In this episode of the Main Function, Pincus sits down with Garry to talk about consumer in the A",
-        "thumbnail": "https://i4.ytimg.com/vi/oHwUD9b9_pg/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "oHwUD9b9_pg",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "충격의 신임 연준 의장 첫 FOMC 발언",
-        "url": "https://www.youtube.com/watch?v=knP57QdvQic",
-        "source": "슈카월드",
-        "published": "2026-06-25T11:07:47+00:00",
-        "summary": "0:00 \"드릴 말씀이 딱히 없다.\"\n6:32 \"저는 오픈 마인드입니다.\"\n18:10 30년 만에 기준금리 1%가 된 일본",
-        "thumbnail": "https://i4.ytimg.com/vi/knP57QdvQic/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "knP57QdvQic",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Against all odds. Congratulations Elon Musk and SpaceX.",
-        "url": "https://www.youtube.com/shorts/gKboAPejVM8",
-        "source": "a16z",
-        "published": "2026-06-24T20:03:43+00:00",
-        "summary": "This material is solely for educational purposes and is not investment advice or an offer of investment advisory services. This material should not be used as the basis for an investment decision. a16z is an investor in SpaceX and Cursor through its managed funds, and thus has a financial interest i",
-        "thumbnail": "https://i4.ytimg.com/vi/gKboAPejVM8/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "gKboAPejVM8",
           "via": "rss"
         }
       }
