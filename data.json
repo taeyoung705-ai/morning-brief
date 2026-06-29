@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-06-28T03:37:47.964627+00:00",
+  "generated_at": "2026-06-29T03:42:20.772448+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-06-28T03:35:50+00:00",
-        "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: auction clearance rates continue to hover under 50% as Chalmers defends tax reform plan",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jun/28/australia-news-live-sunday-nsw-shark-spotting-drones-politics-ntwnfb",
+        "title": "Australia politics live: Vanuatu pledges not to host foreign military base in treaty signed today; Liberal frontbencher calls for party ‘rebrand’",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-06-28T03:17:57+00:00",
-        "summary": "Follow the day’s updates liveGet our breaking news email, free app or daily news podcastBig tech not cooperating ‘as much as we’d like them to’: WattFederal cabinet minister Murray Watt, says the government knows it’s needed to take more action to ensure social media giants are complying with a ban for under 16s that came into effect in December.These laws were brand new, never developed anywhere ",
+        "published": "2026-06-29T03:18:41+00:00",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastRoyal commission hearings resume todayThe next round of hearings for the antisemitism royal commission begins today.Regretfully, we’re here until Thursday night with Parliament and the game is at 4am Saturday morning. So I’ll be watching on the TV. And like I’ve said before, sometimes I’m the minister for sport and ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
-        "url": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-        "source": "NYT World",
-        "published": "2026-06-28T03:13:41+00:00",
-        "summary": "U.S. forces carried out more airstrikes on Iran, calling them a retaliation for an attack on an oil tanker. Iran’s military later said it had attacked American targets in Bahrain and Kuwait.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Venezuela Live Updates: Chaotic Rush to Help Victims Delays Some Rescues",
-        "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake",
-        "source": "NYT World",
-        "published": "2026-06-28T03:11:09+00:00",
-        "summary": "A surge of people rushed into the devastated earthquake zone to offer help in northern Venezuela, slowing the advance of emergency responders. The death toll linked to twin quakes earlier in the week surpassed 1,400.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/06/27/world/venezuela-earthquake/heres-the-latest",
-        "source": "NYT World",
-        "published": "2026-06-28T02:32:14+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "U.S. Officials Said to Be Frustrated With Machado’s Call for Help",
-        "url": "https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html",
-        "source": "NYT World",
-        "published": "2026-06-28T02:30:02+00:00",
-        "summary": "María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "New Caledonia polls open in first local vote in the French territory since 2019",
-        "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
-        "source": "The Guardian World",
-        "published": "2026-06-28T02:26:48+00:00",
-        "summary": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s statusPolls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, after the vote was delayed as talks stalled over its political future.The election, initially planned for 2024, will determine the balance of pow",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
-        "url": "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal?traffic_source=rss",
+        "title": "Australian man charged with murder after Thai girl’s body found in suitcase",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/australian-man-charged-with-murder-after-thai-girls-body-found-in-suitcase?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-06-28T01:52:39+00:00",
-        "summary": "Colombia book last 32 clash with Ghana, while Portugal will face Croatia in the first knockout stage.",
+        "published": "2026-06-29T03:12:32+00:00",
+        "summary": "Simon Peter Carman has been charged with murder after the body of 17-year-old Tunchanok Donhomla was found in a suitcase",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Venezuelans angry government as time runs out to dig out survivors",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuelans-angry-government-as-time-runs-out-to-dig-out-survivors?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-29T03:12:14+00:00",
+        "summary": "Venezuelans angry government as time runs out to dig out survivors.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "ABC and SBS to appear at antisemitism royal commission after complaints of ‘unbalanced’ Middle East coverage",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/29/abc-sbs-to-appear-antisemitism-rc-royal-commission-bondi-attack-inquiry-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-06-29T03:04:31+00:00",
+        "summary": "Bondi attack inquiry broadcasters will be called as commission focuses on traditional and social mediaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastRepresentatives from the ABC and SBS will be called as witnesses to the royal commission into antisemitism and social cohesion, after complaints were made to the inquiry about their cov",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Putin says Ukraine proposed halt to deep strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/putin-says-ukraine-proposed-halt-to-deep-strikes?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-29T03:03:34+00:00",
+        "summary": "Russian President Vladimir Putin says Ukraine has proposed a mutual halt to long-range strikes",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
+        "url": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
+        "source": "The Guardian World",
+        "published": "2026-06-29T03:00:26+00:00",
+        "summary": "Value of some chip manufacturers have tripled, or more, driving Asia Pacific stock markets sharply higherShares in chipmakers have surged in the first half of this year as investors piled into companies that make the hardware underpinning the AI boom, according to analysis.Investors have driven up the value of semiconductor and memory chip manufacturers, whose profits have soared during 2026, at t",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Venezuela’s earthquakes pose first major test for President Delcy Rodriguez",
+        "url": "https://www.aljazeera.com/features/longform/2026/6/29/venezuelas-earthquakes-pose-first-major-test-for-president-delcy-rodriguez?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-06-29T02:44:17+00:00",
+        "summary": "The seismic disaster has stirred public anger against government mismanagement under Venezuela&#039;s ruling socialist party.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Mideast Live Updates: U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed",
+        "url": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+        "source": "NYT World",
+        "published": "2026-06-29T02:38:20+00:00",
+        "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Marfa Public Radio Puts You to Sleep",
-        "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+        "title": "Tell Congress: Don't Force Age Checks Online",
+        "url": "https://act.eff.org/action/tell-congress-don-t-force-age-checks-online",
         "source": "Hacker News Front",
-        "published": "2026-06-28T02:23:08+00:00",
-        "summary": "Article URL: https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep\nComments URL: https://news.ycombinator.com/item?id=48703759\nPoints: 50\n# Comments: 6",
+        "published": "2026-06-29T01:52:55+00:00",
+        "summary": "Article URL: https://act.eff.org/action/tell-congress-don-t-force-age-checks-online\nComments URL: https://news.ycombinator.com/item?id=48713887\nPoints: 48\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Feds Killed Polestar and Spared Volvo. That Should Terrify You",
-        "url": "https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you",
+        "title": "AI boom risks global financial crash, warn central bankers",
+        "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
         "source": "Hacker News Front",
-        "published": "2026-06-28T01:55:21+00:00",
-        "summary": "Article URL: https://www.thedrive.com/news/feds-killed-polestar-and-spared-volvo-that-should-terrify-you\nComments URL: https://news.ycombinator.com/item?id=48703613\nPoints: 32\n# Comments: 13",
+        "published": "2026-06-29T01:25:04+00:00",
+        "summary": "Article URL: https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/\nComments URL: https://news.ycombinator.com/item?id=48713697\nPoints: 73\n# Comments: 59",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Response to AI slop is from Robin Williams",
-        "url": "https://jayacunzo.com/blog/your-move-chief",
+        "title": "You might not need a service worker",
+        "url": "https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/",
         "source": "Hacker News Front",
-        "published": "2026-06-28T01:28:10+00:00",
-        "summary": "Article URL: https://jayacunzo.com/blog/your-move-chief\nComments URL: https://news.ycombinator.com/item?id=48703452\nPoints: 73\n# Comments: 35",
+        "published": "2026-06-29T00:48:17+00:00",
+        "summary": "Article URL: https://www.jayfreestone.com/writing/you-might-not-need-a-service-worker/\nComments URL: https://news.ycombinator.com/item?id=48713453\nPoints: 4\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-        "url": "https://decomp-academy.dev",
+        "title": "Better Images of AI",
+        "url": "https://betterimagesofai.org/",
         "source": "Hacker News Front",
-        "published": "2026-06-28T01:21:20+00:00",
-        "summary": "Over the past few months I've been heavily involved in the decompilation community. I've been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this journey with zero prior decomp experience—and to make things worse I had never really touched C nor assembly either.Learning how to decompile was challenging. It's difficult to find any good learning resources for ",
+        "published": "2026-06-28T23:50:58+00:00",
+        "summary": "Article URL: https://betterimagesofai.org/\nComments URL: https://news.ycombinator.com/item?id=48713051\nPoints: 28\n# Comments: 17",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+        "url": "https://arxiv.org/abs/2401.07013",
         "source": "Hacker News Front",
-        "published": "2026-06-28T00:46:52+00:00",
-        "summary": "Article URL: https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md\nComments URL: https://news.ycombinator.com/item?id=48703258\nPoints: 60\n# Comments: 2",
+        "published": "2026-06-28T22:32:04+00:00",
+        "summary": "Article URL: https://arxiv.org/abs/2401.07013\nComments URL: https://news.ycombinator.com/item?id=48712420\nPoints: 63\n# Comments: 13",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
-        "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
-        "source": "Hacker News Front",
-        "published": "2026-06-27T23:32:58+00:00",
-        "summary": "Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust\nComments URL: https://news.ycombinator.com/item?id=48702848\nPoints: 15\n# Comments: 0",
+        "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+        "source": "The Verge",
+        "published": "2026-06-28T21:42:51+00:00",
+        "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Choosing a Public DNS Resolver",
-        "url": "https://evilbit.de/dns-resolver-guide.html",
-        "source": "Hacker News Front",
-        "published": "2026-06-27T22:11:28+00:00",
-        "summary": "Article URL: https://evilbit.de/dns-resolver-guide.html\nComments URL: https://news.ycombinator.com/item?id=48702273\nPoints: 81\n# Comments: 28",
+        "title": "California law targeting loud streaming ads takes effect on July 1",
+        "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+        "source": "TechCrunch",
+        "published": "2026-06-28T21:34:14+00:00",
+        "summary": "Streaming ads might be getting a lot quieter.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Michigan spent $1.8B and only created 602 jobs",
-        "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
-        "source": "Hacker News Front",
-        "published": "2026-06-27T21:44:57+00:00",
-        "summary": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu\nComments URL: https://news.ycombinator.com/item?id=48702060\nPoints: 138\n# Comments: 57",
+        "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+        "source": "The Verge",
+        "published": "2026-06-28T20:27:36+00:00",
+        "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,94 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: AI Drives Another Spree Of Megadeals",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-marketing-robotics-baseten/",
-        "source": "Crunchbase News",
-        "published": "2026-06-26T20:00:55+00:00",
-        "summary": "This week, most of the largest U.S. startup funding rounds centered around the sector one would suspect: artificial intelligence. Beyond that, the next-biggest area for startup funding was biotech.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Berlin’s Peec AI targeting $200m valuation in new fundraise, sources say",
-        "url": "https://sifted.eu/articles/peec-ai-fundraise-new-valuation/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-26T17:18:53+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Revolut dials back remote work for graduates",
-        "url": "https://sifted.eu/articles/revolut-dials-back-remote-work-for-graduates/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-06-26T16:14:58+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "기후테크 스타트업 ‘뉴젠’, 마크앤컴퍼니에서 시드 투자 유치",
-        "url": "https://platum.kr/archives/289917?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b8%25b0%25ed%259b%2584%25ed%2585%258c%25ed%2581%25ac-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%2589%25b4%25ec%25a0%25a0-%25eb%25a7%2588%25ed%2581%25ac%25ec%2595%25a4%25ec%25bb%25b4%25ed%258d%25bc%25eb%258b%2588%25ec%2597%2590%25ec%2584%259c-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac",
-        "source": "Platum",
-        "published": "2026-06-26T11:38:47+00:00",
-        "summary": "전북 전주 기반 기후테크 스타트업 뉴젠이 마크앤컴퍼니로부터 시드 투자를 유치했다. 가축분뇨(우분)를 발전 연료로 바꾸는 고체연료화 사업에 속도를 낸다. 투자 금액은 공개되지 않았다. 뉴젠은 축산 농가에서 나오는 우분을 바이오매스 발전 연료로 쓸 수 있는 고체연료로 전환하는 기술을 개발한다. 그동안 골칫거리로 취급되던 우분을 에너지 자원으로 바꾸는 방식으로, 자원순환과 에너지 전환을 동시에 겨냥한다. 배경에는 늘어나는 전력 수요가 있다. ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "6 Startup Investors On What It Will Take To Fund More Black Founders",
-        "url": "https://news.crunchbase.com/venture/investors-funding-black-founder-recommendations/",
-        "source": "Crunchbase News",
-        "published": "2026-06-26T11:00:13+00:00",
-        "summary": "In the final installment of our series on the state of venture investment to Black-founded startups, six investors offer their advice for overlooked founders and explain how the venture industry can broaden access to capital by rethinking sourcing, networks and long-held investing patterns.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "박찬암 스틸리언 대표 “AI 시대의 보안 위협, 실행 권한·API 통제가 핵심”",
-        "url": "https://byline.network/2026/06/26-615/",
+        "title": "[커머스BN] 중앙그룹 사태에 당일배송 업계가 주목하는 ‘이곳’",
+        "url": "https://byline.network/2026/06/29_19287744/",
         "source": "ByLine Network",
-        "published": "2026-06-26T09:40:07+00:00",
-        "summary": "“많은 사고 조사 현장에서 봐온 결과, AI 보안의 핵심은 ‘실행 권한 통제’와 ‘API 관리’에 있었습니다.” 박찬암 스틸리언 대표는 26일 서울 서초구 aT센터에서 열린 ‘미토스 AI 시대, 개인정보보호 규제 컴플라이언스’ 세미나에서 ‘미토스 AI 시대의 정보보안 위기와 대응’을 주제로 발표하며, 인공지능(AI) 에이전트가 가진 실행 권한과 애플리케이션 프로그래밍 인터페이스(API)를 함께 통제해야 한다고 강조했다.",
+        "published": "2026-06-29T01:14:23+00:00",
+        "summary": "중앙그룹이 JTBC를 시작으로 재정 위기를 겪는 가운데, 물류업계 일각에서도 이와 연관돼서 이목이 쏠리는 곳이 있습니다. 딜리박스중앙입니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "2026년 공공기관 개인정보 영향평가, 무엇이 달라졌나",
-        "url": "https://byline.network/2026/06/26-614/",
+        "title": "[플레이BN] 익숙한 문법에 신권 더했다… 넷마블, ‘솔: 인챈트’",
+        "url": "https://byline.network/2026/06/26-610/",
         "source": "ByLine Network",
-        "published": "2026-06-26T09:34:39+00:00",
-        "summary": "공공기관의 개인정보 유출 신고가 늘면서 개인정보보호위원회(이하 개인정보위)가 2026년 공공기관 개인정보 보호수준 평가를 사전 예방 중심으로 바꾼다. 유출사고 감점은 최대 20점으로 높이고, 내부자 보안과 모의해킹 실적을 집중 평가한다. 황지은 개인정보위 자율보호정책과장은 26일 서울 서초구 aT센터에서 열린 ‘미토스 AI 시대, 개인정보보호 규제 컴플라이언스’ 세미나에서 이같이 밝혔다.",
+        "published": "2026-06-28T05:12:27+00:00",
+        "summary": "“여러분들이 아시는 그 장르 맞습니다.”\n\n지난달 열린 넷마블 신작 ‘솔: 인챈트’ 온라인 쇼케이스에서 나온 말입니다. 출시 전부터 ‘그 장르’, 즉 경쟁이 중심이 되는 다중접속역할수행게임(MMORPG)이라는 점을 숨기지 않았습니다. 오히려 이를 인정하면서 해당 장르에 대한 애정과 자신감을 드러냈습니다. 이른바 ‘리니지라이크’로 불리는 문법을 정면으로 내세운 셈입니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "B2B 외부 협업 메신저 ‘조인트’, 10억 원 규모 시드 투자 유치",
-        "url": "https://platum.kr/archives/289901?utm_source=rss&utm_medium=rss&utm_campaign=b2b-%25ec%2599%25b8%25eb%25b6%2580-%25ed%2598%2591%25ec%2597%2585-%25eb%25a9%2594%25ec%258b%25a0%25ec%25a0%2580-%25ec%25a1%25b0%25ec%259d%25b8%25ed%258a%25b8-10%25ec%2596%25b5-%25ec%259b%2590-%25ea%25b7%259c%25eb%25aa%25a8-%25ec%258b%259c%25eb%2593%259c-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598",
-        "source": "Platum",
-        "published": "2026-06-26T05:05:39+00:00",
-        "summary": "기업 간 외부 협업 메신저 조인트(joint)가 스트롱벤처스와 김기사랩이 주도한 시드 라운드를 마무리했다. 김대호 대표와 토스에서 함께 일한 업계 인사들이 엔젤투자자로 참여했으며, 총 조달액은 10억 원을 넘는다. 조인트는 거래처·파트너사와의 외부 소통을 위한 B2B 메신저다. 사내 협업은 슬랙·팀즈 같은 도구로 빠르게 디지털화됐지만, 외부 소통은 여전히 이메일과 개인 메신저에 의존하는 경우가 많다. 조인트는 이 공백을 겨냥해 거래처별 전용 ... 더 읽기",
+        "title": "[인터뷰] 삼성SDS “토큰증권은 시작…디지털자산 시대 본격 대비”",
+        "url": "https://byline.network/2026/06/0626-10/",
+        "source": "ByLine Network",
+        "published": "2026-06-28T05:09:03+00:00",
+        "summary": "토큰증권(STO) 제도화 논의가 본격화되면서 한국예탁결제원은 기존 전자증권 계좌 체계와 블록체인 기반 분산원장 데이터를 연계해 토큰증권의 발행과 권리관리 기능을 강화하고, 향후 시장 확대에 대비한 인프라 구축에 나서고 있다. 이를 위해 한국예탁결제원은 삼성SDS와 함께 토큰증권 플랫폼 운영 구축 사업을 추진하고 있다. 삼성SDS는 2024년 ‘토큰증권 기능분석 컨설팅’과 지난해 ‘테스트베드 플랫폼 구축’ 사업을 수행하며 관련 기술과 운영 경험을 축적해 왔다. 이지환 삼성SDS 금융컨설팅팀장(상무)을 만나 한국예탁결제원 토큰증권 플랫폼 구축 사업의 핵심 내용과 토큰증권 시장 확대에 대비한 삼성SDS의 전략에 대해 들어봤다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "“창업은 처음부터 세계 시장을 겨냥해야”…오디세이-엑스 데모데이",
+        "url": "https://byline.network/2026/06/0626-9/",
+        "source": "ByLine Network",
+        "published": "2026-06-28T05:07:26+00:00",
+        "summary": "손승현 라쿠텐 심포니 코리아(Rakuten Symphony Korea) 대표이사(CEO)가 26일 서울 코엑스 스타트업브랜치에서 열린 ‘오디세이-엑스(ODYSSEY-X)’ 데모데이에서 이같이 말했다. 오디세이-엑스는 예비 창업가들이 8주 동안 직접 고객을 만나 사업 아이디어를 증명하고 글로벌 진출을 준비하는 실전 배치형 창업 육성 프로그램이다.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What the UK's Social Media Ban is REALLY About",
+        "url": "https://www.youtube.com/shorts/iGG6bjAz2QM",
+        "source": "All-In Podcast",
+        "published": "2026-06-28T20:30:31+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i2.ytimg.com/vi/iGG6bjAz2QM/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "iGG6bjAz2QM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "2 Reasons Socialism is Rising in America",
+        "url": "https://www.youtube.com/shorts/I4aXr3-aAco",
+        "source": "All-In Podcast",
+        "published": "2026-06-28T14:00:11+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i2.ytimg.com/vi/I4aXr3-aAco/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "I4aXr3-aAco",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Everything Wrong With The 2026 World Cup",
+        "url": "https://www.youtube.com/watch?v=5lvqhoFv7Eo",
+        "source": "TLDR News Global",
+        "published": "2026-06-28T09:30:25+00:00",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL008\n\nThe 2026 FIFA World Cup is underway, but put the football to the side and the sheen starts to come off remarkably quickly. With the FIFA Peace Prize winner even launching a war against one of the participants, in this video, we're ta",
+        "thumbnail": "https://i2.ytimg.com/vi/5lvqhoFv7Eo/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "5lvqhoFv7Eo",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -366,21 +367,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
-        "url": "https://www.youtube.com/watch?v=w8ah_tA0yfg",
-        "source": "All-In Podcast",
-        "published": "2026-06-27T00:24:53+00:00",
-        "summary": "(0:00) Gavin Baker and Travis Kalanick join the show!\n(1:05) Mamdani-endorsed socialists sweep congressional primaries in NYC\n(22:51) Future of the Democratic Party, the Israel issue, social media bans\n(45:12) China's open-source AI catch up, distillation, OpenAI's new chip\n(1:01:46) Micron smashes ",
-        "thumbnail": "https://i4.ytimg.com/vi/w8ah_tA0yfg/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "w8ah_tA0yfg",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "젠스파크AI는 어떻게 리서치부터 이미지, 슬라이드 제작까지 한 번에 처리할 수 있을까?",
         "url": "https://www.youtube.com/watch?v=ugbhoGjhaW0",
         "source": "티타임즈TV",
@@ -390,36 +376,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "ugbhoGjhaW0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "This is New Media",
-        "url": "https://www.youtube.com/watch?v=JNu6c4G6q5M",
-        "source": "a16z",
-        "published": "2026-06-26T19:58:27+00:00",
-        "summary": "",
-        "thumbnail": "https://i3.ytimg.com/vi/JNu6c4G6q5M/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "JNu6c4G6q5M",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why the 7-Year Rule for Dogs Is Wrong",
-        "url": "https://www.youtube.com/shorts/_z_H0yZYc6c",
-        "source": "Cleo Abram",
-        "published": "2026-06-26T15:00:28+00:00",
-        "summary": "Turns out I’ve been estimating my dog’s age wrong, because “just multiply by 7” is NOT a real thing!\n\nThe whole “my dog at 1 is like a human at 7, at 2 they’re 14, etc.” is not backed by any research! Instead, geneticists created this chart - and it’s CURVED.\n\nWhat they’re measuring is the same kind",
-        "thumbnail": "https://i4.ytimg.com/vi/_z_H0yZYc6c/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "_z_H0yZYc6c",
           "via": "rss"
         }
       }
