@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-07-02T03:24:35.426952+00:00",
+  "generated_at": "2026-07-03T02:47:41.602338+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "At least eight killed in major missile and drone strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+        "title": "Russia Hammers Ukraine’s Capital in Deadly Attacks",
+        "url": "https://www.nytimes.com/live/2026/07/02/world/ukraine-kyiv-russia-attack",
+        "source": "NYT World",
+        "published": "2026-07-03T02:27:12+00:00",
+        "summary": "At least 21 people were killed in Kyiv, the local authorities said. Ukraine’s president had warned that Moscow was preparing a “massive strike” as his country’s forces have hit deeper into Russian territory.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australia news live: ASX to pay $23.5m after misleading statement; trial for teen over alleged Melbourne plane hijacking",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-07-03T02:19:45+00:00",
+        "summary": "Follow the day’s latest updatesGet our breaking news email, free app or daily news podcastA teenager has been charged with murder after a 15-year-old boy was discovered with fatal stab wounds outside a community medical centre.AAP reports the boy was found critically injured outside Craigieburn Community hospital in Melbourne’s north about 7.50pm on Wednesday. A staff member from the clinic rushed",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Venezuela quake survivor pulled out alive after eight days",
+        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-07-02T03:23:37+00:00",
-        "summary": "Russia launched its biggest strikes on the city in weeks hours after Volodymyr Zelensky said Moscow was planning a \"massive\" attack.",
+        "published": "2026-07-03T02:07:35+00:00",
+        "summary": "Hernán Gil was trapped under a collapsed multi-storey car park.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Russia Strikes Ukraine as Explosions Rock Capital of Kyiv",
-        "url": "https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html",
-        "source": "NYT World",
-        "published": "2026-07-02T03:16:47+00:00",
-        "summary": "President Volodymyr Zelensky of Ukraine had warned hours earlier that Russia was preparing another “massive strike” on Kyiv.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Lawyer takes Trump to Task over Unchecked Presidential Powers",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-02T03:16:38+00:00",
-        "summary": "Constitutional lawyer Bruce Fein says the US was founded on the principle that governments exist to protect rights.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "For Congo Fans, the Thrill of Victory Was So Close, Until It Wasn’t",
-        "url": "https://www.nytimes.com/2026/07/01/world/africa/congo-england-world-cup-kinshasa.html",
-        "source": "NYT World",
-        "published": "2026-07-02T03:15:24+00:00",
-        "summary": "Congo lost 2-1 to England on Wednesday night, after spending most of the game winning.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "EU border rules causing travel chaos ahead of summer peak, industry warns",
-        "url": "https://www.aljazeera.com/economy/2026/7/2/eu-border-rules-causing-travel-chaos-ahead-of-summer-peak-industry-warns?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-02T03:14:42+00:00",
-        "summary": "European airlines and airports call for flexibility to suspend digital border system amid severe delays.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "‘Obviously disturbing’ if Christian Brothers’ $1 property sales deprive abuse survivors of pay, government tells court",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/02/christian-brothers-catholic-asset-transfers-abuse-survivors-ntwnfb",
+        "title": "NSW records first suspected case of deadly H5 bird flu as virus reaches Australia’s east coast",
+        "url": "https://www.theguardian.com/world/2026/jul/03/bird-flu-australia-first-suspected-case-nsw-deadly-h5n1-virus",
         "source": "The Guardian World",
-        "published": "2026-07-02T03:04:01+00:00",
-        "summary": "Concerns Catholic order’s historical transfers of millions in assets were potentially inappropriate, NSW supreme court hearsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLawyers for the federal government say they are concerned at the “disturbing” potential that the Christian Brothers Catholic order may have inappropriately transfe",
+        "published": "2026-07-03T01:52:00+00:00",
+        "summary": "Migratory giant petrel discovered near Hawks Nest north of Newcastle infected with H5. Testing under way to determine if it’s highly pathogenic H5N1 strainFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastNew South Wales has its first suspected case of the deadly H5 bird flu in a giant petrel that was found near Hawks Nest, north of Ne",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia politics live: Hastie insists ‘I’m not on my way out’ after commentator suggests he may leave Liberal party",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-07-02T03:03:01+00:00",
-        "summary": "The shadow minister vows to recontest the next election as a Liberal. Follow today’s news liveGet our breaking news email, free app or daily news podcast‘Eight weeks to shred documents’: Wells on social media law delayThe main reason for Anika Wells’ media appearances this morning is to kick the Coalition and the Greens for sending that social media bill – increasing fines for platforms and handin",
+        "title": "Carney Unveils Multibillion Dollar Oil Pipeline Project to Boost Trade With Asia",
+        "url": "https://www.nytimes.com/2026/07/02/world/canada/carney-trade-oil-pipeline-alberta-british-columbia.html",
+        "source": "NYT World",
+        "published": "2026-07-03T01:43:33+00:00",
+        "summary": "Multibillion dollar investments, including a new oil pipeline from Alberta to the Pacific Coast, and natural gas facilities, aim to diversify trade away from the United States.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "On the front line of Congo’s Ebola outbreak",
-        "url": "https://www.aljazeera.com/editorial/2026/7/2/on-the-front-line-of-congos-ebola-outbreak?traffic_source=rss",
+        "title": "Powerful explosion as firefighters probe smoke at Tacoma apartment",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/powerful-explosion-as-firefighters-probe-smoke-at-tacoma-apartment?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-02T02:58:27+00:00",
-        "summary": "Al Jazeera&#039;s Catherine Wambua-Soi reports from Bunia, on the front line of the Ebola response.",
+        "published": "2026-07-03T01:37:23+00:00",
+        "summary": "Powerful explosion as firefighters probe smoke at Tacoma apartment.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Ronaldo scores as Portugal come back to win, Croatia denied by late VAR",
+        "url": "https://www.aljazeera.com/sports/2026/7/3/ronaldo-scores-as-portugal-comeback-to-win-but-croatia-denied-by-late-var?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-03T01:33:55+00:00",
+        "summary": "Cristiano Ronaldo pulls Portugal level before Goncalo Ramos wins it late on; Croatia have further goal ruled offside.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "As Ukraine War Escalates, Witkoff and Kushner Are Focused on Iran",
+        "url": "https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html",
+        "source": "NYT World",
+        "published": "2026-07-03T00:33:03+00:00",
+        "summary": "Steve Witkoff and Jared Kushner are pivotal players at a moment when the posts of U.S. ambassador to Moscow and Kyiv are both vacant.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-        "url": "https://senior-swe-bench.snorkel.ai/",
-        "source": "Hacker News Front",
-        "published": "2026-07-02T02:55:16+00:00",
-        "summary": "Article URL: https://senior-swe-bench.snorkel.ai/\nComments URL: https://news.ycombinator.com/item?id=48755928\nPoints: 3\n# Comments: 0",
+        "title": "Sony’s PlayStation disc factory is already being repurposed",
+        "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+        "source": "The Verge",
+        "published": "2026-07-03T01:05:13+00:00",
+        "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs every day, half of which are for PlayStation. But [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Bring Back Crappy Forums",
-        "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+        "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+        "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
         "source": "Hacker News Front",
-        "published": "2026-07-02T02:30:16+00:00",
-        "summary": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 9\n# Comments: 4",
+        "published": "2026-07-03T00:01:26+00:00",
+        "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&amp;route=shorturl\nComments URL: https://news.ycombinator.com/item?id=48768997\nPoints: 81\n# Comments: 59",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Avoiding Fallback in Distributed Systems",
-        "url": "https://builder.aws.com",
+        "title": "An American Privacy Emergency",
+        "url": "https://scottaaronson.blog/?p=9902",
         "source": "Hacker News Front",
-        "published": "2026-07-02T02:19:48+00:00",
-        "summary": "Article URL: https://builder.aws.com\nComments URL: https://news.ycombinator.com/item?id=48755653\nPoints: 12\n# Comments: 3",
+        "published": "2026-07-03T00:01:06+00:00",
+        "summary": "Article URL: https://scottaaronson.blog/?p=9902\nComments URL: https://news.ycombinator.com/item?id=48768992\nPoints: 169\n# Comments: 54",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
-        "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-        "source": "Hacker News Front",
-        "published": "2026-07-02T00:48:01+00:00",
-        "summary": "Article URL: https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/\nComments URL: https://news.ycombinator.com/item?id=48755005\nPoints: 71\n# Comments: 5",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Global review confirms mRNA vaccines are safe, effective and full of promise",
-        "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
-        "source": "Hacker News Front",
-        "published": "2026-07-02T00:40:14+00:00",
-        "summary": "Article URL: https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/\nComments URL: https://news.ycombinator.com/item?id=48754963\nPoints: 162\n# Comments: 110",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
-        "url": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+        "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+        "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
         "source": "TechCrunch",
-        "published": "2026-07-01T23:57:55+00:00",
-        "summary": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.",
+        "published": "2026-07-03T00:00:00+00:00",
+        "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The <Usermedia> HTML Element",
-        "url": "https://developer.chrome.com/blog/usermedia-html-element",
-        "source": "Hacker News Front",
-        "published": "2026-07-01T23:56:15+00:00",
-        "summary": "Article URL: https://developer.chrome.com/blog/usermedia-html-element\nComments URL: https://news.ycombinator.com/item?id=48754700\nPoints: 45\n# Comments: 21",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq",
-        "url": "https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/",
+        "title": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
+        "url": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
         "source": "Wired",
-        "published": "2026-07-01T23:16:11+00:00",
-        "summary": "Fourth of July weekend is the last great grill and griddle sale of the summer, including $250 off my favorite pellet smoker.",
+        "published": "2026-07-03T00:00:00+00:00",
+        "summary": "The satirical site is fighting to officially take over Infowars. In the meantime, CEO Ben Collins says the new show will mock “how fucking stupid” conspiratorial brain rot has become.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Right to Local Intelligence",
+        "url": "https://righttointelligence.org/",
+        "source": "Hacker News Front",
+        "published": "2026-07-02T23:54:03+00:00",
+        "summary": "Article URL: https://righttointelligence.org/\nComments URL: https://news.ycombinator.com/item?id=48768951\nPoints: 46\n# Comments: 17",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "source": "TechCrunch",
+        "published": "2026-07-02T23:38:10+00:00",
+        "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Private space pilots are flying orbital missions for the US Space Force",
+        "url": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+        "source": "TechCrunch",
+        "published": "2026-07-02T23:01:06+00:00",
+        "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,32 +186,32 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "LG전자의 AI 에이전트 기반 CAE DB 자동화 구축기",
-        "url": "https://byline.network/2026/07/2-428/",
+        "title": "HPE, AI 기반 ‘지율운영 네트워크’ 전략 본격 확장…통합 시너지 발휘",
+        "url": "https://byline.network/2026/07/2-434/",
         "source": "ByLine Network",
-        "published": "2026-07-02T02:43:33+00:00",
-        "summary": "“현업의 일하는 방식을 단 1%도 바꾸지 않고, 엔지니어는 기존 관행대로 PPT 보고서만 자유롭게 작성해서 업로드하면, 시스템이 알아서 수치를 뜯어내 DB화할 수 있게 됐다. AI 모델에게 가장 양질의 엔지니어링 영양분을 제공할 수 있는 데이터 파이프라인 기반이 완성된 덕이다.” - LG전자 생산기술원의 최상혁 책임연구원",
+        "published": "2026-07-02T22:54:24+00:00",
+        "summary": "주니퍼네트웍스를 인수, 합병한 HPE가 에이전틱 AI 시대에 걸맞는 자율운영 네트워킹(Self-driving Network) 전략을 본격 확장한다. AI와 기업의 IT 인프라, 네트워크 환경이 분산됨에 따라 운영을 간소화하고 복잡성을 줄이며, 대규모 환경에서 사람의 개입 없이 자율적인 IT 운영을 가능하게 하는 지능형 자동화를 제공하는 데 초점을 맞췄다. ▲자율운영 네트워크 기반 AI 네트워킹 혁신과 더 나은 사용자 경험을 지원하는 ‘네트워크를 위한 AI’ ▲AI 데이터센터를 위한 네트워크 인프라를 지원하는 ‘AI를 위한 네트워크’, ▲AI 시대에 맞는 네트워크와 보안 통합 혁신 지원에 주력한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Crunchbase Tech Layoffs Tracker",
-        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+        "title": "The Week’s 10 Biggest Funding Rounds: AI, Energy And Biotech Lead The Way",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/",
         "source": "Crunchbase News",
-        "published": "2026-07-01T17:50:30+00:00",
-        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+        "published": "2026-07-02T17:12:50+00:00",
+        "summary": "U.S. startups announced sizable funding rounds at a steady clip during a truncated holiday week, with energy and AI leading the way. Houston-based energy startup Joulent secured the biggest round, a $1.75 billion strategic financing.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Self-driving scaleup Wayve set to test LSE’s Pisces",
-        "url": "https://sifted.eu/articles/self-driving-scaleup-wayve-set-to-test-lses-pisces/",
+        "title": "Should the EU block the UK from its €5bn superfund?",
+        "url": "https://sifted.eu/articles/eu-block-uk-superfund-podcast/",
         "source": "Sifted (EU startups)",
-        "published": "2026-07-01T17:10:38+00:00",
+        "published": "2026-07-02T16:21:31+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -219,32 +219,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "마스오토 “국내 최초 자율주행 트레일러 출시 예정”",
-        "url": "https://byline.network/2026/07/12312415/",
-        "source": "ByLine Network",
-        "published": "2026-07-01T13:07:39+00:00",
-        "summary": "노제경 마스오토 부대표는 1일 서울 강남구 성홍타워에서 열린 ‘Real Self Driving’ 기자간담회에서 이같이 밝혔다. 마스오토는 인공지능(AI) 트레일러 자율주행 기술로 한국부터 미국까지 화물운송 전 구간 완전 무인화를 추진하겠다고 발표했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[리뷰] 더 강력해진 주머니 속 카메라 ‘DJI 오즈모 포켓 4P’",
-        "url": "https://byline.network/2026/07/1-1440/",
-        "source": "ByLine Network",
-        "published": "2026-07-01T13:02:04+00:00",
-        "summary": "더 강력해진 주머니 속 카메라 DJI ‘오즈모 포켓 4P’",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Klarna wins $1.97bn antitrust lawsuit against Google",
-        "url": "https://sifted.eu/articles/klarna-wins-1-97bn-antitrust-lawsuit-against-google/",
+        "title": "Andy Burnham's plan to overhaul AI strategy sparks backlash",
+        "url": "https://sifted.eu/articles/andy-burnham-ai-plan-uk-changes-reaction/",
         "source": "Sifted (EU startups)",
-        "published": "2026-07-01T12:32:51+00:00",
+        "published": "2026-07-02T15:51:20+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,22 +230,44 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "“사람·머신·에이전트 연결해야 권한 보인다”…세일포인트 CTO의 진단",
-        "url": "https://byline.network/2026/07/1-1453/",
-        "source": "ByLine Network",
-        "published": "2026-07-01T10:59:09+00:00",
-        "summary": "인공지능(AI) 에이전트 사용이 늘면서 사람과 에이전트가 가진 접근 권한을 어떻게 연결해 파악하고 통제할 지가 기업 보안의 과제로 떠오르고 있다. 데이나 리드 세일포인트(SailPoint) 필드 최고기술책임자(CTO)는 1일 서울 여의도에서 바이라인네트워크와 만나 “AI 에이전트가 누구를 대신해 움직이고 어떤 시스템과 데이터에 접근하는지 하나의 맥락에서 확인해야 한다”며 “아이덴티티가 사이버보안의 중심이 되고 있다”고 강조했다.",
+        "title": "The two bets founders are taking in physical AI",
+        "url": "https://sifted.eu/articles/the-two-bets-founders-are-taking-in-physical-ai/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-02T12:41:31+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "An AI agent was named after this 57-year-old Belgian credit analyst. Is he philosophical about it?",
-        "url": "https://sifted.eu/articles/herman-ai-oper/",
+        "title": "Crunchbase Data: Global Startup Investment Hit Record $510B In H1 2026 As AI Boom Accelerates Funding And Exits",
+        "url": "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-07-02T11:00:47+00:00",
+        "summary": "Investors poured more than $200 billion into startups globally in the just-ended quarter, making Q2 2026 the second-largest quarter on record, our data shows. And, with IPOs and acquisitions returning in force, the second quarter notched one of the strongest periods for venture-backed exits in years.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Drone maker Quantum Systems raises $1.2bn, eyes humanoids",
+        "url": "https://sifted.eu/articles/quantum-systems-fundraise-humanoids-merger-stark/",
         "source": "Sifted (EU startups)",
-        "published": "2026-07-01T10:40:44+00:00",
+        "published": "2026-07-02T09:02:22+00:00",
         "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "투자 IR부터 데모데이까지…’G-Star 모두의 창업 페스티벌’ 경주서 개막",
+        "url": "https://platum.kr/archives/290311?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2588%25ac%25ec%259e%2590-ir%25eb%25b6%2580%25ed%2584%25b0-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4%25ea%25b9%258c%25ec%25a7%2580g-star-%25eb%25aa%25a8%25eb%2591%2590%25ec%259d%2598-%25ec%25b0%25bd%25ec%2597%2585-%25ed%258e%2598%25ec%258a%25a4%25ed%258b%25b0%25eb%25b2%258c",
+        "source": "Platum",
+        "published": "2026-07-02T08:40:56+00:00",
+        "summary": "경북 지역 스타트업, 예비창업자, 투자자, 지원기관이 한자리에 모이는 &#8216;G-Star 모두의 창업 페스티벌 in 경북&#8217;이 2일 경주화백컨벤션센터(HICO)에서 개막했다. 중소벤처기업부가 주최하고 경북창조경제혁신센터가 주관하는 행사로, 4일까지 사흘간 투자 IR과 데모데이, 상담회, 부스 전시가 이어진다. 첫날인 2일에는 개막식과 함께 &#8216;KDB NextRound in 경북&#8217;이 진행되고, 모두의 창업 상담회와 부스 전시가 함께 운영된다. 둘째 날인 3일에는 메인무대에서 &#8216;Next G-Star Round&#8217; 본선과 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,46 +276,136 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "$50B Fund Manager Breaks Down SpaceX’s Soaring Valuation",
-        "url": "https://www.youtube.com/watch?v=V3luvOVc4to",
-        "source": "All-In Podcast",
-        "published": "2026-07-02T03:06:48Z",
-        "summary": "Thanks to our partners for making this possible! EY - Great tech starts with a big idea. From startup to scale, EY helps tech ...",
-        "thumbnail": "https://i.ytimg.com/vi/V3luvOVc4to/mqdefault.jpg",
+        "title": "The Ice in Antarctica Is Way Thicker Than You Think",
+        "url": "https://www.youtube.com/shorts/1epV_DD1sxY",
+        "source": "Cleo Abram",
+        "published": "2026-07-02T14:33:21+00:00",
+        "summary": "If you wanted to drill to the bottom of Antarctica, the first thing you need to realize is this ice is way thicker than you think.\n\nIf we were to take a chunk out of this ice and place it on the surface, at its thickest, THIS is what it would look like…\n\nIt turns out, there’s a LOT more going on und",
+        "thumbnail": "https://i2.ytimg.com/vi/1epV_DD1sxY/hqdefault.jpg",
         "extras": {
-          "theme": "analysis",
-          "videoId": "V3luvOVc4to",
-          "via": "api"
+          "theme": "trend",
+          "videoId": "1epV_DD1sxY",
+          "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "David Sacks: The DSA Is Taking Over the Democratic Party, Here Are Their Goals",
-        "url": "https://www.youtube.com/watch?v=8YWTkqpJYtc",
+        "title": "What Anthropic is Actually Worth... It's More Than You Think",
+        "url": "https://www.youtube.com/shorts/86RP8smtuWo",
         "source": "All-In Podcast",
-        "published": "2026-07-01T21:14:02Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/8YWTkqpJYtc/mqdefault.jpg",
+        "published": "2026-07-02T14:30:34+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i1.ytimg.com/vi/86RP8smtuWo/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "8YWTkqpJYtc",
-          "via": "api"
+          "videoId": "86RP8smtuWo",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "전국민 투자 열풍에 빠진 대만",
+        "url": "https://www.youtube.com/watch?v=yV0XTcQXFrM",
+        "source": "슈카월드",
+        "published": "2026-07-02T11:36:45+00:00",
+        "summary": "0:00 대만 가권지수 최근 1년 +98%\n5:36 나 빼고 다 부자 되는건가?\n14:12 절박한 대만 청년들\n24:54 여기서 끝이 아니다!? 일본의 투자 열풍",
+        "thumbnail": "https://i2.ytimg.com/vi/yV0XTcQXFrM/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "yV0XTcQXFrM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Mickey Mouse Got His Name",
+        "url": "https://www.youtube.com/shorts/CzDH3by42OM",
+        "source": "Acquired",
+        "published": "2026-07-02T09:40:21+00:00",
+        "summary": "#business #podcast \n\n🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
+        "thumbnail": "https://i4.ytimg.com/vi/CzDH3by42OM/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "CzDH3by42OM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Afghan-Pakistan War Restarts: How Does This End?",
+        "url": "https://www.youtube.com/watch?v=V_ZPr0_XNDY",
+        "source": "TLDR News Global",
+        "published": "2026-07-02T09:37:27+00:00",
+        "summary": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code NEWSGLOBAL6 will get the first month free on me: https://planetwild.com/r/tldrnewsglobal/join/6\nIf you want to get to know them better first, check out their mission b",
+        "thumbnail": "https://i3.ytimg.com/vi/V_ZPr0_XNDY/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "V_ZPr0_XNDY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "$1=1500원 시대, 상방이 무한한 미국에 부딪히는 98년생 창업가ㅣ아메리칸드림2.0",
+        "url": "https://www.youtube.com/watch?v=J7Cv6T70-kM",
+        "source": "EO 이오",
+        "published": "2026-07-02T09:00:28+00:00",
+        "summary": "\"이기면 유니콘, 4등을 해도 5천억, 6천억짜리 회사가 되는 건데. 그거 한국에서 여태 아무도 못 한 거긴 하죠.\"\n\n온 세상이 미국을 향해 달려가는 지금, 핀타 AI 팀은 아예 짐을 싸서 샌프란시스코로 넘어갔습니다.\n\n'아메리칸 드림 2.0'은 제품과 팀 자신감 하나 들고 미국 시장에 맨몸으로 부딪히는 창업팀의 2주를 따라갑니다.\n\n98년생 김도현 대표는 2014년부터 비트코인을 접했고, 이더리움 ICO 하는 사람들 옆에도 있었습니다.\n기회는 늘 눈앞에 있었지만, 정작 제대로 잡은 건 없었다고 말합니다.\n위즈(Wiz)가 1년 6",
+        "thumbnail": "https://i3.ytimg.com/vi/J7Cv6T70-kM/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "J7Cv6T70-kM",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "광고 노출은 끝났다? 고객과 만나는 첫 접점이 완전히 바뀌는 이유 (박준영 크로스IMC 대표)",
+        "url": "https://www.youtube.com/watch?v=4iGmbV_X8TY",
+        "source": "티타임즈TV",
+        "published": "2026-07-02T09:00:28+00:00",
+        "summary": "기존 마케팅은 여러 접점에 광고를 노출해 탐색, 비교, 구매로 좁혀지는 깔때기형 방식이었습니다. 하지만 AI 시대에는 고객이 먼저 대화창에 원하는 것을 선명한 언어로 요구하며 탐색과 대화가 시작되죠. 애플이 아이폰의 두뇌로 제미나이를 도입한 것 역시, 당장은 남의 두뇌를 빌리더라도 사용자와 만나는 핵심 접점을 장악하겠다는 전략입니다. \n\n그렇다면 완전히 뒤바뀐 AI와의 대화 맥락에서 우리 브랜드는 어떻게 해야 1순위로 추천될 수 있을까요? 새로운 고객 접점 전쟁에서 살아남기 위한 브랜드 전략을 박준영 크로스IMC 대표가 낱낱이 정리",
+        "thumbnail": "https://i1.ytimg.com/vi/4iGmbV_X8TY/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "4iGmbV_X8TY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "$50B Fund Manager Breaks Down SpaceX’s Soaring Valuation",
+        "url": "https://www.youtube.com/shorts/V3luvOVc4to",
+        "source": "All-In Podcast",
+        "published": "2026-07-02T03:06:48+00:00",
+        "summary": "Thanks to our partners for making this possible!\n\nEY - Great tech starts with a big idea. From startup to scale, EY helps tech founders get financials right early so they can focus on what’s next.\nhttps://www.ey.com/en_us/tech-sector/tech-startups?WT.mc_id=3501317&amp;AA.tsrc=sponsorship\n\nNYSE - Tha",
+        "thumbnail": "https://i3.ytimg.com/vi/V3luvOVc4to/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "V3luvOVc4to",
+          "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
         "title": "What Color Are Alien Plants?",
-        "url": "https://www.youtube.com/watch?v=FIk2nijwsxA",
+        "url": "https://www.youtube.com/shorts/FIk2nijwsxA",
         "source": "Cleo Abram",
-        "published": "2026-07-01T15:45:45Z",
-        "summary": "When looking for alien life on other planets we tend to start by looking for the blue ones: planets with water. The idea is if a planet ...",
-        "thumbnail": "https://i.ytimg.com/vi/FIk2nijwsxA/mqdefault.jpg",
+        "published": "2026-07-01T15:45:45+00:00",
+        "summary": "When looking for alien life on other planets we tend to start by looking for the blue ones: planets with water. The idea is if a planet has water it likely has the building blocks for life. \n\nBut another thought might be to look for the GREEN planets — planets covered in forests like our own. The tr",
+        "thumbnail": "https://i3.ytimg.com/vi/FIk2nijwsxA/hqdefault.jpg",
         "extras": {
           "theme": "trend",
           "videoId": "FIk2nijwsxA",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -324,103 +414,13 @@
         "title": "EO만 할 수 있고, EO가 제일 잘하는 이야기ㅣ아메리칸 드림 2.0",
         "url": "https://www.youtube.com/watch?v=6j73IwoTAME",
         "source": "EO 이오",
-        "published": "2026-07-01T11:42:07Z",
-        "summary": "대AI시대, 다시 없을 변화의 기회를 잡고자 샌프란시스코 해커하우스에서 미친 열정을 가지고 프로덕트를 만드는 20대 젊은 빌더들.",
-        "thumbnail": "https://i.ytimg.com/vi/6j73IwoTAME/mqdefault.jpg",
+        "published": "2026-07-01T11:42:07+00:00",
+        "summary": "대AI시대, 다시 없을 변화의 기회를 잡고자 샌프란시스코 해커하우스에서 미친 열정을 가지고 프로덕트를 만드는 20대 젊은 빌더들.\n\n샌프란시스코까지 와서 해커하우스 의자에 앉아 대부분의 시간을 보내는 창업가들의 새벽을 보여준다. \n\n어떤 열정과 확신을 가지고 미국땅, 빅테크의 도시 실리콘 밸리에 온 것일까. \n\n그들의 아메리칸 드림 2.0은 무엇일까. \n\n\n\n\n🌎 EO 글로벌 채널 구독하기 \n👉🏻👉🏻 https://bit.ly/3S0Pacc\n\n👽 eo PLANET 뉴스레터 구독하기\n👉🏻👉🏻 https://bit.ly/3cIKLuL",
+        "thumbnail": "https://i3.ytimg.com/vi/6j73IwoTAME/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "6j73IwoTAME",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "정치 논란으로 번진, 유럽의 에어컨 반대 논쟁",
-        "url": "https://www.youtube.com/watch?v=WYFCkrnfpVo",
-        "source": "슈카월드",
-        "published": "2026-07-01T10:05:42Z",
-        "summary": "0:00 전국 40도를 넘어갈 프랑스 미친 폭염 6:55 정치 논란으로 번진 프랑스 에어컨 금지 논쟁 15:35 유럽에 왜 폭염이 오는가.",
-        "thumbnail": "https://i.ytimg.com/vi/WYFCkrnfpVo/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "WYFCkrnfpVo",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI가 주도하는 취향 위임과 구매 전환의 비밀 (박준영 크로스IMC 대표)",
-        "url": "https://www.youtube.com/watch?v=Ai0W7cDfIdM",
-        "source": "티타임즈TV",
-        "published": "2026-07-01T09:34:05Z",
-        "summary": "사람들은 AI와 어떻게 관계를 맺을까요? 효율성을 높여주는 도구로만 대할까요, 아니면 감정을 나누는 대상으로 대할까요? 이 궁금증 ...",
-        "thumbnail": "https://i.ytimg.com/vi/Ai0W7cDfIdM/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "Ai0W7cDfIdM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Iran&#39;s Economy Could Be Huge",
-        "url": "https://www.youtube.com/watch?v=f8EBNPyFqGM",
-        "source": "TLDR News Global",
-        "published": "2026-07-01T09:30:21Z",
-        "summary": "Want to restore the planet's ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my ...",
-        "thumbnail": "https://i.ytimg.com/vi/f8EBNPyFqGM/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "f8EBNPyFqGM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-        "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-        "source": "Lex Fridman",
-        "published": "2026-06-30T21:16:13Z",
-        "summary": "Anthony Kaldellis is a historian of the Roman Empire and author of \"The New Roman Empire\", a comprehensive history of the ...",
-        "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/mqdefault.jpg",
-        "extras": {
-          "theme": "interview",
-          "videoId": "pv1TUJSEM2k",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "맞는 말이지만, 애플이 할 말은 아니지",
-        "url": "https://www.youtube.com/watch?v=wKzs5A39HZs",
-        "source": "슈카월드",
-        "published": "2026-06-30T18:12:59Z",
-        "summary": "0:00 한주에 서킷브레이커 2번 나오는 레전드 국장 13:40 대망의 마이크론 실적 발표 23:26 애플 전격 가격 인상, \"메모리 때문에 킹쩔 ...",
-        "thumbnail": "https://i.ytimg.com/vi/wKzs5A39HZs/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "wKzs5A39HZs",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Does A Privacy Screen Actually Work?",
-        "url": "https://www.youtube.com/watch?v=sYwG6G0oxBA",
-        "source": "Cleo Abram",
-        "published": "2026-06-30T14:50:20Z",
-        "summary": "How does the privacy screen on this laptop actually work? It has to do with a hidden layer… @surface #ad.",
-        "thumbnail": "https://i.ytimg.com/vi/sYwG6G0oxBA/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "sYwG6G0oxBA",
-          "via": "api"
+          "via": "rss"
         }
       }
     ]
