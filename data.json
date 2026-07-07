@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-07-06T03:21:22.790574+00:00",
+  "generated_at": "2026-07-07T02:54:24.864118+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
-        "url": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
-        "source": "NYT World",
-        "published": "2026-07-06T03:05:04+00:00",
-        "summary": "Ballistic missiles were fired into the capital of Ukraine, as Russia launched its second major attack in less than a week. At least seven people were killed, officials said.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "OPEC+ countries say they will expand monthly oil production",
-        "url": "https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-06T03:04:06+00:00",
-        "summary": "Seven OPEC+ members, including Saudi Arabia and Russia, to increase output by 188,000 barrels per day.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: scientists identify likely source of Queensland space balls; native title approved for Kngwarreye birthplace",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/06/australia-news-live-crisafulli-bail-laws-property-market-auction-clearance-tax-reform-prime-minister-albanese-fiji-treaty-royal-commission-meta-antisemitism-ntwnfb",
+        "title": "Australia news live: alleged ‘Pam the Bird’ graffiti artist arrested after descent from Bolte Bridge tower; Richard White steps down as WiseTech chair",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/07/australia-news-live-penny-wong-china-missile-test-pacific-anthony-albanese-solomon-islands-defence-royal-commission-antisemitism-meta-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-07-06T03:03:25+00:00",
-        "summary": "Objects appear to be pressure vessels from a space launch vehicle, Australian Space Agency says. Follow today’s news liveMy colleague Josh Butler has a full report into today’s controversy surrounding Anthony Albanese’s podcast appearance. You can read the full debrief here:Meta executives to speak at royal commission on antisemitism today Continue reading...",
+        "published": "2026-07-07T02:34:19+00:00",
+        "summary": "WiseTech says in ASX announcement that Raelene Murphy is appointed as chair to replace White. Follow today’s news liveGet our breaking news email, free app or daily news podcastRichard Marles said he doubted China tested the long-range weapon yesterday in response to Anthony Albanese being in the Pacific to sign a new defence alliance with Fiji but said Australia remained deeply concerned by the d",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia space agency has found 'likely source' of mystery space balls",
-        "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+        "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+        "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-07-06T02:49:15+00:00",
-        "summary": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
+        "published": "2026-07-07T02:33:18+00:00",
+        "summary": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Melbourne teacher receiving end-of-life care after horror head clash during suburban football game",
-        "url": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
-        "source": "The Guardian World",
-        "published": "2026-07-06T02:37:18+00:00",
-        "summary": "Epping footballer Nathan Fitzgerald, 27, remains in hospital after hitting his head during a game in Lalor on SaturdayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA suburban Melbourne footballer is receiving “end-of-life” care in hospital after a horror head clash saw him fall to the ground and hit his head on a covered cricket pi",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Sports stadium becomes home for victims of the Venezuela earthquakes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/sports-stadium-becomes-home-for-victims-of-the-venezuela-earthquakes?traffic_source=rss",
+        "title": "Cuba sees nationwide power blackout for third time in six months",
+        "url": "https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-06T02:27:07+00:00",
-        "summary": "A sports stadium in La Guaira state has been turned into a makeshift home and logistics centre for thousands of victims.",
+        "published": "2026-07-07T02:29:45+00:00",
+        "summary": "People in Cuba already faced an ongoing economic and humanitarian crisis, largely due to a US blockade.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Ronaldo’s last World Cup? We will see, says Portugal star before Spain clash",
-        "url": "https://www.aljazeera.com/sports/2026/7/6/ronaldos-last-world-cup-we-will-see-says-portugal-star-before-spain-clash?traffic_source=rss",
+        "title": "Russia sends weapons to help Mali’s government hold off rebel siege",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-06T02:13:37+00:00",
-        "summary": "&#039;I will finish when I choose,&#039; Ronaldo reveals amid speculation about his World Cup future ahead of the last-16 match.",
+        "published": "2026-07-07T02:25:09+00:00",
+        "summary": "The Russian navy is carrying a shipment of weapons to help Mali’s government hold off a rebel advance.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
-        "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
+        "title": "FIFA defends Balogun red card referee after Trump calls him ‘a bit suspect’",
+        "url": "https://www.aljazeera.com/sports/2026/7/7/fifa-defends-balogun-red-card-referee-after-trump-calls-him-a-bit-suspect?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-06T02:10:37+00:00",
-        "summary": "The move underscores growing scrutiny of the conflict mineral trade fuelling violence in eastern DR Congo.",
+        "published": "2026-07-07T02:23:55+00:00",
+        "summary": "Raphael Claus is &#039;one of the world&#039;s leading professional referees&#039;, FIFA says, following Trump&#039;s comments.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Balogun reprieve in vain as Belgium beat USA to set up Spain quarterfinal",
+        "url": "https://www.aljazeera.com/sports/2026/7/7/usa-cant-make-most-of-balogun-reprieve-as-belgium-set-up-spain-quaterfinal?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-07T02:15:36+00:00",
+        "summary": "Folarin Balogun&#039;s starting place, after a suspended red card, unable to influence USA, who succumb to superior Belgium.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-07T02:07:15+00:00",
+        "summary": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump’s Intervention in Balogun’s World Cup Suspension Adds to Conflict With Europe",
+        "url": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
+        "source": "NYT World",
+        "published": "2026-07-07T02:07:07+00:00",
+        "summary": "The decision to reverse a one-game ban landed badly in Europe, at a moment of already-heightened geopolitical tension with the United States.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Sneakerweb",
-        "url": "https://sneakerweb.org/",
-        "source": "Hacker News Front",
-        "published": "2026-07-06T01:35:09+00:00",
-        "summary": "Article URL: https://sneakerweb.org/\nComments URL: https://news.ycombinator.com/item?id=48799781\nPoints: 16\n# Comments: 4",
+        "title": "Netflix invented binge-watching. Now it may have outgrown it.",
+        "url": "https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/",
+        "source": "TechCrunch",
+        "published": "2026-07-07T00:47:33+00:00",
+        "summary": "A new report suggests Netflix viewers aren’t sticking around for Season 2. The bigger issue may be that binge-watching itself is no longer the advantage it once was.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "GPT-5.6 Sol Ultra will be in Codex",
-        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+        "title": "How to sequence your own DNA at home",
+        "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
         "source": "Hacker News Front",
-        "published": "2026-07-06T01:04:03+00:00",
-        "summary": "Article URL: https://twitter.com/thsottiaux/status/2073933490513752151\nComments URL: https://news.ycombinator.com/item?id=48799614\nPoints: 90\n# Comments: 48",
+        "published": "2026-07-07T00:14:21+00:00",
+        "summary": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home\nComments URL: https://news.ycombinator.com/item?id=48812156\nPoints: 71\n# Comments: 17",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-        "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+        "title": "Small AI Models Gain Traction In places with unreliable networks",
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
         "source": "Hacker News Front",
-        "published": "2026-07-06T00:04:48+00:00",
-        "summary": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt\nComments URL: https://news.ycombinator.com/item?id=48799256\nPoints: 109\n# Comments: 34",
+        "published": "2026-07-06T23:59:54+00:00",
+        "summary": "Article URL: https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals\nComments URL: https://news.ycombinator.com/item?id=48812055\nPoints: 23\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Private Capture of Public Genius",
-        "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-        "source": "Hacker News Front",
-        "published": "2026-07-05T23:52:20+00:00",
-        "summary": "Article URL: https://www.wysr.xyz/p/the-private-capture-of-public-genius\nComments URL: https://news.ycombinator.com/item?id=48799178\nPoints: 40\n# Comments: 5",
+        "title": "The ‘first’ AI-run ransomware attack still needed a human",
+        "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+        "source": "TechCrunch",
+        "published": "2026-07-06T23:56:14+00:00",
+        "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Has_not_been_viewed_much",
-        "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+        "title": "NSA and IETF: Fairness",
+        "url": "https://blog.cr.yp.to/20260706-fairness.html",
         "source": "Hacker News Front",
-        "published": "2026-07-05T23:49:00+00:00",
-        "summary": "Article URL: https://iamwillwang.com/notes/has-not-been-viewed-much/\nComments URL: https://news.ycombinator.com/item?id=48799155\nPoints: 107\n# Comments: 27",
+        "published": "2026-07-06T23:33:54+00:00",
+        "summary": "Article URL: https://blog.cr.yp.to/20260706-fairness.html\nComments URL: https://news.ycombinator.com/item?id=48811887\nPoints: 52\n# Comments: 24",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Connections in Math: the two kinds of random",
-        "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
-        "source": "Hacker News Front",
-        "published": "2026-07-05T23:31:30+00:00",
-        "summary": "Article URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/\nComments URL: https://news.ycombinator.com/item?id=48799026\nPoints: 27\n# Comments: 16",
+        "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+        "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+        "source": "TechCrunch",
+        "published": "2026-07-06T23:21:03+00:00",
+        "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Does Code Cleanliness Affect Coding Agents?",
-        "url": "https://arxiv.org/abs/2605.20049",
+        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "url": "https://ternlight-demo.vercel.app/",
         "source": "Hacker News Front",
-        "published": "2026-07-05T23:03:55+00:00",
-        "summary": "Article URL: https://arxiv.org/abs/2605.20049\nComments URL: https://news.ycombinator.com/item?id=48798815\nPoints: 44\n# Comments: 20",
+        "published": "2026-07-06T23:06:31+00:00",
+        "summary": "Article URL: https://ternlight-demo.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=48811644\nPoints: 86\n# Comments: 29",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Vaclav Havel, the Power of the Powerless (1978)",
-        "url": "https://kamprint.com/essay/havel.html",
+        "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+        "url": "https://github.com/MaximeRivest/Riddle",
         "source": "Hacker News Front",
-        "published": "2026-07-05T22:47:09+00:00",
-        "summary": "Article URL: https://kamprint.com/essay/havel.html\nComments URL: https://news.ycombinator.com/item?id=48798688\nPoints: 13\n# Comments: 0",
+        "published": "2026-07-06T23:00:24+00:00",
+        "summary": "Article URL: https://github.com/MaximeRivest/Riddle\nComments URL: https://news.ycombinator.com/item?id=48811591\nPoints: 175\n# Comments: 108",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,88 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[전화성의 스타트업 모닝커피 1349회] 이에프디",
-        "url": "https://platum.kr/archives/290414?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25ed%2599%2594%25ec%2584%25b1%25ec%259d%2598-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1349%25ed%259a%258c-%25ec%259d%25b4%25ec%2597%2590%25ed%2594%2584%25eb%2594%2594",
-        "source": "Platum",
-        "published": "2026-07-05T23:48:35+00:00",
-        "summary": "‘스타트업 모닝커피’는 씨엔티테크 전화성 대표가 진행하는 유튜브 프로그램으로, 매일 오전 8시 40분 ‘전화성의 CNTV’ 채널에서 라이브로 방송되며, 다양한 스타트업의 핵심 역량과 시장 잠재성을 소개할 뿐만 아니라, 실시간 댓글을 통한 시청자와의 쌍방향 소통을 통해 스타트업 생태계에 관심 있는 이들에게 유용한 정보 플랫폼으로 자리잡고 있다. 1. 이에프디 기업은 이에프디(EFD)는 친환경 전기 선박의 핵심 제어 시스템, 일명 &#8216;전기 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "탄소포집 분리막 씨이엘랩, 크립톤서 투자 유치…연내 양산 설비 구축",
-        "url": "https://platum.kr/archives/290411?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2583%2584%25ec%2586%258c%25ed%258f%25ac%25ec%25a7%2591-%25eb%25b6%2584%25eb%25a6%25ac%25eb%25a7%2589-%25ec%2594%25a8%25ec%259d%25b4%25ec%2597%2598%25eb%259e%25a9-%25ed%2581%25ac%25eb%25a6%25bd%25ed%2586%25a4%25ec%2584%259c-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598%25ec%2597%25b0",
-        "source": "Platum",
-        "published": "2026-07-05T23:25:12+00:00",
-        "summary": "탄소포집·활용·저장(CCUS) 분리막 기업 씨이엘랩(CEL LAB)이 액셀러레이터 크립톤으로부터 투자를 유치했다. 크립톤의 지역창업생태계 라이콘 펀드를 통한 투자로, 씨이엘랩은 이 자금으로 올해 말까지 연간 12만㎡ 생산 규모의 분리막 제조 파일럿 설비를 구축할 계획이다. 설비가 갖춰지면 씨이엘랩은 양산 가동에 들어가 국내외 CCUS와 선박용 탄소포집(OCCS) 시장을 공략한다는 전략이다. 회사의 핵심 기술인 기체 분리막은 탄소포집 외에 바이오가스 업그레이딩(메탄 순도 향상), 부생수소 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[법무법인 비트 TIP] 저작권과 소유권의 차이는? 제작물, 전시물 촬영, 복제분쟁 판례 정리",
-        "url": "https://platum.kr/archives/290380?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2595%25eb%25ac%25b4%25eb%25b2%2595%25ec%259d%25b8-%25eb%25b9%2584%25ed%258a%25b8-tip-%25ec%25a0%2580%25ec%259e%2591%25ea%25b6%258c%25ea%25b3%25bc-%25ec%2586%258c%25ec%259c%25a0%25ea%25b6%258c%25ec%259d%2598-%25ec%25b0%25a8%25ec%259d%25b4%25eb%258a%2594-%25ec%25a0%259c%25ec%259e%2591",
-        "source": "Platum",
-        "published": "2026-07-05T22:59:00+00:00",
-        "summary": "저작권과 소유권 차이, 기업이 놓치기 쉬운 함정 — 제작물·전시물 촬영·복제 분쟁 판례 총정리 기업이 제작한 조형물, 전시물, 제품 디자인을 제3자가 허락 없이 촬영해서 광고나 상품에 복제·활용한다면, 소유자로서 이를 막을 수 있을까요? 막을 수 있다면 그 권리의 근거는 소유권일까요, 저작권일까요? 브랜드 자산이나 전시·설치물을 다루는 기업이라면 한 번쯤 짚어볼 만한 문제입니다. 우리나라와 법체계가 유사한 일본에서는 이 점을 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[웨비나] 도구로보틱스가 로봇이 길을 찾도록 만든 방법",
-        "url": "https://byline.network/2026/07/576567576/",
+        "title": "“AI 버블 터지면 금융 시스템 전체 흔들린다“ 미 재무부 보고서",
+        "url": "https://byline.network/2026/07/ai-bubble/",
         "source": "ByLine Network",
-        "published": "2026-07-05T18:21:00+00:00",
-        "summary": "로봇은 어떻게 10층 건물을 길 잃지 않고 순찰할까. 로봇은 항상 좌표로 위치를 인식하지만 좌표만으로는 다층 건물의 구조를 파악하기 힘들다. 층과 층 사이 이동은 직선 거리가 아니기 때문이다. 그렇다면 계단이나 구조물 사이를 이동해야 할 때 로봇은 어떤 원리로 작동할까.\n인공지능(AI) 자율주행 순찰 로봇 솔루션 전문 기업 도구로보틱스는 지난달 23일 바이라인플러스에서 진행된 웨비나에서 로봇에 위치 연결 정보를 제공하는 ‘3차원(3D) 내비게이션’을 소개했다. 3D 내비게이션은 로봇이 길을 잃지 않고 10층 건물을 통과할 수 있도록 위치 연결 정보를 제공한다.",
+        "published": "2026-07-07T02:22:56+00:00",
+        "summary": "재무부 내부에서 현재의 AI 투자 열기가 금융 시스템 전체를 위협할 수 있다는 경고를 담은 보고서가 작성돼 눈길을 끌고 있다. 보고서의 핵심 우려는 AI 기업들이 닷컴 시대보다 미국 경제에 훨씬 깊이 뿌리내리고 있다는 점이다. 보고서는 금융 여건이 악화되거나, AI가 기대하는 생산성 목표를 달성하지 못하거나, 각종 병목 현상이 성장을 막을 경우 시스템 전반에 중대한 위험이 초래될 수 있다고 결론지었다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "“무조건 큰 LLM은 그만”…네이버, 서비스에 맞춘 ‘프로덕트 네이티브 LLM’ 승부수",
-        "url": "https://byline.network/2026/07/05_naver/",
+        "title": "[커머스BN] 올리브영은 왜 매장마다 다른 옷을 입나",
+        "url": "https://byline.network/2026/07/07_12982173/",
         "source": "ByLine Network",
-        "published": "2026-07-05T18:19:54+00:00",
-        "summary": "네이버가 올해 클로바X와 큐를 종료하며 글로벌 빅테크와의 범용 챗봇 경쟁에서 한 발 물러났습니다. 대신 검색·쇼핑·플레이스 등 자사 서비스에 AI를 깊게 녹이는 길을 택했습니다. 그 무대가 대화형 검색 ‘AI탭’으로, 여기에 서비스에 특화된 ‘프로덕트 네이티브 LLM’과 하네스 엔지니어링을 얹어 검색부터 예약까지 끝까지 실행하는 AI로 승부한다는 구상입니다.",
+        "published": "2026-07-07T01:51:30+00:00",
+        "summary": "CJ올리브영(이하 올리브영)의 올해 출점 전략이 독특합니다. 지금까지는 주요 거점 지역에 큰 점포를 내는 데 집중했다면, 최근 들어 거점별 특화 전략이 본격화되는 모양새입니다. 단순 쇼핑 뿐만 아니라 글로벌 고객이 바라는 K뷰티 관련 서비스와 체험 요소를 강화하는 게 특징입니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "제논 “생성형 AI 2.0 시대, 업무 프로세스와 AI 통합 필수적”",
-        "url": "https://byline.network/2026/07/3-427/",
+        "title": "[금융권 인공지능 활용②] 신한금융, ‘AI 네이티브 컴퍼니’ 전환",
+        "url": "https://byline.network/2026/07/0706-5/",
         "source": "ByLine Network",
-        "published": "2026-07-05T04:42:11+00:00",
-        "summary": "국내 생성형 AI 솔루션 기업 제논(GenON)이 3일 서울 양재 엘타워에서 제5회 AIXperience Day 세미나를 개최하고 기업용 AI 플랫폼 제노스(GenOS) 2.0을 소개했다.",
+        "published": "2026-07-07T01:01:26+00:00",
+        "summary": "신한금융지주가 인공지능 전환(AX)과 디지털 전환(DX)을 그룹의 생존과 직결된 핵심 전략으로 삼고 ‘AI 네이티브(AI Native) 컴퍼니’ 구현에 속도를 내고 있다. AI를 특정 부서의 기술이 아닌 전 임직원이 활용하는 업무 기반으로 정착시키기 위해 그룹 차원의 거버넌스(관리체계), 조직, 인프라를 동시에 강화하고, 고객 서비스와 내부 업무 전반으로 AI 활용 범위를 확대하는 모습이다. 신한금융은 현업 부서가 직접 AI를 활용해 업무 혁신을 이끄는 AI 네이티브 컴퍼니를 목표로 삼고 있다. 이를 위해 그룹 차원의 AX추진센터가 AI 전략과 방향성을 수립하고 계열사의 AI 추진을 지원한다. 각 계열사는 업무 특성과 사업 환경에 맞춰 자체 AI 플랫폼을 구축하거나 외부 솔루션을 도입하는 방식으로 AI 활용",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "검색창이 사라진 자리",
-        "url": "https://platum.kr/archives/290403?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b2%2580%25ec%2583%2589%25ec%25b0%25bd%25ec%259d%25b4-%25ec%2582%25ac%25eb%259d%25bc%25ec%25a7%2584-%25ec%259e%2590%25eb%25a6%25ac",
-        "source": "Platum",
-        "published": "2026-07-05T03:44:58+00:00",
-        "summary": "인터넷의 현관은 오랫동안 하나의 빈칸이었다. 커서가 깜빡이는 가로로 긴 상자. 우리는 그 앞에서 궁금함을 두세 개의 단어로 번역하는 법을 배웠고, 파란 링크의 목록에서 답을 골라내는 노동을 검색이라 불렀다. 그 문법이 사반세기를 지배했다. 정확히 말하면, 사라지고 있는 것은 검색창이라는 상자가 아니다. 상자는 그대로 있다. 사라지는 것은 그 안에서 통용되던 문법, 키워드를 넣고 링크를 받는 오래된 교환 ... 더 읽기",
+        "title": "가짜뉴스법 본격 시행…허위정보 판단 주체는 ’플랫폼’",
+        "url": "https://byline.network/2026/07/0706-4/",
+        "source": "ByLine Network",
+        "published": "2026-07-07T00:48:17+00:00",
+        "summary": "내일(7일)부터 온라인상 허위조작정보 유통을 방지하는 개정 정보통신망법이 본격 시행된다. 위반 시 최대 10억원의 과징금이 부과될 수 있다. 플랫폼 업계에서는 무엇이 가짜뉴스인지 판별할 법적 기준이 모호하다고 지적한다. 이런 상황에서 실무 규제가 가동되면 현장의 운영 부담과 법적 리스크가 커질 수 있다는 우려도 제기된다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[칼럼] 항구 없는 도시에 배는 들지 않는다",
-        "url": "https://platum.kr/archives/290398?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25bc%25eb%259f%25bc-%25ed%2595%25ad%25ea%25b5%25ac-%25ec%2597%2586%25eb%258a%2594-%25eb%258f%2584%25ec%258b%259c%25ec%2597%2590-%25eb%25b0%25b0%25eb%258a%2594-%25eb%2593%25a4%25ec%25a7%2580-%25ec%2595%258a%25eb%258a%2594%25eb%258b%25a4",
+        "title": "[중국 비즈니스 트렌드&동향] 경계를 다시 긋는 시간",
+        "url": "https://platum.kr/archives/290441?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-%25ea%25b2%25bd%25ea%25b3%2584%25eb%25a5%25bc-%25eb%258b%25a4%25ec%258b%259c-%25ea%25b8%258b%25eb%258a%2594-%25ec%258b%259c%25ea%25b0%2584",
         "source": "Platum",
-        "published": "2026-07-04T13:20:45+00:00",
-        "summary": "사람 대신 AI가 찾아오는 시대, 기업들은 왜 &#8216;MCP 항구&#8217;를 짓나 요즘 IT 기업 보도자료에서 부쩍 자주 보이는 세 글자가 있다. MCP. 지난 한 달 쏟아진 보도자료만 봐도 그렇다. 채용 솔루션이 MCP 연동 기능을 내놨고, 부동산 플랫폼이 자체 AI중개사를 MCP로 개방했으며, 비디오 인프라 기업이 MCP 베타를 출시했다. 보안 기업, 데이터 기업, 블록체인 기업까지, 업종도 규모도 제각각인 ... 더 읽기",
+        "published": "2026-07-06T23:01:00+00:00",
+        "summary": "통청여행, 디다추싱 전면 공개매수 6월 30일, 홍콩 증시에서 오랜 기간 주가 침체를 겪던 중국 카풀 플랫폼 디다추싱(嘀嗒出行)의 주가가 개장 직후 급등하며 장중 한때 96% 이상 치솟았고, 최종 88.19% 상승한 2.39 홍콩달러(약 467원)로 마감했다. 바로 전날 밤, 이 모빌리티 플랫폼은 중요한 전환점을 맞이했다. 디다추싱은 중국의 대형 온라인 여행 플랫폼(OTA) 통청여행(LY.com, 同程旅行)과 공동 공고를 발표했다. 통청여행이 자회사 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "스마트글래스, 마침내 보이지 않게 되다",
+        "url": "https://platum.kr/archives/290469?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25eb%25a7%2588%25ed%258a%25b8%25ea%25b8%2580%25eb%259e%2598%25ec%258a%25a4-%25eb%2593%259c%25eb%2594%2594%25ec%2596%25b4-%25eb%25b3%25b4%25ec%259d%25b4%25ec%25a7%2580-%25ec%2595%258a%25ea%25b2%258c-%25eb%2590%2598%25eb%258b%25a4",
+        "source": "Platum",
+        "published": "2026-07-06T14:06:24+00:00",
+        "summary": "2026년 5월, 한 토익 고사장. 시험 시작 전 응시자들을 살피던 감독관의 시선이 한 사람의 안경에 멈췄다. 얼핏 보기엔 흔한 안경이었다. 그러나 어딘가 미세하게 달랐다. 확인 결과 그것은 카메라와 마이크, 그리고 생성형 AI가 탑재된 스마트글래스였다. 일부 제품은 시험지를 촬영해 AI가 분석한 결과를 렌즈나 스피커로 전달할 수 있는 기기다. 같은 달 10일과 31일, 두 차례의 정기시험에서 각각 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Sector Snapshot: Cleantech Startup Funding Stabilizes As Energy Demand Grows",
+        "url": "https://news.crunchbase.com/venture/startup-funding-clean-energy-exits-ipo-q2-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-07-06T11:00:35+00:00",
+        "summary": "In the first half of this year, investors poured $15 billion into seed- through growth-stage rounds for companies in Crunchbase cleantech, EV and sustainability-focused categories. That puts funding on track to slightly exceed the 2025 tally, which was the lowest in several years.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "A Year Of Misplaced Fear (And Why It’s Time For Investors To Leave The Crowd)",
+        "url": "https://news.crunchbase.com/venture/megafund-vs-emerging-managers-zulkosky-recast/",
+        "source": "Crunchbase News",
+        "published": "2026-07-06T11:00:03+00:00",
+        "summary": "Many venture capital LPs have reacted to recent economic uncertainty by concentrating investments in megafunds, mistaking perceived safety for better returns while potentially sacrificing the higher upside that venture investing is meant to deliver. In this guest commentary, Sara Zulkosky,  co-founder and managing partner of Recast Capital, contends that smaller emerging VC managers are a more att",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,151 +276,151 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Why America Will Probably Nationalise AI",
-        "url": "https://www.youtube.com/watch?v=77VXbHl5Zvo",
-        "source": "TLDR News Global",
-        "published": "2026-07-05T09:00:04+00:00",
-        "summary": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code NEWSGLOBAL6 will get the first month free on me: https://planetwild.com/r/tldrnewsglobal/join/6\nIf you want to get to know them better first, check out their mission b",
-        "thumbnail": "https://i4.ytimg.com/vi/77VXbHl5Zvo/hqdefault.jpg",
+        "title": "미국 엘리베이터 노조의 위엄",
+        "url": "https://www.youtube.com/watch?v=MEdLp9dk9oM",
+        "source": "슈카월드",
+        "published": "2026-07-07T00:25:10Z",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/MEdLp9dk9oM/mqdefault.jpg",
         "extras": {
-          "theme": "news",
-          "videoId": "77VXbHl5Zvo",
-          "via": "rss"
+          "theme": "kr",
+          "videoId": "MEdLp9dk9oM",
+          "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "우주 회사 '스페이스X'는 왜? 코딩 회사인 '커서'를 인수했을까 (박종천 지란지교소프트 CAIO)",
+        "title": "Nvidia is ready to fight back",
+        "url": "https://www.youtube.com/watch?v=K_ibw17dmjY",
+        "source": "All-In Podcast",
+        "published": "2026-07-06T14:21:52Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/K_ibw17dmjY/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "K_ibw17dmjY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Moon Is Drifting Away From Us",
+        "url": "https://www.youtube.com/watch?v=e-Hkupcj44w",
+        "source": "Cleo Abram",
+        "published": "2026-07-06T14:11:17Z",
+        "summary": "The moon is drifting away from us! Where is it going? It's drifting about 4 centimeters per year, that's about the rate your fingernails ...",
+        "thumbnail": "https://i.ytimg.com/vi/e-Hkupcj44w/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "e-Hkupcj44w",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "경제 운명을 건 초거대 투자에 나서는 대한민국",
+        "url": "https://www.youtube.com/watch?v=aE-zl1rl-Vc",
+        "source": "슈카월드",
+        "published": "2026-07-06T10:12:40Z",
+        "summary": "0:00 투자, 투자, 투자에 올인한 대한민국 15:33 국토가 좁다. 22:03 못마땅한 숏돌이 등장.",
+        "thumbnail": "https://i.ytimg.com/vi/aE-zl1rl-Vc/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "aE-zl1rl-Vc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Japan Is Creating a ‘Second Capital City’",
+        "url": "https://www.youtube.com/watch?v=wguIfitoH_k",
+        "source": "TLDR News Global",
+        "published": "2026-07-06T09:30:24Z",
+        "summary": "Want to restore the planet's ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my ...",
+        "thumbnail": "https://i.ytimg.com/vi/wguIfitoH_k/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "wguIfitoH_k",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“실리콘 포토닉스가 빛으로 GPU 연산을 대신한다면 혁명중의 혁명” (박영준 라이팩 CTMO)",
+        "url": "https://www.youtube.com/watch?v=j91QxopQEXI",
+        "source": "티타임즈TV",
+        "published": "2026-07-06T09:00:10Z",
+        "summary": "진짜 트랜지스터가 연산을 하도록 만들어져 있는 게 GPU거든요. 실리콘 포토닉스는 그걸 빛으로 해요. 전력이 거의 '0', 속도는 이루 ...",
+        "thumbnail": "https://i.ytimg.com/vi/j91QxopQEXI/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "j91QxopQEXI",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why America Will Probably Nationalise AI",
+        "url": "https://www.youtube.com/watch?v=77VXbHl5Zvo",
+        "source": "TLDR News Global",
+        "published": "2026-07-05T09:00:04Z",
+        "summary": "Want to restore the planet's ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my ...",
+        "thumbnail": "https://i.ytimg.com/vi/77VXbHl5Zvo/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "77VXbHl5Zvo",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "우주 회사 &#39;스페이스X&#39;는 왜? 코딩 회사인 &#39;커서&#39;를 인수했을까 (박종천 지란지교소프트 CAIO)",
         "url": "https://www.youtube.com/watch?v=vDd6TMC-NuA",
         "source": "티타임즈TV",
-        "published": "2026-07-04T22:00:06+00:00",
-        "summary": "AI 산업의 핵심 전장은 이제 데이터센터와 GPU, 그리고 전기 확보 경쟁으로 옮겨갔습니다. 최근 빅테크는 GPU 공급난과 전력 한계 속에서 토큰 이코노미와 코딩 에이전트 분야를 두고 본격 전쟁에 돌입했습니다. 불과 몇 개월만에 토큰 맥싱에 대한 회의론이 일고 있고, 이제는 생산자나 소비자나 토큰 효율화에 사활을 걸고 있죠. 급변하는 AI시장을 30년 개발자 박종천 지란지교소프트 CAIO가 짚어 드립니다.\n\n편집 : 이소민 영상디자이너\n촬영 : 장민주 PD \n자료 : 박성수 PD \n진행 : 홍재의 기자\n섬네일 : 이소민 영상디자이너",
-        "thumbnail": "https://i3.ytimg.com/vi/vDd6TMC-NuA/hqdefault.jpg",
+        "published": "2026-07-04T22:00:06Z",
+        "summary": "AI 산업의 핵심 전장은 이제 데이터센터와 GPU, 그리고 전기 확보 경쟁으로 옮겨갔습니다. 최근 빅테크는 GPU 공급난과 전력 한계 속 ...",
+        "thumbnail": "https://i.ytimg.com/vi/vDd6TMC-NuA/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "vDd6TMC-NuA",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
         "title": "Friedberg’s Immigration Test: Workers vs Welfare",
-        "url": "https://www.youtube.com/shorts/JR3HuyXIt-A",
+        "url": "https://www.youtube.com/watch?v=JR3HuyXIt-A",
         "source": "All-In Podcast",
-        "published": "2026-07-04T21:00:00+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i3.ytimg.com/vi/JR3HuyXIt-A/hqdefault.jpg",
+        "published": "2026-07-04T21:00:00Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/JR3HuyXIt-A/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "JR3HuyXIt-A",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
         "title": "This Microrobot Does Tiny Surgeries",
-        "url": "https://www.youtube.com/shorts/CXo-kTwd2_o",
+        "url": "https://www.youtube.com/watch?v=CXo-kTwd2_o",
         "source": "Cleo Abram",
-        "published": "2026-07-04T17:14:01+00:00",
-        "summary": "This surgery robot is cutting open and stitching back up… corn. And it could one day save your life.\n\nThis tiny surgery is controlled by HUMAN doctors watching through a magnified camera. The robot helps take the doctor’s movements but scale them down into smaller, more precise ones, meaning it coul",
-        "thumbnail": "https://i4.ytimg.com/vi/CXo-kTwd2_o/hqdefault.jpg",
+        "published": "2026-07-04T17:14:01Z",
+        "summary": "This surgery robot is cutting open and stitching back up… corn. And it could one day save your life. This tiny surgery is controlled ...",
+        "thumbnail": "https://i.ytimg.com/vi/CXo-kTwd2_o/mqdefault.jpg",
         "extras": {
           "theme": "trend",
           "videoId": "CXo-kTwd2_o",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Don't trust OpenAI. Use your own models.",
-        "url": "https://www.youtube.com/shorts/qt_74JM1om4",
-        "source": "All-In Podcast",
-        "published": "2026-07-04T14:00:31+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i2.ytimg.com/vi/qt_74JM1om4/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "qt_74JM1om4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "영국 10년간 총리만 7명 교체, 다음은 누구?",
-        "url": "https://www.youtube.com/watch?v=mR8q1hsV3jU",
-        "source": "슈카월드",
-        "published": "2026-07-04T11:42:37+00:00",
-        "summary": "0:00 스타머 총리 눈물의 사임\n4:38 10년간 총리를 7번 교체한 영국, 다음은 누구?\n11:28 맨체스터 중심의 정책에 반발하는 영국 사람들",
-        "thumbnail": "https://i2.ytimg.com/vi/mR8q1hsV3jU/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "mR8q1hsV3jU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Does Trump Love Erdoğan So Much?",
-        "url": "https://www.youtube.com/watch?v=2SRnZ2MpA48",
-        "source": "TLDR News Global",
-        "published": "2026-07-04T10:14:06+00:00",
-        "summary": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code NEWSGLOBAL6 will get the first month free on me: https://planetwild.com/r/tldrnewsglobal/join/6\nIf you want to get to know them better first, check out their mission b",
-        "thumbnail": "https://i3.ytimg.com/vi/2SRnZ2MpA48/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "2SRnZ2MpA48",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "세계에서 가장 빠르게 성장하는 B2B 회사 | Corgi, Nico Laqua & Emily Yuan",
-        "url": "https://www.youtube.com/watch?v=uDtY1u_7DqM",
-        "source": "EO 이오",
-        "published": "2026-07-04T09:13:49+00:00",
-        "summary": "“아직도 팩스 주고 받으면서 일하는 보험사들의 구닥다리 방식이 충격적이었어요”\n\n미국 보험 산업의 실체를 목격한 두 명의 20대 창업자는\n기존 시스템을 고치는 대신, 처음부터 다시 만들기로 했습니다.\n\n24살, 25살이었던 Nico Laqua와 Emily Yuan은 잘 굴러가던 회사를 접고\n모두가 말리는 길을 택합니다.\n남의 보험을 파는 중개사가 아니라 직접 보험사가 되기로 했죠.\n\n혁신적인 기술과, 회사 사무실에 매트리스 하나 달랑 놓고\n직원 모두가 허슬하게 일하는 모습은 투자자들을 움직였습니다.\n\n매출은 0원이었지만 약 1,10",
-        "thumbnail": "https://i2.ytimg.com/vi/uDtY1u_7DqM/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "uDtY1u_7DqM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "왜 실리콘 포토닉스가 AI 반도체의 2막을 여는가 (박영준 라이팩 CTMO)",
-        "url": "https://www.youtube.com/watch?v=jN29A92uusU",
-        "source": "티타임즈TV",
-        "published": "2026-07-03T22:00:13+00:00",
-        "summary": "최근 AI 반도체 시장의 판도가 흔들리고 있습니다. GPU 중심의 1막을 넘어 데이터 전송의 병목을 해결할 '실리콘 포토닉스'가 주류 기술로 급부상 중입니다. 이제 가까운 칩 간 통신까지 광으로 전환해야 할 만큼 기존 구리선 패러다임이 한계에 부딪혔기 때문입니다. 박영준 라이팩 CTMO가 직접 설명하는 실리콘 포토닉스가 가져올 반도체 산업의 변화를 지금 영상에서 확인하세요.\n\n편집 : 장민주 PD\n촬영 : 장민주 PD\n자료: 장민주 PD\n진행 : 박영선 전 장관\n섬네일 : 이소민 영상디자이너\n\n▶티타임즈 공식 홈페이지\nhttp://",
-        "thumbnail": "https://i3.ytimg.com/vi/jN29A92uusU/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "jN29A92uusU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The First Movie Soundtrack",
-        "url": "https://www.youtube.com/shorts/NLAiyPU6KQw",
-        "source": "Acquired",
-        "published": "2026-07-03T20:49:41+00:00",
-        "summary": "#business #podcast \n\n🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
-        "thumbnail": "https://i3.ytimg.com/vi/NLAiyPU6KQw/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "NLAiyPU6KQw",
-          "via": "rss"
+          "via": "api"
         }
       }
     ]
