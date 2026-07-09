@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-07-08T02:31:11.750214+00:00",
+  "generated_at": "2026-07-09T02:48:26.616111+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: watchdog ends investigation into former Nacc commissioner Brereton; cross-country trains caught up in national Telstra outages",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+        "title": "Australia news live: Jillian Segal wants new ‘oversight’ committee to vet ABC’s Israel coverage; Hanson records podcast with Tommy Robinson",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/09/australia-news-live-telstra-mobile-internet-down-outage-triple-zero-v-line-trains-network-royal-commission-antisemitism-abc-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-07-08T02:24:42+00:00",
-        "summary": "In a press conference this morning the prime minister acknowledged the outage was ‘deeply concerning’ and ‘disruptive’. Follow today’s news liveGet our breaking news email, free app or daily news podcastTelstra outage reported to be cause of Victoria train stoppageThere is a long list of cancelled trains on the official V/line site, but the TL/DR is that Victoria’s regional train network has groun",
+        "published": "2026-07-09T02:37:11+00:00",
+        "summary": "Meanwhile SA police say a small number of calls to triple-zero are failing to connect after Telstra’s Wednesday outages. Follow today’s news liveGet our breaking news email, free app or daily news podcastThe ABC issued a statement last night in which it rejected claims “that its journalism has contributed to antisemitism or social division”.It comes ahead of appearances today by senior executives ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-07-08T02:19:53+00:00",
-        "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Marine Le Pen’s Court Battle Is Latest Clash Between Populists and Watchdogs",
-        "url": "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html",
+        "title": "Iran War Live Updates: U.S. Launches New Strikes on Iran, Military Says",
+        "url": "https://www.nytimes.com/live/2026/07/08/world/iran-war-us-trump",
         "source": "NYT World",
-        "published": "2026-07-08T02:14:32+00:00",
-        "summary": "The far-right leader’s battle with the French judiciary evokes standoffs across the populist world, including ones with President Trump and Nigel Farage.",
+        "published": "2026-07-09T02:34:31+00:00",
+        "summary": "U.S. Central Command said on social media that it was protecting shipping in the Strait of Hormuz. President Trump said earlier that he thought a three-week-old cease-fire was “over.”",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks",
-        "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
+        "title": "Trump Praises NATO’s ‘Unity’ After Lashing Out at Allies",
+        "url": "https://www.nytimes.com/live/2026/07/08/world/nato-summit-turkey-trump-ukraine",
         "source": "NYT World",
-        "published": "2026-07-08T02:08:36+00:00",
-        "summary": "The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.",
+        "published": "2026-07-09T02:07:37+00:00",
+        "summary": "Though President Trump assailed partners for not joining the war in Iran, he said he would grant Ukraine long-sought authority to make the Patriot defense system.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Telstra outage: Telco apologises for major time-keeping issue that hit mobiles, trains and triple-zero calls",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/08/telstra-outage-down-network-mobile-outages-today",
-        "source": "The Guardian World",
-        "published": "2026-07-08T01:58:16+00:00",
-        "summary": "Carrier restoring mobile services after network used by millions goes down for many users, shutting down regional trains and affecting emergency callsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTelstra has blamed an issue with a time-keeping server for a major outage in which thousands of mobile customers were unable to make call",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Farage Resigns and Says He Will Run Again in Special Election",
-        "url": "https://www.nytimes.com/live/2026/07/07/world/nigel-farage-reform-uk",
-        "source": "NYT World",
-        "published": "2026-07-08T01:48:13+00:00",
-        "summary": "Nigel Farage, leader of the populist right-wing party Reform U.K., has come under increasing pressure after a series of revelations about undisclosed gifts and donations.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "NATO Allies Show Trump They Are Trying to Pay Up for Defense",
-        "url": "https://www.nytimes.com/2026/07/07/world/europe/nato-defense-spending-trump-rutte.html",
-        "source": "NYT World",
-        "published": "2026-07-08T01:32:08+00:00",
-        "summary": "Some countries are making significant progress on raising their military spending. A few are stretching the definition of military spending to try to meet their targets.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "US immigration officer shoots and kills man in Texas",
-        "url": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss",
+        "title": "US Senate nominee Platner halts campaign after assault allegations",
+        "url": "https://www.aljazeera.com/news/2026/7/9/us-senate-nominee-platner-halts-campaign-after-assault-allegations?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-08T01:26:01+00:00",
-        "summary": "Man, identified as Lorenzo Salgado Araujo, is latest to be killed by ICE officers since President Trump took power.",
+        "published": "2026-07-09T02:02:11+00:00",
+        "summary": "A string of high-profile Democrats have withdrawn support for Platner following sexual assault allegation.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Confirmed Ebola deaths in DR Congo hit 600",
+        "url": "https://www.aljazeera.com/news/2026/7/9/confirmed-ebola-deaths-in-dr-congo-hit-600?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-09T01:48:42+00:00",
+        "summary": "The number of deaths comes as healthcare workers threaten to walk off the job over a delay in payments.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Telstra outage: glitches continue as ‘secondary’ outages hit triple-zero calls and regional trains remain stranded",
+        "url": "https://www.theguardian.com/business/2026/jul/09/telstra-outage-today-cause-vline-network-outages-update",
+        "source": "The Guardian World",
+        "published": "2026-07-09T01:47:58+00:00",
+        "summary": "Carrier says some still unable to connect to emergency hotline a day after initial mobile network outageFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTelstra customers are still having trouble calling triple zero on Thursday morning as the telecommunications giant confirmed a secondary issue stemming from Wednesday’s national outag",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump to ask US Supreme Court for new hearing on birthright citizenship",
+        "url": "https://www.aljazeera.com/news/2026/7/9/trump-to-ask-us-supreme-court-for-new-hearing-on-birthright-citizenship?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-09T00:54:32+00:00",
+        "summary": "In June, the Supreme Court ruled against Trump’s order to end birthright citizenship for individuals born in the US.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Rights group plans complaint to IOC against Infantino over Trump support",
+        "url": "https://www.aljazeera.com/sports/2026/7/9/rights-group-plans-complaint-to-ioc-against-infantino-over-trump-support?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-09T00:53:41+00:00",
+        "summary": "FairSquare says it will lodge the complaint regarding the FIFA president&#039;s &#039;repeated breach of political neutrality&#039;.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Ranked worst to best: 13 flavors of Pure Leaf iced tea",
-        "url": "https://www.tastingtable.com/1866292/pure-leaf-iced-tea-flavors-ranked/",
-        "source": "Hacker News Front",
-        "published": "2026-07-08T01:58:10+00:00",
-        "summary": "Article URL: https://www.tastingtable.com/1866292/pure-leaf-iced-tea-flavors-ranked/\nComments URL: https://news.ycombinator.com/item?id=48826572\nPoints: 6\n# Comments: 0",
+        "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules",
+        "url": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
+        "source": "TechCrunch",
+        "published": "2026-07-09T02:30:00+00:00",
+        "summary": "The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Chiptune Radio",
-        "url": "https://chiptune-radio.alephvoid.com/",
+        "title": "I Think I Have LLM Burnout",
+        "url": "https://www.alecscollon.com/blog/llm-burnout/",
         "source": "Hacker News Front",
-        "published": "2026-07-08T00:55:19+00:00",
-        "summary": "I built a chiptune song generator and its broadcasting algorithmically generated chiptune music.\n\nComments URL: https://news.ycombinator.com/item?id=48826094\nPoints: 11\n# Comments: 4",
+        "published": "2026-07-09T01:56:28+00:00",
+        "summary": "Article URL: https://www.alecscollon.com/blog/llm-burnout/\nComments URL: https://news.ycombinator.com/item?id=48839984\nPoints: 57\n# Comments: 34",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Rlm-Workflow",
-        "url": "https://try.works/projects#rlm-workflow",
+        "title": "Remote Attestation",
+        "url": "https://www.liamcvw.com/p/remote-attestation",
         "source": "Hacker News Front",
-        "published": "2026-07-08T00:32:18+00:00",
-        "summary": "Article URL: https://try.works/projects#rlm-workflow\nComments URL: https://news.ycombinator.com/item?id=48825906\nPoints: 5\n# Comments: 0",
+        "published": "2026-07-09T00:32:33+00:00",
+        "summary": "Article URL: https://www.liamcvw.com/p/remote-attestation\nComments URL: https://news.ycombinator.com/item?id=48839397\nPoints: 27\n# Comments: 13",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "An interactive explorer for Benford's Law across real datasets",
-        "url": "https://vatsalbakshi.com/blog/benfords-law/",
+        "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+        "url": "https://mira-wm.com/",
         "source": "Hacker News Front",
-        "published": "2026-07-08T00:18:39+00:00",
-        "summary": "Article URL: https://vatsalbakshi.com/blog/benfords-law/\nComments URL: https://news.ycombinator.com/item?id=48825816\nPoints: 16\n# Comments: 3",
+        "published": "2026-07-09T00:27:57+00:00",
+        "summary": "https://mira-wm.com/blog-post/\n\nComments URL: https://news.ycombinator.com/item?id=48839355\nPoints: 23\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-        "url": "https://kb.cert.org/vuls/id/213560",
-        "source": "Hacker News Front",
-        "published": "2026-07-08T00:08:51+00:00",
-        "summary": "Article URL: https://kb.cert.org/vuls/id/213560\nComments URL: https://news.ycombinator.com/item?id=48825749\nPoints: 29\n# Comments: 5",
+        "title": "One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel",
+        "url": "https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/",
+        "source": "Wired",
+        "published": "2026-07-08T23:53:04+00:00",
+        "summary": "The animal escaped after apparently arriving inside a package at Meta's Bangkok office, injuring one employee before finally being caught.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
-        "url": "https://github.com/tiliondev/fortress",
+        "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+        "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
         "source": "Hacker News Front",
-        "published": "2026-07-08T00:08:21+00:00",
-        "summary": "Article URL: https://github.com/tiliondev/fortress\nComments URL: https://news.ycombinator.com/item?id=48825745\nPoints: 21\n# Comments: 19",
+        "published": "2026-07-08T23:37:43+00:00",
+        "summary": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\nComments URL: https://news.ycombinator.com/item?id=48838876\nPoints: 357\n# Comments: 69",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-        "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+        "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+        "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
         "source": "Hacker News Front",
-        "published": "2026-07-07T23:57:29+00:00",
-        "summary": "Article URL: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/\nComments URL: https://news.ycombinator.com/item?id=48825664\nPoints: 29\n# Comments: 0",
+        "published": "2026-07-08T23:27:14+00:00",
+        "summary": "Article URL: https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off\nComments URL: https://news.ycombinator.com/item?id=48838772\nPoints: 75\n# Comments: 30",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
-        "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
-        "source": "The Verge",
-        "published": "2026-07-07T23:55:19+00:00",
-        "summary": "Amid public backlash over its smart glasses, Meta announced that it will be updating its glasses with a new feature that will disable the camera when it detects that someone has tampered with or destroyed the glasses' privacy LED light. The update is meant to address modders who have taken actions such as physically drilling [&#8230;]",
+        "title": "Despite ‘misgivings,’ judge approves Elon Musk’s $1.5M SEC settlement",
+        "url": "https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/",
+        "source": "TechCrunch",
+        "published": "2026-07-08T23:11:42+00:00",
+        "summary": "The saga of Musk's tussle with the SEC over how he disclosed his growing stake in Twitter (now X) has come to an end.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,65 +186,54 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "큐웬·딥시크, 중국 밖에서 못쓰게 될까",
-        "url": "https://byline.network/2026/07/china-ai/",
+        "title": "공정위, 미래에셋컨설팅 코빗 인수 승인",
+        "url": "https://byline.network/2026/07/0709-3/",
         "source": "ByLine Network",
-        "published": "2026-07-08T01:43:03+00:00",
-        "summary": "중국 정부가 자국의 최첨단 AI 모델에 대한 해외 접근을 제한하는 방안을 검토하고 있다. 오픈웨이트(가중치 공개) 모델도 제한 대상에 포함될 전망이어서 주목된다.\n\n로이터통신은 7일(현지시각) 복수의 소식통을 인용해 중국 상무부가 지난 한 달간 알리바바, 바이트댄스, AI 스타트업 Z.ai 등 주요 기업들과 회의를 열고 이 같은 방안을 논의했다고 보도했다.",
+        "published": "2026-07-09T01:52:56+00:00",
+        "summary": "공정거래위원회가 미래에셋그룹의 비금융계열사인 미래에셋컨설팅의 코빗 주식 취득에 대해 기업결합을 승인했다. 공정위는 이번 기업결합이 시장에서의 경쟁을 제한할 가능성이 크지 않다고 판단했다고 9일 밝혔다. 미래에셋컨설팅은 코빗 주식 92.06%를 약 1334억원에 취득한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "팩트시트, 투자사 AI 자동화 ‘FDE 서비스’ 출시",
-        "url": "https://platum.kr/archives/290545?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%25a9%25ed%258a%25b8%25ec%258b%259c%25ed%258a%25b8-%25ed%2588%25ac%25ec%259e%2590%25ec%2582%25ac-ai-%25ec%259e%2590%25eb%258f%2599%25ed%2599%2594-fde-%25ec%2584%259c%25eb%25b9%2584%25ec%258a%25a4-%25ec%25b6%259c%25ec%258b%259c",
+        "title": "[Startup’s Story #536] 치과의사는 왜 ‘치과 보철의 우버’를 만들었나",
+        "url": "https://platum.kr/archives/290614?utm_source=rss&utm_medium=rss&utm_campaign=startups-story-536-%25ec%25b9%2598%25ea%25b3%25bc%25ec%259d%2598%25ec%2582%25ac%25eb%258a%2594-%25ec%2599%259c-%25ec%25b9%2598%25ea%25b3%25bc-%25eb%25b3%25b4%25ec%25b2%25a0%25ec%259d%2598-%25ec%259a%25b0%25eb%25b2%2584%25eb%25a5%25bc-%25eb%25a7%258c%25eb%2593%25a4%25ec%2597%2588",
         "source": "Platum",
-        "published": "2026-07-07T23:47:07+00:00",
-        "summary": "벤처투자 데이터 플랫폼 팩트시트(운영사 애즈플로우)는 투자사의 AI 업무 자동화 구축과 현장 안착을 지원하는 &#8216;FDE 서비스&#8217;를 출시했다고 7일 밝혔다. 엔지니어가 고객사 업무를 함께 분석하며 데이터 연동부터 자동화 설계, 운영 안정화까지 전 과정을 수행하는 서비스다. 배경에는 AI &#8216;도입과 활용의 간극&#8217;이 있다. 생성형 AI를 도입해도 기존 데이터와 연결되지 않거나 업무 프로세스에 녹아들지 못해 활용도가 떨어지는 사례가 적지 않다는 ... 더 읽기",
+        "published": "2026-07-08T23:00:00+00:00",
+        "summary": "치과 보철물은 100% 맞춤 제작품이다. 환자의 구강 상태, 치과의사가 전달한 정보, 기공사의 해석이 맞물려야 하나가 완성된다. 그만큼 오차가 생길 가능성도 크다. 환자 입에 맞지 않아 처음부터 다시 만드는 일은 업계에서 &#8216;재제작(remake)&#8217;이라 불리며, 오랫동안 당연한 비용처럼 여겨져 왔다. 국진혁 이노바이드 대표는 미국 시장의 보철물 재제작률이 약 12% 수준이었다고 설명했다. 보철물 100개 중 12개가량은 다시 제작이 필요할 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "아태 23개국 126개사 중 10곳 서울 무대에… 대상은 캄보디아 폐수처리 스타트업",
-        "url": "https://platum.kr/archives/290540?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2584%25ed%2583%259c-23%25ea%25b0%259c%25ea%25b5%25ad-126%25ea%25b0%259c%25ec%2582%25ac-%25ec%25a4%2591-10%25ea%25b3%25b3-%25ec%2584%259c%25ec%259a%25b8-%25eb%25ac%25b4%25eb%258c%2580%25ec%2597%2590-%25eb%258c%2580%25ec%2583%2581%25ec%259d%2580-%25ec%25ba%2584%25eb%25b3%25b4%25eb%2594%2594",
-        "source": "Platum",
-        "published": "2026-07-07T23:17:07+00:00",
-        "summary": "코코넛 섬유로 폐수를 거르는 캄보디아 스타트업이 아시아·태평양 23개국 126개사가 경쟁한 무대에서 대상을 받았다. 분산형 폐수 처리 시스템으로 수질오염과 공중보건 문제에 접근한 수드레인(SUDrain)이다. 유엔개발계획(UNDP) 서울정책센터와 현대차 정몽구 재단이 주최하고 임팩트스퀘어가 주관하는 아태지역 임팩트 스타트업 육성 프로그램 &#8216;Global ImpactPreneur(글로벌 임팩트프러너)&#8217;가 지난 6~7일 서울 명동 온드림소사이어티에서 네트워킹 행사와 데모데이를 열고 3개월여의 여정을 마쳤다. 프로그램은 지난 3월 출범했다. 아태 ... 더 읽기",
+        "title": "[플레이BN] 동화풍 판타지와 턴제 전투의 만남, 컴투스홀딩스 ‘스타세일러’",
+        "url": "https://byline.network/2026/07/8-508/",
+        "source": "ByLine Network",
+        "published": "2026-07-08T21:40:42+00:00",
+        "summary": "최근 컴투스홀딩스에서 턴제 전투를 앞세운 신작을 하나 선보였습니다. ‘스타세일러’라는 작품인데요. 애니메이션풍 그래픽의 서브컬처 장르입니다. 정확하게는 캐릭터 수집형 턴제 RPG로 분류됩니다. 직접 해 보니 정통 판타지 세계관과 동화적인 분위기가 참 괜찮게 느껴졌습니다. 캐릭터 조합과 스킬 운용을 통한 전략적인 전투 재미도 살아 있었고요.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Liz Kendall: ‘I’d love to stay as UK tech secretary’",
-        "url": "https://sifted.eu/articles/liz-kendall-podcast/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-07T17:24:41+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "North American Startup Funding Shattered Records In First Half Of 2026, Driven By AI",
-        "url": "https://news.crunchbase.com/venture/na-startup-funding-ma-shattered-records-ai-q2-2026/",
+        "title": "Exclusive: EdVisorly Raises $13.3M Series A To Fix The Messy College Transfer Process With AI",
+        "url": "https://news.crunchbase.com/venture/edtech-university-ai-platform-funding-edvisorly/",
         "source": "Crunchbase News",
-        "published": "2026-07-07T11:00:42+00:00",
-        "summary": "Overall, investment in U.S. and Canadian startups totaled a staggering $392 billion for the first half of 2026, per Crunchbase data, dwarfing anything we’ve seen before.",
+        "published": "2026-07-08T16:00:15+00:00",
+        "summary": "Los Angeles-based startup EdVisorly tells Crunchbase News exclusively that it has secured a $13.3 million Series A funding round to scale its AI-native platform, which automates the manual back-office workflows that can slow down university admissions.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Meet 2026’s award-winning women building deeptech startups",
-        "url": "https://sifted.eu/articles/award-winning-women-deeptech-startups-brnd/",
+        "title": "Nvidia backs voice AI startup Gradium, bringing seed round to over $100m",
+        "url": "https://sifted.eu/articles/gradium-nvidia-30m-extension-seed/",
         "source": "Sifted (EU startups)",
-        "published": "2026-07-07T10:51:36+00:00",
+        "published": "2026-07-08T13:00:12+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,22 +241,33 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "다시 MMORPG 시간 오나, 하반기 신작 격돌",
-        "url": "https://byline.network/2026/07/7-468/",
-        "source": "ByLine Network",
-        "published": "2026-07-07T08:55:23+00:00",
-        "summary": "올해 하반기 국산 대형 다중접속역할수행게임(MMORPG)이 차례로 모습을 드러낼 전망이다. 넷마블이 이미 신작을 선보인 가운데, 컴투스와 카카오게임즈, 스마일게이트 등 국내 주요 게임사들도 신규작 출시를 예고했다. 상반기에는 RPG 장르를 변주한 작품들이 눈에 띄었다면, 하반기에는 MMORPG가 다시 전면에 나서는 모습이다. 익숙한 흥행 공식을 내세운 작품들이 국내 시장에서 다시 통할지 주목된다.",
+        "title": "Familiar Names Top Active US Investor Ranks In Q2",
+        "url": "https://news.crunchbase.com/venture/data-top-active-us-investors-general-catalyst-a16z-q2-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-07-08T11:00:59+00:00",
+        "summary": "To get an expanded sense of how busy startup backers spent Q2, we put together several rankings for active investors. These include active venture backers, lead investors, highest spenders and prolific seed dealmakers.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI 안전의 경계 넓어진다…에이전트에서 피지컬 AI까지 검증해야",
-        "url": "https://byline.network/2026/07/7-467/",
-        "source": "ByLine Network",
-        "published": "2026-07-07T08:48:22+00:00",
-        "summary": "인공지능(AI)이 챗봇에서 외부 도구를 사용하는 에이전트와 현실의 장비를 움직이는 피지컬 AI로 진화하고 있다. 이제 단순히 유해한 답변을 차단하는 것만으로는 안전을 확보하기 어려워졌다. 이에 AI가 어떤 정보에 접근하고 누구에게 정보를 보내는지, 현실에서는 어떤 행동을 하는지까지 검증해야 한다는 지적이 나온다.",
+        "title": "Your SaaS Metrics Are A Result, Not A Strategy",
+        "url": "https://news.crunchbase.com/saas/metrics-unit-economics-questions-sagie/",
+        "source": "Crunchbase News",
+        "published": "2026-07-08T11:00:14+00:00",
+        "summary": "SaaS metrics like LTV/CAC, NRR, GRR, ARR growth, and the Rule of 40 are valuable indicators of business performance, writes guest author Itay Sagie, but leaders and boards should look beyond the numbers to understand the underlying drivers to assess the company's long-term health and competitive strength.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Boredom is a business risk startups can’t afford to take",
+        "url": "https://sifted.eu/articles/boredom-is-a-business-risk/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-08T10:40:57+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,151 +276,151 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "The Three Warring Factions of The Democratic Party: Progressives, Abundance, Resistance",
-        "url": "https://www.youtube.com/watch?v=EmMyZzZzTwg",
+        "title": "The US military used Disney’s studios during World War II",
+        "url": "https://www.youtube.com/shorts/1_E3I5lGAiU",
+        "source": "Acquired",
+        "published": "2026-07-08T16:01:12+00:00",
+        "summary": "#business #podcast \n\n🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
+        "thumbnail": "https://i2.ytimg.com/vi/1_E3I5lGAiU/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "1_E3I5lGAiU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why You Can’t Pee On Antarctica",
+        "url": "https://www.youtube.com/shorts/nlGYV0bmddI",
+        "source": "Cleo Abram",
+        "published": "2026-07-08T14:19:08+00:00",
+        "summary": "In Antarctica, you’re NOT ALLOWED to pee on the ice. Not even when you’re hiking for hours!\n\nIt’s so cold and dry that when it snows, it basically never melts, so it stacks up into layers of ice trapping air inside…and scientists drill ice cores to study that air and learn what the environment was l",
+        "thumbnail": "https://i3.ytimg.com/vi/nlGYV0bmddI/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "nlGYV0bmddI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Four Reasons Why Gavin Newsom’s Presidential Chances are Dropping FAST - Nate Silver",
+        "url": "https://www.youtube.com/shorts/LthCFHHpJmw",
         "source": "All-In Podcast",
-        "published": "2026-07-07T18:02:38Z",
-        "summary": "Thanks to our partners for making this possible! Starting a business? Northwest Registered Agent gives you everything you need ...",
-        "thumbnail": "https://i.ytimg.com/vi/EmMyZzZzTwg/mqdefault.jpg",
+        "published": "2026-07-08T14:16:33+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i1.ytimg.com/vi/LthCFHHpJmw/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "LthCFHHpJmw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Solving the Blank Canvas Problem: Gusto's AI Co-Founder",
+        "url": "https://www.youtube.com/watch?v=xpeRVyFFy_Q",
+        "source": "Y Combinator",
+        "published": "2026-07-08T14:00:19+00:00",
+        "summary": "Eddie Kim is the co-founder and Head of Technology at Gusto (W12), a payroll and HR platform serving over 500,000 small businesses in the U.S. that recently crossed $1 billion in annual revenue — with one in five new businesses started today becoming Gusto customers. \n\nRecently, Eddie built Gusto Co",
+        "thumbnail": "https://i1.ytimg.com/vi/xpeRVyFFy_Q/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "xpeRVyFFy_Q",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "혼란스런 AI 시대, 중심을 잡도록 도와주는 책들 | 이오서재 TEASER",
+        "url": "https://www.youtube.com/watch?v=u-e3R18zae0",
+        "source": "EO 이오",
+        "published": "2026-07-08T09:45:24+00:00",
+        "summary": "EO가 5권의 책을 내는 동안\n시대가 정말 빠르게 변했습니다.\n\n첫 책을 기획할 땐 GPT막 뜨던 참이었는데\n이제 AI는 인간의 실존과 생존까지 고민하게 만드는 메가 트렌드가 됐죠.\n\n혼란스럽고, 뒤처지면 안 될 것 같고, 불안한 시대.\n비즈니스 최전선의 창업가와 리더들은\n이 세상을 어떻게 바라보고 있을까요?\n\n이 질문에서 새로운 시리즈가 시작됐습니다.\n\n비즈니스 서적의 저자와 함께\n활자 너머의 이야기까지 나누는 시간.\n책을 통해 서로의 우주를 만나는 시간.\n\n창업가와 성장하는 이들의 여정을 돕는 새로운 스텝으로\n이오서재가 내일 문",
+        "thumbnail": "https://i2.ytimg.com/vi/u-e3R18zae0/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "u-e3R18zae0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Netanyahu Defies the Courts: Israel’s Constitutional Crisis Explained",
+        "url": "https://www.youtube.com/watch?v=o4CmWxaJXnE",
+        "source": "TLDR News Global",
+        "published": "2026-07-08T09:30:22+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nOrder a copy of our magazine Too Long: https://toolong.news/TL008\n\nNetanyahu's ongoing battles with the Israeli judiciary are flaring up once again ",
+        "thumbnail": "https://i4.ytimg.com/vi/o4CmWxaJXnE/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "o4CmWxaJXnE",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "실시간 거지가 되고 있는 일본 국민들",
+        "url": "https://www.youtube.com/watch?v=P6DI_tzKKWA",
+        "source": "슈카월드",
+        "published": "2026-07-08T09:21:17+00:00",
+        "summary": "0:00 90년대 이후 45년 만의 대기록을 달성한 일본\n16:03 \"밟을 굶더라도 주식에 투자하라.\"",
+        "thumbnail": "https://i1.ytimg.com/vi/P6DI_tzKKWA/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "P6DI_tzKKWA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "기술부채보다 위험한 AI 인지부채 (박종천 지란지교소프트 CAIO)",
+        "url": "https://www.youtube.com/watch?v=fwdIXO1DoTo",
+        "source": "티타임즈TV",
+        "published": "2026-07-08T09:00:36+00:00",
+        "summary": "미국의 '페이블' 모델 수출 금지로 한동안 미국 영토 밖에서는 앤트로픽의 최신 모델을 사용할 수 없는 사태가 벌어졌습니다. 대안으로 중국의 최신 AI 모델이 주목 받기도 했구요, 미-중을 제외한 다른 나라들은 AI 보호무역에 대한 우려의 목소리를 내기도 했습니다.\n\n이번 사태는 많은 국가와 기업들에게 AI 종속에 대한 생각을 다시 한 번 하게 되는 계기가 됐습니다. 'AI 인지부채'에 대한 경각심도 생겨났죠. '기술부채'가 언젠가 기업의 발목을 잡을 수 있듯, 'AI 인지부채'가 쌓이면 기업의 운명이 특정 AI모델에 좌지우지 될 수",
+        "thumbnail": "https://i3.ytimg.com/vi/fwdIXO1DoTo/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "fwdIXO1DoTo",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "SK하이닉스 ADR 상장이 무슨말이야?",
+        "url": "https://www.youtube.com/shorts/TaBCFSlTp_M",
+        "source": "슈카월드",
+        "published": "2026-07-08T08:08:08+00:00",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i1.ytimg.com/vi/TaBCFSlTp_M/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "TaBCFSlTp_M",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Three Warring Factions of The Democratic Party: Progressives, Abundance, Resistance",
+        "url": "https://www.youtube.com/shorts/EmMyZzZzTwg",
+        "source": "All-In Podcast",
+        "published": "2026-07-07T18:02:38+00:00",
+        "summary": "Thanks to our partners for making this possible!\n\nStarting a business? Northwest Registered Agent gives you everything you need to build a complete Business Identity including free tools and built-in privacy. Get more at northwestregisteredagent.com/ALLINFREE \n\nIf your work depends on conversations ",
+        "thumbnail": "https://i2.ytimg.com/vi/EmMyZzZzTwg/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "EmMyZzZzTwg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Software in the Age of Agents | The a16z Show",
-        "url": "https://www.youtube.com/watch?v=Mxs4erDxOEE",
-        "source": "a16z",
-        "published": "2026-07-07T14:50:32+00:00",
-        "summary": "Seema Amble, Steven Sinofsky, and Elena Burger unpack one of the biggest questions facing enterprise software: what happens when AI agents become the primary users of software instead of humans?\n\nThe conversation explores the rise of \"headless\" software, why APIs and agentic workflows are reshaping ",
-        "thumbnail": "https://i2.ytimg.com/vi/Mxs4erDxOEE/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "Mxs4erDxOEE",
           "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "매번 반복되는 월드컵 참사",
-        "url": "https://www.youtube.com/watch?v=gjWkGtjDRDI",
-        "source": "슈카월드",
-        "published": "2026-07-07T11:11:47+00:00",
-        "summary": "0:00 한국 축구는 어쩌다가 이렇게 됐을까\n14:45 이번 월드컵 최대 이변\n22:36 아시아 축구의 미스테리 : 중국, 인도\n34:38 축제 분위기의 축구 강국들",
-        "thumbnail": "https://i4.ytimg.com/vi/gjWkGtjDRDI/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "gjWkGtjDRDI",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How early Disney movies drew every single frame on screen",
-        "url": "https://www.youtube.com/watch?v=y4vn8PZ4b4s",
-        "source": "Acquired",
-        "published": "2026-07-07T09:49:11Z",
-        "summary": "",
-        "thumbnail": "https://i.ytimg.com/vi/y4vn8PZ4b4s/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "y4vn8PZ4b4s",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "세계 최초 100% AI가 운영하는 ‘K-water AI정수장’",
-        "url": "https://www.youtube.com/watch?v=RyW95EPjlkE",
-        "source": "티타임즈TV",
-        "published": "2026-07-07T09:00:35Z",
-        "summary": "AI가 최적의 약품 처리로 가장 깨끗한 수돗물을 만들고, 하늘에서는 드론이, 땅에서는 로봇개가 정수 시스템을 관리하는 세계 최초의 ...",
-        "thumbnail": "https://i.ytimg.com/vi/RyW95EPjlkE/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "RyW95EPjlkE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Does TLDR Really Make Money?",
-        "url": "https://www.youtube.com/watch?v=zJ4FnCdmQ8w",
-        "source": "TLDR News Global",
-        "published": "2026-07-07T09:00:24Z",
-        "summary": "Subscribe to Too Long: https://toolong.news/collections/too-long-summer-2026 Find out more about TLDR Party: ...",
-        "thumbnail": "https://i.ytimg.com/vi/zJ4FnCdmQ8w/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "zJ4FnCdmQ8w",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "미국 엘리베이터 노조의 위엄",
-        "url": "https://www.youtube.com/shorts/MEdLp9dk9oM",
-        "source": "슈카월드",
-        "published": "2026-07-07T00:25:10+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i2.ytimg.com/vi/MEdLp9dk9oM/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "MEdLp9dk9oM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Nvidia is ready to fight back",
-        "url": "https://www.youtube.com/watch?v=K_ibw17dmjY",
-        "source": "All-In Podcast",
-        "published": "2026-07-06T14:21:52Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/K_ibw17dmjY/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "K_ibw17dmjY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Moon Is Drifting Away From Us",
-        "url": "https://www.youtube.com/shorts/e-Hkupcj44w",
-        "source": "Cleo Abram",
-        "published": "2026-07-06T14:11:17+00:00",
-        "summary": "The moon is drifting away from us! Where is it going? \n\nIt’s drifting about 4 centimeters per year, that's about the rate your fingernails grow, and we know that thanks to MIRRORS astronauts left on the moon. It’s moving away from  us because of the TIDES!  \n\nBut will the moon ever actually LEAVE us",
-        "thumbnail": "https://i2.ytimg.com/vi/e-Hkupcj44w/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "e-Hkupcj44w",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Japan Is Creating a ‘Second Capital City’",
-        "url": "https://www.youtube.com/watch?v=wguIfitoH_k",
-        "source": "TLDR News Global",
-        "published": "2026-07-06T09:30:24Z",
-        "summary": "Want to restore the planet's ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my ...",
-        "thumbnail": "https://i.ytimg.com/vi/wguIfitoH_k/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "wguIfitoH_k",
-          "via": "api"
         }
       }
     ]
