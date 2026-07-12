@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-07-11T02:29:07.525965+00:00",
+  "generated_at": "2026-07-12T02:34:42.292988+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump Tried to Block Canada’s New Bridge to Detroit. It’s Opening Anyway.",
-        "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
-        "source": "NYT World",
-        "published": "2026-07-11T02:01:14+00:00",
-        "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
+        "title": "At least two killed in Toronto street festival shooting",
+        "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-12T02:18:59+00:00",
+        "summary": "Police have urged the public to stay away from the area.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Peter Falconio murder 25 years on: new footage shows dying Australian outback killer’s refusal to reveal body’s location",
-        "url": "https://www.theguardian.com/world/2026/jul/11/peter-falconio-murder-bradley-john-murdoch-nt-police-footage-ntwnfb",
+        "title": "Australia news live: defence industry minister ‘confident’ uranium sold to India will only be used for domestic energy",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/12/anthony-albanese-pat-conroy-labor-liberal-angus-taylor-one-nation-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-07-11T01:47:39+00:00",
-        "summary": "NT police release body-worn camera vision of Bradley John Murdoch denying knowing where UK backpacker’s body is weeks before his deathGet our breaking news email, free app or daily news podcastInfamous killer Bradley John Murdoch aggressively denied knowing where the body of still-missing backpacker Peter Falconio was during a police interview weeks before he died.NT Police released body-worn came",
+        "published": "2026-07-12T02:14:11+00:00",
+        "summary": "Pat Conroy defended the deal allowing India to buy Australian uranium despite not being a signatory to the international nuclear non-proliferation treaty. Follow the day’s news liveGet our breaking news email, free app or daily news podcastBy the way, if you’re wanting the latest World Cup updates for your Sunday, my colleagues have all the latest coverage for you on another live news blog. You ca",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Meta pulls new AI image feature after days of backlash",
-        "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-07-11T01:45:59+00:00",
-        "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
-        "url": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+        "title": "Oil Prices Set for More Volatility After Latest Iranian Attack in Strait of Hormuz",
+        "url": "https://www.nytimes.com/2026/07/11/world/middleeast/strait-hormuz-shipping-oil-prices.html",
         "source": "NYT World",
-        "published": "2026-07-11T01:37:41+00:00",
-        "summary": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020.",
+        "published": "2026-07-12T02:13:22+00:00",
+        "summary": "Crude oil prices jumped above prewar levels this week, demonstrating Iran’s capacity to move energy prices by projecting power in the Strait of Hormuz.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-07-11T01:24:49+00:00",
-        "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
+        "title": "Nigeria rescues dozens of abducted school children in Oyo state",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-11T01:12:46+00:00",
-        "summary": "Emergency crews are searching for survivors after a Russian air strike on the Ukrainian city of Zaporizhzhia.",
+        "published": "2026-07-12T01:56:01+00:00",
+        "summary": "Nigerian security forces have rescued 39 schoolchildren and five teachers abducted nearly two months ago in Oyo state.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
-        "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-07-11T00:46:15+00:00",
-        "summary": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
+        "published": "2026-07-12T01:55:03+00:00",
+        "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Why the new US housing bill won’t fix the crisis",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-11T00:41:51+00:00",
-        "summary": "Why the new US housing bill won&#039;t fix the crisis.",
+        "title": "Toronto Police Search For Active Shooter After 2 Killed at Street Festival",
+        "url": "https://www.nytimes.com/2026/07/11/world/canada/toronto-shooting-salsa-festival-canada.html",
+        "source": "NYT World",
+        "published": "2026-07-12T01:52:55+00:00",
+        "summary": "The shooting disrupted a weekend Latino celebration where hundreds had gathered on Saturday evening.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Here’s a look at the heavy strikes in recent days.",
+        "url": "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-a-look-at-the-heavy-strikes-in-recent-days",
+        "source": "NYT World",
+        "published": "2026-07-12T01:44:26+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Toronto shooting: two dead and four injured as police search for active shooter",
+        "url": "https://www.theguardian.com/world/2026/jul/12/toronto-shooting-two-dead-and-three-injured-as-police-search-for-active-shooter",
+        "source": "The Guardian World",
+        "published": "2026-07-12T01:30:57+00:00",
+        "summary": "Police in the city in Canada urge public to stay away from Salsa on St Clair festival areaPolice in Toronto were searching for an active shooter on Saturday night after finding six people with gunshot wounds, two of whom were pronounced dead at the scene.Officers were called to the Salsa on St Clair festival, an area at St Clair Avenue West near Arlington Avenue that is lined with shops and restau",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "OpenAI’s Head of Safety Is Leaving the Company",
-        "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-        "source": "Wired",
-        "published": "2026-07-11T01:07:26+00:00",
-        "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-        "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-        "source": "TechCrunch",
-        "published": "2026-07-11T01:01:28+00:00",
-        "summary": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "I've been building this alone for months. Roast it before I lose any more time",
-        "url": "https://peakd.io",
+        "title": "A pure scheme web programming tool",
+        "url": "https://goeteia.dev",
         "source": "Hacker News Front",
-        "published": "2026-07-11T00:53:48+00:00",
-        "summary": "Article URL: https://peakd.io\nComments URL: https://news.ycombinator.com/item?id=48867364\nPoints: 6\n# Comments: 0",
+        "published": "2026-07-12T00:57:18+00:00",
+        "summary": "Article URL: https://goeteia.dev\nComments URL: https://news.ycombinator.com/item?id=48877314\nPoints: 16\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "FreeCAD in the Browser",
-        "url": "https://magik.net/freecad/",
+        "title": "A dock that wakes up reliably",
+        "url": "https://fabiensanglard.net/tb4/index.html",
         "source": "Hacker News Front",
-        "published": "2026-07-11T00:44:00+00:00",
-        "summary": "Article URL: https://magik.net/freecad/\nComments URL: https://news.ycombinator.com/item?id=48867264\nPoints: 26\n# Comments: 17",
+        "published": "2026-07-12T00:48:10+00:00",
+        "summary": "Article URL: https://fabiensanglard.net/tb4/index.html\nComments URL: https://news.ycombinator.com/item?id=48877269\nPoints: 25\n# Comments: 19",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
-        "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
-        "source": "TechCrunch",
-        "published": "2026-07-11T00:29:25+00:00",
-        "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
-        "url": "https://tilion.dev/blog/cloudflare-blocks-agents",
+        "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+        "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
         "source": "Hacker News Front",
-        "published": "2026-07-11T00:26:16+00:00",
-        "summary": "Article URL: https://tilion.dev/blog/cloudflare-blocks-agents\nComments URL: https://news.ycombinator.com/item?id=48867124\nPoints: 6\n# Comments: 0",
+        "published": "2026-07-12T00:35:08+00:00",
+        "summary": "Article URL: https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext\nComments URL: https://news.ycombinator.com/item?id=48877192\nPoints: 38\n# Comments: 18",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "No, Flock isn&#8217;t threatening people for debating surveillance",
-        "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
-        "source": "The Verge",
-        "published": "2026-07-11T00:10:38+00:00",
-        "summary": "On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and this letter kicked off yet another wave [&#8230;]",
+        "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+        "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+        "source": "Hacker News Front",
+        "published": "2026-07-12T00:32:15+00:00",
+        "summary": "Article URL: https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491\nComments URL: https://news.ycombinator.com/item?id=48877178\nPoints: 21\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Meta removes controversial AI feature on Instagram after backlash",
-        "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+        "title": "Reed Jobs would rather talk about curing cancer than his last name",
+        "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
         "source": "TechCrunch",
-        "published": "2026-07-10T23:55:07+00:00",
-        "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+        "published": "2026-07-12T00:16:06+00:00",
+        "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs's words, a",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "A public ledger of cloud outages and the SLA credits they trigger",
+        "url": "https://slacreditwatch.com",
+        "source": "Hacker News Front",
+        "published": "2026-07-12T00:02:27+00:00",
+        "summary": "Article URL: https://slacreditwatch.com\nComments URL: https://news.ycombinator.com/item?id=48877009\nPoints: 15\n# Comments: 3",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+        "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+        "source": "Hacker News Front",
+        "published": "2026-07-11T23:15:06+00:00",
+        "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/\nComments URL: https://news.ycombinator.com/item?id=48876741\nPoints: 74\n# Comments: 42",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
+        "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+        "source": "Hacker News Front",
+        "published": "2026-07-11T22:49:42+00:00",
+        "summary": "Article URL: https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html\nComments URL: https://news.ycombinator.com/item?id=48876593\nPoints: 114\n# Comments: 63",
         "thumbnail": "",
         "extras": {}
       }
@@ -197,11 +197,44 @@
       {
         "category": "startup",
         "kind": "article",
+        "title": "SK하이닉스, 나스닥서 170달러 출발…외국기업 美 주식 공모 최대",
+        "url": "https://platum.kr/archives/290748?utm_source=rss&utm_medium=rss&utm_campaign=sk%25ed%2595%2598%25ec%259d%25b4%25eb%258b%2589%25ec%258a%25a4-%25eb%2582%2598%25ec%258a%25a4%25eb%258b%25a5%25ec%2584%259c-170%25eb%258b%25ac%25eb%259f%25ac-%25ec%25b6%259c%25eb%25b0%259c%25ec%2599%25b8%25ea%25b5%25ad%25ea%25b8%25b0%25ec%2597%2585-%25e7%25be%258e-%25ec%25a3%25bc%25ec%258b%259d",
+        "source": "Platum",
+        "published": "2026-07-10T19:05:10+00:00",
+        "summary": "SK하이닉스의 미국예탁주식(ADS)이 10일(현지시간) 나스닥에서 시초가 170달러로 거래를 시작했다. 공모가 149달러보다 약 14% 높은 수준이다. 조달 규모는 265억 달러(약 40조 원)로, 외국 발행사의 미국 증시 주식 공모 가운데 역대 최대 규모다. 종전 기록은 2014년 알리바바가 미국 상장으로 조달한 250억 달러였다. 이번 공모 대상은 ADS 1억 7,790만 주로, ADS 1주는 보통주 10분의 1주에 해당한다. 공모가는 7월 9일 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
         "title": "The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For Cyber And AI Infrastructure Lead",
         "url": "https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/",
         "source": "Crunchbase News",
         "published": "2026-07-10T18:11:59+00:00",
         "summary": "AI once again dominated venture funding this week, claiming five of the 10 largest announced rounds, including a pair of billion-dollar financings for AI infrastructure and cybersecurity that led the pack.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "두발히어로, 분기 흑자 냈다… 제주 당일배송도 개시",
+        "url": "https://platum.kr/archives/290745?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2591%2590%25eb%25b0%259c%25ed%259e%2588%25ec%2596%25b4%25eb%25a1%259c-%25eb%25b6%2584%25ea%25b8%25b0-%25ed%259d%2591%25ec%259e%2590-%25eb%2583%2588%25eb%258b%25a4-%25ec%25a0%259c%25ec%25a3%25bc-%25eb%258b%25b9%25ec%259d%25bc%25eb%25b0%25b0%25ec%2586%25a1%25eb%258f%2584-%25ea%25b0%259c%25ec%258b%259c",
+        "source": "Platum",
+        "published": "2026-07-10T11:07:05+00:00",
+        "summary": "당일배송 서비스 &#8216;두발히어로&#8217; 운영사 체인로지스가 분기 흑자를 달성했다. 최근 분기 매출은 약 82억 원으로 전년 동기 대비 70% 성장했다고 10일 밝혔다. 회사는 같은 날 제주 권역 당일배송 서비스 개시도 발표했다. 체인로지스는 앞선 월간 손익분기점(BEP) 달성에 이어 분기 단위 흑자로 전환했다. 회사는 흑자 전환의 요인으로 전국 권역 확대에 따른 배송 물량 증가, 빠른 배송 수요를 가진 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "베라모어, 라쿠텐 캐피탈·스트롱벤처스서 프리 시리즈A 투자 유치",
+        "url": "https://platum.kr/archives/290739?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%25a0%25eb%259d%25bc%25eb%25aa%25a8%25ec%2596%25b4-%25eb%259d%25bc%25ec%25bf%25a0%25ed%2585%2590-%25ec%25ba%2590%25ed%2594%25bc%25ed%2583%2588%25c2%25b7%25ec%258a%25a4%25ed%258a%25b8%25eb%25a1%25b1%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4%25ec%2584%259c-%25ed%2594%2584%25eb%25a6%25ac-%25ec%258b%259c%25eb%25a6%25ac",
+        "source": "Platum",
+        "published": "2026-07-10T11:02:24+00:00",
+        "summary": "안티에이징 스킨케어 브랜드&#160;베라모어(Veramore)가 라쿠텐 캐피탈(Rakuten&#160;Capital)로부터 프리 시리즈A 투자를 유치했다. 라쿠텐 캐피탈이&#160;리드 투자자로 참여했고, 기존 투자사 스트롱벤처스(Strong&#160;Ventures)가 후속 투자자로 함께했다. 투자 금액은 공개되지&#160;않았다. 회사 측에 따르면 이번 투자는 라쿠텐 캐피탈의 첫&#160;K-뷰티 브랜드 투자다.&#160;라쿠텐은 베라모어를&#160;재무적 투자처를&#160;넘어 전략 브랜드로&#160;선정하고, 일본 이커머스&#160;플랫폼 라쿠텐&#160;이치바(Rakuten&#160;Ichiba)를 비롯한 라쿠텐&#160;생태계 전반에서&#160;협력을 확대할&#160;계획이다. 2022년&#160",
         "thumbnail": "",
         "extras": {}
       },
@@ -237,42 +270,99 @@
         "summary": "최지영 코리아스타트업포럼 대표는 10일 국회의원회관에서 열린 ‘K-스타트업을 세계 무대로!’ 세미나에서 정책 제언을 맡아 이같이 말했다. 이번 세미나는 국내 스타트업의 글로벌 경쟁력 강화를 위해 마련됐다.\n이날 최 대표는 국내 스타트업의 해외 성장을 위해 ▲글로벌 정합성에 맞는 규제 설계 ▲해외 인재 유치 ▲딥테크·피지컬 인공지능(AI)을 중심으로 하는 공공조달을 제언했다. 특히 국내 규제 설계 문제는 국내 스타트업들이 성장 가능성이 있음에도 제동이 걸려 역차별을 받고 있다는 점에서 대책 마련의 필요성이 제기됐다.",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "회춘한 장수 게임 IP, 옛 모습으로 돌아온다",
-        "url": "https://byline.network/2026/07/10-678/",
-        "source": "ByLine Network",
-        "published": "2026-07-10T09:32:13+00:00",
-        "summary": "10일 업계에 따르면 주요 게임사들이 이처럼 오래된 지식재산권(IP)의 초기 형태를 되살린 신작을 준비하고 있다. 원작의 과거를 복원하면서 그래픽과 조작 체계, 이용자 편의성 등을 현재에 맞게 다듬는 방식이다. 일부 작품은 출시 플랫폼 확대도 꾀하고 있다. 익숙한 경험으로 이용자들의 향수를 자극하면서 IP 수명을 연장하려는 움직임이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[금융권 인공지능 활용③] 우리금융, ‘일하고 해결하는 AI’ 키운다",
-        "url": "https://byline.network/2026/07/0710-4/",
-        "source": "ByLine Network",
-        "published": "2026-07-10T08:50:29+00:00",
-        "summary": "우리금융지주는 인공지능 전환(AX)을 위한 중장기 실행 계획에 따라 올해를 ‘핵심 과제 실행과 그룹 확산’의 원년으로 삼고 AX를 본격 추진하고 있다. 핵심 추진축은 ▲조직체계 확립 ▲AX 과제 발굴 ▲AX 인재 양성 등 세 가지다. 우리금융은 지주 중심의 AX 거버넌스를 구축해 조직과 문화, 전략, 운영 방식 전반을 AI 중심으로 전환하고 있다. 금융 AX 전문성을 갖춘 최고디지털책임자(CDO)가 그룹 차원의 AX 추진을 총괄 지원한다. 그룹 AX 전략의 방향성을 관리하고 주요 과제의 이행을 점검한다. 또한 각 그룹사 최고경영자(CEO)가 참여하는 그룹 AX 추진위원회를 운영해 추진 성과를 정기적으로 점검하고 주요 현안을 논의한다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "라쿠텐 마리타임 “선박 사이버보안, 전 생애주기 관리해야”",
-        "url": "https://byline.network/2026/07/10-674/",
-        "source": "ByLine Network",
-        "published": "2026-07-10T06:35:39+00:00",
-        "summary": "선박과 조선소의 사이버보안이 더욱 중요해지는 가운데, 일본 라쿠텐 그룹의 이동통신 사업 계열사인 라쿠텐 심포니의 선박 사이버보안 사업부 ‘라쿠텐 마리타임(Rakuten Maritime)’은 지난 9일 한화오션과 선박 설계부터 건조·인도·운항까지 보안을 관리하는 통합 솔루션 도입 계약을 체결했다.",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "\"We've never seen anything like this.\" - Brad Gerstner on Anthropic's Historic Revenue Ramp",
+        "url": "https://www.youtube.com/shorts/aCE5gOi0lYA",
+        "source": "All-In Podcast",
+        "published": "2026-07-11T16:00:19+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i2.ytimg.com/vi/aCE5gOi0lYA/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "aCE5gOi0lYA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "It’s like Mickey and Donald are in the room with us…",
+        "url": "https://www.youtube.com/shorts/ZxwjK2qGCws",
+        "source": "Acquired",
+        "published": "2026-07-11T12:58:02+00:00",
+        "summary": "#business #podcast #disney #mickeymouse \n\n🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
+        "thumbnail": "https://i3.ytimg.com/vi/ZxwjK2qGCws/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "ZxwjK2qGCws",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Canada’s Insane Immigration U-Turn Explained",
+        "url": "https://www.youtube.com/watch?v=5HkxtPwq8L4",
+        "source": "TLDR News Global",
+        "published": "2026-07-11T09:30:12+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nOrder a copy of our magazine Too Long: https://toolong.news/TL008\n\nIn the past year, Canada's immigration rate has experienced a dramatic reversal. ",
+        "thumbnail": "https://i2.ytimg.com/vi/5HkxtPwq8L4/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "5HkxtPwq8L4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "주택 1,000만 채가 부족한 미국이 내놓은 해법",
+        "url": "https://www.youtube.com/watch?v=FNT-gOjT8Kw",
+        "source": "슈카월드",
+        "published": "2026-07-11T09:22:34+00:00",
+        "summary": "0:00 '21세기 주택 로드맵 법안' 발표\n13:15 미국은 왜 아파트를 기피하는가?\n19:30 미국 엘리베이터 노조의 위엄",
+        "thumbnail": "https://i3.ytimg.com/vi/FNT-gOjT8Kw/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "FNT-gOjT8Kw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "구글 임원, 스타트업 창업, 스노우플레이크 CEO 거치며 깨달은 것 | Snowflake, Sridhar Ramaswamy",
+        "url": "https://www.youtube.com/watch?v=5pjr6KbLbA0",
+        "source": "EO 이오",
+        "published": "2026-07-11T09:00:35+00:00",
+        "summary": "스타트업을 창업했다 매각하고\n1년 만에 그 회사를 인수한 기업의 CEO가 됐습니다.\n\n오늘 만나볼 스노우플레이크 CEO, 스리다르 라마스와미의 이야기입니다.\n\n스노우플레이크는 전 세계 수많은 기업들이 데이터를 저장하고 분석하고, AI를 활용하기 위해 사용하는 대표적인 데이터 클라우드 기업입니다. 시가총액만 100조 원이 넘는 글로벌 테크 기업이죠.\n\n그런데 스리다르는 원래 스노우플레이크 출신이 아니었습니다.\n\n구글에서 검색과 광고 사업 핵심 리더로 100조 원대 비즈니스 판로를 뚫었던 그는 구글을 나와 니바(Neeva)라는 AI 검",
+        "thumbnail": "https://i2.ytimg.com/vi/5pjr6KbLbA0/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "5pjr6KbLbA0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "OpenAI vs Anthropic IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+        "url": "https://www.youtube.com/watch?v=PHL1j2ti420",
+        "source": "All-In Podcast",
+        "published": "2026-07-11T02:39:34+00:00",
+        "summary": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg!\n(2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence\n(27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly\n(54:29) CCP considerin",
+        "thumbnail": "https://i1.ytimg.com/vi/PHL1j2ti420/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "PHL1j2ti420",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "VbqaL_eHhKY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "금리 쫌 오른게 주식이랑 무슨 상관?",
-        "url": "https://www.youtube.com/shorts/DbDZi0k5mj0",
-        "source": "슈카월드",
-        "published": "2026-07-10T08:37:01+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i1.ytimg.com/vi/DbDZi0k5mj0/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "DbDZi0k5mj0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs",
-        "url": "https://www.youtube.com/watch?v=Y7p4rUCdqi0",
-        "source": "All-In Podcast",
-        "published": "2026-07-10T01:15:25+00:00",
-        "summary": "(0:00) The AI Buildout: Data Centers Bigger Than Cities (Andrew Feldman)\n(1:50) Reasoning, Inference, and Breaking Moore's Law\n(16:28) Open Source, AI Sovereignty, and the Road to AGI\n(40:54) The Innovation Behind Generative Video (Robin Rombach)\n(47:31) Martin Scorsese, Robots, and the Future of Ho",
-        "thumbnail": "https://i2.ytimg.com/vi/Y7p4rUCdqi0/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "Y7p4rUCdqi0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Dot Plots: How to Actually See What Your Users Are Doing",
-        "url": "https://www.youtube.com/watch?v=e5-6rEwzxLs",
-        "source": "Y Combinator",
-        "published": "2026-07-09T14:00:05+00:00",
-        "summary": "One of the biggest mistakes founders make is relying on aggregate user metrics instead of understanding how any individuals use their product. In this episode of Startup School, YC General Partner David Lieb walks through one of his favorite tools for better understanding your users, the dot plot. I",
-        "thumbnail": "https://i2.ytimg.com/vi/e5-6rEwzxLs/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "e5-6rEwzxLs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "추정 사망자 1만 명 이상, 베네수엘라의 비극",
-        "url": "https://www.youtube.com/watch?v=YyKAwhF88_k",
-        "source": "슈카월드",
-        "published": "2026-07-09T09:51:06+00:00",
-        "summary": "0:00 베네수엘라를 덮친 대지진\n14:00 음모론 : 미국은 석유가 탐나서 마두로를 체포했다?",
-        "thumbnail": "https://i2.ytimg.com/vi/YyKAwhF88_k/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "YyKAwhF88_k",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Trump Can’t Afford to Restart the Iran War",
-        "url": "https://www.youtube.com/watch?v=HuJ2IdQ87a8",
-        "source": "TLDR News Global",
-        "published": "2026-07-09T09:00:36+00:00",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nOrder a copy of our magazine Too Long: https://toolong.news/TL008\n\nThe US and Iran are once again trading strikes in the most serious breach of the ",
-        "thumbnail": "https://i1.ytimg.com/vi/HuJ2IdQ87a8/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "HuJ2IdQ87a8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "누가 제일 잘 나갈까? 마이크로소프트, 앤트로픽, 엔비디아, 구글, 오픈AI, 스페이스X, 아마존, 애플 (박종천 지란지교소프트 CAIO)",
-        "url": "https://www.youtube.com/watch?v=Xh6x_ZfDVyo",
-        "source": "티타임즈TV",
-        "published": "2026-07-09T09:00:31+00:00",
-        "summary": "미국 빅테크를 묶는 별칭은 기술의 흐름에 따라 변화해왔습니다. FAANG에서 매그니피센트7, 그리고 최근에는 새로운 용어 ‘MANGOS'가 등장했습니다. AI 산업 패권을 놓고 경쟁하는 대표 기업들, 즉 마이크로소프트, 앤트로픽, 엔비디아, 구글, 오픈AI, 스페이스X을 지칭하는 단어죠. 여기에는 포함되지 않았지만 여전히 중요한 아마존과 애플까지, AI데이터센터, GPU, 에이전트 등 7대 항목별로 AI 기업들의 미래를 냉정하게 분석합니다. 30년 개발자 박종천 지란지교소프트 CAIO가 직접 설계한 평가 프레임을 통해 누가 진짜 강",
-        "thumbnail": "https://i1.ytimg.com/vi/Xh6x_ZfDVyo/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "Xh6x_ZfDVyo",
           "via": "rss"
         }
       }
