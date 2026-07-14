@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-07-13T02:36:01.443428+00:00",
+  "generated_at": "2026-07-14T02:20:40.700132+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
-        "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+        "title": "Live Updates: U.S. Forces Begin New Round of Strikes on Iran",
+        "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
         "source": "NYT World",
-        "published": "2026-07-13T02:33:52+00:00",
-        "summary": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
+        "published": "2026-07-14T02:17:21+00:00",
+        "summary": "President Trump had earlier threatened “very hard” strikes, ordered the resumption of a blockade on Iranian ports to begin Tuesday and said the U.S. would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "At least 27 killed in Bangkok bar fire",
-        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+        "title": "Australia news live: Angus Taylor says he criticised One Nation ‘with a heavy heart’; some charges against Alan Jones dropped",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-07-14T02:08:20+00:00",
+        "summary": "Opposition leader says most of his speech was ‘against Labor and how they’re wrecking this country’ Get our breaking news email, free app or daily news podcastGeorge Miller remembers Sam Neill as ‘comprehensively an amazing person’Acclaimed director George Miller shared memories of the late Sam Neill, who died yesterday at the age of 78.He was such an exemplary human being. We saw him as an actor ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-07-13T02:28:35+00:00",
-        "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+        "published": "2026-07-14T02:05:35+00:00",
+        "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Richard Scolyer remembered as ‘true communitarian’ with a ‘big heart’ at state funeral",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-07-13T02:17:52+00:00",
-        "summary": "Prime minister and governor general pay tribute to ‘inspiring’ cancer researcher at memorial. Follow today’s news liveGet our breaking news email, free app or daily news podcastSupport for Hanson’s One Nation slips in new pollPauline Hanson and One Nation’s popularity have slipped since her controversial Press Club speech with support shifting to the Coalition, according to new polling. Continue r",
+        "title": "Colombian national killed by ICE agent during operation in Maine",
+        "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-14T01:50:48+00:00",
+        "summary": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Israel releases video of hidden tunnels below Lebanon’s Beaufort Castle",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/israel-releases-video-of-hidden-tunnels-below-lebanons-beaufort-castle?traffic_source=rss",
+        "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-14T01:43:57+00:00",
+        "summary": "Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-13T02:10:10+00:00",
-        "summary": "The Israeli Army has released footage of what it says are hidden tunnels under Lebanon’s historic Beaufort Castle.",
+        "published": "2026-07-14T01:37:48+00:00",
+        "summary": "US President Donald Trump says the US should be paid by ‘rich’ oil-producing Gulf nations to secure the Strait of Hormuz",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "At least 27 dead as fire engulfs popular Bangkok pub near Chatuchak market",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/at-least-27-dead-as-fire-engulfs-popular-bangkok-pub-near-chatuchak-market?traffic_source=rss",
+        "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+        "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-14T01:29:58+00:00",
+        "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
+        "url": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-13T01:27:30+00:00",
-        "summary": "At least 27 people were killed and 63 injured, many critically, after a fire ripped through a popular pub in Bangkok.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Japan’s pet care industry booms as ‘fur babies’ outnumber infants",
-        "url": "https://www.aljazeera.com/economy/2026/7/13/japans-pet-care-industry-booms-as-fur-babies-outnumber-infants?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-13T01:20:33+00:00",
-        "summary": "Japanese baby product manufacturers are turning their attention to the pet market amid collapsing birthrate.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "At least 27 killed in fire at Bangkok pub with another 22 critically injured",
-        "url": "https://www.theguardian.com/world/2026/jul/12/at-least-27-killed-in-blaze-at-bangkok-pub-thai-officials-say",
-        "source": "The Guardian World",
-        "published": "2026-07-13T01:09:58+00:00",
-        "summary": "The fire is one of the deadliest such incidents in the popular tourist destination in ⁠recent yearsA fire at a popular pub in Thailand’s ⁠capital, Bangkok, has killed 27 ⁠people, with another 22 ​in critical condition, officials said on Monday, in one of the deadliest such incidents in the tourism hub in recent years.The prime minister, Anutin Charnvirakul, ‌who visited the site of the fire in the",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "At World Cup Ticket Prices, Even Messi Can’t Fill a Stadium",
-        "url": "https://www.nytimes.com/2026/07/12/world/europe/messi-argentina-world-cup-empty-seats.html",
-        "source": "NYT World",
-        "published": "2026-07-13T01:05:30+00:00",
-        "summary": "The Argentine team and its superstar, Lionel Messi, have been among the biggest draws at the World Cup, but that was not enough to prevent vacant seats at its quarterfinal on Saturday.",
+        "published": "2026-07-14T01:27:57+00:00",
+        "summary": "Aid groups warn a record-strength El Niño could unleash flooding and hunger from Somalia to Pakistan.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Modernizing Property Tax Assessments in Allegheny County",
-        "url": "https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county",
+        "title": "MorphoHDL: A minimalistic language for growing circuits",
+        "url": "https://paradigms-of-intelligence.github.io/morpho/",
         "source": "Hacker News Front",
-        "published": "2026-07-13T01:47:21+00:00",
-        "summary": "Article URL: https://www.prohousingpgh.org/blog/new-report-modernizing-property-tax-assessments-in-allegheny-county\nComments URL: https://news.ycombinator.com/item?id=48886881\nPoints: 4\n# Comments: 0",
+        "published": "2026-07-14T01:17:30+00:00",
+        "summary": "Article URL: https://paradigms-of-intelligence.github.io/morpho/\nComments URL: https://news.ycombinator.com/item?id=48901126\nPoints: 10\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Ask HN: Add flag for AI-generated articles",
-        "url": "https://news.ycombinator.com/item?id=48886741",
-        "source": "Hacker News Front",
-        "published": "2026-07-13T01:24:20+00:00",
-        "summary": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.Open questions:1. Why is the regular voting system not enough?2. Should HN change in response to the gen AI era? It has been successful no",
+        "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+        "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+        "source": "Ars Technica",
+        "published": "2026-07-14T01:17:14+00:00",
+        "summary": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "MacKenzie Scott's giving, in quality-adjusted life years",
-        "url": "https://maxghenis.com/mackenzie-scott-qaly/",
+        "title": "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
+        "url": "https://arxiv.org/abs/2607.08550",
         "source": "Hacker News Front",
-        "published": "2026-07-13T00:18:16+00:00",
-        "summary": "Article URL: https://maxghenis.com/mackenzie-scott-qaly/\nComments URL: https://news.ycombinator.com/item?id=48886311\nPoints: 52\n# Comments: 21",
+        "published": "2026-07-14T00:58:55+00:00",
+        "summary": "Article URL: https://arxiv.org/abs/2607.08550\nComments URL: https://news.ycombinator.com/item?id=48901020\nPoints: 4\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Circular Obstacle Pathfinding (2017)",
-        "url": "https://redblobgames.github.io/circular-obstacle-pathfinding/",
+        "title": "The Git history command deserves more attention",
+        "url": "https://lalitm.com/post/git-history/",
         "source": "Hacker News Front",
-        "published": "2026-07-12T23:42:41+00:00",
-        "summary": "Article URL: https://redblobgames.github.io/circular-obstacle-pathfinding/\nComments URL: https://news.ycombinator.com/item?id=48886040\nPoints: 10\n# Comments: 1",
+        "published": "2026-07-14T00:57:11+00:00",
+        "summary": "Article URL: https://lalitm.com/post/git-history/\nComments URL: https://news.ycombinator.com/item?id=48901010\nPoints: 44\n# Comments: 12",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Designing and assembling my first PCB",
-        "url": "https://vilkeliskis.com/b/2026/0711.html",
-        "source": "Hacker News Front",
-        "published": "2026-07-12T22:56:56+00:00",
-        "summary": "Article URL: https://vilkeliskis.com/b/2026/0711.html\nComments URL: https://news.ycombinator.com/item?id=48885728\nPoints: 54\n# Comments: 6",
+        "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+        "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+        "source": "TechCrunch",
+        "published": "2026-07-14T00:45:00+00:00",
+        "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Architecture Description Languages [pdf]",
-        "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+        "title": "What did SFFA vs. Harvard reveal about admissions?",
+        "url": "https://sorting-machine.pages.dev/",
         "source": "Hacker News Front",
-        "published": "2026-07-12T22:54:07+00:00",
-        "summary": "Article URL: https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf\nComments URL: https://news.ycombinator.com/item?id=48885708\nPoints: 21\n# Comments: 1",
+        "published": "2026-07-14T00:26:43+00:00",
+        "summary": "Article URL: https://sorting-machine.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=48900796\nPoints: 17\n# Comments: 13",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Why Vanilla JavaScript",
-        "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
+        "title": "Success may not matter if you aren't doing what you love",
+        "url": "https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter",
         "source": "Hacker News Front",
-        "published": "2026-07-12T22:53:51+00:00",
-        "summary": "Article URL: https://guseyn.com/html/posts/why-vanilla-js.html\nComments URL: https://news.ycombinator.com/item?id=48885705\nPoints: 56\n# Comments: 22",
+        "published": "2026-07-14T00:26:00+00:00",
+        "summary": "Article URL: https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter\nComments URL: https://news.ycombinator.com/item?id=48900790\nPoints: 21\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Cyberpunk Comics, Manga and Graphic Novels",
-        "url": "https://shellzine.net/cyberpunk-comics/",
+        "title": "Turn your singing voice into printable notes (in the browser)",
+        "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
         "source": "Hacker News Front",
-        "published": "2026-07-12T22:45:31+00:00",
-        "summary": "Article URL: https://shellzine.net/cyberpunk-comics/\nComments URL: https://news.ycombinator.com/item?id=48885643\nPoints: 82\n# Comments: 18",
+        "published": "2026-07-14T00:10:36+00:00",
+        "summary": "Article URL: https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html\nComments URL: https://news.ycombinator.com/item?id=48900686\nPoints: 16\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,38 +186,198 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "안전점검 건너뛰면 지게차 시동이 안 걸린다… 클린미션, 통합 인터록 출시",
-        "url": "https://platum.kr/archives/290709?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2588%25ec%25a0%2584%25ec%25a0%2590%25ea%25b2%2580-%25ea%25b1%25b4%25eb%2584%2588%25eb%259b%25b0%25eb%25a9%25b4-%25ec%25a7%2580%25ea%25b2%258c%25ec%25b0%25a8-%25ec%258b%259c%25eb%258f%2599%25ec%259d%25b4-%25ec%2595%2588-%25ea%25b1%25b8%25eb%25a6%25b0%25eb%258b%25a4-%25ed%2581%25b4%25eb%25a6%25b0",
+        "title": "“건강 관리에 쓰는 사람이 부도 위험 낮다”",
+        "url": "https://platum.kr/archives/290822?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b1%25b4%25ea%25b0%2595-%25ea%25b4%2580%25eb%25a6%25ac%25ec%2597%2590-%25ec%2593%25b0%25eb%258a%2594-%25ec%2582%25ac%25eb%259e%258c%25ec%259d%25b4-%25eb%25b6%2580%25eb%258f%2584-%25ec%259c%2584%25ed%2597%2598-%25eb%2582%25ae%25eb%258b%25a4",
         "source": "Platum",
-        "published": "2026-07-12T15:51:00+00:00",
-        "summary": "안전점검을 이행하지 않으면 지게차 등 장비의 시동이 물리적으로 차단되는 솔루션이 나왔다. 산업현장 안전·용역 관리 플랫폼 클린미션이 통합 인터록을 출시했다고 13일 밝혔다. 회사에 따르면 작업자가 장비에 부착된 QR 코드나 NFC 태그를 스마트폰으로 태깅하면 해당 설비의 위험성평가와 점검항목이 화면에 표시된다. 점검을 마치면 시동이 허용되고, 생략하면 차단된다. 매일 진행하는 작업 전 안전회의(TBM)는 이와 별개로 오전마다 앱을 통해 근로자에게 ... 더 읽기",
+        "published": "2026-07-13T23:47:44+00:00",
+        "summary": "의료·건강 분야에 지속적으로 소비하는 사람일수록 부도 위험이 낮고, 통신비·편의점·카페 지출 비중이 높을수록 부도 위험이 높다는 연구 결과가 나왔다. 뱅크샐러드와 남주하 서강대학교 명예교수 연구팀이 마이데이터 기반 실거래 소비 데이터로 소비행태와 개인 신용위험의 관계를 실증 분석한 공동 연구 &#8216;소비행태와 개인신용위험: 마이데이터 기반&#8217;에서다. 뱅크샐러드는 이 결과를 바탕으로 대안신용평가모델 &#8216;뱅크샐러드 스코어&#8217;를 개발해 금융권 상용화를 추진한다. 연구에는 뱅크샐러드의 약 20만 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "SK하이닉스의 뉴욕 가격표…시험대 오른 ‘코리아 디스카운트’",
-        "url": "https://platum.kr/archives/290755?utm_source=rss&utm_medium=rss&utm_campaign=sk%25ed%2595%2598%25ec%259d%25b4%25eb%258b%2589%25ec%258a%25a4%25ec%259d%2598-%25eb%2589%25b4%25ec%259a%2595-%25ea%25b0%2580%25ea%25b2%25a9%25ed%2591%259c%25ec%258b%259c%25ed%2597%2598%25eb%258c%2580-%25ec%2598%25a4%25eb%25a5%25b8-%25ec%25bd%2594%25eb%25a6%25ac%25ec%2595%2584-%25eb%2594%2594",
+        "title": "[중국 비즈니스 트렌드&동향] 중국 신산업의 옥석 가리기…전기차 재편·AI 분사·스마트유통 IPO",
+        "url": "https://platum.kr/archives/290761?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-%25ec%25a4%2591%25ea%25b5%25ad-%25ec%258b%25a0%25ec%2582%25b0%25ec%2597%2585%25ec%259d%2598-%25ec%2598%25a5%25ec%2584%259d-%25ea%25b0%2580",
         "source": "Platum",
-        "published": "2026-07-11T20:18:52+00:00",
-        "summary": "SK하이닉스의 나스닥 상장을 바라보는 국내와 해외의 시선에는 온도 차가 있다. 국내 보도의 상당수가 265억 달러라는 조달 규모와 외국 발행사 역대 최대라는 기록에 집중하는 동안, 해외 시장은 다른 질문을 던지고 있다. 같은 회사가 서울과 뉴욕에서 다른 가격을 받을 수 있는가. CNBC는 상장 당일 기획 기사의 제목으로 이 질문을 내세웠다. 이번 상장이 한국 기업의 오랜 저평가, 이른바 ... 더 읽기",
+        "published": "2026-07-13T23:01:00+00:00",
+        "summary": "중국 6월 신에너지차 침투율 62.8%…내연기관 급락이 끌어올린 숫자 6월 중국에서 소매 판매된 승용차 10대 중 6대 이상이 신에너지차였다. 다만 신에너지차가 많이 팔려서가 아니라 내연기관차 판매가 급감한 결과다. 7월 8일 중국 승용차시장정보연석회(乘联会)가 발표한 6월 전국 승용차 시장 데이터에 따르면, 6월 소매 판매량은 160만 2천대로 전년동기대비 23.2% 감소했으나 전월대비 6.1% 증가했다. 올해 누적 소매 판매량은 870만 1천대로 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "해고 발표 없이 인력 줄인다… 중국·인도 테크 업계 ‘조용한 감원’",
-        "url": "https://platum.kr/archives/290751?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ea%25b3%25a0-%25eb%25b0%259c%25ed%2591%259c-%25ec%2597%2586%25ec%259d%25b4-%25ec%259d%25b8%25eb%25a0%25a5-%25ec%25a4%2584%25ec%259d%25b8%25eb%258b%25a4-%25ec%25a4%2591%25ea%25b5%25ad%25c2%25b7%25ec%259d%25b8%25eb%258f%2584-%25ed%2585%258c%25ed%2581%25ac-%25ec%2597%2585%25ea%25b3%2584",
-        "source": "Platum",
-        "published": "2026-07-11T09:11:32+00:00",
-        "summary": "중국과 인도 기술 업계에서 대규모 감원 계획을 한꺼번에 공개하는 대신 소규모 감원을 반복하거나 성과평가와 역량 심사를 강화하고, 채용을 축소하는 방식으로 인력을 조정하는 이른바 &#8216;조용한 감원&#8217;이 뚜렷해지고 있다. 다만 기업 직원 수 감소에는 실제 해고뿐 아니라 사업 매각과 분사, 자연퇴사, 채용 감소가 함께 반영된다. 중국에서는 경기 둔화와 소비 부진, 과거 과잉 채용의 조정이, 인도에서는 고객사의 IT ... 더 읽기",
+        "title": "[인터뷰] 1시간만 가르치면 되는 공장 로봇이 나왔다",
+        "url": "https://byline.network/2026/07/4328917983/",
+        "source": "ByLine Network",
+        "published": "2026-07-13T22:33:46+00:00",
+        "summary": "집게 손 로봇에 1시간 정도 일을 가르치면, 다음날 현장 투입 가능한 공장 일손이 된다. SF 소설 속 이야기가 아니라 현재 국내 기술로도 가능한 이야기다. 피지컬 인공지능(AI) 스타트업 카본식스는 코딩 없이도 곧바로 쓸 수 있는 직관적인 툴킷 ‘시그마키트’를 산업 현장에 도입하고 있는 기업이다. 문태연 카본식스 대표는 인생을 바쳐 풀고 싶은 과제를 해결하기 위해 시그마키트라는 솔루션을 출시했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "국내 이커머스, 세계 시장으로 영토 확장…글로벌 확장 공식은 제각각",
+        "url": "https://byline.network/2026/07/0710-6/",
+        "source": "ByLine Network",
+        "published": "2026-07-13T22:31:32+00:00",
+        "summary": "쿠팡은 대만에 4번째 물류센터를 열고 로켓직구 시스템을 이식했다. 쿠팡에 따르면 현재 자사를 통해 대만에 진출한 국내 중소상공인은 1만곳 이상이다. 컬리 측은 전년도 10월 ‘컬리USA(Kurly USA)’를 론칭하며 미국 소비자를 대상으로 한 첫 역직구 사업을 시작했다. CJ올리브영은 미국 서부에 전용 물류센터를 세우고 현지 오프라인 매장 2곳을 운영 중이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Anthropic recruits Monzo cofounder Tom Blomfield for AI compute team",
+        "url": "https://sifted.eu/articles/anthropic-monzo-founder-tom-blomfield/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-13T11:58:51+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Nscale’s £2bn UK data centre hit by grid delays",
+        "url": "https://sifted.eu/articles/nscale-delays/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-13T11:34:36+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Welcome To The ‘Show Me’ Era: Sapphire Ventures’ Anders Ranum On What Separates Winning AI Startups From The Rest",
+        "url": "https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/",
+        "source": "Crunchbase News",
+        "published": "2026-07-13T11:00:52+00:00",
+        "summary": "To understand how institutional capital is navigating the gap between AI's public market software multiples and private market valuations, Crunchbase News recently interviewed Anders Ranum, a partner at Sapphire Ventures, who shared how he strikes an investment balance.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Moneybox crowned Europe’s newest unicorn as it gears up to test London’s Pisces market",
+        "url": "https://sifted.eu/articles/moneybox-crowned-unicorn/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-13T10:57:25+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
+        "url": "https://www.youtube.com/watch?v=J0bce9WQJ-g",
+        "source": "All-In Podcast",
+        "published": "2026-07-14T00:40:42+00:00",
+        "summary": "(0:00) ElevenLabs' $600M ARR Ramp, 600 Employees & Life Without PMs\n(15:34) Celebrity Voice Deals, Deepfake Impersonation & Racing OpenAI and Anthropic\n(31:42) Legora's Hypergrowth, Disrupting Law Firms & the Billable Hour\n(42:31) LexisNexis Decline, Legal Data Moats & Legora's Narrow AI Models\n\nTha",
+        "thumbnail": "https://i3.ytimg.com/vi/J0bce9WQJ-g/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "J0bce9WQJ-g",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Martin Scorsese Uses AI for Movies: Prototyping Set Ideas from His Head",
+        "url": "https://www.youtube.com/shorts/WVbo4G_y8v4",
+        "source": "All-In Podcast",
+        "published": "2026-07-14T00:00:10+00:00",
+        "summary": "Thanks to our partners for making this possible!\n\nMost advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands ",
+        "thumbnail": "https://i4.ytimg.com/vi/WVbo4G_y8v4/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "WVbo4G_y8v4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Oil Prices Look Set to Skyrocket",
+        "url": "https://www.youtube.com/watch?v=s0zFrrechU0",
+        "source": "TLDR News Global",
+        "published": "2026-07-13T16:00:24+00:00",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nOrder a copy of our magazine Too Long: https://toolong.news/TL008\n\nThe US-Iran war appears to have restarted. But contrary to early March, oil prices have remained relatively stable. In this video, we're taking a look a",
+        "thumbnail": "https://i4.ytimg.com/vi/s0zFrrechU0/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "s0zFrrechU0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Snow White had insane production value",
+        "url": "https://www.youtube.com/shorts/h9rlcx8xKE0",
+        "source": "Acquired",
+        "published": "2026-07-13T15:58:13+00:00",
+        "summary": "#business #podcast #disney \n\n🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
+        "thumbnail": "https://i1.ytimg.com/vi/h9rlcx8xKE0/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "h9rlcx8xKE0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Earth Used To Be... Purple?",
+        "url": "https://www.youtube.com/shorts/uAYrJ8SfAB4",
+        "source": "Cleo Abram",
+        "published": "2026-07-13T15:00:03+00:00",
+        "summary": "There’s a real hypothesis that ancient Earth may have looked very PURPLE. \n\nIt’s no surprise that Earth from millions of years ago looked a lot different from the Earth we see today, but this hypothesis is changing how we think about what distant worlds containing life might look like. Astrobiologis",
+        "thumbnail": "https://i2.ytimg.com/vi/uAYrJ8SfAB4/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "uAYrJ8SfAB4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "실적이 이렇게 좋은데, 주가는 왜 빠져요?",
+        "url": "https://www.youtube.com/watch?v=4DQP7bVU41M",
+        "source": "슈카월드",
+        "published": "2026-07-13T10:45:25+00:00",
+        "summary": "0:00 검은 월요일\n6:54 삼성전자 2분기 잠정실적 발표\n13:22 SK하이닉스 ADR 상장 가격은?\n21:19 미 상무 장관 \"삼성과 SK하이닉스를 미국으로\"",
+        "thumbnail": "https://i1.ytimg.com/vi/4DQP7bVU41M/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "4DQP7bVU41M",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI는 수단입니다. 진짜 경쟁력은 ’기업의 뇌(Enterprise IQ)’에 있습니다. | BCG 다큐멘터리",
+        "url": "https://www.youtube.com/watch?v=N-hWdhKJmdU",
+        "source": "EO 이오",
+        "published": "2026-07-13T09:33:36+00:00",
+        "summary": "온 세상이 'AI'를 외치는 지금, 대부분의 기업은 수십억을 쓰고도 아무것도 바꾸지 못했습니다. 에이전트를 100개씩 만들고 전 직원에게 챗GPT를 쥐여줬는데도, 왜 성과는 나지 않을까요?\n\n연매출 21조 원 중 5조 원을 'AI'로 만들어내는 BCG의 한국 파트너 4인이 처음으로 한자리에 모였습니다.\n\n▪️ AI 전환 실패의 70%는 기술이 아니라 '사람'에서 갈린다\n▪️ 100개를 찔러보는 'Deploy'가 아니라, 일하는 방식을 원점에서 다시 짜는 'Reshape'이 답이다\n▪️ 에이전트는 손발일 뿐, 진짜 승부는 회사만의 '",
+        "thumbnail": "https://i3.ytimg.com/vi/N-hWdhKJmdU/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "N-hWdhKJmdU",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -230,21 +390,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "tULsIbKeXTU",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "\"We've never seen anything like this.\" - Brad Gerstner on Anthropic's Historic Revenue Ramp",
-        "url": "https://www.youtube.com/shorts/aCE5gOi0lYA",
-        "source": "All-In Podcast",
-        "published": "2026-07-11T16:00:19+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i2.ytimg.com/vi/aCE5gOi0lYA/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "aCE5gOi0lYA",
           "via": "rss"
         }
       },
@@ -275,96 +420,6 @@
         "extras": {
           "theme": "news",
           "videoId": "5HkxtPwq8L4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "주택 1,000만 채가 부족한 미국이 내놓은 해법",
-        "url": "https://www.youtube.com/watch?v=FNT-gOjT8Kw",
-        "source": "슈카월드",
-        "published": "2026-07-11T09:22:34+00:00",
-        "summary": "0:00 '21세기 주택 로드맵 법안' 발표\n13:15 미국은 왜 아파트를 기피하는가?\n19:30 미국 엘리베이터 노조의 위엄",
-        "thumbnail": "https://i3.ytimg.com/vi/FNT-gOjT8Kw/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "FNT-gOjT8Kw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "구글 임원, 스타트업 창업, 스노우플레이크 CEO 거치며 깨달은 것 | Snowflake, Sridhar Ramaswamy",
-        "url": "https://www.youtube.com/watch?v=5pjr6KbLbA0",
-        "source": "EO 이오",
-        "published": "2026-07-11T09:00:35+00:00",
-        "summary": "시가총액 135조 원의 빅테크를 이끄는 CEO.\nEO가 Snowflake CEO\n스리다르 라마스와미를 만나 인터뷰했습니다.\n\n스리다르는 스노우플레이크 출신이 아니었습니다.\n데스크톱 시장에서 모바일 시대로 바뀔 때,\n구글에서 커머스 광고 팀을 이끌던 핵심 리더였죠.\n이때 100조 매출을 만들었다고 합니다.\n\n스리다르는 구글보다 더 나은 제품을 만들기 위해\nneeva를 창업했지만 원했던 목표에 닿지 못해\n실패라 여겼습니다.\n\n하지만 2023년 Snowflake가 neeva를 인수하고 난 뒤,\n인수 1년 만에 Snowflake의 CEO가",
-        "thumbnail": "https://i2.ytimg.com/vi/5pjr6KbLbA0/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "5pjr6KbLbA0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "OpenAI vs Anthropic IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
-        "url": "https://www.youtube.com/watch?v=PHL1j2ti420",
-        "source": "All-In Podcast",
-        "published": "2026-07-11T02:39:34+00:00",
-        "summary": "(0:00) Bestie intros: Brad Gerstner fills in for Friedberg!\n(2:58) OpenAI vs Anthropic IPOs: Why it matters who goes first, what they learned from the SpaceX IPO, the unlimited TAM of intelligence\n(27:39) The open source decision, Meta's new model, Zuck's price war, AI duopoly\n(54:29) CCP considerin",
-        "thumbnail": "https://i1.ytimg.com/vi/PHL1j2ti420/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "PHL1j2ti420",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "빅테크 어느 곳 하나 AI칩 안 만드는 곳이 없네? AI칩 전쟁",
-        "url": "https://www.youtube.com/watch?v=iOIFL8aAOv4",
-        "source": "티타임즈TV",
-        "published": "2026-07-10T22:00:01+00:00",
-        "summary": "반도체 피크아웃의 근거 중 하나로 꼽히는 AI칩 양산에 대해 알아봅니다. 아마존이 이미 AWS 클라우드 내에서 트레이니엄과 인퍼런시아라고 하는 자체 칩을 활용하고 있고, 구글은 TPU 칩을 추론용과 학습용으로 양분화해 외부 판매에 나서기로 했죠. 마이크로소프트, 메타, 테슬라도 자체 AI칩을 사용하고 있거나 사용할 계획을 밝혔습니다. 스타트업에서도 나스닥 상장을 완료한 세레브라스를 비롯해 국내외 스타트업들이 판매처를 확보하고 양산에 나서고 있습니다. AI칩 붐이 엔비디아를 비롯한 반도체 산업에 미치는 영향은 어느정도일까요? 심재석 ",
-        "thumbnail": "https://i2.ytimg.com/vi/iOIFL8aAOv4/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "iOIFL8aAOv4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Disney's Flywheel: The Business Model Nobody Can Copy",
-        "url": "https://www.youtube.com/shorts/njXOq03SXZo",
-        "source": "Acquired",
-        "published": "2026-07-10T19:00:15+00:00",
-        "summary": "Walt Disney accidentally invented entertainment's most powerful business model: the flywheel. And 100 years later, nobody has successfully copied it. Here's how it works, shown through the original 1958 diagram (which…was actually not hand-drawn by Walt!!).\n\nFrom Acquired: The Walt Disney Company.\n\n",
-        "thumbnail": "https://i3.ytimg.com/vi/njXOq03SXZo/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "njXOq03SXZo",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Big Is The Biggest Black Hole?",
-        "url": "https://www.youtube.com/shorts/Vo34lthKDrk",
-        "source": "Cleo Abram",
-        "published": "2026-07-10T15:09:28+00:00",
-        "summary": "What’s the biggest black hole? The size of black holes is insane… and there’s some debate about the winner!\n\n#blackhole #science #sizecomparison",
-        "thumbnail": "https://i3.ytimg.com/vi/Vo34lthKDrk/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "Vo34lthKDrk",
           "via": "rss"
         }
       }
