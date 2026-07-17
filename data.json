@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-07-16T02:26:10.941894+00:00",
+  "generated_at": "2026-07-17T02:28:52.508998+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
-        "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-        "source": "NYT World",
-        "published": "2026-07-16T02:19:57+00:00",
-        "summary": "Though both sides appeared to be digging in, a top Iranian official seemed to leave the door open for a deal, saying, “We must fear neither war nor negotiations.”",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: police release images of children’s clothing in plea for help investigating alleged abuse at childcare centres",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/16/divine-playhouse-josh-thomas-workplace-drug-survey-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
+        "title": "Australia news live: One Nation policy has ‘a bit of cray cray’, says Nationals senator Ross Cadell",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/17/australia-news-live-telstra-mobile-outage-parliament-inquiry-royal-commission-antisemitism-ai-anthony-albanese-labor-liberals-coalition-politics-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-07-16T02:13:14+00:00",
-        "summary": "A former Sydney childcare worker, 35, has been charged with 329 child abuse offences allegedly committed between 2009 and 2025. Follow today’s news liveGet our breaking news email, free app or daily news podcastMichelle Rowland says mandatory minimum standards for datacentres don’t apply to existing developmentsThe attorney general, Michelle Rowland, told ABC News that mandatory minimum standards ",
+        "published": "2026-07-17T02:25:10+00:00",
+        "summary": "‘With One Nation, you get 60% solid policy and a bit of cray cray thrown in’, senator says. Follow today’s news live.Get our breaking news email, free app or daily news podcastPauline Hanson has been called “un-Australian” over her appearance on a podcast with far-right UK activist, Tommy Robinson.The Greens senator Sarah Hanson-Young told ABC RN Hanson must return to Australia and apologise.This ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-16T02:10:58+00:00",
-        "summary": "Iranian FM Araghchi visits Qatar to pay respects following the death of the Father Emir, Sheikh Hamad bin al Thani",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iranian American Woman Held in Iran on Spying Charges Is Released",
-        "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
-        "source": "NYT World",
-        "published": "2026-07-16T01:59:52+00:00",
-        "summary": "The dual Iranian-U.S. citizen, Dena Karari, had her passport seized in December 2024 and had not been able to leave Iran as she faced espionage charges.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Kyiv under fire from Russian missiles after EU-Ukraine sign drone deal",
-        "url": "https://www.aljazeera.com/news/2026/7/16/kyiv-under-fire-from-russian-missiles-after-eu-ukraine-sign-drone-deal?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-16T01:58:45+00:00",
-        "summary": "Mayor Vitali Klitschko says emergency services are battling blazes across the Ukrainian capital.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "France’s Morocco reset: What French PM Lecornu’s visit to Rabat signals",
-        "url": "https://www.aljazeera.com/news/2026/7/16/frances-morocco-reset-what-french-pm-lecornus-visit-signals?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-16T01:55:54+00:00",
-        "summary": "The trip highlights how Paris and Rabat are turning a diplomatic rapprochement into a broader strategic partnership.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+        "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
+        "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-07-16T01:52:41+00:00",
-        "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+        "published": "2026-07-17T02:15:23+00:00",
+        "summary": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great Lakes.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iranian doctor says US strike damaged children’s cancer hospital",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
+        "title": "How three Ivorian firms are competing with global brands",
+        "url": "https://www.aljazeera.com/economy/2026/7/17/how-three-ivorian-firms-are-competing-with-global-brands?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-16T01:36:58+00:00",
-        "summary": "Iranians are inspecting the damage from days of US strikes on key cities in the country’s south and west.",
+        "published": "2026-07-17T02:07:17+00:00",
+        "summary": "Homegrown firms are gaining ground in Ivory Coast&#039;s fuel, finance and cosmetics sectors.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘Trump Accounts’ are symbolic, not effective at closing wealth gap",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trump-accounts-are-symbolic-not-effective-at-closing-wealth-gap?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-17T01:49:16+00:00",
+        "summary": "The wealth gap is wider than it’s been in three decades.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "North Korean leader Kim Jong Un meets with top Chinese official",
+        "url": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-17T01:49:03+00:00",
+        "summary": "The meeting comes after Xi visited Kim, promising closer diplomatic, law enforcement and military cooperation.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Pauline Hanson laments end of White Australia policy and talks up daughter’s leadership potential",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/17/pauline-hanson-laments-end-of-white-australia-policy-and-talks-up-daughters-leadership-potential-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-07-17T01:47:52+00:00",
+        "summary": "Appearing on a podcast with the far-right UK activist who goes by the name Tommy Robinson, Hanson makes evidence-free claims about migrantsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPauline Hanson has used an interview with the far-right British activist Tommy Robinson to blame the end of the White Australia policy for creating ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Telstra staff unaware of mass outage risk as critical software failure ‘rippled slowly across the network’",
+        "url": "https://www.theguardian.com/business/2026/jul/17/telstra-missing-software-update-undocumented-design-change-outage",
+        "source": "The Guardian World",
+        "published": "2026-07-17T01:00:08+00:00",
+        "summary": "Telco outlines reasons for network failure that hit mobiles, trains and retailers ahead of appearance at Senate inquiryFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTelstra has blamed the lack of a software update for a key time-keeping system for outage that caused nationwide chaos last week, with its maintenance teams also unawar",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Gay-Themed Mediterranean Cruise Turned Away From Turkey and Then Egypt",
+        "url": "https://www.nytimes.com/2026/07/16/world/middleeast/gay-cruise-turkey-egypt.html",
+        "source": "NYT World",
+        "published": "2026-07-17T00:59:40+00:00",
+        "summary": "In both Muslim-majority countries, official hostility to gay people has increased in recent years. But the same cruise had visited before without problems.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
-        "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
-        "source": "TechCrunch",
-        "published": "2026-07-16T00:20:42+00:00",
-        "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
+        "title": "Google Kills Custom Search API on Jan 1, 2027",
+        "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
+        "source": "Hacker News Front",
+        "published": "2026-07-17T01:03:25+00:00",
+        "summary": "Article URL: https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/\nComments URL: https://news.ycombinator.com/item?id=48942250\nPoints: 43\n# Comments: 22",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC",
-        "url": "https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones",
-        "source": "The Verge",
-        "published": "2026-07-16T00:00:00+00:00",
-        "summary": "Skullcandy announced a new version of its Crusher wireless headphones today featuring a few of Bose's audio technologies including its QuietControl ANC and head-tracking spatial audio. The Crusher headphone line differentiates itself from the competition through the use of both full-range and dedicated bass drivers in each ear cup to boost deeper frequencies. Skullcandy admits [&#8230;]",
+        "title": "M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
+        "source": "Hacker News Front",
+        "published": "2026-07-17T00:45:05+00:00",
+        "summary": "Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive\nComments URL: https://news.ycombinator.com/item?id=48942125\nPoints: 30\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
-        "url": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/",
+        "title": "Pete Hegseth’s Plan for ‘High T’ Troops Is a Junk-Science Fever Dream",
+        "url": "https://www.wired.com/story/pete-hegseths-plan-for-high-t-troops-is-a-junk-science-fever-dream/",
         "source": "Wired",
-        "published": "2026-07-16T00:00:00+00:00",
-        "summary": "Skullcandy’s audio products aren’t exactly known for their stellar audio quality or noise cancellation, but its latest headphones are getting an assist from Bose to turn things around.",
+        "published": "2026-07-17T00:28:49+00:00",
+        "summary": "The defense secretary’s idea of administering testosterone therapy to members of the US Armed Forces reveals little understanding of the complexity of hormones.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-        "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "title": "The Human-in-the-Loop Is Tired",
+        "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+        "source": "Hacker News Front",
+        "published": "2026-07-17T00:21:09+00:00",
+        "summary": "Article URL: https://pydantic.dev/articles/the-human-in-the-loop-is-tired\nComments URL: https://news.ycombinator.com/item?id=48942000\nPoints: 9\n# Comments: 1",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+        "url": "https://github.com/Robbyant/lingbot-map",
+        "source": "Hacker News Front",
+        "published": "2026-07-17T00:07:49+00:00",
+        "summary": "Article URL: https://github.com/Robbyant/lingbot-map\nComments URL: https://news.ycombinator.com/item?id=48941908\nPoints: 5\n# Comments: 0",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
+        "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+        "source": "Ars Technica",
+        "published": "2026-07-17T00:02:54+00:00",
+        "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+        "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
         "source": "TechCrunch",
-        "published": "2026-07-15T23:59:44+00:00",
-        "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+        "published": "2026-07-16T23:25:22+00:00",
+        "summary": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: One More Letter",
-        "url": "https://playonemoreletter.com/",
-        "source": "Hacker News Front",
-        "published": "2026-07-15T23:10:10+00:00",
-        "summary": "Article URL: https://playonemoreletter.com/\nComments URL: https://news.ycombinator.com/item?id=48928402\nPoints: 35\n# Comments: 22",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Smoke From Canada's Wildfires Turns Skies Sickly Orange Across the Eastern US",
-        "url": "https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/",
-        "source": "Wired",
-        "published": "2026-07-15T23:05:03+00:00",
-        "summary": "Roughly 100 fires are raging out of control in Ontario, sending smoke streaming 1,000 miles to the south and east.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Nul Characters in Strings in SQLite",
-        "url": "https://sqlite.org/nulinstr.html",
-        "source": "Hacker News Front",
-        "published": "2026-07-15T23:03:45+00:00",
-        "summary": "Article URL: https://sqlite.org/nulinstr.html\nComments URL: https://news.ycombinator.com/item?id=48928343\nPoints: 29\n# Comments: 3",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-        "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-        "source": "Hacker News Front",
-        "published": "2026-07-15T23:00:31+00:00",
-        "summary": "Article URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials\nComments URL: https://news.ycombinator.com/item?id=48928313\nPoints: 39\n# Comments: 10",
+        "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+        "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+        "source": "TechCrunch",
+        "published": "2026-07-16T23:01:27+00:00",
+        "summary": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,198 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "의료 AI 스타트업 ‘뉴블에이아이’, 퓨처플레이로부터 시드 투자 유치",
-        "url": "https://platum.kr/archives/290993?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%2598%25eb%25a3%258c-ai-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%2589%25b4%25eb%25b8%2594%25ec%2597%2590%25ec%259d%25b4%25ec%2595%2584%25ec%259d%25b4-%25ed%2593%25a8%25ec%25b2%2598%25ed%2594%258c%25eb%25a0%2588%25ec%259d%25b4%25eb%25a1%259c%25eb%25b6%2580%25ed%2584%25b0",
-        "source": "Platum",
-        "published": "2026-07-16T00:22:08+00:00",
-        "summary": "뇌 질환 진단 솔루션을 개발하는 스타트업 뉴블에이아이(Neuble AI)가 퓨처플레이로부터 4억 원 규모의 시드 투자를 유치했다고 16일 밝혔다. 뉴블에이아이는 강남세브란스병원 영상의학과 안성준 교수와 방사선종양학과 의학물리 김지훈 교수가 공동대표를 맡고 있다. 두 공동대표는 임상 현장 경험과 의료영상 AI 기술을 결합해 진단 보조 솔루션을 개발 중이다. 고령화로 알츠하이머를 비롯한 퇴행성 뇌 질환 환자가 늘면서 정밀 진단과 조기 스크리닝의 ... 더 읽기",
+        "title": "Exclusive: EQT’s €5bn Scaleup Fund in talks to lead Mistral round",
+        "url": "https://sifted.eu/articles/e5bn-scaleup-fund-mistral-eqt/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-16T16:00:57+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "특별법 앞둔 기후테크 업계 “명확한 기준을 세워야 불확실성 해소”",
-        "url": "https://byline.network/2026/07/3298402348/",
+        "title": "The Billion-Dollar Seed Isn’t The Deal You Think It Is",
+        "url": "https://news.crunchbase.com/venture/billion-dollar-seed-ai-biotech-mcdonald-bison/",
+        "source": "Crunchbase News",
+        "published": "2026-07-16T11:00:41+00:00",
+        "summary": "Despite attention-grabbing AI mega-seed rounds, historical data shows that very large first financings rarely produce venture-scale returns because high entry valuations limit investor upside. Instead, argues guest author Ellie McDonald, the strongest venture outcomes have typically come from capital-efficient startups that raised modest early rounds.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "China And AI Lead Asia’s Startup Funding To Multiyear Peak In Q2",
+        "url": "https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak-q2-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-07-16T11:00:00+00:00",
+        "summary": "Overall, investors poured $42.8 billion into startup funding rounds across all of Asia in Q2 2026, per Crunchbase data. Led by China's $7.4 billion DeepSeek raise, that’s by far the highest quarterly total in more than three years.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "From pilot to production: How scaling companies are making AI work",
+        "url": "https://sifted.eu/articles/how-scaling-companies-are-making-ai-work-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-16T10:46:06+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Munich robotics startup Microagi raises $55m, Germany’s largest ever seed round",
+        "url": "https://sifted.eu/articles/munich-robotics-startup-microagi-raises-55m-germanys-largest-ever-seed-round/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-16T10:16:35+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "‘We want to make bookkeeping less painful’: How Visma and its AI portfolio are reshaping accounting",
+        "url": "https://sifted.eu/articles/visma-ai-portfolio-reshaping-accounting-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-16T10:13:06+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "해외 이커머스 플랫폼에 입접하는 한국의 플랫폼들",
+        "url": "https://byline.network/2026/07/0714-4/",
         "source": "ByLine Network",
-        "published": "2026-07-15T21:33:49+00:00",
-        "summary": "기후테크 육성 특별법안의 국회 심사를 앞두고 기후테크의 정의를 명확히 해야 한다는 업계의 요구가 제기됐다. 기후테크 기업에 적용되는 창업기업 업력 기준과 실증특례 기간을 유연하게 적용하고, 기후가치평가 방법론도 공개해야 한다는 의견이 뒤따랐다.\n지난 15일 서울 여의도에서 열린 ‘기후테크 육성 특별법 제정 방향 논의를 위한 간담회’는 지난 6월 발의된 기후테크 특별법안 두 건을 비교·분석하고 기후테크 산업 육성 방향을 논의하기 위해 마련된 자리였다. 보수기후환경네트워크 대표를 맡은 김소희 국민의힘 의원은 “기후변화는 기술을 통해 극복할 수 있다고 생각한다”며 “현재 발의된 법안에는 육성이라기보다 규제에 가까운 부분도 있어 보수의 시각에서 기후테크를 실질적으로 육성할 수 있는 방안을 마련하기 위해 현장의 의견",
+        "published": "2026-07-16T08:15:38+00:00",
+        "summary": "국내 주요 이커머스 기업들은 현지 대형 플랫폼과의 시스템 연동 및 입점 제휴에 속도를 내고 있다. 지마켓(G마켓)과 11번가, 쓱닷컴(SSG.com)은 아시아 각국의 유명 쇼핑몰 안에 전문관을 열거나 응용프로그램 인터페이스(API)를 연결해 상품 노출을 진행 중이다. 과거 국내 판매자가 해외 소비자를 직접 만나기 위해서는 초기 마케팅 예산과 통관 등의 문제를 직접 해결해야 했다. 또 배송 지연이나 국가별 세관 통과 절차의 까다로움 역시 개별 중소 사업자가 감당하기 어려운 걸림돌로 꼽혀왔다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "조직을 휘저으라던 ‘미꾸라지’들이 연못을 나갔다",
-        "url": "https://platum.kr/archives/290976?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a1%25b0%25ec%25a7%2581%25ec%259d%2584-%25ed%259c%2598%25ec%25a0%2580%25ec%259c%25bc%25eb%259d%25bc%25eb%258d%2598-%25eb%25af%25b8%25ea%25be%25b8%25eb%259d%25bc%25ec%25a7%2580%25eb%2593%25a4%25ec%259d%25b4-%25ec%2597%25b0%25eb%25aa%25bb%25ec%259d%2584-%25eb%2582%2598%25ea%25b0%2594%25eb%258b%25a4",
-        "source": "Platum",
-        "published": "2026-07-15T19:59:30+00:00",
-        "summary": "중국 로봇판 흔드는 &#8216;화웨이 마피아&#8217; 2026년 3월 초, 화웨이클라우드의 수석기술전문가가 위챗 모멘트에 짧은 글을 남기고 회사를 떠났다. 로봇은 긴 비탈에 눈이 두껍게 쌓인 듯 오랫동안 기술과 데이터를 축적할수록 잠재력이 커지는 시장이며, 퇴사는 끝이 아니라 다른 방식으로 서로를 지키는 일이라는 내용이었다. 글을 쓴 사람은 저우순보(周顺波). 화웨이가 ‘천재소년’이라는 이름으로 데려온 로봇 박사이자, 사내에서 체화지능(具身智能·embodied AI) 1호 직원으로 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Stripe’s Acquisition Pace Has Accelerated In The Past Five Years, But Nothing Comes Close To Its Reported $53B PayPal Bet",
-        "url": "https://news.crunchbase.com/ma/stripe-acquisition-pace-accelerates-paypal/",
-        "source": "Crunchbase News",
-        "published": "2026-07-15T19:00:05+00:00",
-        "summary": "Payments giant Stripe and private equity firm Advent International have teamed up to make an offer to buy troubled PayPal in a deal valued at more than $53 billion, Reuters reported Wednesday.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Crunchbase Tech Layoffs Tracker",
-        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-        "source": "Crunchbase News",
-        "published": "2026-07-15T17:30:30+00:00",
-        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "상세페이지 AI ‘후커블’, 스마일게이트인베스트먼트서 시드 브릿지 투자 유치",
-        "url": "https://platum.kr/archives/290971?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2583%2581%25ec%2584%25b8%25ed%258e%2598%25ec%259d%25b4%25ec%25a7%2580-ai-%25ed%259b%2584%25ec%25bb%25a4%25eb%25b8%2594-%25ec%258a%25a4%25eb%25a7%2588%25ec%259d%25bc%25ea%25b2%258c%25ec%259d%25b4%25ed%258a%25b8%25ec%259d%25b8%25eb%25b2%25a0%25ec%258a%25a4%25ed%258a%25b8%25eb%25a8%25bc%25ed%258a%25b8%25ec%2584%259c",
-        "source": "Platum",
-        "published": "2026-07-15T16:59:33+00:00",
-        "summary": "이커머스 상품 상세페이지를 자동 제작하는 AI 에이전트 &#8216;후커블(Hookable)&#8217; 운영사 펄크럼테크놀로지스가 스마일게이트인베스트먼트로부터 시드 브릿지 투자를 유치했다고 16일 밝혔다. 투자 금액은 비공개다. 이번 투자는 지난 2월 프라이머의 프리시드 투자에 이은 후속 투자로, 팁스(TIPS·민간투자주도형 기술창업지원) 프로그램 추천과 연계해 진행됐다. 펄크럼테크놀로지스는 2025년 7월 설립 이후 약 1년 만에 두 차례 투자 유치를 이어갔다. 후커블은 제품 설명과 이미지 한 장만 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Robotics startup Monumental raises $32m backed by Khosla Ventures",
-        "url": "https://sifted.eu/articles/monumental-robots-fundraise-raises-32m-backed-by-khosla-ventures/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-15T16:54:51+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Yann LeCun launched a new VC fund — then quit. What happened?",
-        "url": "https://sifted.eu/articles/yann-lecun-extelligence-podcast/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-15T15:23:18+00:00",
-        "summary": "",
+        "title": "우버, 배달의민족 모회사 인수한다",
+        "url": "https://byline.network/2026/07/16_29182737/",
+        "source": "ByLine Network",
+        "published": "2026-07-16T08:14:40+00:00",
+        "summary": "우버가 배달의민족(이하 배민) 모회사인 딜리버리히어로를 약 22조원(약 148억달러)에 인수한다. 이로써 배민은 우버의 손자회사로 편입된다.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Accidental Genius of the Disney Vault",
+        "url": "https://www.youtube.com/shorts/YH57mtExczI",
+        "source": "Acquired",
+        "published": "2026-07-17T00:06:57+00:00",
+        "summary": "In 1944, Disney accidentally created one of the greatest business strategies in entertainment history: they re-released Snow White in theaters seven years after its debut. Because home video didn't exist, an entirely new generation of kids experienced the film for the first time, birthing the \"Disne",
+        "thumbnail": "https://i2.ytimg.com/vi/YH57mtExczI/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "YH57mtExczI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "‘고체 페로브스카이트 태양전지’ 세계적 권위자 (박남규 성균관대 교수)",
+        "url": "https://www.youtube.com/watch?v=wbeMT_Rq1Lg",
+        "source": "티타임즈TV",
+        "published": "2026-07-16T22:00:14+00:00",
+        "summary": "일론 머스크가 우주 AI데이터센터를 만들려면 꼭 필요하다고 말한 기술이 있습니다. 바로 고체 페로브스카이트 태양전지입니다. 우주에서는 태양전지 이외 다른 대안이 없고 인공위성 무게를 줄이려면 실리콘이 아니라 고체 페로브스카이트로 얇게 태양전지를 만드는 것이 중요하기 때문입니다.\n\n해마다 노벨화학상 후보로 거론되는, 고체 페로브스카이트 태양전지의 세계적 권위자 박남규 성균관대 화학공학부 종신석좌교수로부터 왜 고체 페로브스카이트 태양전지이어야 하는지 들어봅니다.\n\n편집 : 이소민 영상디자이너 \n촬영 : 장민주 PD\n자료 : 박성수 PD",
+        "thumbnail": "https://i4.ytimg.com/vi/wbeMT_Rq1Lg/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "wbeMT_Rq1Lg",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Can You Guess This Animal?",
+        "url": "https://www.youtube.com/shorts/mzAtUu4LSKQ",
+        "source": "Cleo Abram",
+        "published": "2026-07-16T14:37:06+00:00",
+        "summary": "This is a drawing of a modern animal…. if you drew it the way many early science illustrators drew dinosaurs. \n\nThey just drew skin wrapped around bone without muscle, turning this normal animal into a monster. Can you guess what it is?\n\nThis is called “shrink wrapping” and it has affected the way a",
+        "thumbnail": "https://i2.ytimg.com/vi/mzAtUu4LSKQ/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "mzAtUu4LSKQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "아이비리그 출신 한국인의 미친 아이디어를 미국 1등 투자사가 간택한 이유ㅣ아메리칸드림 2.0",
+        "url": "https://www.youtube.com/watch?v=eZraKUCmw4o",
+        "source": "EO 이오",
+        "published": "2026-07-16T10:45:29+00:00",
+        "summary": "\"직원은 둘입니다. 나머지는 전부 AI예요. 근데… 되네요?\"\n\n온 세상이 미국을 향해 달려가는 지금, 라이트앵커의 두 창업자는 잘나가던 커리어를 버리고 샌프란시스코로 향했습니다.\n\n'아메리칸 드림 2.0'은 제품과 팀 자신감 하나 들고 미국 시장에 맨몸으로 부딪히는 창업팀의 시간을 따라갑니다.\n\n영도, 상하 두 사람은 샌드버드에서 검증된 베테랑 PM이었습니다.\n안정이 보장된 자리를 놔두고 나온 이유를 물으면, 거창한 사명 대신 이렇게 답합니다. 돈보다 재미라고.\n\"지금 샌프란시스코는 르네상스\"라며, 세계 최고 인재들 옆에서 일하겠",
+        "thumbnail": "https://i2.ytimg.com/vi/eZraKUCmw4o/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "eZraKUCmw4o",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "휘발유 가격 급등, 이유는 다 있었구나",
+        "url": "https://www.youtube.com/watch?v=5Rhtr2hJ0us",
+        "source": "슈카월드",
+        "published": "2026-07-16T09:18:34+00:00",
+        "summary": "0:00 전쟁 때 휘발유 값 빛의 속도로 상승한 이유\n9:52 한국에서 담합은 남는 장사?\n12:45 미국 계란 1조 8천억 원 담합\n22:00 와 미국 계란 업계는 큰일났겠구나?",
+        "thumbnail": "https://i2.ytimg.com/vi/5Rhtr2hJ0us/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "5Rhtr2hJ0us",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "중국 장악한 휴머노이드 시장에서 한국의 전략은? (정주용 그래비티 벤처스 대표)",
+        "url": "https://www.youtube.com/watch?v=CUaAuHKISO4",
+        "source": "티타임즈TV",
+        "published": "2026-07-16T09:00:17+00:00",
+        "summary": "[전진수의 궁금한 건 못 참아] 중국 휴머노이드가 주목을 받고 있죠. 그렇다면 한국은 축적된 제조 노하우를 바탕으로 어떻게 휴머노이드 산업에 대응할 수 있을까요? 그래비티벤처스 정주용 대표 이야기를 들어봅니다.\n\n편집 : 허재석 영상디자이너\n촬영 : 장민주 PD\n자료 : 허재석 영상디자이너\n진행 : 전진수 대표\n섬네일 : 이소민 영상디자이너\n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.html\n▶비즈니스 문의 \nttimes6000@gmail.com\n\n#휴머노이드 #중국 #제조AI\n\n00:00 엑셀",
+        "thumbnail": "https://i4.ytimg.com/vi/CUaAuHKISO4/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "CUaAuHKISO4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Trump’s Legislative Agenda Is in Trouble",
+        "url": "https://www.youtube.com/watch?v=PSgYGRDRnNM",
+        "source": "TLDR News Global",
+        "published": "2026-07-16T08:30:15+00:00",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nTrump is facing hurdles in the US Congress with his priorities seem to be stalling amongst infighting in the Republican Party. In this video, we're taking a look at this infighting and what Graham's death and McConnell'",
+        "thumbnail": "https://i1.ytimg.com/vi/PSgYGRDRnNM/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "PSgYGRDRnNM",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -306,36 +411,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "“스페이스X와 메타 남아돈다는 건 소음일 뿐” (김지현 SK AI위원회 부사장)",
-        "url": "https://www.youtube.com/watch?v=m0W07k5Q_nw",
-        "source": "티타임즈TV",
-        "published": "2026-07-15T09:00:14+00:00",
-        "summary": "최근 주식시장에서 메모리 사이클, 반도체 피크아웃 관련 논쟁이 많습니다. 그 와중에 메타, 스페이스X 등이 잉여 데이터센터 자원을 앤트로픽, 구글과 같은 다른 회사들에 임대해줄 수 있다는 소식도 나오고 있죠. 데이터센터와 GPU, 메모리 수요는 정점을 찍고 내려올까요? 김지현 SK AI위원회 부사장의 견해를 들어보시죠. \n\n편집 : 박수형 영상디자이너 \n촬영 : 강기훈 PD\n자료 : 박성수 PD\n진행 : 홍재의 기자\n섬네일 : 박수형 영상디자이너  \n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.h",
-        "thumbnail": "https://i2.ytimg.com/vi/m0W07k5Q_nw/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "m0W07k5Q_nw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "캐나다 잠수함 한국 수주 불발 원인",
-        "url": "https://www.youtube.com/shorts/8su3kszPVV0",
-        "source": "슈카월드",
-        "published": "2026-07-15T08:26:03+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i1.ytimg.com/vi/8su3kszPVV0/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "8su3kszPVV0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "Cerebras CEO Warns: A Massive AI Data Breach Is Coming",
         "url": "https://www.youtube.com/shorts/RqXnBGuxSlE",
         "source": "All-In Podcast",
@@ -345,81 +420,6 @@
         "extras": {
           "theme": "analysis",
           "videoId": "RqXnBGuxSlE",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why The World Cup Ball Looks Like That",
-        "url": "https://www.youtube.com/shorts/Y4dzIWxFqp8",
-        "source": "Cleo Abram",
-        "published": "2026-07-14T16:12:09+00:00",
-        "summary": "Why does the ball for this year’s World Cup not LOOK like a regular soccer ball?\n\nTurns out, that difference really changes how the ball performs, and there’s a THIRD design that’s even more controversial.\n \nThe trick is figuring out how to  create a SPHERE out of a FLAT material\n\nBut there’s also a",
-        "thumbnail": "https://i2.ytimg.com/vi/Y4dzIWxFqp8/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "Y4dzIWxFqp8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Trump's Hormuz Toll Will Probably Backfire",
-        "url": "https://www.youtube.com/watch?v=2e3gIL2w2W8",
-        "source": "TLDR News Global",
-        "published": "2026-07-14T15:40:52+00:00",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nWatch the Full Trailer: https://youtu.be/mP1b-33Qnqw\nSign Up to TLDR Party: https://toolong.news/party\nLearn More about TLDR Party: https://youtu.be/KVXXC3jk4Kg\n\nSince the war kicked off, Iran has been attacking ships i",
-        "thumbnail": "https://i3.ytimg.com/vi/2e3gIL2w2W8/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "2e3gIL2w2W8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "내가 AI 잘 쓰는 리더인지 판단해 보세요 (김지현 SK AI위원회 부사장)",
-        "url": "https://www.youtube.com/watch?v=hDqJWkz8CS4",
-        "source": "티타임즈TV",
-        "published": "2026-07-14T09:00:21+00:00",
-        "summary": "회사가 AI를 잘 쓰려면 조직의 워크플로우가 달라져야 합니다. 당연히 리더의 결정이 선행돼야 하는 부분이죠. 리더가 AI를 제대로 쓰지 못하면 회사 전체가 위험해질 수 있습니다. 그래서 리더는 누구보다 AI를 잘 써야 하고, 올바르게 써야 합니다.\n\nAX 전문가인 김지현 SK AI위원회 부사장이 AI를 사용하는 방법을 공개합니다. 임원에게 보고 할 보고서를 만드는데 그가 무슨 툴을 얼만큼 쓰는지, 어떤 방법으로 연계해서 쓰는지, 그리고 툴 사용을 통해 그가 얻고자 하는 바는 무엇인지 낱낱이 공개합니다. AI를 잘 쓰기 이전의 결과물",
-        "thumbnail": "https://i1.ytimg.com/vi/hDqJWkz8CS4/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "hDqJWkz8CS4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Oil Prices Look Set to Skyrocket",
-        "url": "https://www.youtube.com/watch?v=s0zFrrechU0",
-        "source": "TLDR News Global",
-        "published": "2026-07-13T16:00:24+00:00",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nOrder a copy of our magazine Too Long: https://toolong.news/TL008\n\nThe US-Iran war appears to have restarted. But contrary to early March, oil prices have remained relatively stable. In this video, we're taking a look a",
-        "thumbnail": "https://i4.ytimg.com/vi/s0zFrrechU0/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "s0zFrrechU0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Snow White had insane production value",
-        "url": "https://www.youtube.com/shorts/h9rlcx8xKE0",
-        "source": "Acquired",
-        "published": "2026-07-13T15:58:13+00:00",
-        "summary": "#business #podcast #disney \n\n🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
-        "thumbnail": "https://i1.ytimg.com/vi/h9rlcx8xKE0/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "h9rlcx8xKE0",
           "via": "rss"
         }
       }
