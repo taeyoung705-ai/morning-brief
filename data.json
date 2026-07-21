@@ -1,37 +1,26 @@
 {
-  "generated_at": "2026-07-20T03:35:04.363240+00:00",
+  "generated_at": "2026-07-21T02:29:56.028436+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: mourners arrive for Derryn Hinch state funeral; Mark Dreyfus tells antisemitism inquiry of ‘deeply wounding’ attack",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-07-20T03:19:59+00:00",
-        "summary": "Roayl commission on antisemitism and social cohesion starts fifth block of hearings in Melbourne this week. Follow today’s news liveGet our breaking news email, free app or daily news podcastThe use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer protections, workplace safety and priv",
+        "title": "Inside the Deadly U.S. Airstrike on a Shadow Fleet Tanker",
+        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/inside-the-deadly-us-airstrike-on-a-shadow-fleet-tanker.html",
+        "source": "NYT World",
+        "published": "2026-07-21T02:28:31+00:00",
+        "summary": "Evidence suggests the ship on which three Indian sailors died was not moving when it was struck in the Gulf of Oman, but it had been engaged in risky offshore transfers of oil.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Barnaby Joyce says One Nation doesn’t want return of White Australia policy but backs Pauline Hanson on mass deportations",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/20/barnaby-joyce-one-nation-white-australia-policy-pauline-hanson-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-07-20T03:12:01+00:00",
-        "summary": "Lee Hanson claims her mother’s comments on Tommy Robinson podcast were ‘misinterpreted’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBarnaby Joyce says Pauline Hanson does not support the White Australia policy but he has backed her support for “mass deportations” of those overstaying their visas.Hanson and her colleagues have spen",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
+        "title": "Another U.S. Service Member Is Killed as Iran War Expands",
         "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
         "source": "NYT World",
-        "published": "2026-07-20T02:58:22+00:00",
+        "published": "2026-07-21T02:20:18+00:00",
         "summary": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
         "thumbnail": "",
         "extras": {}
@@ -39,55 +28,66 @@
       {
         "category": "world",
         "kind": "article",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+        "title": "Houthis in Yemen Declare Red Sea Blockade on Saudi Arabia",
+        "url": "https://www.nytimes.com/2026/07/20/world/middleeast/yemen-houthis-saudi-arabia-red-sea-blockade.html",
         "source": "NYT World",
-        "published": "2026-07-20T02:58:01+00:00",
-        "summary": "",
+        "published": "2026-07-21T02:20:10+00:00",
+        "summary": "The Iran-backed Houthi militia, which controls parts of Yemen, has in the past blockaded the Red Sea by threatening a choke point crucial to Saudi oil exports and global shipping.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Israel watches tensely as the U.S.-Iran fighting escalates.",
-        "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates",
-        "source": "NYT World",
-        "published": "2026-07-20T02:42:47+00:00",
-        "summary": "",
+        "title": "Australia news live: Pauline Hanson says Trump had ‘a great way’ of dealing with migrants; Nine newspapers announces redundancies",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-07-21T02:13:55+00:00",
+        "summary": "One Nation leader says Trump’s methods dealt with people ‘using all these ploys to stay in the country’. Follow today’s news liveGet our breaking news email, free app or daily news podcastAlpine ski resorts in New South Wales and Victoria saw climate records shattered at the weekend with maximum temperatures up to 12C above average.Ski areas of Mount Hotham and Falls Creek set July records for the",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Africa Shield: Why securing development is becoming a new security priority",
-        "url": "https://www.aljazeera.com/news/2026/7/20/africa-shield-why-securing-development-is-becoming-a-new-security-priority?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-20T02:39:17+00:00",
-        "summary": "As Africa industrialises, governments are working to keep sensitive materials out of the wrong hands.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
-        "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+        "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-07-20T02:35:04+00:00",
-        "summary": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
+        "published": "2026-07-21T02:07:48+00:00",
+        "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Palestinians celebrate Spain’s World Cup victory",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-21T01:51:15+00:00",
+        "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
+        "url": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-20T02:23:45+00:00",
-        "summary": "Palestinians across Gaza and the Occupied West Bank celebrated Spain’s World Cup victory.",
+        "published": "2026-07-21T01:47:30+00:00",
+        "summary": "Authorities detain ferry crew members after drug tests reveal violations in Guyana&#039;s worst marine disaster in decades.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Why protests are growing in Ukraine over defence leadership and dismissals",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-21T01:27:56+00:00",
+        "summary": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-        "url": "https://github.com/hgaiser/moonshine",
+        "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+        "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
         "source": "Hacker News Front",
-        "published": "2026-07-20T00:16:50+00:00",
-        "summary": "Article URL: https://github.com/hgaiser/moonshine\nComments URL: https://news.ycombinator.com/item?id=48972970\nPoints: 12\n# Comments: 4",
+        "published": "2026-07-21T00:33:53+00:00",
+        "summary": "Article URL: https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country\nComments URL: https://news.ycombinator.com/item?id=48986731\nPoints: 90\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-        "source": "Ars Technica",
-        "published": "2026-07-19T22:11:21+00:00",
-        "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "We want Texans to know their rights",
-        "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
-        "source": "Hacker News Front",
-        "published": "2026-07-19T22:03:11+00:00",
-        "summary": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion\nComments URL: https://news.ycombinator.com/item?id=48972062\nPoints: 152\n# Comments: 47",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
-        "url": "https://github.com/Pedroshakoor/grok-build-ios",
-        "source": "Hacker News Front",
-        "published": "2026-07-19T21:51:26+00:00",
-        "summary": "Article URL: https://github.com/Pedroshakoor/grok-build-ios\nComments URL: https://news.ycombinator.com/item?id=48971999\nPoints: 10\n# Comments: 0",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
         "source": "TechCrunch",
-        "published": "2026-07-19T21:45:00+00:00",
-        "summary": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
+        "published": "2026-07-21T00:12:24+00:00",
+        "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Biggest Probabilistic Computer Turns Noise into Answers",
-        "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
-        "source": "Hacker News Front",
-        "published": "2026-07-19T21:42:12+00:00",
-        "summary": "Article URL: https://spectrum.ieee.org/biggest-probabilistic-computer\nComments URL: https://news.ycombinator.com/item?id=48971938\nPoints: 42\n# Comments: 7",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "AI advice made people less accurate but more confident – sudy",
-        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-        "source": "Hacker News Front",
-        "published": "2026-07-19T21:18:10+00:00",
-        "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study\nComments URL: https://news.ycombinator.com/item?id=48971738\nPoints: 294\n# Comments: 163",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "What to watch for after Jensen Huang’s Japan visit",
-        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+        "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
         "source": "TechCrunch",
-        "published": "2026-07-19T21:16:07+00:00",
-        "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+        "published": "2026-07-20T23:39:35+00:00",
+        "summary": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Jellyfin founder Andrew leaves team",
+        "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+        "source": "Hacker News Front",
+        "published": "2026-07-20T23:15:41+00:00",
+        "summary": "Article URL: https://forum.jellyfin.org/t-project-leadership-changes\nComments URL: https://news.ycombinator.com/item?id=48986091\nPoints: 73\n# Comments: 23",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Opaque, Interoperable Passkey Records (and a Go API)",
+        "url": "https://words.filippo.io/passkey-record/",
+        "source": "Hacker News Front",
+        "published": "2026-07-20T23:00:29+00:00",
+        "summary": "Article URL: https://words.filippo.io/passkey-record/\nComments URL: https://news.ycombinator.com/item?id=48985956\nPoints: 15\n# Comments: 4",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Trump’s latest AI czar has already resigned",
+        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "source": "TechCrunch",
+        "published": "2026-07-20T22:21:04+00:00",
+        "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+        "source": "The Verge",
+        "published": "2026-07-20T22:19:12+00:00",
+        "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+        "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+        "source": "The Verge",
+        "published": "2026-07-20T22:16:14+00:00",
+        "summary": "Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by cracking down on the \"DJI front companies\" suspected of [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,60 +186,168 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "유창훈 대표가 말하는 ‘OT 보안에 센스톤의 OTAC가 필요한 이유’",
-        "url": "https://byline.network/2026/07/16-694/",
+        "title": "우버가 배민 인수로 얻고자 하는 것",
+        "url": "https://byline.network/2026/07/21_218737/",
         "source": "ByLine Network",
-        "published": "2026-07-20T02:20:37+00:00",
-        "summary": "“OTAC가 금융과 드론 같은 분야에서는 ‘있으면 좋은 기술’ 정도에 머물렀지만, 운영기술(OT)에서는 ‘반드시 필요한 기술’이 됐습니다.” 유창훈 센스톤 대표는 회사가 개발한 ‘일회용 인증코드(One-Time Authentication Code·OTAC)’를 산업용제어장치(PLC) 등 OT 장비에 적용하면, 외부 통신이 제한된 산업 현장에서도 사용자와 기기를 식별하고 비인가 접근을 막을 수 있다고 강조했다. 센스톤은 최근 작업자가 실제 OT 설비에 접속하기 직전 신원을 다시 확인하는 인증 영역을 집중적으로 공략하고 있다.",
+        "published": "2026-07-20T22:58:07+00:00",
+        "summary": "지난 몇 년간 배달의민족(이하 배민)은 꽤 큰 고난을 치뤘다. 쿠팡이츠는 모회사인 쿠팡의 지원 사격을 받아 승승장구하는데, 배민은 모회사인 딜리버리히어로(이하 DH)에 매년 벌어들인 만큼의 현금을 갖다 바쳤기 때문이다. 이 기간 동안 배민은 핵심 지역인 서울을 쿠팡이츠에 빼앗기기도 했다. \n\n고난의 시간을 겪은 배민의 주인이 바뀐다, 바로 우버다. 배민 모회사인 DH를 인수하기로 했기 때문이다. 독일 규제 당국의 허가에 대한 우버의 예상이 맞아 떨어진다면, 오는 2027년 하반기에 배민은 자연스레 우버의 품에 안기게 된다. 2019년 우버이츠가 철수한 후 한국 배달 시장에 다시 뛰어드는 셈이다. \n\n그렇다면 우버가 그리는 그림은 뭘까. 그리고 배민의 미래는 밝을까, 아님 어두울까?",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "농식품 스타트업, 해외 진출 시 기술력보다 현지화 우선",
-        "url": "https://byline.network/2026/07/859843058340/",
+        "title": "[주간 리포트] 우버, 배민 모기업 인수",
+        "url": "https://byline.network/2026/07/21-582/",
         "source": "ByLine Network",
-        "published": "2026-07-19T22:26:21+00:00",
-        "summary": "애그테크·푸드테크·그린바이오 같은 농식품 스타트업 업계가 해외 진출을 하기 위해서는 기술력보다 현지화가 먼저 고려돼야 한다는 평가 기준이 제시됐다. 기술력보다 시장의 수요에 맞추는 것을 우선해야 한다는 의견도 뒤따랐다.\n16일 서울 코엑스에서 열린 ‘제4회 농식품 테크 창업 스타트업 박람회(AFPRO)’에서는 글로벌 수출을 지원하는 2026 글로벌 액셀러레이팅 데모데이(GMEP Demo-Day)가 열렸다. 해당 세션의 패널 토론회에는 민요한 도시곳간 대표, 샤픽 조하리 더개리슨 최고투자책임자(CIO), 이재호 그린웨이브솔루션 대표가 참석했다.",
+        "published": "2026-07-20T22:56:16+00:00",
+        "summary": "바이라인네트워크는 매일 생산해내는 기사와는 별도로 주간 트렌드 리포트를 발간하고 있습니다. IT 산업에서 한 주간 전해진 소식 가운데 기업 경영자, IT 종사자들이라면 놓치지 말아야 하는 내용을 큐레이션해, 전문기자들의 관점을 담은 콘텐츠로 제공합니다. 이 리포트를 받아보시려면 별도로 가입(구독) 신청하셔야 합니다. https://byline.network/product/premium/ 여기서 신청하시면 됩니다. 최신 주간 트렌드 리포트를 확인하세요.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[커머스BN] 잘파 세대는 어떻게 소비하나…AI·모바일·독서 데이터가 말하는 것",
-        "url": "https://byline.network/2026/07/2918273/",
+        "title": "백화점 3사 외국인 연매출 1조원 시대 왔다 [Weekly Commerce]",
+        "url": "https://byline.network/2026/07/21_2019273/",
         "source": "ByLine Network",
-        "published": "2026-07-19T04:23:29+00:00",
-        "summary": "15일 서울 서대문구에서 열린 세미나 '데이터로 읽는 2026 상반기 트렌드 :: '잘파세대(Zalpha)가 바꾸는 새로운 일상''에서는 KT 밀리의서재와 마인드로직, 아이지에이웍스 3사가 함께 잘파세대의 AI 및 모바일 사용 동향에 대해 짚었습니다. 과연 이 세대는 어떤 시각을 가지고 있을까요?",
+        "published": "2026-07-20T22:44:01+00:00",
+        "summary": "백화점 3사의 올해 상반기 외국인 매출 1조7000억을 넘겼습니다. 상반기에만 지난해 연간 80~90%를 달성한 셈인데요. 과거 엔저와 관광객, 그리고 관광객 눈높이에 맞는 서비스로 일본 백화점 업계가 호황기를 누렸던 모습이 한국에서도 재연되고 있습니다. 각 사는 올해 연간 외국인 매출이 각 1조원을 무난히 돌파할 것으로 보고 있습니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "‘키미 K3’ 승부수는 가격… 프론티어급 성능에 오퍼스 4.8 대비 태스크 비용 약 절반",
-        "url": "https://platum.kr/archives/291051?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2582%25a4%25eb%25af%25b8-k3-%25ec%258a%25b9%25eb%25b6%2580%25ec%2588%2598%25eb%258a%2594-%25ea%25b0%2580%25ea%25b2%25a9-%25ed%2594%2584%25eb%25a1%25a0%25ed%258b%25b0%25ec%2596%25b4%25ea%25b8%2589-%25ec%2584%25b1%25eb%258a%25a5%25ec%2597%2590-%25ec%2598%25a4%25ed%258d%25bc%25ec%258a%25a4-4-8",
+        "title": "[그게 뭔가요] 국가 ‘인공지능정보보호최고책임자(CAISO)’, 필요한가?",
+        "url": "https://byline.network/2026/07/20-629/",
+        "source": "ByLine Network",
+        "published": "2026-07-20T21:55:26+00:00",
+        "summary": "인공지능(AI)을 어디에 활용할지 고민하는 조직은 점점 늘고 있다. 하지만 조직이 사용하는 AI 모델이 안전한지 누가 검증해야 하는지는 분명하지 않다. 보안 취약점이나 오작동이 발견됐을 때 사용을 중단하고 대응을 조율할 책임도 마찬가지다. 이 문제를 국가 차원에서 다뤄야 한다는 제안이 최근 국내 보안 분야에서 나왔다. 지난 8일 열린 제15회 정보보호의 날 기념식에서 이상근 고려대 스마트보안학과 교수는 국가 차원의 ‘인공지능 정보보호 최고책임자(CAISO)’가 필요하다고 말했다",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Reynolds appointed business secretary as DSIT scrapped",
+        "url": "https://sifted.eu/articles/andy-burnham-reshuffle-liz-kendall-peter-kyle/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-20T17:11:43+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Mexico Extends Its Venture Lead Over Brazil As More Global VCs Enter Latin America",
+        "url": "https://news.crunchbase.com/venture/mexico-leads-latin-america-funding-q2-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-07-20T11:00:30+00:00",
+        "summary": "Mexico’s startups led the LatAm pack in Q2 — by a wide margin. The country’s startups raised $944 million in the second quarter, up 131% compared to $409 million in last year’s Q2, and up 136% from the $401 million raised in this year’s first quarter, per Crunchbase data. For comparison’s sake, that’s almost as much as Latin American startups as a whole raised in the second quarter of 2025.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "CuspAI lands $450m round to accelerate AI materials discovery",
+        "url": "https://sifted.eu/articles/cuspai-lands-450m-round-to-accelerate-ai-materials-discovery/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-20T10:47:05+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "전기이륜차 구독 플랫폼 사이클로이드, 액스벤처스서 5억원 투자 유치",
+        "url": "https://platum.kr/archives/291128?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25ea%25b8%25b0%25ec%259d%25b4%25eb%25a5%259c%25ec%25b0%25a8-%25ea%25b5%25ac%25eb%258f%2585-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-%25ec%2582%25ac%25ec%259d%25b4%25ed%2581%25b4%25eb%25a1%259c%25ec%259d%25b4%25eb%2593%259c-%25ec%2595%25a1%25ec%258a%25a4%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4",
         "source": "Platum",
-        "published": "2026-07-18T09:59:12+00:00",
-        "summary": "2.8조 파라미터 모델, 가중치는 27일까지 공개 예정 중국 인공지능(AI) 스타트업 문샷AI(Moonshot AI)가 16일(현지시간) 대규모 언어모델 &#8216;키미 K3(Kimi K3)&#8217;를 출시했다. 회사는 이 모델이 2조 8,000억 개의 파라미터를 갖춘 혼합전문가(MoE) 구조로, 가중치가 예정대로 공개되면 지금까지 나온 오픈웨이트 언어모델 가운데 최대 규모가 될 것이라고 밝혔다. 독립 평가 기관 아티피셜 애널리시스(Artificial Analysis)의 종합 지표 &#8216;인텔리전스 인덱스&#8217;에서 키미 K3는 57점을 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "시진핑 “AI는 국제 협력의 교향곡”… 29개국, ‘세계AI협력기구’ 창설 협정 서명",
-        "url": "https://platum.kr/archives/291047?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%259c%25ec%25a7%2584%25ed%2595%2591-ai%25eb%258a%2594-%25ea%25b5%25ad%25ec%25a0%259c-%25ed%2598%2591%25eb%25a0%25a5%25ec%259d%2598-%25ea%25b5%2590%25ed%2596%25a5%25ea%25b3%25a1-29%25ea%25b0%259c%25ea%25b5%25ad-%25ec%2584%25b8%25ea%25b3%2584ai%25ed%2598%2591%25eb%25a0%25a5%25ea%25b8%25b0",
-        "source": "Platum",
-        "published": "2026-07-18T08:41:25+00:00",
-        "summary": "WAIC 개막식 첫 참석해 글로벌 AI 거버넌스 4대 제언… 상하이 본부 정부간 기구 창설, 개도국 지원책도 발표 시진핑 중국 국가주석은 7월 17일 상하이 세계회객청(世界会客厅·더 그랜드 홀스)에서 열린 &#8216;2026 세계인공지능대회(WAIC) 및 인공지능(AI) 글로벌 거버넌스 고위급회의&#8217; 개막식에서 &#8220;AI 발전은 어느 한 국가의 독주가 아니라 글로벌 협력의 교향곡이 돼야 한다&#8221;며 공정하고 합리적인 글로벌 AI 거버넌스 체계 구축을 촉구했다. ... 더 읽기",
+        "published": "2026-07-20T08:27:42+00:00",
+        "summary": "전기이륜차 구독 플랫폼 사이클로이드(Cycloid)가 액스벤처스(AXE Ventures)로부터 5억원 규모의 투자를 유치했다. 사이클로이드는 배달 라이더 대상&#160;전기이륜차 구독 서비스&#160;&#8216;바드림(Badream)&#8217;을 운영하는 모빌리티&#160;기업이다. 전기이륜차 구독과 신차 구매,&#160;보조금 신청 자동화, 금융 연계,&#160;차량 관리, 직영 정비센터&#160;운영 등을 하나의 플랫폼에서&#160;제공한다. 최근에는 제조사·금융사와&#160;협력해 전기이륜차 보급 사업을&#160;확대하고 있으며, 서울시 및 민간&#160;기업들과 친환경 모빌리티 기반 신규&#160;사업도 추진 중이다. 투자사인&#160;액스벤처스는 초기 기술기업에 투자하는&#160;액셀러레이터로,",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "American Dynamism Presents",
+        "url": "https://www.youtube.com/watch?v=RC4_MWFUHr0",
+        "source": "a16z",
+        "published": "2026-07-20T22:40:47+00:00",
+        "summary": "A16Z American Dynamism presents:\n\nUlysses. Mariana Minerals. Radiant.\n\nComing soon.\n--\nLearn more about American Dynamism: https://a16z.com/american-dynamism/",
+        "thumbnail": "https://i3.ytimg.com/vi/RC4_MWFUHr0/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "RC4_MWFUHr0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "When Disney Made More From Merch Than Movies",
+        "url": "https://www.youtube.com/watch?v=U79ts6YlGHQ",
+        "source": "Acquired",
+        "published": "2026-07-20T21:04:54Z",
+        "summary": "From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/U79ts6YlGHQ/mqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "U79ts6YlGHQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Chamath: Tokenmaxxing is a bridge to nowhere",
+        "url": "https://www.youtube.com/shorts/femfLQMSxKY",
+        "source": "All-In Podcast",
+        "published": "2026-07-20T16:00:25+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
+        "thumbnail": "https://i3.ytimg.com/vi/femfLQMSxKY/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "femfLQMSxKY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Theres A New Way To See Your Insides",
+        "url": "https://www.youtube.com/shorts/3QCn2QTxlDo",
+        "source": "Cleo Abram",
+        "published": "2026-07-20T14:54:15+00:00",
+        "summary": "There’s a new way to see inside your body that could replace MRIs, and it only uses water and sound.  \n\nYour typical MRI machine uses magnets and radio waves to collect data. To learn how this new machine works, subscribe!\n\n#shorts #medical #MRI #technology",
+        "thumbnail": "https://i4.ytimg.com/vi/3QCn2QTxlDo/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "3QCn2QTxlDo",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "기업이 돈을 벌면, 그 돈은 누구의 것인가?",
+        "url": "https://www.youtube.com/watch?v=tt-Ky5xqgCo",
+        "source": "슈카월드",
+        "published": "2026-07-20T12:27:34Z",
+        "summary": "0:00 글로벌 카나리아가 된 한국 주식 시장 12:17 단일종목 레버리지 보완방안 발표 17:26 넌 감동이었어 24:08 주주는 어디에?",
+        "thumbnail": "https://i.ytimg.com/vi/tt-Ky5xqgCo/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "tt-Ky5xqgCo",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -276,28 +384,13 @@
         "title": "컴퓨터공학 전공 실업률이 철학 전공 실업률보다 높아졌다",
         "url": "https://www.youtube.com/watch?v=Tbyh9Py_gvM",
         "source": "티타임즈TV",
-        "published": "2026-07-18T22:00:32+00:00",
-        "summary": "최근 미국에서는 컴퓨터공학 전공자들의 실업률이 철학 전공자들의 실업률보다 높아졌다고 합니다. AI 회사들이 철학과 출신들을 뽑고 있기 때문이죠. 취업과 거리가 멀던 철학과 출신들이 왜 AI시대에 안전한 전공처럼 돼버린 것일까요? AI업계에서는 또 “구현은 싸졌다. 비싸진 것은 취향”이라는 말도 많이 합니다. 왜 구현보다 취향이 더 중요한 키워드가 된 것일까요? \n\n편집 : 박선희 영상 디자이너\n촬영 : 장민주 PD\n자료 : 배소진 기자\n진행 : 배소진 기자\n섬네일 : 박선희 영상 디자이너\n\n▶티타임즈 공식 홈페이지\nhttp://ww",
-        "thumbnail": "https://i1.ytimg.com/vi/Tbyh9Py_gvM/hqdefault.jpg",
+        "published": "2026-07-18T22:00:32Z",
+        "summary": "최근 미국에서는 컴퓨터공학 전공자들의 실업률이 철학 전공자들의 실업률보다 높아졌다고 합니다. AI 회사들이 철학과 출신들을 ...",
+        "thumbnail": "https://i.ytimg.com/vi/Tbyh9Py_gvM/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "Tbyh9Py_gvM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "David Friedberg: Scientists just REVERSED skin age from 70 years to 31",
-        "url": "https://www.youtube.com/shorts/J3_9g6g-XM4",
-        "source": "All-In Podcast",
-        "published": "2026-07-18T13:35:23+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@theallinpod\n\nFollow on LinkedIn: \nhttps://www",
-        "thumbnail": "https://i3.ytimg.com/vi/J3_9g6g-XM4/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "J3_9g6g-XM4",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -306,88 +399,28 @@
         "title": "한국인들은 왜 실내에서도 썬크림을 바르나요?",
         "url": "https://www.youtube.com/watch?v=Agx5esq_p2w",
         "source": "슈카월드",
-        "published": "2026-07-18T11:53:07+00:00",
-        "summary": "0:00 한국의 전세계 수출 2위 품목\n11:26 썬크림에 미친 나라",
-        "thumbnail": "https://i2.ytimg.com/vi/Agx5esq_p2w/hqdefault.jpg",
+        "published": "2026-07-18T11:53:07Z",
+        "summary": "0:00 한국의 전세계 수출 2위 품목 11:26 썬크림에 미친 나라.",
+        "thumbnail": "https://i.ytimg.com/vi/Agx5esq_p2w/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "Agx5esq_p2w",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
         "title": "How Walt Disney Funded Disneyland",
-        "url": "https://www.youtube.com/shorts/7ozXyLYjgH4",
+        "url": "https://www.youtube.com/watch?v=7ozXyLYjgH4",
         "source": "Acquired",
-        "published": "2026-07-18T10:14:17+00:00",
-        "summary": "🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
-        "thumbnail": "https://i4.ytimg.com/vi/7ozXyLYjgH4/hqdefault.jpg",
+        "published": "2026-07-18T10:14:17Z",
+        "summary": "From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
+        "thumbnail": "https://i.ytimg.com/vi/7ozXyLYjgH4/mqdefault.jpg",
         "extras": {
           "theme": "deep_dive",
           "videoId": "7ozXyLYjgH4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "45분 만에 700억 투자받은 창업자가 말하는 AI의 진짜 미래 | Radical AI, Joseph F. Krause",
-        "url": "https://www.youtube.com/watch?v=QoPKzR3SN1Q",
-        "source": "EO 이오",
-        "published": "2026-07-18T09:00:30+00:00",
-        "summary": "\"AI는 세상을 바꿀 겁니다. 우리가 지금처럼 쓰지 않는다면요.\" \n\n현재 많은 스타트업과 빅테크 기업들이 AI로 챗봇이나 작은 자동화 도구를 만드는 데 집중하고 있습니다. 하지만 Radical AI의 공동 창업자이자 CEO인 조셉 크라우스는 더 큰 문제를 해결하는 데 도전하고 있습니다. 150년 동안 변하지 않은 전통적인 과학 연구 방식을 통째로 혁신하려는 조셉 크라우스의 이야기를 EO가 직접 만나 들어보았습니다.\n\n조셉은 AI와 자율 시스템을 결합한 '과학적 AGI(범용 인공지능)'를 구축하여 인류가 직면한 가장 어렵고 거대한 ",
-        "thumbnail": "https://i2.ytimg.com/vi/QoPKzR3SN1Q/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "QoPKzR3SN1Q",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why AI Suddenly Looks Extra Bubbly",
-        "url": "https://www.youtube.com/watch?v=VS00sg8rsnE",
-        "source": "TLDR News Global",
-        "published": "2026-07-18T08:30:35+00:00",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nWatch the Full Trailer: https://youtu.be/mP1b-33Qnqw\nSign Up to TLDR Party: https://toolong.news/party\nLearn More about TLDR Party: https://youtu.be/KVXXC3jk4Kg\n\nTech spending on AI continues to balloon with the expecta",
-        "thumbnail": "https://i3.ytimg.com/vi/VS00sg8rsnE/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "VS00sg8rsnE",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Deep Are the DEEPEST Diamonds?",
-        "url": "https://www.youtube.com/shorts/IdXyMUnnJ3k",
-        "source": "Cleo Abram",
-        "published": "2026-07-17T15:03:54+00:00",
-        "summary": "If you took some of the biggest and most famous diamonds and smashed them open, you’d find evidence that they came from WAY deeper than you think…  \n\nAnd they seem to be made in a fundamentally different way…for more on that, subscribe!\n\n#shorts #diamonds #earthmantle #digging #animation \n\nSource: S",
-        "thumbnail": "https://i2.ytimg.com/vi/IdXyMUnnJ3k/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "IdXyMUnnJ3k",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Amjad Masad on Memes, Media, and Building Replit in Public | a16z",
-        "url": "https://www.youtube.com/watch?v=rghTqkclDqA",
-        "source": "a16z",
-        "published": "2026-07-17T14:30:21+00:00",
-        "summary": "Recorded live at the New Media Summit, Erik Torenberg sits down with Replit founder and CEO Amjad Masad to discuss founder-led storytelling, building in public, and the role of media in company building.\n\nMasad reflects on Replit’s decade-long journey, including the years before the company’s recent",
-        "thumbnail": "https://i3.ytimg.com/vi/rghTqkclDqA/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "rghTqkclDqA",
-          "via": "rss"
+          "via": "api"
         }
       }
     ]
