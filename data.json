@@ -1,82 +1,49 @@
 {
-  "generated_at": "2026-07-23T02:33:07.154385+00:00",
+  "generated_at": "2026-07-24T02:30:09.289154+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
-        "url": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+        "title": "Iran War Live Updates: Iran Rejected a U.S. Cease-Fire Offer Delivered by Iraq, Officials Say",
+        "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
         "source": "NYT World",
-        "published": "2026-07-23T02:28:22+00:00",
-        "summary": "An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
+        "published": "2026-07-24T02:18:54+00:00",
+        "summary": "The prime minister of Iraq, who recently visited the White House, carried the proposal to Tehran. The U.S. military said it conducted a 13th consecutive night of strikes on Iran in the early hours of Friday local time.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Albanese attacks ‘attention-seeking culture wars’ of One Nation and announces new Fair Work court",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+        "title": "Australia news live: ABC takes down two Four Corners episodes on drug trade over ‘veracity concerns’; Labor dodges gambling reform fight",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-07-23T02:12:27+00:00",
-        "summary": "Follow liveGet our breaking news email, free app or daily news podcastSelf-reported domestic violence incidents declining in NSW but deaths and hospitalisations fail to fallNew data shows self-reported domestic violence incidents in New South Wales have declined, but the number of women and children murdered or hospitalised in domestic and family violence incidents over the past eight years has no",
+        "published": "2026-07-24T02:13:04+00:00",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastAustralian exports sent to the US will be hit with a 12.5% tariff as the US president imposes levies on more than 80 nations.The Trump administration unveiled the latest tranche of tariffs for countries over their “failure to impose and effectively enforce a prohibition on the importation of goods produced with forc",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
-        "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-        "source": "NYT World",
-        "published": "2026-07-23T01:54:06+00:00",
-        "summary": "Early Thursday in the Middle East, the U.S. Central Command said it was carrying out a new wave strikes on Iran, a 12th consecutive day of attacks. Iranian state media said the province that is home to Iran’s only operating nuclear power plant had been hit in a missile strike.",
+        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-24T02:10:00+00:00",
+        "summary": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Why Abderrahim Fakir’s death reignited Italy’s police accountability debate",
-        "url": "https://www.aljazeera.com/news/2026/7/23/why-abderrahim-fakirs-death-reignited-italys-police-accountability-debate?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-23T01:44:30+00:00",
-        "summary": "A Moroccan-born man’s death in Bologna has prompted anger and renewed scrutiny of Italy’s policing and legal reforms.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East",
-        "url": "https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html",
-        "source": "NYT World",
-        "published": "2026-07-23T01:37:39+00:00",
-        "summary": "Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
-        "url": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
-        "source": "NYT World",
-        "published": "2026-07-23T01:35:52+00:00",
-        "summary": "The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Three Airports Plan to Ditch T.S.A. Agents Amid Push for Private Security",
-        "url": "https://www.nytimes.com/2026/07/22/travel/tsa-privatization-push.html",
-        "source": "NYT World",
-        "published": "2026-07-23T01:34:12+00:00",
-        "summary": "The airports have opted in to the agency’s new security model, an agency spokesperson confirmed on Wednesday. A union official said the move could jeopardize public safety.",
+        "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+        "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-24T01:59:49+00:00",
+        "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
         "thumbnail": "",
         "extras": {}
       },
@@ -84,10 +51,43 @@
         "category": "world",
         "kind": "article",
         "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+        "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
         "source": "NYT World",
-        "published": "2026-07-23T01:33:27+00:00",
+        "published": "2026-07-24T01:56:54+00:00",
         "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Ukraine’s Zelenskyy meets with far-right US activist Laura Loomer",
+        "url": "https://www.aljazeera.com/news/2026/7/24/ukraine-zelenskyy-meets-with-trump-ally-laura-loomer?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-24T01:49:27+00:00",
+        "summary": "Pro-Israel Trump ally sits down with Ukrainian president as she says Russia is helping Iran kill US soldiers.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Mike Waltz pressed over Al Jazeera video during congressional hearing",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/aje-onl-nf_mike-waltz-pressed-over-al-jazeera-video-congress-230726?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-24T01:24:41+00:00",
+        "summary": "Ted Lieu challenges UN Ambassador Mike Waltz after playing Al Jazeera footage of Iranian strikes in Jordan.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump imposes new double-digit tariffs on dozens of countries",
+        "url": "https://www.aljazeera.com/news/2026/7/24/trump-imposes-new-double-digit-tariffs-on-dozens-of-countries?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-24T01:08:08+00:00",
+        "summary": "With existing 10 percent levies set to expire, Trump issues new tariffs on 60 countries under forced labour provision.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Run large language models at home, BitTorrent‑style",
-        "url": "https://petals.dev/",
-        "source": "Hacker News Front",
-        "published": "2026-07-23T01:33:12+00:00",
-        "summary": "Article URL: https://petals.dev/\nComments URL: https://news.ycombinator.com/item?id=49015735\nPoints: 16\n# Comments: 3",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Codeberg Bans Cryptocurrency Projects",
-        "url": "https://codeberg.org/Codeberg/org/pulls/1254",
-        "source": "Hacker News Front",
-        "published": "2026-07-23T01:06:56+00:00",
-        "summary": "Article URL: https://codeberg.org/Codeberg/org/pulls/1254\nComments URL: https://news.ycombinator.com/item?id=49015588\nPoints: 62\n# Comments: 31",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
-        "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
-        "source": "The Verge",
-        "published": "2026-07-23T00:30:00+00:00",
-        "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. Now, he's helped the company create a $200 Donkey Kong arcade machine set that managed to win even Mario creator [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
         "source": "TechCrunch",
-        "published": "2026-07-22T23:47:54+00:00",
-        "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "published": "2026-07-24T01:00:00+00:00",
+        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-        "url": "https://arxiv.org/abs/2607.18250",
-        "source": "Hacker News Front",
-        "published": "2026-07-22T22:49:58+00:00",
-        "summary": "Article URL: https://arxiv.org/abs/2607.18250\nComments URL: https://news.ycombinator.com/item?id=49014537\nPoints: 25\n# Comments: 18",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Meta won’t have to face the next planned social media addiction trial",
-        "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
-        "source": "The Verge",
-        "published": "2026-07-22T22:03:53+00:00",
-        "summary": "Less than a week before Meta's lawyers were set to return to a Los Angeles courtroom, the plaintiff accusing the platform of inflicting harm dropped the case. Brought by 15-year-old Florida plaintiff going by initials R.K.C., the case was set to be the second in a set of bellwether trials meant to test legal arguments [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Google justifies its massive AI spending with a booming cloud business",
-        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "title": "Meet the judges who will crown Australia’s next breakout startup",
+        "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
         "source": "TechCrunch",
-        "published": "2026-07-22T22:01:52+00:00",
-        "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "published": "2026-07-24T00:05:00+00:00",
+        "summary": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Medici family mystery may be solved after more than 400 years",
-        "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+        "title": "An FDA Panel Just Endorsed These Unproven Peptides",
+        "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+        "source": "Wired",
+        "published": "2026-07-23T23:45:12+00:00",
+        "summary": "Outside experts—some with a vested interest in peptides—recommended adding a number of the amino acids to the FDA’s bulks list, including the “Wolverine stack” touted by Joe Rogan and other influencers.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The Visual 6502",
+        "url": "http://visual6502.org/JSSim/index.html",
         "source": "Hacker News Front",
-        "published": "2026-07-22T21:55:34+00:00",
-        "summary": "Article URL: https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria\nComments URL: https://news.ycombinator.com/item?id=49014007\nPoints: 81\n# Comments: 20",
+        "published": "2026-07-23T23:36:42+00:00",
+        "summary": "Article URL: http://visual6502.org/JSSim/index.html\nComments URL: https://news.ycombinator.com/item?id=49029538\nPoints: 49\n# Comments: 15",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
+        "url": "https://arxiv.org/abs/2507.09369",
+        "source": "Hacker News Front",
+        "published": "2026-07-23T22:51:13+00:00",
+        "summary": "Article URL: https://arxiv.org/abs/2507.09369\nComments URL: https://news.ycombinator.com/item?id=49029133\nPoints: 53\n# Comments: 40",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+        "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+        "source": "TechCrunch",
+        "published": "2026-07-23T22:40:08+00:00",
+        "summary": "Shashua has been invited to take the chairman of the board seat.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "98.css",
+        "url": "https://jdan.github.io/98.css/#status-bar",
+        "source": "Hacker News Front",
+        "published": "2026-07-23T22:30:29+00:00",
+        "summary": "Article URL: https://jdan.github.io/98.css/#status-bar\nComments URL: https://news.ycombinator.com/item?id=49028927\nPoints: 247\n# Comments: 51",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+        "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+        "source": "The Verge",
+        "published": "2026-07-23T21:15:06+00:00",
+        "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,32 +186,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI 에이전트 커머스 결제 표준 전쟁, 한국에 남은 시간은 12개월",
-        "url": "https://byline.network/2026/07/22_19287734/",
+        "title": "서클 최고전략책임자 “한국 스테이블코인, 규제 명확성이 우선”",
+        "url": "https://byline.network/2026/07/0723-10/",
         "source": "ByLine Network",
-        "published": "2026-07-22T21:58:25+00:00",
-        "summary": "AI 에이전트가 탐색부터 결제까지 하는 에이전틱 커머스가 사실상 임계점을 넘은 지금, 한국이 단순히 기초 모델 개발 경쟁에만 치중하기보다는 시장 주도권을 확보할 수 있는 표준·신뢰 인프라를 확보해야 한다는 제안이 나왔다.",
+        "published": "2026-07-23T23:10:23+00:00",
+        "summary": "단테 디스파르테 서클 최고전략책임자 겸 글로벌 정책 및 운영 총괄은 주요 기관들이 스테이블코인을 시제품 단계에서 실제 생산 단계로 전환하기 위해서는 법적·규제적 명확성이 필요하다고 강조했다. 이어 한국 국회와 규제 당국, 중앙은행이 이 같은 점을 고려해야 한다며, 스테이블코인 제도화가 한국의 국익과 경제 경쟁력 강화에 도움이 되고 변화하는 새로운 경제에 참여하는 전략적인 방법이 될 것이라고 밝혔다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Crunchbase Tech Layoffs Tracker",
-        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+        "title": "The Rise And Rise Of Billion-Dollar-Plus Rounds",
+        "url": "https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-fintech-healthcare-h1-2026/",
         "source": "Crunchbase News",
-        "published": "2026-07-22T17:55:30+00:00",
-        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+        "published": "2026-07-23T11:00:53+00:00",
+        "summary": "So far this year, 60% of global startup funding across stages — around $320 billion — went to rounds of $1 billion or more, per Crunchbase data, with such rounds instrumental in pushing global funding for the first half of the year to record levels.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Revolut hits $115bn valuation in employee share sale, reports say",
-        "url": "https://sifted.eu/articles/revolut-115-valuation-secondary-share-sale/",
+        "title": "Is On-Prem Making A Comeback?",
+        "url": "https://news.crunchbase.com/ai/on-prem-systems-vs-cloud-security-sagie/",
+        "source": "Crunchbase News",
+        "published": "2026-07-23T11:00:09+00:00",
+        "summary": "While cloud migration previously offered unmatched speed and cost efficiency, decision-makers now perceive localized systems as offering superior long-term security. In this guest commentary, strategic adviser Itay Sagie shares three trends he believes are pushing on-prem back into the limelight.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Why automated CV screening is failing — and what to replace it with",
+        "url": "https://sifted.eu/articles/why-automated-cv-screening-is-failing-brnd/",
         "source": "Sifted (EU startups)",
-        "published": "2026-07-22T16:12:22+00:00",
+        "published": "2026-07-23T10:35:54+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -219,55 +230,44 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[커머스BN] 네이버 쇼핑의 신무기 ‘FBN’, A부터 Z까지 뜯어보기",
-        "url": "https://byline.network/2026/07/23_fbn/",
+        "title": "[플레이BN] 추론하는 재미 가득, 컴투스홀딩스 ‘컬러스위퍼’",
+        "url": "https://byline.network/2026/07/23-624/",
         "source": "ByLine Network",
-        "published": "2026-07-22T16:09:32+00:00",
-        "summary": "네이버가 1년간 준비한 신규 물류 서비스가 지난 6월 말부터 오픈 베타를 시작했습니다. 주인공은 N배송 FBN(Fulfillment by Naver)입니다. 누가 맡는지, 그리고 어떻게 운영되는지, 어떤 물건을 파는 판매자에게 좋은지, 물류사들에 FBN이 좋은지까지. 한 번 뜯어보고, 물어봤습니다.",
+        "published": "2026-07-23T10:16:40+00:00",
+        "summary": "컴투스홀딩스에서 선보인 ‘컬러스위퍼’는 퍼즐 게임의 핵심은 유지하되, 새로운 플레이 방식을 채택했습니다. 게임 방식은 어렵지 않습니다. 사각형 격자판이 주어지고, 각 구역에 올바른 색상을 칠하면 됩니다. 주어진 단서를 활용해서 추론하고, 어떤 곳에 무슨 색을 칠할지 고민해야 합니다. 손가락을 움직이기 전에 머리를 써야 하는 게임인 거죠. 결론부터 얘기하면 참신하면서 재밌습니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Led By DeepSeek, 10 Frontier Labs Rush Onto The Crunchbase Unicorn Board In June",
-        "url": "https://news.crunchbase.com/venture/new-unicorn-board-startups-exits-ai-semiconductors-june-2026/",
-        "source": "Crunchbase News",
-        "published": "2026-07-22T11:00:54+00:00",
-        "summary": "A total of 34 companies joined The Crunchbase Unicorn Board in June, altogether adding more than $110 billion in value, with 10 of those companies AI labs, which were collectively valued at $65 billion. Other leading sectors with multiple companies were in robotics and AI infrastructure.",
+        "title": "구글, 2분기 ′어닝 서프라이즈’로 AI 성과 입증",
+        "url": "https://byline.network/2026/07/23-623/",
+        "source": "ByLine Network",
+        "published": "2026-07-23T09:45:59+00:00",
+        "summary": "알파벳은 22일 2026년 2분기 실적 발표에서 해당 기간동안 매출 1198억달러, 주당 순이익 9.11달러를 기록했다고 밝혔다. 월가 예상치인 매출 1165억1000만달러, 주당 순이익 2.88달러를 각각 상회했다. 매출은 전년 동기 대비 24% 증가했고, 영업 이익은 30% 증가한 408억달러를 내며 영업 이익률 34%를 기록하며 대규모 투자 속에서 안정성을 입증했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "This Time Is Different: Why AI Is Unlike Any Wave I Have Seen In 40 Years Of Financial Services",
-        "url": "https://news.crunchbase.com/fintech/ai-wave-banking-innovation-morris-qed/",
-        "source": "Crunchbase News",
-        "published": "2026-07-22T11:00:48+00:00",
-        "summary": "AI will fundamentally rewrite the global financial value chain, making marginal operating costs near-zero and creating highly personalized, previously impossible products, argues guest columnist Nigel Morris of QED Investors. He warns that success will depend on whether incumbent banks and fintechs are willing to self-cannibalize and rebuild their operations around this transformative technology.",
+        "title": "상반기 중소기업 수출 640억 달러… 상반기 기준 첫 600억 달러 돌파",
+        "url": "https://platum.kr/archives/291314?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2583%2581%25eb%25b0%2598%25ea%25b8%25b0-%25ec%25a4%2591%25ec%2586%258c%25ea%25b8%25b0%25ec%2597%2585-%25ec%2588%2598%25ec%25b6%259c-640%25ec%2596%25b5-%25eb%258b%25ac%25eb%259f%25ac-%25ec%2583%2581%25eb%25b0%2598%25ea%25b8%25b0-%25ea%25b8%25b0%25ec%25a4%2580-%25ec%25b2%25ab-600%25ec%2596%25b5",
+        "source": "Platum",
+        "published": "2026-07-23T05:31:19+00:00",
+        "summary": "올해 상반기 중소기업 수출액이 640억 달러로 전년 동기 대비 11.6% 증가했다. 중소벤처기업부가 23일 발표한 &#8216;2026년도 상반기 중소기업 수출 동향&#8217;에 따른 것으로, 상반기 기준으로 600억 달러를 넘은 것은 처음이다. 종전 최고는 2022년 상반기 591억 달러였다. 수출에 참여한 중소기업은 8만490개사로 2.4% 늘었다. 관세청 통관자료를 기초로 한 잠정치다. 품목별로는 화장품이 50억7000만 달러(30.7% 증가)로 1위를 기록했다. 역대 상반기 최대 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "OpenAI models hack Hugging Face systems during internal testing",
-        "url": "https://sifted.eu/articles/openai-hack-hugging-face/",
+        "title": "Mistral wanted to beat Anthropic. Now it’s becoming Palantir",
+        "url": "https://sifted.eu/articles/mistral-palantir-data/",
         "source": "Sifted (EU startups)",
-        "published": "2026-07-22T10:10:07+00:00",
+        "published": "2026-07-23T05:00:56+00:00",
         "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "“쌀 수매하듯, 정부가 데이터 수매하자”",
-        "url": "https://byline.network/2026/07/8490238402/",
-        "source": "ByLine Network",
-        "published": "2026-07-22T09:12:54+00:00",
-        "summary": "피지컬 인공지능(AI) 산업 발전을 위해 데이터 공공수매제도를 구축해야 한다는 의견이 나왔다. 피지컬AI 데이터를 자산화 시키기 위해서는 전반적인 데이터 품질 관리가 필요하다는 의견도 제시됐다.\n지난 21일 서울 중구 롯데호텔 서울에서 열린 ‘대한민국 전략경제 포럼’의 2부 세션 주제는 피지컬 AI였다. 이날 세션 토론회에는 김준하 광주과학기술원 AI정책전략대학원장, 김녹원 딥엑스 대표, 윤병동 서울대학교 기계공학부 교수, 류정훈 클로봇 사장, 김병수 로보티즈 대표, 박태완 과학기술정보통신부 정보통신산업정책관, 이두희 산업연구원 연구부원장이 참석했다. 참석한 이들은 공통적으로 피지컬 AI 산업에 있어 데이터 중요성을 강조했고 정부 부처 관계자들은 데이터 공공 수매 제도를 거론했다. 좌장을 맡은 김 원장은 “",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,15 +276,105 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Multiplayer AI",
-        "url": "https://www.youtube.com/shorts/CzQbI8_bBEs",
+        "title": "The Best Time to Build in Crypto",
+        "url": "https://www.youtube.com/shorts/M861XfrOR5s",
         "source": "Y Combinator",
-        "published": "2026-07-22T22:27:46+00:00",
-        "summary": "The best work tools became more powerful when they became multiplayer. But AI is still mostly trapped in private chats, with agents working in sessions that teammates can’t join or influence.\n\nThe next generation of AI tools will let teams work with agents together in real time: watching, redirectin",
-        "thumbnail": "https://i4.ytimg.com/vi/CzQbI8_bBEs/hqdefault.jpg",
+        "published": "2026-07-24T00:00:15+00:00",
+        "summary": "Crypto is in a bear market, but the underlying technology is becoming more useful than ever.\n\nStablecoins are spreading across financial institutions, tokenized assets are reshaping trading, fintech companies are quietly building on crypto rails, and AI agents may rely on them to transact. The hype ",
+        "thumbnail": "https://i2.ytimg.com/vi/M861XfrOR5s/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
-          "videoId": "CzQbI8_bBEs",
+          "videoId": "M861XfrOR5s",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI for the Aging Population",
+        "url": "https://www.youtube.com/shorts/WUDIBATKh4Y",
+        "source": "Y Combinator",
+        "published": "2026-07-23T21:16:22+00:00",
+        "summary": "By 2030, one in five Americans will be over 65, and there are nowhere near enough caregivers to support them.\n\nAI could help older adults live safely and independently through better voice interfaces, monitoring, robotics, and tools for family caregivers. It is one of the world’s largest and most un",
+        "thumbnail": "https://i4.ytimg.com/vi/WUDIBATKh4Y/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "WUDIBATKh4Y",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What If You Keep Going Up?",
+        "url": "https://www.youtube.com/shorts/OJEI3qtV7RA",
+        "source": "Cleo Abram",
+        "published": "2026-07-23T14:53:28+00:00",
+        "summary": "What if I just kept going UP? \n\nImagine you fly off at the speed of light. After 8.3 minutes, you’d reach our Sun. After 4 hours and 6 minutes, you’d pass the furthest planet in our solar system.\n\nHow long do you think it takes you at the speed of light to get to the farthest object humans have ever",
+        "thumbnail": "https://i4.ytimg.com/vi/OJEI3qtV7RA/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "OJEI3qtV7RA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "SKT 퇴사 후 홀로 서기 후일담 | 나는 솔로프리너다, 조쉬 | 이오서재",
+        "url": "https://www.youtube.com/watch?v=DtVILWXGLYA",
+        "source": "EO 이오",
+        "published": "2026-07-23T11:27:24+00:00",
+        "summary": "[📚 댓글 이벤트가 있어요!]\n삶의 주인이 되고 싶은 사람들을 위한 북 팟캐스트, 이오서재. 두 번째 에피소드에서는 12년 차 대기업 직장인에서 퇴사해 1년 만에 억 단위 매출을 만든 창업가, 『나는 솔로프리너다』 저자 조쉬님과 함께합니다. \n\n15시간씩 뉴스레터를 쓰다가 1인 창업으로, 그리고 한 차례 피봇을 거쳐 기업의 AI 전환(AX)을 돕는 빌더가 된 조쉬 님은 1년 만에 5명의 채용을 거쳐 현재 6인 회사, 조슈아앤컴퍼니를 이끌고 계십니다.\n\n트렌드에 빠르게 발 맞춰 움직이면서도 나만의 감도를 잃지 않는 법, 솔로프리너에서",
+        "thumbnail": "https://i1.ytimg.com/vi/DtVILWXGLYA/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "DtVILWXGLYA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "트럼프 위협에 우경화 되고 있는 중남미 근황",
+        "url": "https://www.youtube.com/watch?v=q_U7_QKdeN4",
+        "source": "슈카월드",
+        "published": "2026-07-23T10:37:18+00:00",
+        "summary": "0:00 콜롬비아 \"우리는 베네수엘라처럼 될 수 없다.\"\n7:21 3선 개헌에 성공한 엘살바도르 대통령\n12:49 페루 스트롱맨의 딸, 대통령 당선\n25:14 페루 소식을 듣고 난리났던 나라",
+        "thumbnail": "https://i2.ytimg.com/vi/q_U7_QKdeN4/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "q_U7_QKdeN4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "\"파인튜닝, RAG, 하네스 엔지니어링, 루프 엔지니어링...어디까지 더 해보실거죠?\" (이주환 스윗테크놀로지 대표)",
+        "url": "https://www.youtube.com/watch?v=UIQEelaElIQ",
+        "source": "티타임즈TV",
+        "published": "2026-07-23T09:00:28+00:00",
+        "summary": "직원 개인의 AI사용률은 매우 높아졌습니다. 그런데 회사 차원에서의 AX 혁신은 여전히 요원하죠. 성공사례를 꼽아보라고 해도 대부분 아주 작은 프로젝트성 작업일 뿐입니다. AI모델은 점점 더 좋아지고 있지만 회사들의 고민은 점점 더 깊어지고 있죠.\n\n이주환 스윗테크놀로지 대표는 에이전틱AI가 활동할 수 있는 '비즈니스 월드모델'이 필요하다고 합니다. 로봇에게만 월드모델이 필요한 건 아니라는 거죠. 이걸 뉴로심볼릭 월드모델이라고 한다는데요, 기존처럼 AX를 해서는 실패할 수밖에 없는 이유 그리고 뉴로심볼릭 월드모델이 해결책으로 떠오른",
+        "thumbnail": "https://i2.ytimg.com/vi/UIQEelaElIQ/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "UIQEelaElIQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Gen Z Protests Have Erupted in India",
+        "url": "https://www.youtube.com/watch?v=IILCtRP9UkI",
+        "source": "TLDR News Global",
+        "published": "2026-07-23T08:45:04+00:00",
+        "summary": "Watch the Full Trailer: https://youtu.be/mP1b-33Qnqw\nSign Up to TLDR Party: https://toolong.news/party\nLearn More about TLDR Party: https://youtu.be/KVXXC3jk4Kg\n\nVote for the World’s Best Flag: https://pollunit.com/polls/c5keHjadFmPBEXUe29G5hQ\n\nProtests have erupted across India, spearheaded by a vi",
+        "thumbnail": "https://i2.ytimg.com/vi/IILCtRP9UkI/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "IILCtRP9UkI",
           "via": "rss"
         }
       },
@@ -300,21 +390,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "z6gH_v0buUc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "A Cloud for Small Software",
-        "url": "https://www.youtube.com/shorts/G3WEOXKN2SI",
-        "source": "Y Combinator",
-        "published": "2026-07-22T20:27:18+00:00",
-        "summary": "Agents make it easy to build personal tools for yourself or your team. But deploying, securing, and sharing that software is still far more complicated than creating it.\n\nA cloud built for small software could remove that complexity and make bespoke tools as easy to share with a colleague as a Googl",
-        "thumbnail": "https://i4.ytimg.com/vi/G3WEOXKN2SI/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "G3WEOXKN2SI",
           "via": "rss"
         }
       },
@@ -345,81 +420,6 @@
         "extras": {
           "theme": "analysis",
           "videoId": "WKsROP5xK0g",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "They Dug A Hole To The Bottom of Antarctica",
-        "url": "https://www.youtube.com/shorts/2s6FzCvjZ54",
-        "source": "Cleo Abram",
-        "published": "2026-07-22T14:40:16+00:00",
-        "summary": "They dug to the bottom of Antarctica and pulled out this core… \n\nThe natural world has left us a time machine and we’ve gotten really good at traveling through it. Here’s how…\n\nSubscribe for more!\n\n#Antarctica #IceCores #ClimateChange #Science #Technology",
-        "thumbnail": "https://i3.ytimg.com/vi/2s6FzCvjZ54/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "2s6FzCvjZ54",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "꿀 빠는 애플 잡으러 오픈AI가 간다",
-        "url": "https://www.youtube.com/watch?v=snPfEfGLIH4",
-        "source": "슈카월드",
-        "published": "2026-07-22T10:49:04+00:00",
-        "summary": "0:00 엔비디아를 제치고 세계 시가총액 1위에 오른 애플\n9:48 꿀 빠는 애플이 마음에 들지 않는 오픈AI의 묘수\n16:30 애플, 게섯거라",
-        "thumbnail": "https://i4.ytimg.com/vi/snPfEfGLIH4/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "snPfEfGLIH4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "데이터센터, 휴머노이드, 전기차… 전력 반도체 판 뒤집기 시작됐다 (이상기 DB하이텍 부사장)",
-        "url": "https://www.youtube.com/watch?v=AxRT8nOVing",
-        "source": "티타임즈TV",
-        "published": "2026-07-22T09:00:03+00:00",
-        "summary": "최근 엔비디아가 AI 데이터센터 전력 대란에 대비하기 위해 차세대 전력 반도체를 채택하겠다고 밝혔습니다. GPU와 메모리가 AI의 두뇌라면, 전력반도체는 '심혈관' 역할을 하는데요. 전력 손실과 극심한 발열을 잡기 위해 전력 시스템의 소재를 기존 실리콘에서 실리콘 카바이드(SiC)와 갈륨 나이트라이드(GaN)로 전환하겠다는 것입니다. \n\n이런 전력 반도체 시장에서 선진 기업들을 추격하기 위해 국내 최초로 '8인치' 양산 체계라는 승부수를 던진 DB하이텍의 전략과 함께 전력 반도체가 왜 대한민국 반도체 산업의 미래가 될 수밖에 없는지",
-        "thumbnail": "https://i2.ytimg.com/vi/AxRT8nOVing/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "AxRT8nOVing",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Houthis Close the Bab al-Mandab: What Next?",
-        "url": "https://www.youtube.com/watch?v=kwTP3ylKDdM",
-        "source": "TLDR News Global",
-        "published": "2026-07-22T08:30:41+00:00",
-        "summary": "Watch the Full Trailer: https://youtu.be/mP1b-33Qnqw\nSign Up to TLDR Party: https://toolong.news/party\nLearn More about TLDR Party: https://youtu.be/KVXXC3jk4Kg\n\nThe Houthis are blockading Saudi oil shipments out of the Bab al-Mandab, closing off another maritime chokepoint in the Middle East and th",
-        "thumbnail": "https://i4.ytimg.com/vi/kwTP3ylKDdM/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "kwTP3ylKDdM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Original Mickey Mouse Club",
-        "url": "https://www.youtube.com/shorts/RNFqON1bm94",
-        "source": "Acquired",
-        "published": "2026-07-21T18:31:57+00:00",
-        "summary": "🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
-        "thumbnail": "https://i3.ytimg.com/vi/RNFqON1bm94/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "RNFqON1bm94",
           "via": "rss"
         }
       }
