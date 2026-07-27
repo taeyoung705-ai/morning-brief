@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-07-26T02:35:19.823181+00:00",
+  "generated_at": "2026-07-27T02:43:23.157354+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Flavio Bolsonaro launches Brazil presidential bid with Milei support",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/flavio-bolsonaro-launches-brazil-presidential-bid-with-milei-support?traffic_source=rss",
+        "title": "Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
+        "url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
+        "source": "NYT World",
+        "published": "2026-07-27T02:33:42+00:00",
+        "summary": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australia news live: NSW corruption inquiry hears of lengths allegedly gone to by witnesses to avoid scrutiny",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-07-27T02:31:49+00:00",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastWhat you need to know about today’s AusAlert testIt’s also well worth watching this video of Guardian Australia’s community affairs reporter Adeshola Ore’s interview with Barnaby Joyce about Armidale’s refugee resettlement program and One Nation’s policy positions on immigration.One Nation’s policy is that immigra",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Massive iceberg capsizes off the coast of Greenland",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_massive-iceberg-capsizes-off-the-coast-of-greenland-260726?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-26T02:19:58+00:00",
-        "summary": "Flavio Bolsonaro, son of disgraced former Brazilian President Jair, has launched his bid to unseat President Lula.",
+        "published": "2026-07-27T02:15:46+00:00",
+        "summary": "A massive iceberg capsized off the coast of Ilulissat, Greenland flipping with force to reveal its jagged underside.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran War Live Updates: U.S.-Iran Strikes Abate as War Enters Latest Crossroads",
-        "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-        "source": "NYT World",
-        "published": "2026-07-26T02:15:01+00:00",
-        "summary": "The Trump administration pulled back from major escalation, in part because of concerns over the supply of munitions, said people familiar with the matter.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest",
-        "source": "NYT World",
-        "published": "2026-07-26T02:15:00+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
-        "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
+        "title": "Ebola infections in DR Congo surge to 3,200, with 1,405 deaths",
+        "url": "https://www.aljazeera.com/news/2026/7/27/ebola-infections-in-dr-congo-surge-to-3200-with-1405-deaths?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-26T01:52:56+00:00",
-        "summary": "Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.",
+        "published": "2026-07-27T01:59:02+00:00",
+        "summary": "Cases have surged by 1,000 in just 10 days as outbreak continues to spread across five provinces.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Hundreds of Thousands Flee as Fires Rage in Spain and France",
-        "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
-        "source": "NYT World",
-        "published": "2026-07-26T01:19:51+00:00",
-        "summary": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Car Plows Into People Near a Pride Event in Berlin, Killing at Least One",
-        "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-        "source": "NYT World",
-        "published": "2026-07-26T01:01:04+00:00",
-        "summary": "The police said a hunt for suspects was underway after the episode, which also injured at least 16 people, some seriously.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "More than 300,000 flee wildfires in France and Spain",
-        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+        "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-07-26T00:54:06+00:00",
-        "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "published": "2026-07-27T01:54:30+00:00",
+        "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+        "title": "Lebanese return to homes of rubble left by Israel in so-called pilot zones",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanese-return-to-homes-of-rubble-left-by-israel-in-so-called-pilot-zones?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-07-26T00:49:12+00:00",
-        "summary": "Yemen&#039;s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.",
+        "published": "2026-07-27T01:40:16+00:00",
+        "summary": "Lebanon&#039;s army has accused Israel of bulldozing homes and hindering its efforts to escort residents to &#039;pilot zones&#039;.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-07-27T01:35:51+00:00",
+        "summary": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Guterres tours Syria’s notorious ‘Assad Prison’ in Sednaya",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/aje-onl-nf_guterres-tours-syrias-assad-prison-in-sednaya-260726?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-27T00:48:06+00:00",
+        "summary": "UN Secretary-General Antonio Guterres toured the notorious former ‘Assad prison’ in Sednaya.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "title": "Are brain waves the next unlock for physical AI?",
+        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
         "source": "TechCrunch",
-        "published": "2026-07-26T01:30:00+00:00",
-        "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "published": "2026-07-27T00:19:14+00:00",
+        "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Possible invasive species superspreader event near Strait of Hormuz",
-        "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+        "title": "PGSimCity - How PostgreSQL Works",
+        "url": "https://nikolays.github.io/PGSimCity/",
         "source": "Hacker News Front",
-        "published": "2026-07-26T01:13:19+00:00",
-        "summary": "Article URL: https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186\nComments URL: https://news.ycombinator.com/item?id=49053603\nPoints: 19\n# Comments: 1",
+        "published": "2026-07-27T00:19:04+00:00",
+        "summary": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 139\n# Comments: 22",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Git rebase -I is not that scary",
-        "url": "https://cachebag.sh/journal/interactive-rebasing/",
+        "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+        "url": "https://portzero.net/",
         "source": "Hacker News Front",
-        "published": "2026-07-26T00:37:54+00:00",
-        "summary": "Article URL: https://cachebag.sh/journal/interactive-rebasing/\nComments URL: https://news.ycombinator.com/item?id=49053385\nPoints: 9\n# Comments: 2",
+        "published": "2026-07-27T00:03:48+00:00",
+        "summary": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we still using simple numbers to describe which process to connect to? Why not use names instead? I thought of all the times a program wouldn't start because of port conflicts. The more I thought about ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Systems and Delays",
-        "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "title": "Fonts In Use – Find out where a font is used",
+        "url": "https://fontsinuse.com/",
         "source": "Hacker News Front",
-        "published": "2026-07-26T00:37:30+00:00",
-        "summary": "Article URL: https://martin.janiczek.cz/2026/07/24/systems-and-delays.html\nComments URL: https://news.ycombinator.com/item?id=49053382\nPoints: 17\n# Comments: 4",
+        "published": "2026-07-26T23:45:09+00:00",
+        "summary": "Article URL: https://fontsinuse.com/\nComments URL: https://news.ycombinator.com/item?id=49063523\nPoints: 17\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+        "title": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "url": "https://github.com/faizannraza/wattage",
         "source": "Hacker News Front",
-        "published": "2026-07-26T00:36:30+00:00",
-        "summary": "Article URL: https://huggingface.co/owensong/Inflect-Micro-v2\nComments URL: https://news.ycombinator.com/item?id=49053375\nPoints: 10\n# Comments: 1",
+        "published": "2026-07-26T23:27:35+00:00",
+        "summary": "Article URL: https://github.com/faizannraza/wattage\nComments URL: https://news.ycombinator.com/item?id=49063397\nPoints: 4\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+        "url": "https://github.com/vercel-labs/scriptc",
         "source": "Hacker News Front",
-        "published": "2026-07-25T23:32:50+00:00",
-        "summary": "Article URL: https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf\nComments URL: https://news.ycombinator.com/item?id=49052912\nPoints: 86\n# Comments: 48",
+        "published": "2026-07-26T22:46:10+00:00",
+        "summary": "Article URL: https://github.com/vercel-labs/scriptc\nComments URL: https://news.ycombinator.com/item?id=49063175\nPoints: 22\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Clinical failure rates over the decades: yikes",
-        "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
         "source": "Hacker News Front",
-        "published": "2026-07-25T22:57:17+00:00",
-        "summary": "Article URL: https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes\nComments URL: https://news.ycombinator.com/item?id=49052628\nPoints: 46\n# Comments: 26",
+        "published": "2026-07-26T22:21:41+00:00",
+        "summary": "Article URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html\nComments URL: https://news.ycombinator.com/item?id=49063022\nPoints: 218\n# Comments: 135",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Cloudflare's new AI traffic options for customers",
-        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "title": "Teaching Kids Forth",
+        "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
         "source": "Hacker News Front",
-        "published": "2026-07-25T22:50:49+00:00",
-        "summary": "Article URL: https://blog.cloudflare.com/content-independence-day-ai-options/\nComments URL: https://news.ycombinator.com/item?id=49052564\nPoints: 38\n# Comments: 14",
+        "published": "2026-07-26T21:39:17+00:00",
+        "summary": "Article URL: https://gracefulliberty.com/articles/teaching-kids-forth/\nComments URL: https://news.ycombinator.com/item?id=49062700\nPoints: 57\n# Comments: 18",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,83 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: Physical AI Startup Atoms Leads In Varied Week For Large Deals",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-physical-ai-fintech-defense-atoms/",
-        "source": "Crunchbase News",
-        "published": "2026-07-24T19:25:21+00:00",
-        "summary": "Startup investors poured capital into a varied lineup of large rounds this week, targeting sectors including physical AI, biotech, cybersecurity, AI infrastructure and fintech.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "“배달 플랫폼 생존 전략은 자체물류”",
-        "url": "https://byline.network/2026/07/0724-9/",
+        "title": "네이버 100억달러 투자유치, AI 팩토리 확장 속도 낸다",
+        "url": "https://byline.network/2026/07/26_1928734-2/",
         "source": "ByLine Network",
-        "published": "2026-07-24T12:56:13+00:00",
-        "summary": "최자영 한국유통학회 회장 겸 숭실대학교 경영대학 벤처중소기업학과 교수는 자체물류(OD)가 라스트마일 경쟁에서 플랫폼의 생존을 좌우하는 핵심 전략이라고 말다. 한국유통학회는 24일 서울 중구 대한상공회의소에서 '2026년 한국유통학회 7월 유통포럼: AI시대, 음식점과 이용자가 함께 성장하는 지속가능한 배달 생태계 전략'을 열고 AI 시대에 맞춘 지속가능한 배달 생태계 전략을 논의하기 위한 유통포럼을 개최했다.",
+        "published": "2026-07-26T16:09:21+00:00",
+        "summary": "네이버가 캐나다 대체자산 운용사 브룩필드와 엔비디아로부터 AI 팩토리 증설을 위한 투자자금 100억달러(한화 약 14조5000억원)을 확보한다. 이로써 네이버는 국내에서 운영하는 데이터센터 각 세종의 규모를 55메가와트(MW)에서 200MW까지 3배 이상 늘린다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Softbank eyeing acquisition of ETH spinout Gravis, reports suggest",
-        "url": "https://sifted.eu/articles/softbank-gravis-robotics/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-24T12:43:11+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "General Catalyst Takes The Lead Over Y Combinator In Backing $5M+ Fintech Deals",
-        "url": "https://news.crunchbase.com/venture/fintech-funder-general-catalyst-leads-deal-count-q2-2026/",
-        "source": "Crunchbase News",
-        "published": "2026-07-24T11:00:46+00:00",
-        "summary": "For the first time in several quarters, General Catalyst in Q2 overtook Y Combinator when it came to participating in the most fintech deals of $5 million or more, per Crunchbase data. The quarter also marked the busiest one for General Catalyst since 2021 in terms of investing in rounds of $5 million or above.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Biggest AI Talent Challenge Is Resilience, Not Speed",
-        "url": "https://news.crunchbase.com/ai/biggest-talent-challenge-resilience-vaidya-crafting/",
-        "source": "Crunchbase News",
-        "published": "2026-07-24T11:00:03+00:00",
-        "summary": "Engineering leaders should build highly adaptable, vendor-agnostic infrastructure instead of relying on expensive, unpredictable proprietary hyperscalers, advises guest columnist Sumeet Vaidya, who says the foundational flexibility allows enterprises to safely pair AI agents with human teams while seamlessly switching between top-tier and cost-free open-source models as the industry evolves.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "중기부, 재외국민·유학생도 창업 지원… 4개 지역서 80명 선발",
-        "url": "https://platum.kr/archives/291397?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b8%25b0%25eb%25b6%2580-%25ec%259e%25ac%25ec%2599%25b8%25ea%25b5%25ad%25eb%25af%25bc%25c2%25b7%25ec%259c%25a0%25ed%2595%2599%25ec%2583%259d%25eb%258f%2584-%25ec%25b0%25bd%25ec%2597%2585-%25ec%25a7%2580%25ec%259b%2590-4%25ea%25b0%259c-%25ec%25a7%2580%25ec%2597%25ad%25ec%2584%259c-80",
+        "title": "대통령 면담에서 이름이 나온 스타트업",
+        "url": "https://platum.kr/archives/291414?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258c%2580%25ed%2586%25b5%25eb%25a0%25b9-%25eb%25a9%25b4%25eb%258b%25b4%25ec%2597%2590%25ec%2584%259c-%25ec%259d%25b4%25eb%25a6%2584%25ec%259d%25b4-%25eb%2582%2598%25ec%2598%25a8-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585",
         "source": "Platum",
-        "published": "2026-07-24T10:11:06+00:00",
-        "summary": "중소벤처기업부가 현지 시각 24일 미국 실리콘밸리 스타트업·벤처 캠퍼스(SVC)에서 &#8216;K-파운더스 커넥트 인 실리콘밸리&#8217;를 열고 &#8216;모두의 창업 글로벌 프로젝트&#8217;를 발표했다. 스타트업과 재외국민, 유학생, 한인 벤처캐피탈, 창업지원기관 관계자 등 70여 명이 참석했다. 모두의 창업 글로벌 프로젝트는 창업 지원 대상을 재외국민과 유학생까지 넓히는 사업이다. 중기부는 미국 실리콘밸리와 뉴욕, 싱가포르, 인도 등 4개 지역에서 예비창업가와 창업가 80명을 선발해 온·오프라인 멘토링과 ... 더 읽기",
+        "published": "2026-07-26T11:20:16+00:00",
+        "summary": "면담 브리핑의 한 줄은 무엇을 말했고, 무엇을 말하지 않았나 글로벌 AI 기업 CEO들과 한국 대기업 총수들이 참석한 샌프란시스코 AI 서밋을 계기로, 이재명 대통령의 빅테크 CEO 연쇄 면담을 정리한 청와대 서면 브리핑에 창업 10년 차 국내 스타트업 한 곳의 이름이 등장했다. 혹 탄 브로드컴 CEO와의 면담을 소개한 대목이었다. 브리핑에 따르면 혹 탄 CEO는 삼성전자·SK하이닉스와의 HBM 협력에 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "젠스파크, 슈퍼에이전트 기반 ‘AI 워크스페이스 6.0’ 공개",
-        "url": "https://byline.network/2026/07/24-622/",
-        "source": "ByLine Network",
-        "published": "2026-07-24T09:46:27+00:00",
-        "summary": "“젠스파크의 올인원 AI 워크스페이스는 이전 업무 맥락을 기억하고, 다음 업무에 활용하는 AI다. 스스로 배우고 진화하는 AI다. 창의적인 것에 더 집중하고 나머지는 젠스파크에 맡겨 달라.”",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "새 대표 찾는 디캠프, 초기 지원과 스케일업 사이",
-        "url": "https://platum.kr/archives/291383?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2583%2588-%25eb%258c%2580%25ed%2591%259c-%25ec%25b0%25be%25eb%258a%2594-%25eb%2594%2594%25ec%25ba%25a0%25ed%2594%2584-%25ec%25b4%2588%25ea%25b8%25b0-%25ec%25a7%2580%25ec%259b%2590%25ea%25b3%25bc-%25ec%258a%25a4%25ec%25bc%2580%25ec%259d%25bc%25ec%2597%2585-%25ec%2582%25ac%25ec%259d%25b4",
+        "title": "AI가 몸을 입는 날 – 제조강국의 두 번째 기회",
+        "url": "https://platum.kr/archives/291404?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25eb%25aa%25b8%25ec%259d%2584-%25ec%259e%2585%25eb%258a%2594-%25eb%2582%25a0-%25ec%25a0%259c%25ec%25a1%25b0%25ea%25b0%2595%25ea%25b5%25ad%25ec%259d%2598-%25eb%2591%2590-%25eb%25b2%2588%25ec%25a7%25b8-%25ea%25b8%25b0%25ed%259a%258c",
         "source": "Platum",
-        "published": "2026-07-24T09:40:05+00:00",
-        "summary": "성장 단계 지원 전환 둘러싼 논쟁 지속…조직 안정과 사업 방향 재정립 과제로 은행권청년창업재단(디캠프)은 7월 20일 이사회를 열어 박영훈 대표의 사표를 수리했다. 박 대표는 10일 재단에 사임 의사를 전달하고 14일 전 직원에게 이를 알린 것으로 파악됐다. 임기를 약 8개월 남긴 시점이다. 재단은 신임 대표이사 선임 절차를 신속하게 진행할 예정이라고 밝혔다. 차기 대표 선임 전까지는 본부장 1인과 ... 더 읽기",
+        "published": "2026-07-25T18:58:26+00:00",
+        "summary": "1976년 7월, 현대자동차의 포니 5대가 에콰도르행 화물선에 실렸다. 한국산 고유모델 승용차의 첫 본격 수출이었다. 당시 세계 자동차 산업의 눈에 그것은 각주에 불과했다. 반세기가 지난 2026년 7월 24일(현지시간), 샌프란시스코의 행사장 더 미드웨이(The Midway)에서 그 회사의 회장은 자동차 제조사를 넘어 &#8216;피지컬 AI 솔루션 기업&#8217;으로 전환하겠다고 선언했다. 각주가 본문으로 진입하는 데 오십 년이 걸렸다면, 두 번째 도약에는 그만큼의 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Jensen Huang: The Mindset That Built NVIDIA",
+        "url": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
+        "source": "Y Combinator",
+        "published": "2026-07-26T20:32:05+00:00",
+        "summary": "NVIDIA started with the wrong technology, learned the right one from three textbooks bought at Fry’s, and went on to invent most of the major breakthroughs in modern computing.\n\nAt Startup School 2026 at Chase Center, Garry Tan sits down with Founder and CEO Jensen Huang to talk about confronting re",
+        "thumbnail": "https://i2.ytimg.com/vi/I4B37S1dyQQ/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "I4B37S1dyQQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Self-Maintaining APIs",
+        "url": "https://www.youtube.com/shorts/c3TxAUir2R8",
+        "source": "Y Combinator",
+        "published": "2026-07-26T15:28:23+00:00",
+        "summary": "APIs change constantly, but the way providers communicate those changes is still broken. Breaking updates go unnoticed, new features get buried in changelogs, and customers often find out only after something stops working.\n\nCoding agents make a better model possible. Instead of announcing a change,",
+        "thumbnail": "https://i4.ytimg.com/vi/c3TxAUir2R8/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "c3TxAUir2R8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Chamath: Google Is the Ultimate AI Compounding Machine",
+        "url": "https://www.youtube.com/shorts/b8V_4jb8Yes",
+        "source": "All-In Podcast",
+        "published": "2026-07-26T15:24:27+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+        "thumbnail": "https://i3.ytimg.com/vi/b8V_4jb8Yes/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "b8V_4jb8Yes",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -321,21 +311,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "David Sacks: Anthropic Wants to Kill Open Source AI in America",
-        "url": "https://www.youtube.com/shorts/rXox_xc-ddM",
-        "source": "All-In Podcast",
-        "published": "2026-07-25T16:00:16+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i3.ytimg.com/vi/rXox_xc-ddM/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "rXox_xc-ddM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "These 13 Teeth Proved We Got Evolution Wrong",
         "url": "https://www.youtube.com/shorts/_pfOOImiZJc",
         "source": "Cleo Abram",
@@ -345,36 +320,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "_pfOOImiZJc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What Actually Makes A Startup Durable",
-        "url": "https://www.youtube.com/watch?v=99sPd15j3Zc",
-        "source": "Y Combinator",
-        "published": "2026-07-25T14:00:00+00:00",
-        "summary": "In this session from Startup School Paris, YC partners field questions from the audience on how founders should be operating in the AI era. \n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n\n00:00 — AI Costs vs. Engineer Costs\n0",
-        "thumbnail": "https://i2.ytimg.com/vi/99sPd15j3Zc/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "99sPd15j3Zc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI-Native Compliance Infrastructure",
-        "url": "https://www.youtube.com/shorts/BSElxGxgoIA",
-        "source": "Y Combinator",
-        "published": "2026-07-25T13:47:00+00:00",
-        "summary": "Financial compliance still runs on spreadsheets, disconnected software, and growing teams of specialists. As companies expand into new markets, the cost and complexity of staying compliant can grow faster than the business itself.\n\nAI could monitor regulatory changes, flag anomalies, generate report",
-        "thumbnail": "https://i3.ytimg.com/vi/BSElxGxgoIA/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "BSElxGxgoIA",
           "via": "rss"
         }
       },
