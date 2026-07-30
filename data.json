@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-07-29T02:27:33.141351+00:00",
+  "generated_at": "2026-07-30T02:09:43.439829+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump administration bans new Chinese humanoid robots",
-        "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+        "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+        "url": "https://www.aljazeera.com/news/2026/7/30/after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-sewing?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-30T01:56:57+00:00",
+        "summary": "After losing her husband and two children, Safiya now fears losing the fragile future she rebuilt.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran War Live Updates: U.S. Begins New Wave of Attacks on Iran, Military Says",
+        "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
+        "source": "NYT World",
+        "published": "2026-07-30T01:55:28+00:00",
+        "summary": "U.S. Central Command announced the strikes hours after President Trump vowed to hit Iran “very hard” in response to an attempted Iranian attack on U.S. forces.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Israel Strikes Mosque in Gaza City",
+        "url": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
+        "source": "NYT World",
+        "published": "2026-07-30T01:54:07+00:00",
+        "summary": "The Israeli military accused Hamas of using the mosque to store weapons. The Hamas-run government’s media office said Israel’s claims aimed to justify its attacks on mosques.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-07-29T02:15:41+00:00",
-        "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+        "published": "2026-07-30T01:53:25+00:00",
+        "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: inflation eases to 3.8%, reducing chance of rate hike; Icac hears of ‘shit sheet’ on former NSW Liberal minister",
-        "url": "https://www.theguardian.com/australia-news/live/2026/jul/29/ben-carroll-victoria-premier-jacinta-allan-labor-abs-inflation-data-nsw-icac-inquiry-antisemitism-royal-commission-ntwnfb",
+        "title": "Australia news live: Icac witness compares Liberal factional fighting to Braveheart; Acma takes Optus to court over triple-zero outage",
+        "url": "https://www.theguardian.com/australia-news/live/2026/jul/30/antisemitism-royal-commission-nsw-icac-inquiry-closing-the-gap-data-torres-strait-climate-appeal-anthony-albanese-labor-angus-taylor-coalition-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-07-29T02:13:13+00:00",
-        "summary": "Follow updatesGet our breaking news email, free app or daily news podcastSpecially designed Airbus completes marathon 24-hour flight before joining Qantas fleetA specially modified Airbus A350 plane touched down in France Tuesday after a record 24-hour test flight from Australia, ahead of it joining Qantas’s fleet next year, Agency France-Presse reports. Continue reading...",
+        "published": "2026-07-30T01:52:55+00:00",
+        "summary": "Follow updates liveGet our breaking news email, free app or daily news podcastMinister says meeting Closing the Gap target a major step, but more work needed on othersMalarndirri McCarthy, the minister for Indigenous Australians, said early childhood education enrolment for First Nations children was a milestone in the effort to reach the Closing the Gap targets.It is important to see this milesto",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Police Say Binance Is Making It Harder to Fight Crime",
-        "url": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
+        "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+        "url": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-07-30T01:42:30+00:00",
+        "summary": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada&#039;s TMX crude oil.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "New Strikes Engulf More Countries in the Iran War",
+        "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html",
         "source": "NYT World",
-        "published": "2026-07-29T01:50:24+00:00",
-        "summary": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
+        "published": "2026-07-30T01:34:14+00:00",
+        "summary": "The U.S. unleashed new strikes on Iran after a day in which attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Japan earthquake death toll rises as rescue teams search for missing amid aftershocks",
-        "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-death-aftershocks",
-        "source": "The Guardian World",
-        "published": "2026-07-29T01:48:03+00:00",
-        "summary": "Military mobilises thousands of personnel after quake on southern Kyushu island that registered a maximum 7 on the Japanese shindo intensity scale At least 13 people were killed when a 6.8 magnitude earthquake struck southern Japan on Tuesday, injuring hundreds and knocking out power and water to tens of thousands.The revised death toll was announced by the prime minister, Sanae Takaichi, on Wedne",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-        "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-29T01:37:23+00:00",
-        "summary": "Riyadh says its targeted attacks were done in coordination with the US military.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "After fleeing Sudan’s war, refugees battle thirst in Chad’s camps",
-        "url": "https://www.aljazeera.com/news/2026/7/29/after-fleeing-sudans-war-refugees-battle-thirst-in-chads-camps?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-29T01:30:14+00:00",
-        "summary": "After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Media not invited as Trump, Netanyahu hold talks at the White House",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-07-29T01:19:55+00:00",
-        "summary": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Houthis Claim Strike on Another Saudi Oil Tanker",
-        "url": "https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html",
+        "title": "Here’s the latest.",
+        "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/heres-the-latest",
         "source": "NYT World",
-        "published": "2026-07-29T01:08:39+00:00",
-        "summary": "With their ally, Iran, bottling up the Strait of Hormuz, the Houthi group in Yemen is escalating its declared blockade of Saudi shipping in another vital waterway, the Red Sea.",
+        "published": "2026-07-30T01:32:02+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-        "url": "https://learnvector.ai/",
+        "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+        "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
         "source": "Hacker News Front",
-        "published": "2026-07-29T01:49:19+00:00",
-        "summary": "Article URL: https://learnvector.ai/\nComments URL: https://news.ycombinator.com/item?id=49092499\nPoints: 12\n# Comments: 4",
+        "published": "2026-07-30T01:35:10+00:00",
+        "summary": "Article URL: https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/\nComments URL: https://news.ycombinator.com/item?id=49105190\nPoints: 4\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-        "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+        "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+        "url": "https://waveformsecurity.com/blog/flume/",
         "source": "Hacker News Front",
-        "published": "2026-07-29T01:04:30+00:00",
-        "summary": "Hi HN,I'm new to Rust and, after half of `The Rust Programming Language` I decided to delve into a project I would actually use: a markdown to html compiler that actually serves my micro-blog (I started just right after publishing the project hehe). The project is intentionally small and one-file contained: I wanted to have the full picture in mind.I'm open to comments, suggestions and PRs. If you",
+        "published": "2026-07-30T01:27:12+00:00",
+        "summary": "Article URL: https://waveformsecurity.com/blog/flume/\nComments URL: https://news.ycombinator.com/item?id=49105136\nPoints: 5\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Multiple Mouse Cursors in Wayland",
-        "url": "https://blinry.org/multi-seat-wayland/",
+        "title": "Starter Homes Are Piling Up While Luxury Homes Fly Off the Market",
+        "url": "https://www.zillow.com/research/starter-homes-price-tiers-36571/",
         "source": "Hacker News Front",
-        "published": "2026-07-29T00:59:37+00:00",
-        "summary": "Article URL: https://blinry.org/multi-seat-wayland/\nComments URL: https://news.ycombinator.com/item?id=49092112\nPoints: 13\n# Comments: 1",
+        "published": "2026-07-30T01:03:22+00:00",
+        "summary": "Article URL: https://www.zillow.com/research/starter-homes-price-tiers-36571/\nComments URL: https://news.ycombinator.com/item?id=49104996\nPoints: 14\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf]",
-        "url": "https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf",
-        "source": "Hacker News Front",
-        "published": "2026-07-29T00:44:26+00:00",
-        "summary": "Article URL: https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf\nComments URL: https://news.ycombinator.com/item?id=49091994\nPoints: 6\n# Comments: 2",
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "source": "TechCrunch",
+        "published": "2026-07-30T00:21:06+00:00",
+        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-        "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
+        "title": "Show HN: A local merge queue for parallel Claude Code agents",
+        "url": "https://github.com/funador/claude-code-merge-queue",
         "source": "Hacker News Front",
-        "published": "2026-07-29T00:32:08+00:00",
-        "summary": "Article URL: https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html\nComments URL: https://news.ycombinator.com/item?id=49091895\nPoints: 11\n# Comments: 0",
+        "published": "2026-07-30T00:20:16+00:00",
+        "summary": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day.So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this hel",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
-        "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-        "source": "Wired",
-        "published": "2026-07-29T00:15:30+00:00",
-        "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+        "title": "The Productivity Mirage",
+        "url": "https://frantic.im/mirage/",
+        "source": "Hacker News Front",
+        "published": "2026-07-29T23:18:11+00:00",
+        "summary": "Article URL: https://frantic.im/mirage/\nComments URL: https://news.ycombinator.com/item?id=49104335\nPoints: 44\n# Comments: 14",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Difference Between a Button and a Link",
-        "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-        "source": "Hacker News Front",
-        "published": "2026-07-29T00:12:14+00:00",
-        "summary": "Article URL: https://unplannedobsolescence.com/blog/buttons-vs-links/\nComments URL: https://news.ycombinator.com/item?id=49091738\nPoints: 33\n# Comments: 14",
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "source": "TechCrunch",
+        "published": "2026-07-29T23:00:11+00:00",
+        "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Hubble: Open-source notetaking app for you and your agents",
-        "url": "https://www.hubble.md/",
+        "title": "Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC)",
+        "url": "https://archive.org/details/mancomputerbyjoh0000john",
         "source": "Hacker News Front",
-        "published": "2026-07-29T00:11:23+00:00",
-        "summary": "Article URL: https://www.hubble.md/\nComments URL: https://news.ycombinator.com/item?id=49091730\nPoints: 37\n# Comments: 7",
+        "published": "2026-07-29T22:53:44+00:00",
+        "summary": "Article URL: https://archive.org/details/mancomputerbyjoh0000john\nComments URL: https://news.ycombinator.com/item?id=49104140\nPoints: 17\n# Comments: 9",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,228 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "“포털 말고 챗GPT에 물어봐”… 내 브랜드의 AI 경쟁력은 몇 점?",
-        "url": "https://byline.network/2026/07/0728-11/",
-        "source": "ByLine Network",
-        "published": "2026-07-29T01:30:32+00:00",
-        "summary": "소비자가 검색창 대신 대화형 인공지능(AI)에게 제품 추천을 요구하는 시대로 접어들었다. 포털 사이트가 쥐고 있던 검색 주도권이 생성형 AI로 이동하면서 AI 응답 속 브랜드 노출 빈도가 시장을 주도할 새로운 경쟁력으로 떠올랐다.",
+        "title": "Exclusive: Former Meta And Slack Engineers Raise $15M For New Startup Centralize To Build A ‘Deal GPS’ For Enterprise Sales",
+        "url": "https://news.crunchbase.com/sales-marketing/centralize-enterprise-sales-gtm-startup-funding-slack-meta-alums/",
+        "source": "Crunchbase News",
+        "published": "2026-07-29T13:00:30+00:00",
+        "summary": "Centralize, an enterprise sales platform, emerges from stealth and shares exclusive news of its $15 million Series A funding round with Crunchbase News.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "네이버의 14조 AI팩토리, 공급도 자금도 시간도 샀다",
-        "url": "https://byline.network/2026/07/28_129873/",
-        "source": "ByLine Network",
-        "published": "2026-07-28T22:18:47+00:00",
-        "summary": "네이버가 엔비디아와 캐나다 브룩필드(Brookfield)와 손잡고 총 14조8000억원 규모의 AI팩토리 인프라를 확보합니다. 22년 만에 제3자 유상증자까지 단행하면서입니다. 들여다 보면, 혼자서는 벅찼던 AI 인프라 공급과 자금, 시간을 한꺼번에 푸는 방책입니다.",
+        "title": "The Sweet Science: Why The AI Era Belongs To Middleweights",
+        "url": "https://news.crunchbase.com/ai/era-middle-market-contenders-bernstein-ftv/",
+        "source": "Crunchbase News",
+        "published": "2026-07-29T11:00:03+00:00",
+        "summary": "The biggest long-term gains from AI will not flow to heavyweight incumbents or many AI-native startups but to scrappy middle-market technology companies, the middleweights, argues Brad Bernstein, managing partner at FTV Capital. In this guest column he shares the five traits the best middleweight technology companies share.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[금융권 인공지능 활용⑤] 농협금융, ‘에이전틱 AI 뱅크’ 구현 속도",
-        "url": "https://byline.network/2026/07/0728-10/",
-        "source": "ByLine Network",
-        "published": "2026-07-28T22:17:37+00:00",
-        "summary": "NH농협금융지주는 그룹 전반의 인공지능 전환(AX)을 이끄는 컨트롤타워 역할을 수행하고 있다. 지난해 AI 전담 조직을 신설한 데 이어 확대·개편을 진행하며 그룹 차원의 AI 전략 실행 체계를 구축했다. 현재 AI·디지털전략부문을 중심으로 1부(디지털전략부) 1국(디지털전략국) 3팀(디지털전략팀·AI플랫폼팀·ICT기획팀)과 지주·은행 겸직 조직인 AI비즈니스국을 운영하고 있다.",
+        "title": "How to give your elevator pitch to a king",
+        "url": "https://sifted.eu/articles/how-to-pitch-a-king/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-29T10:40:50+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "피지컬 AI 스타트업 에니그마, 7,100만 달러 시드 유치",
-        "url": "https://platum.kr/archives/291536?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25ac-ai-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2597%2590%25eb%258b%2588%25ea%25b7%25b8%25eb%25a7%2588-7100%25eb%25a7%258c-%25eb%258b%25ac%25eb%259f%25ac-%25ec%258b%259c%25eb%2593%259c-%25ec%259c%25a0%25ec%25b9%2598",
+        "title": "'I'd do things differently than Elon Musk': The free founder crash course teaching teenagers to break into tech",
+        "url": "https://sifted.eu/articles/founder-crash-course-for-teenagers/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-07-29T10:40:06+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "해킹당한 허깅페이스, 상용 AI는 조사도 거절했다",
+        "url": "https://platum.kr/archives/291604?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ed%2582%25b9%25eb%258b%25b9%25ed%2595%259c-%25ed%2597%2588%25ea%25b9%2585%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4-%25ec%2583%2581%25ec%259a%25a9-ai%25eb%258a%2594-%25ec%25a1%25b0%25ec%2582%25ac%25eb%258f%2584-%25ea%25b1%25b0%25ec%25a0%2588%25ed%2596%2588%25eb%258b%25a4",
         "source": "Platum",
-        "published": "2026-07-28T13:48:51+00:00",
-        "summary": "AI 로봇 100대 온라인 공개 실험도 시작 피지컬 AI 스타트업 에니그마(Enigma)가 7,100만 달러 규모 시드 투자를 유치하고 27일(현지시간) 스텔스 모드를 종료했다. 이번 라운드는 인덱스 벤처스와 리빗 캐피털이 공동 주도했고 컨빅션 파트너스가 참여했다. 이번 투자에 적용된 기업가치는 공개되지 않았다. 회사는 오픈AI, 앤스로픽, 딥마인드, xAI, 코그니션, 위즈 등에 소속된 인사들도 투자에 참여했다고 밝혔다. 다만 개별 투자자의 이름과 ... 더 읽기",
+        "published": "2026-07-29T10:07:49+00:00",
+        "summary": "7월 초 오픈AI는 자사 AI가 해킹을 어디까지 할 수 있는지 재보는 시험을 돌렸다. 능력의 한계를 보려는 시험이라, 평소 고위험 사이버 행동을 막는 일부 안전장치는 꺼두거나 완화한 상태였다. 시험 환경에서 AI는 인터넷에 직접 접속할 수 없었다. 다만 프로그램 설치에 필요한 파일을 받아오는 중계 시스템에는 접근할 수 있었다. AI는 이 소프트웨어에서 당시 알려지지 않았던 보안 결함을 찾아냈고, ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI rollup startup Dwelly raises $170m backed by EQT and General Catalyst",
-        "url": "https://sifted.eu/articles/dwelly-ai-property-rollup-funding-round-elevenlabs-legora/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-28T13:18:04+00:00",
-        "summary": "",
+        "title": "AMD, CUDA 해자 ‘바이브코딩’으로 넘는다",
+        "url": "https://byline.network/2026/07/29-549/",
+        "source": "ByLine Network",
+        "published": "2026-07-29T09:38:22+00:00",
+        "summary": "AMD가 엔비디아 GPU의 CUDA 해자를 넘기 위해 바이브코딩을 채택했다. AMD GPU 상에서 구동되는 AI 모델의 성능을 극대화하는 작업을 바이브코딩으로 하게 하는 것이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Exclusive: Co-Founded By Former Whoop CTO, Throne Science Raises $10M To Track Gut Health From The Toilet",
-        "url": "https://news.crunchbase.com/health-wellness-biotech/throne-science-microbiome-gut-health-toilet-camera-startup-john-capodilupo-whoop/",
+        "title": "오픈AI 모델, 허깅페이스 침해 과정서 외부 계정 4개 접근",
+        "url": "https://byline.network/2026/07/29-548/",
+        "source": "ByLine Network",
+        "published": "2026-07-29T09:13:26+00:00",
+        "summary": "오픈AI(OpenAI)가 허깅페이스(Hugging Face) 침해사고를 조사하는 과정에서 자사 모델이 외부 서비스 4곳의 계정 4개에도 접근한 사실을 확인했다고 28일(현지시간) 밝혔다. 오픈AI는 지난 21일 공개한 사고 조사 내용을 이날 갱신했다. 모델은 인터넷에 공개된 인증정보를 찾아 외부 서비스의 계정에 접근했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Freehand Raises $75M Series B To Automate Fortune 500 Supply Chain Spend",
+        "url": "https://news.crunchbase.com/transportation/freehand-pando-enterprise-supply-chain-spend-management-startup/",
         "source": "Crunchbase News",
-        "published": "2026-07-28T13:00:09+00:00",
-        "summary": "Throne Science, a startup that makes an AI-powered toilet camera to track gut health and hydration, has raised $10 million in a Series A round led by Will Ventures, it told Crunchbase News exclusively. Emerson Collective, Workshop, LEAD VC, Salt VC, Accomplice, Moxxie Ventures, and several other investors also participated in the financing. The round [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Visionaries cuts investment team to two lead partners for next fund",
-        "url": "https://sifted.eu/articles/visionaries-cuts-investment-team-next-fund/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-28T12:54:41+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "AI Seed Investors Flock To Cybersecurity",
-        "url": "https://news.crunchbase.com/cybersecurity/seed-trends-ai-security-startup-funding-2026/",
-        "source": "Crunchbase News",
-        "published": "2026-07-28T11:00:22+00:00",
-        "summary": "Startups at the intersection of AI and security have raised $855 million across more than 150 reported seed-stage rounds this year, per Crunchbase data.",
+        "published": "2026-07-29T09:00:51+00:00",
+        "summary": "Freehand has raised $75 million in Series B funding to scale autonomous AI agents that manage supply chain spend and back-office operations for enterprises.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Multi-GPU Kernels, Intelligence per Watt, Heterogeneous Inference, and More | YC Paper Club",
+        "url": "https://www.youtube.com/watch?v=n8dz2FX0_uY",
+        "source": "Y Combinator",
+        "published": "2026-07-29T23:46:52+00:00",
+        "summary": "At our latest YC Paper Club, researchers and builders presented on multi-GPU kernel optimization, intelligence per watt for local inference, AI-generated GPU kernels and benchmarking, heterogeneous inference infrastructure design, and GPU-accelerated game engines for reinforcement learning. Thanks t",
+        "thumbnail": "https://i3.ytimg.com/vi/n8dz2FX0_uY/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "n8dz2FX0_uY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Alexandr Wang: “This is a Once-in-a-Civilization Opportunity”",
+        "url": "https://www.youtube.com/watch?v=sJ4VJWycX9M",
+        "source": "Y Combinator",
+        "published": "2026-07-29T19:37:05+00:00",
+        "summary": "Alexandr Wang's advice to his 18-year-old self: develop your own internal compass for how the future will unfold, and hold conviction in it against the noise. \n\nAt Startup School 2026, the Scale AI (YC S16) founder — now leading Meta's Superintelligence Labs — talks with Garry Tan about rebuilding a",
+        "thumbnail": "https://i4.ytimg.com/vi/sJ4VJWycX9M/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "sJ4VJWycX9M",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Big Was A Dinosaur’s Brain?",
+        "url": "https://www.youtube.com/shorts/Kh0u-siMgew",
+        "source": "Cleo Abram",
+        "published": "2026-07-29T15:01:51+00:00",
+        "summary": "This is the actual size of the brain of a dinosaur the size of an elephant! After discovering a skull of a Pachyrhinosaurus, scientists put it through a scanner, which helped them to reconstruct what brain would have fit inside. Here's what they learned... \n\nIf you want to know more about dinosaurs,",
+        "thumbnail": "https://i4.ytimg.com/vi/Kh0u-siMgew/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "Kh0u-siMgew",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Saudi-Houthi War Restarts: What Next?",
+        "url": "https://www.youtube.com/watch?v=3IkgQ5pgaqQ",
+        "source": "TLDR News Global",
+        "published": "2026-07-29T14:00:22+00:00",
+        "summary": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code NEWSGLOBAL7 will get the first month paid for by me:  https://planetwild.com/r/tldrnewsglobal/join/7\nIf you want to get to know them better first, check out their miss",
+        "thumbnail": "https://i4.ytimg.com/vi/3IkgQ5pgaqQ/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "3IkgQ5pgaqQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The $1/Hour Robot Is Coming: Four Industry Leaders Explain What’s Next",
+        "url": "https://www.youtube.com/watch?v=TqNiSTeNtb0",
+        "source": "All-In Podcast",
+        "published": "2026-07-29T12:49:19+00:00",
+        "summary": "(0:00) Intro: Humanoids, Robots, & AI+\n(0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged Robot Dogs, Not Humanoids\n(13:18) Dr. Péter Fankhauser: China's Armed Robot Dogs Are \"Stupid and Risky\" — Inside the Terminator Debate\n(15:01) NEO’s Bernt Børnich: Neo Ships in",
+        "thumbnail": "https://i1.ytimg.com/vi/TqNiSTeNtb0/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "TqNiSTeNtb0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "출산율 저점 찍었냐?",
+        "url": "https://www.youtube.com/watch?v=StPp3ztCcG8",
+        "source": "슈카월드",
+        "published": "2026-07-29T10:12:42+00:00",
+        "summary": "0:00 출생아수 +18%, 진짜예요?\n9:42 대한민국 마지막 희망, 에코붐 세대의 결혼 적령기\n16:03 결혼 친화형 제도개선 추진 방안\n26:15 결혼하면 주식 선물로 드립니다.\n\n💍 2026년 대한민국은 결혼하면 주식받는 나라\n커플당 최대 10만원 주식 드려요!\n(1인당 5만원)\nhttps://s.abr.ge/e746j7\n \n*투자전 설명청취 및 약관 등 필독 | 원금손실 발생가능 및 투자자 귀속\n카카오페이증권 준법감시인 심사필 제26-223호(2026-07-24 ~ 2027-07-23)",
+        "thumbnail": "https://i4.ytimg.com/vi/StPp3ztCcG8/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "StPp3ztCcG8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Violence Has Erupted in the West Bank",
+        "url": "https://www.youtube.com/watch?v=0Zrphez0-nA",
+        "source": "TLDR News Global",
+        "published": "2026-07-29T09:36:44+00:00",
+        "summary": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code NEWSGLOBAL7 will get the first month paid for by me:  https://planetwild.com/r/tldrnewsglobal/join/7\nIf you want to get to know them better first, check out their miss",
+        "thumbnail": "https://i1.ytimg.com/vi/0Zrphez0-nA/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "0Zrphez0-nA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "반도체 선주문, 데이터센터 건설 지연시킬 2가지 이슈 (강정수 박사)",
+        "url": "https://www.youtube.com/watch?v=I6JBQhPyTnk",
+        "source": "티타임즈TV",
+        "published": "2026-07-29T09:00:27+00:00",
+        "summary": "한국 반도체 주식이 급락하고 있는데요. 중국발 반도체 쇼크 외 단기적으로 어떤 리스크 요인이 있는지 살펴봅니다. 가장 큰 리스크는 데이터센터 건설이 예정대로 될 수 있느냐라는 것입니다.\n\n“토큰 소비량이 급증하고 있어 중장기적으로 반도체 시장은 걱정할 게 없습니다. 오히려 단기적으로 걱정할 게 많다고 보고 있어요. 지금 미국에서 데이터센터 인허가 받은 게 1천 개가 넘습니다. 이것 때문에 반도체를 입도선매한 거잖아요. 문제는 건설이 지연될 수 있는 두 가지 이슈가 있습니다. 하나는 건설병목입니다. 미국의 건설회사, 건설인력이 그렇게",
+        "thumbnail": "https://i2.ytimg.com/vi/I6JBQhPyTnk/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "I6JBQhPyTnk",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "하락장에서 깨진다고 자책하지 말자",
+        "url": "https://www.youtube.com/shorts/7EuhhqsuuRg",
+        "source": "슈카월드",
+        "published": "2026-07-29T07:10:40+00:00",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i4.ytimg.com/vi/7EuhhqsuuRg/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "7EuhhqsuuRg",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -285,141 +420,6 @@
         "extras": {
           "theme": "interview",
           "videoId": "XyXBwO5jYpw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Disney Built Disneyland in One Year for $17 Million",
-        "url": "https://www.youtube.com/shorts/hT32G6bZ_lM",
-        "source": "Acquired",
-        "published": "2026-07-28T17:23:14+00:00",
-        "summary": "🎙 From The Walt Disney Company: The most successful enterprise for monetizing human nostalgia (Audio)",
-        "thumbnail": "https://i1.ytimg.com/vi/hT32G6bZ_lM/hqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "hT32G6bZ_lM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Incredible Deal Behind Darth Vader’s AI Voice",
-        "url": "https://www.youtube.com/shorts/qy6CBueM5CA",
-        "source": "All-In Podcast",
-        "published": "2026-07-28T16:11:34+00:00",
-        "summary": "Thanks to our partners for making this possible!\n\nAirwallex is a leading global payments and financial platform for modern businesses, offering trusted solutions to manage everything from business accounts, payments, treasury, and spend management to embedded finance. https://www.airwallex.com/allin",
-        "thumbnail": "https://i2.ytimg.com/vi/qy6CBueM5CA/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "qy6CBueM5CA",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Next Frontier of AI Is Spatial Intelligence | Fei-Fei Li on a16z",
-        "url": "https://www.youtube.com/watch?v=-tabaM5l3s0",
-        "source": "a16z",
-        "published": "2026-07-28T14:30:10+00:00",
-        "summary": "Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved problems: how to give machines a true understanding of the physical world.\n\nMartin Casado sits down with Fei-Fei Li, co-founder and CEO of World Labs, creator of ImageNet, a",
-        "thumbnail": "https://i2.ytimg.com/vi/-tabaM5l3s0/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "-tabaM5l3s0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How These New Shoes Work",
-        "url": "https://www.youtube.com/shorts/QAGKV8rod8A",
-        "source": "Cleo Abram",
-        "published": "2026-07-28T14:09:52+00:00",
-        "summary": "I tested out adidas' new Hyperboost Edge running shoes and here's what they can do.@adidas #ad #createdwithadidas",
-        "thumbnail": "https://i2.ytimg.com/vi/QAGKV8rod8A/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "QAGKV8rod8A",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Blake Scholl: \"The Future Was Supposed to Be Faster\"",
-        "url": "https://www.youtube.com/watch?v=byAj35QlGbs",
-        "source": "Y Combinator",
-        "published": "2026-07-28T14:00:18+00:00",
-        "summary": "In 1969, we landed on the moon and flew Concorde. Half a century later, we could do neither.\n\nBlake Scholl founded Boom Supersonic (YC W16), the startup building America’s first supersonic airliner, to change that. At Startup School 2026, he shares how a cardboard mockup with Office Depot seats beca",
-        "thumbnail": "https://i3.ytimg.com/vi/byAj35QlGbs/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "byAj35QlGbs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "사람들이 예전처럼 차를 사지 않는 이유",
-        "url": "https://www.youtube.com/watch?v=nHR1WLyz8QE",
-        "source": "슈카월드",
-        "published": "2026-07-28T10:25:13+00:00",
-        "summary": "0:00 부진한 테슬라 주가\n6:58 글로벌 판매 전체가 큰 타격인 자동차 시장\n9:25 미국 Z세대 \"차가 왜 필요해요?\"\n21:41 미국 부모님들의 생각\n27:11 대한민국  청년들의 운전면허 취득 감소",
-        "thumbnail": "https://i3.ytimg.com/vi/nHR1WLyz8QE/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "nHR1WLyz8QE",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Did Trump Just Lose to Iran Again?",
-        "url": "https://www.youtube.com/watch?v=Ykr4DxxvwmY",
-        "source": "TLDR News Global",
-        "published": "2026-07-28T09:00:32+00:00",
-        "summary": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code NEWSGLOBAL7 will get the first month paid for by me:  https://planetwild.com/r/tldrnewsglobal/join/7\nIf you want to get to know them better first, check out their miss",
-        "thumbnail": "https://i2.ytimg.com/vi/Ykr4DxxvwmY/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "Ykr4DxxvwmY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "우리 회사 월드모델 만들어야 하는 이유 (이주환 스윗테크놀로지 대표)",
-        "url": "https://www.youtube.com/watch?v=L9tBqZ6cbpQ",
-        "source": "티타임즈TV",
-        "published": "2026-07-28T09:00:13+00:00",
-        "summary": "AI모델이 아무리 똑똑해져도 그들이 만들 세계를 규정해주지 않으면 알맹이 없는 얘기만 하는 쓸모 없는 기계일 뿐입니다. 비즈니스 영역을 명시적으로 구축해놓고 정확한 규칙을 정해줘야만 AI모델은 날아다닐 수 있습니다. 그렇게 월드모델이 구축되고 나면 현실에서는 해볼 수 없는 수 많은 실패와 성공 케이스도 거의 비용을 들이지 않고 무한히 반복해볼 수 있다고 하죠. 왜 우리만의 월드모델을 구축하는 것이 중요한지 이주환 스윗테크놀로지 대표에게 들어봅니다.\n\n편집 : 허재석 영상디자이너 \n촬영 : 장민주 PD\n자료 : 박성수 PD\n진행 : ",
-        "thumbnail": "https://i1.ytimg.com/vi/L9tBqZ6cbpQ/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "L9tBqZ6cbpQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Sam Altman: \"Never a Better Time to Do a Startup\"",
-        "url": "https://www.youtube.com/watch?v=ZIaOBAjvc38",
-        "source": "Y Combinator",
-        "published": "2026-07-28T00:48:16+00:00",
-        "summary": "In 2005, Sam Altman was a Stanford sophomore in YC’s first batch, building a startup in a little Cambridge office while Paul Graham cooked the founders dinner. \n\nTwenty years later, as co-founder & CEO of OpenAI, he closed Startup School 2026 in conversation with YC's Garry Tan — on agents, ambition",
-        "thumbnail": "https://i3.ytimg.com/vi/ZIaOBAjvc38/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "ZIaOBAjvc38",
           "via": "rss"
         }
       }
