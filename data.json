@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-08-01T02:35:59.777608+00:00",
+  "generated_at": "2026-08-02T02:34:55.816895+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Thousands of Migrants Surge Into Ceuta from Morocco, Prompting Political Backlash",
-        "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html",
-        "source": "NYT World",
-        "published": "2026-08-01T02:35:07+00:00",
-        "summary": "A sudden exodus of migrants from Morocco startled Spanish officials and drew heavy criticism from right-wing parties across the continent.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/01/petrol-prices-on-track-to-top-2-a-litre-as-bowen-sounds-death-knell-for-fuel-excise-relief",
-        "source": "The Guardian World",
-        "published": "2026-08-01T02:22:49+00:00",
-        "summary": "Petrol now costs more than $1.90 a litre in every capital city, with diesel expected to exceed $2.40 a litrePetrol prices could surpass $2 a litre and diesel $2.40 in coming days, after the government’s 16-cent discount ends on Sunday.The 32-cent per litre reduction in fuel excise, introduced in March at the peak of the fuel price spike, was halved to 16 cents in July. Continue reading...",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-08-01T02:21:29+00:00",
-        "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+        "published": "2026-08-02T02:30:05+00:00",
+        "summary": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Russian missile attack kills three in Ukraine’s Kyiv",
-        "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+        "title": "Australia news live: Hume sidesteps question over Taylor’s Icac mention saying ‘this is so distant from him’",
+        "url": "https://www.theguardian.com/australia-news/live/2026/aug/02/insiders-jane-hume-coalition-anthony-albanese-labor-garma-festival-fuel-excise-bird-flu-updates-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-08-02T02:18:42+00:00",
+        "summary": "Meanwhile, cut to fuel excise to due end at midnight. Follow updatesGet our breaking news email, free app or daily news podcastYolngu leaders in north-east Arnhem Land have announced a powerful new Dilak Land Council, declaring land rights are “coming home” to traditional owners, AAP reports.On a national stage at the Garma festival, revered elder Djawa Yunupingu told leaders, politicians and visi",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Thirteen dead in Peruvian tourist plane crash over Nazca Lines",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/thirteen-dead-in-peruvian-tourist-plane-crash-over-nazca-lines?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-01T02:06:00+00:00",
-        "summary": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+        "published": "2026-08-02T01:46:22+00:00",
+        "summary": "Footage shows firefighters dousing the wreckage of a crashed tourist aircraft in southern Peru.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
-        "url": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
+        "title": "Gunman kills several at Idaho fast-food restaurant",
+        "url": "https://www.aljazeera.com/news/2026/8/2/gunman-kills-several-at-idaho-fast-food-restaurant?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-02T01:26:44+00:00",
+        "summary": "Multiple deaths reported after gunman opens fire at In-N-Out Burger in Twin Falls, Idaho.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+        "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-02T00:55:16+00:00",
+        "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Japan’s Rescuers Battle Cruel Heat After Major Earthquake",
+        "url": "https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html",
         "source": "NYT World",
-        "published": "2026-08-01T02:03:38+00:00",
-        "summary": "The country’s largest public university is requiring all students who passed a demanding entrance exam to take a new test after experts found half of all applicants may have cheated, including with A.I.",
+        "published": "2026-08-02T00:54:33+00:00",
+        "summary": "Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US military says F-35B jet fighter crashes in California, pilot safe",
-        "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+        "title": "Hungary plans to shut down only nuclear power plant amid drought",
+        "url": "https://www.aljazeera.com/news/2026/8/2/hungary-plans-to-shut-down-only-nuclear-power-plant-amid-drought?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-01T01:55:27+00:00",
-        "summary": "The jet went down on Friday near the Miramar airbase in San Diego.",
+        "published": "2026-08-02T00:49:25+00:00",
+        "summary": "Officials say they must shut down nation&#039;s sole nuclear plant as record-low Danube water levels disrupt reactor cooling.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
-        "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-01T01:10:58+00:00",
-        "summary": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-01T00:48:37+00:00",
-        "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
+        "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+        "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
+        "source": "NYT World",
+        "published": "2026-08-02T00:30:14+00:00",
+        "summary": "The flight had taken off from the coastal city of Pisco to view the ancient geoglyphs in the desert, a popular tourist attraction.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "How to Exist",
-        "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+        "title": "Go 1.27 Interactive Tour",
+        "url": "https://victoriametrics.com/blog/go-1-27/index.html",
         "source": "Hacker News Front",
-        "published": "2026-08-01T00:25:00+00:00",
-        "summary": "Article URL: https://www.raptitude.com/2026/07/how-to-exist/\nComments URL: https://news.ycombinator.com/item?id=49129990\nPoints: 20\n# Comments: 3",
+        "published": "2026-08-02T01:35:51+00:00",
+        "summary": "Article URL: https://victoriametrics.com/blog/go-1-27/index.html\nComments URL: https://news.ycombinator.com/item?id=49140218\nPoints: 30\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
-        "url": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
-        "source": "Wired",
-        "published": "2026-07-31T23:38:56+00:00",
-        "summary": "The impact will kick up a plume of debris so high, it’ll likely be visible through some telescopes. Astronomers will be watching.",
+        "title": "ASRock BC-250: Building the Budget Steam Machine",
+        "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+        "source": "Hacker News Front",
+        "published": "2026-08-02T01:35:11+00:00",
+        "summary": "Article URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/\nComments URL: https://news.ycombinator.com/item?id=49140213\nPoints: 9\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-        "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-        "source": "TechCrunch",
-        "published": "2026-07-31T22:47:26+00:00",
-        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+        "url": "https://zenodo.org/records/21753002",
+        "source": "Hacker News Front",
+        "published": "2026-08-02T01:01:45+00:00",
+        "summary": "Article URL: https://zenodo.org/records/21753002\nComments URL: https://news.ycombinator.com/item?id=49140080\nPoints: 3\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
-        "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-        "source": "Ars Technica",
-        "published": "2026-07-31T22:17:05+00:00",
-        "summary": "Some group with no modern descendants contributed a lot to our genomes.",
+        "title": "Walsh: Multi-agent research pipeline with risk manager that can veto trades",
+        "url": "https://github.com/ats4321/walsh",
+        "source": "Hacker News Front",
+        "published": "2026-08-02T00:13:52+00:00",
+        "summary": "Article URL: https://github.com/ats4321/walsh\nComments URL: https://news.ycombinator.com/item?id=49139865\nPoints: 4\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC",
-        "url": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock",
-        "source": "The Verge",
-        "published": "2026-07-31T22:09:11+00:00",
-        "summary": "Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra. This isn't just a drive. It's a 4K HDMI dock [&#8230;]",
+        "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+        "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+        "source": "Hacker News Front",
+        "published": "2026-08-02T00:06:25+00:00",
+        "summary": "Article URL: https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/\nComments URL: https://news.ycombinator.com/item?id=49139826\nPoints: 4\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-        "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-        "source": "TechCrunch",
-        "published": "2026-07-31T22:00:08+00:00",
-        "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
+        "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
+        "url": "https://wwnorton.com/books/9781324051299",
+        "source": "Hacker News Front",
+        "published": "2026-08-02T00:01:46+00:00",
+        "summary": "Article URL: https://wwnorton.com/books/9781324051299\nComments URL: https://news.ycombinator.com/item?id=49139796\nPoints: 8\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Silicon Valley loves young founders. Until it doesn’t.",
-        "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-        "source": "TechCrunch",
-        "published": "2026-07-31T22:00:00+00:00",
-        "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
+        "title": "A Uiua Type System (2025)",
+        "url": "https://www.uiua.org/blog/a-uiua-type-system",
+        "source": "Hacker News Front",
+        "published": "2026-08-01T23:49:50+00:00",
+        "summary": "Article URL: https://www.uiua.org/blog/a-uiua-type-system\nComments URL: https://news.ycombinator.com/item?id=49139741\nPoints: 4\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-        "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-        "source": "Ars Technica",
-        "published": "2026-07-31T21:51:52+00:00",
-        "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
+        "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+        "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+        "source": "Hacker News Front",
+        "published": "2026-08-01T23:44:55+00:00",
+        "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc10015.html\nComments URL: https://news.ycombinator.com/item?id=49139711\nPoints: 28\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       }
@@ -202,6 +202,17 @@
         "source": "Crunchbase News",
         "published": "2026-07-31T13:00:19+00:00",
         "summary": "We identified popular themes for seed-stage investment this year, including cancer therapeutics and space tech.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "충청권 엔젤투자허브, 지역 초기창업기업과 투자사 잇는 ‘엔젤 웨이브 IR 캠프’ 열어",
+        "url": "https://platum.kr/archives/291764?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b6%25a9%25ec%25b2%25ad%25ea%25b6%258c-%25ec%2597%2594%25ec%25a0%25a4%25ed%2588%25ac%25ec%259e%2590%25ed%2597%2588%25eb%25b8%258c-%25ec%25a7%2580%25ec%2597%25ad-%25ec%25b4%2588%25ea%25b8%25b0%25ec%25b0%25bd%25ec%2597%2585%25ea%25b8%25b0%25ec%2597%2585%25ea%25b3%25bc-%25ed%2588%25ac%25ec%259e%2590%25ec%2582%25ac",
+        "source": "Platum",
+        "published": "2026-07-31T09:32:55+00:00",
+        "summary": "한국엔젤투자협회 충청권&#160;엔젤투자허브가 &#8216;2026 충청권&#160;엔젤 웨이브(AngelWave) IR 캠프&#8217;를 열었다. 지역&#160;초기창업기업과 투자사의 접점을 넓히자는&#160;취지로 마련한 이틀 일정에&#160;초기창업기업 15개사와 투자사 9개사가 참여했다. 첫날&#160;프로그램은 창업자를 투자자 자리에&#160;앉히는 데 초점을 맞췄다. &#8216;창업&#160;퀴즈&#8217;로 창업 초기 실무 지식을 훑은&#160;뒤 &#8216;투자 심사 시뮬레이션&#8217;에서&#160;투자자 시선으로 자기 회사를&#160;진단해봤다. 둘째 날은 &#8216;IR 피칭&#160;실습&#8217;이 중심이었다. 기업별 산업 특성을&#160;반영한 IR 컨설팅도 함께 이뤄졌",
         "thumbnail": "",
         "extras": {}
       },
@@ -241,33 +252,22 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Blossom Capital is dipping into defence. Here’s what the VC is looking for",
-        "url": "https://sifted.eu/articles/blossom-capital-invest-defence-tech-startups/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-31T05:00:59+00:00",
-        "summary": "",
+        "title": "깃허브, 대형 변경을 계층형 PR로 분할하는 기능 공개",
+        "url": "https://byline.network/2026/07/31-315/",
+        "source": "ByLine Network",
+        "published": "2026-07-31T04:10:38+00:00",
+        "summary": "깃허브가 대규모 코드 변경을 작은 단위로 나눠 검토할 수 있는 ‘스택형 풀리퀘스트 (Stacked Pull Requests)’ 기능을 퍼블릭 프리뷰 형태로 30일(현지시간) 출시했다.\n\n스택형 PR는 하나의 큰 코드 변경을 작고 검토하기 쉬운 풀리퀘스트(PR)로 분할해 나눠 관리할 수 있도록 지원하는 기능이다. 개발자는 각 PR를 개별적으로 검토하고 확인한 후 한번의 클릭으로 모두 병합할 수 있다. 작업을 여러 브랜치에 분산시켜 수동으로 리베이스하는 번거로움이 없다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "What the CEO of Irish unicorn Tines learned from its AI overhaul",
-        "url": "https://sifted.eu/articles/tines-interview/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-31T05:00:50+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "222 spinouts, €4.9bn raised: Europe’s top universities for spinout funding in H1 2026",
-        "url": "https://sifted.eu/articles/222-spinouts-e4-9b-raised-europes-top-universities-for-spinout-funding-in-h1-2026/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-07-31T05:00:45+00:00",
-        "summary": "",
+        "title": "AWS, 2분기 영업이익 64% 증가 “AI 수익화 예상보다 빨라”",
+        "url": "https://byline.network/2026/07/20-630/",
+        "source": "ByLine Network",
+        "published": "2026-07-31T03:53:43+00:00",
+        "summary": "아마존웹서비스(AWS)가 AI 인프라 선행 투자를 클라우드 사업의 매출과 영업이익 증가로 연결하며 AI 수익성을 입증했다. 메모리 가격 인상으로 연간 인프라 투자 비용을 상향하면서도, 투자의 수익화 속도가 예상보다 더 빠르다고 강조했다.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,30 +276,105 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "미국 휴머노이드 기업 Figure AI 초기 투자자가 말하는 이 산업의 진실 | RoboStrategy, Andrew Kang",
-        "url": "https://www.youtube.com/watch?v=L-L4OXOro58",
-        "source": "EO 이오",
-        "published": "2026-08-01T01:00:04+00:00",
-        "summary": "최근 Figure AI에서 로봇이 인간 작업자와 물류 작업 대결을 벌인 뒤, 이후로도 홀로 200시간 동안 약 25만 개의 택배를 처리한 라이브스트림 영상으로 로보틱스 업계는 꽤나 떠들썩했습니다. 이렇게 편집 없이 있는 그대로를 보여주는 데모를 그만큼 길게 이어간다는 건, 정말 놀라운 발전을 보여주는 거죠.\n\n바로 이 Figure AI의 초기 투자자 Andrew Kang을 직접 만나 Figure AI 라이브 데모의 의미와, 앞으로 휴머노이드 업계에서 어떤 것들을 주목해야 하는지 물어봤습니다.\n\n**오디오 트랙을 한국어로 변경하실 수",
-        "thumbnail": "https://i1.ytimg.com/vi/L-L4OXOro58/hqdefault.jpg",
+        "title": "중국 AI 막을수록 미국 AI 생태계도 타격",
+        "url": "https://www.youtube.com/watch?v=JtW6oFDjWok",
+        "source": "티타임즈TV",
+        "published": "2026-08-01T22:00:29+00:00",
+        "summary": "키미 K3와 큐웬 3.8 등 중국 오픈웨이트 AI 모델이 미국 최상위 모델과 격차를 좁히면서 글로벌 개발자 시장을 파고들고 있습니다. 이 때문에 미국 정부가 중국 모델 규제에 나서기 시작했죠. 그런데 엔비디아·마이크로소프트·팔란티어 등은 오히려 오픈웨이트에 대한 성급한 제한이 미국의 경쟁력을 약화하고 혁신을 해외로 밀어낼 수 있다고 경고했습니다. \n\n왜 이들은 오픈웨이트를 지켜야 한다고 주장할까요? 그 뒤에는 어떤 사업적 이해관계가 숨어 있을까요? 최근 미국 빅테크들이 잇달아 서명에 동참하고 있는 공개서한의 행간을 읽어봅니다.\n\n편",
+        "thumbnail": "https://i3.ytimg.com/vi/JtW6oFDjWok/hqdefault.jpg",
         "extras": {
           "theme": "kr",
-          "videoId": "L-L4OXOro58",
+          "videoId": "JtW6oFDjWok",
           "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
-        "url": "https://www.youtube.com/watch?v=ViqYWhLimGg",
+        "title": "미국으로 떠난 이유 #창업 #스타트업 #미국",
+        "url": "https://www.youtube.com/shorts/jPP54xA2qKw",
+        "source": "EO 이오",
+        "published": "2026-08-01T14:53:05+00:00",
+        "summary": "지구 반대편에서 내가 만든 프로덕트를 좋아하는 누군가를 만났을 때의 희열.\n\n이들이 미국으로 떠나는 이유 아닐까요?",
+        "thumbnail": "https://i3.ytimg.com/vi/jPP54xA2qKw/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "jPP54xA2qKw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Friedberg: NYC’s Socialist Grocery Stores Will Be Wildly Popular and a Marketing Tool for 2028",
+        "url": "https://www.youtube.com/shorts/2j0l5lWSTiA",
         "source": "All-In Podcast",
-        "published": "2026-07-31T22:51:01+00:00",
-        "summary": "(0:00) Bestie intros\n(1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called\n(20:20) China's advantage and green shoots for the US economy\n(34:12) Frontier Labs say \"SLOW DOWN AI\"\n(1:01:15) Why are frontier labs \"burning books\"?\n(1:14:45) Socialism Corner: Mamdani's grocery st",
-        "thumbnail": "https://i3.ytimg.com/vi/ViqYWhLimGg/hqdefault.jpg",
+        "published": "2026-08-01T13:40:53+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+        "thumbnail": "https://i3.ytimg.com/vi/2j0l5lWSTiA/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "ViqYWhLimGg",
+          "videoId": "2j0l5lWSTiA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "허슬밸리 🔥🔥#창업 #startup #동기부여",
+        "url": "https://www.youtube.com/shorts/UvM5h0RPNag",
+        "source": "EO 이오",
+        "published": "2026-08-01T13:33:23+00:00",
+        "summary": "",
+        "thumbnail": "https://i2.ytimg.com/vi/UvM5h0RPNag/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "UvM5h0RPNag",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Takaichi’s Approval Ratings Are Sinking",
+        "url": "https://www.youtube.com/watch?v=1EUdHS8TFHY",
+        "source": "TLDR News Global",
+        "published": "2026-08-01T10:00:11+00:00",
+        "summary": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code NEWSGLOBAL7 will get the first month paid for by me: https://planetwild.com/r/tldrnewsglobal/join/7\nIf you want to get to know them better first, check out their missi",
+        "thumbnail": "https://i2.ytimg.com/vi/1EUdHS8TFHY/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "1EUdHS8TFHY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "이정도면 슬슬 살만할까?",
+        "url": "https://www.youtube.com/watch?v=cfnZGlJ73zc",
+        "source": "슈카월드",
+        "published": "2026-08-01T09:07:42+00:00",
+        "summary": "0:00 의외로 잘팔리는 메타 AI 글래스\n4:14 구글 x 삼성전자 스마트 안경 출시?\n11:00 모두가 스마트 안경을 썼을때의 미래\n15:04 한국에서는 길거리 촬영이 범죄인가요?\n19:48 하이마트로 가요~! 근황\n\n하이마트의 유료광고가 포함된 영상 입니다.",
+        "thumbnail": "https://i4.ytimg.com/vi/cfnZGlJ73zc/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "cfnZGlJ73zc",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "David Sacks: The Chip Stock Crash is Based on Momentum, NOT Fundamentals",
+        "url": "https://www.youtube.com/shorts/ucwxs7KLUI4",
+        "source": "All-In Podcast",
+        "published": "2026-08-01T04:16:11+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+        "thumbnail": "https://i2.ytimg.com/vi/ucwxs7KLUI4/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "ucwxs7KLUI4",
           "via": "rss"
         }
       },
@@ -321,7 +396,7 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Patrick Collison: \"What If You Succeed?\"",
+        "title": "Patrick Collison: Is AI Breaking the Lean Startup Playbook?",
         "url": "https://www.youtube.com/watch?v=5d6y3poKwK4",
         "source": "Y Combinator",
         "published": "2026-07-31T17:29:06+00:00",
@@ -345,81 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "cO1f2wOxSH4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Massive Machine at the Bottom of the Sea",
-        "url": "https://www.youtube.com/watch?v=GjDlPhwsdCs",
-        "source": "Cleo Abram",
-        "published": "2026-07-31T13:00:19+00:00",
-        "summary": "Off the coast of Sicily, there’s a massive underwater machine. It looks like a forest of floating spheres…\n\nAnd on the surface, hidden in an abandoned winery, a computer watches them and waits. And in 2023, they saw something…\n\nSomething WAY smaller than an electron tore through that forest, setting",
-        "thumbnail": "https://i4.ytimg.com/vi/GjDlPhwsdCs/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "GjDlPhwsdCs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "탈모약 건강보험 적용, 해야할까?",
-        "url": "https://www.youtube.com/watch?v=KanCRG2bOu8",
-        "source": "슈카월드",
-        "published": "2026-07-31T10:08:44+00:00",
-        "summary": "0:00 탈모약 건강보험 이슈\n10:13 임신 중지 약물 이슈",
-        "thumbnail": "https://i4.ytimg.com/vi/KanCRG2bOu8/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "KanCRG2bOu8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why US Bond Yields Are Surging (Again)",
-        "url": "https://www.youtube.com/watch?v=XFFjE-z5BSk",
-        "source": "TLDR News Global",
-        "published": "2026-07-31T08:45:07+00:00",
-        "summary": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code NEWSGLOBAL7 will get the first month paid for by me: https://planetwild.com/r/tldrnewsglobal/join/7\nIf you want to get to know them better first, check out their missi",
-        "thumbnail": "https://i1.ytimg.com/vi/XFFjE-z5BSk/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "XFFjE-z5BSk",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Jeff Dean: The 1% Rule for Building in AI",
-        "url": "https://www.youtube.com/watch?v=CxXgV54KzpQ",
-        "source": "Y Combinator",
-        "published": "2026-07-30T21:03:53+00:00",
-        "summary": "In 2001, Jeff Dean and Sanjay Ghemawat did the math and realized Google’s entire search index would fit in RAM — then shipped it in a few days, and search got fast. In 2013, another napkin calculation showed that three minutes of daily speech recognition per user would require doubling Google’s serv",
-        "thumbnail": "https://i4.ytimg.com/vi/CxXgV54KzpQ/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "CxXgV54KzpQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“Every small business should run itself” | Lassie with a16z",
-        "url": "https://www.youtube.com/watch?v=Fpg_8aiBxx4",
-        "source": "a16z",
-        "published": "2026-07-30T14:30:01+00:00",
-        "summary": "Alex Rampell and Olivia Moore speak with Lassie cofounders Steijn Pelle and Frédéric Renken about bringing AI to one of the most overlooked parts of the economy: small businesses.\n\nInspired by time spent working inside dental practices, Pelle and Renken set out to automate the administrative work th",
-        "thumbnail": "https://i3.ytimg.com/vi/Fpg_8aiBxx4/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "Fpg_8aiBxx4",
           "via": "rss"
         }
       }
