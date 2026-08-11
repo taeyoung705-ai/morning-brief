@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-08-10T01:38:07.702471+00:00",
+  "generated_at": "2026-08-11T01:27:36.655541+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
-        "url": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin",
+        "title": "Australia politics live: bird flu vaccine to begin rolling out to ‘priority species’; Victoria’s new premier pauses right to work from home bill",
+        "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-08-10T01:24:13+00:00",
-        "summary": "Observatory says 36.9C posted on Sunday is city’s highest official temperature since its records began 142 years ago, with storm driving intense heat in regionHong Kong has officially recorded its highest ever temperature as Typhoon Dolphin swept warm air over the city, the meteorological service said.The city’s weather observatory posted a temperature of 36.9C on Sunday, the highest recorded sinc",
+        "published": "2026-08-11T01:09:52+00:00",
+        "summary": "H5 vaccine to be given to native birds in capacity as first step of bird flu countermeasures. Follow today’s news liveGet our breaking news email, free app or daily news podcastTed O’Brien says that just because the Japanese government has downplayed melon-gate, doesn’t mean Anthony Albanese’s gaffe isn’t a “national embarrassment”.We’ve seen reports Japan sent a memo to the government last month ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Malcolm Turnbull says trusting Aukus is ‘stark staring bonkers’; Minns considers banning ebikes for under-12s",
-        "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+        "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
+        "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
         "source": "The Guardian World",
-        "published": "2026-08-10T01:19:50+00:00",
-        "summary": "Former PM has told a public inquiry the agreement will probably result in no submarines for Australia. Follow today’s news liveGet our breaking news email, free app or daily news podcastPolice say the remains found in a suitcase near Goulburn are not human.Supt Linda Bradbury with NSW police said:Some good news here that we don’t have a suspicious death of a human on our hands. … We are still unde",
+        "published": "2026-08-11T01:06:45+00:00",
+        "summary": "More than a dozen buildings collapsed in aftermath of earthquake, which has also prompted evacuationsPeople remain trapped in Cali, one of Colombia’s largest cities, ​after more than two dozen structures ‌collapsed, mayor Alejandro Eder said. ‌He added that the city had asked authorities in Bogota and Medellin to send disaster teams ‌to support rescue efforts. Continue reading...",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
-        "url": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
+        "title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-10T00:51:19+00:00",
-        "summary": "Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.",
+        "published": "2026-08-11T00:55:09+00:00",
+        "summary": "Turkiye passes law setting terms for thousands of PKK members to rejoin society if the group fully disarms.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Daniel Kinahan Extradited From the U.A.E. to Ireland",
-        "url": "https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html",
+        "title": "Seventy years after South Africa’s women’s march, the struggle is not over",
+        "url": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-11T00:26:02+00:00",
+        "summary": "Women helped defeat apartheid’s pass laws, but many still face violence, poverty and unemployment.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+        "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
         "source": "NYT World",
-        "published": "2026-08-10T00:25:25+00:00",
-        "summary": "Daniel Kinahan, accused of leading a family crime syndicate, was flown home from Dubai on an Irish government jet on Sunday.",
+        "published": "2026-08-11T00:21:33+00:00",
+        "summary": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Houthis renew missile and drone attacks on Yemen’s port of al-Makha",
-        "url": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha?traffic_source=rss",
+        "title": "Major Quake Hits Colombia, Killing at Least 111",
+        "url": "https://www.nytimes.com/2026/08/10/world/americas/earthquake-colombia-cali.html",
+        "source": "NYT World",
+        "published": "2026-08-11T00:14:45+00:00",
+        "summary": "Rescue crews and regular people searched for survivors, and the death toll was likely to rise. More than 1,500 homes were damaged, the president said.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
+        "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-10T00:19:43+00:00",
-        "summary": "The latest Houthi attacks come less than 24 hours after an earlier barrage struck al-Makha (Mocha) and its commercial port.",
+        "published": "2026-08-11T00:00:19+00:00",
+        "summary": "Can Netanyahu risk continuing to defy Trump?",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-        "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-10T00:17:46+00:00",
-        "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "NSW police say ‘body’ of woman found in suitcase by side of road near Goulburn was not human",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/09/body-woman-found-suitcase-regional-nsw-road-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-08-10T00:11:05+00:00",
-        "summary": "What was originally reported as a body found in Oallen on Sunday was ‘very realistic in the terms of looking like human remains’, police sayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWhat appeared to be a woman’s body found in a suitcase by the side of a road near Goulburn in regional New South Wales was not in fact human remain",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+        "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-10T00:00:00+00:00",
-        "summary": "Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.",
+        "published": "2026-08-11T00:00:00+00:00",
+        "summary": "US President Donald Trump said he will seek compensation from Iran for casualties in the war.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "How We Pushed CDC into Postgres",
-        "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+        "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't",
+        "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
         "source": "Hacker News Front",
-        "published": "2026-08-10T01:01:34+00:00",
-        "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/\nComments URL: https://news.ycombinator.com/item?id=49238050\nPoints: 6\n# Comments: 0",
+        "published": "2026-08-11T00:59:50+00:00",
+        "summary": "Article URL: https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html\nComments URL: https://news.ycombinator.com/item?id=49251978\nPoints: 14\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Japanese court overturns Red RAW video patent",
-        "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+        "title": "Chicken Scheme 6.0",
+        "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
         "source": "Hacker News Front",
-        "published": "2026-08-10T00:36:24+00:00",
-        "summary": "Article URL: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/\nComments URL: https://news.ycombinator.com/item?id=49237873\nPoints: 7\n# Comments: 1",
+        "published": "2026-08-11T00:24:15+00:00",
+        "summary": "Article URL: https://code.call-cc.org/releases/6.0.0/NEWS\nComments URL: https://news.ycombinator.com/item?id=49251702\nPoints: 16\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "To Recruit Teachers, School Districts Are Building Homes",
-        "url": "https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html",
-        "source": "Hacker News Front",
-        "published": "2026-08-09T22:00:36+00:00",
-        "summary": "Article URL: https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html\nComments URL: https://news.ycombinator.com/item?id=49236541\nPoints: 33\n# Comments: 27",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-        "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-        "source": "Hacker News Front",
-        "published": "2026-08-09T21:52:23+00:00",
-        "summary": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986\nComments URL: https://news.ycombinator.com/item?id=49236439\nPoints: 39\n# Comments: 22",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Georgia police officers fired after Flock camera misuse",
-        "url": "https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/",
-        "source": "Hacker News Front",
-        "published": "2026-08-09T21:20:24+00:00",
-        "summary": "Article URL: https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/\nComments URL: https://news.ycombinator.com/item?id=49236033\nPoints: 87\n# Comments: 54",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Tuxedo No. 2 – Cocktail recipes",
-        "url": "https://tuxedono2.com",
-        "source": "Hacker News Front",
-        "published": "2026-08-09T20:48:46+00:00",
-        "summary": "Article URL: https://tuxedono2.com\nComments URL: https://news.ycombinator.com/item?id=49235697\nPoints: 44\n# Comments: 11",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "New Zealand lost its music media, and what we're building to replace it",
-        "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-        "source": "Hacker News Front",
-        "published": "2026-08-09T20:42:29+00:00",
-        "summary": "Article URL: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media\nComments URL: https://news.ycombinator.com/item?id=49235641\nPoints: 71\n# Comments: 33",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
         "source": "TechCrunch",
-        "published": "2026-08-09T20:35:17+00:00",
-        "summary": "The AI-focused hedge fund is still making some big bets.",
+        "published": "2026-08-11T00:03:18+00:00",
+        "summary": "San Francisco's housing market is in trouble again.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+        "source": "TechCrunch",
+        "published": "2026-08-10T23:56:15+00:00",
+        "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The UK's War on Anonymity Has Come to America",
+        "url": "https://www.effort.news/uk-lobby",
+        "source": "Hacker News Front",
+        "published": "2026-08-10T23:45:50+00:00",
+        "summary": "Article URL: https://www.effort.news/uk-lobby\nComments URL: https://news.ycombinator.com/item?id=49251411\nPoints: 127\n# Comments: 58",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Jeff Bezos might finally get his hands on a sports team",
+        "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+        "source": "TechCrunch",
+        "published": "2026-08-10T23:16:44+00:00",
+        "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+        "url": "https://everycube.alen.is/",
+        "source": "Hacker News Front",
+        "published": "2026-08-10T23:16:25+00:00",
+        "summary": "Article URL: https://everycube.alen.is/\nComments URL: https://news.ycombinator.com/item?id=49251179\nPoints: 44\n# Comments: 7",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "World Train Map – 1247 train routes around the world",
+        "url": "https://worldtrainmap.com/",
+        "source": "Hacker News Front",
+        "published": "2026-08-10T22:42:14+00:00",
+        "summary": "Article URL: https://worldtrainmap.com/\nComments URL: https://news.ycombinator.com/item?id=49250894\nPoints: 25\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,44 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "네이버가 잘해온 것, 잘하려는 것, 잘하고 싶은 것",
-        "url": "https://byline.network/2026/08/07_naver_2602q/",
+        "title": "메타, 소형 오픈웨이트 모델 ‘뮤즈 글리머’ 공개",
+        "url": "https://byline.network/2026/08/11-665/",
         "source": "ByLine Network",
-        "published": "2026-08-09T22:46:24+00:00",
-        "summary": "2026년 2분기에 본 네이버는 기존 'IT역량을 기반으로 오프라인 시장을 자사 온라인 플랫폼에 끌어올리는 전략'을 다각도로 확대하는 한편, 또 다른 한 축을 더하고 있습니다. 한편에서는 N페이 커넥트를 통해 기존 전략을 오프라인까지 확장하려 하고, 또 업계 2위인 쇼핑 부문에서는 1위와의 격차를 좁히기 위해 달리고 있습니다. 다른 한편에서는 지금까지 쌓아온 인프라 운영 역량을 AI팩토리 사업으로 풀어낸다는 목표입니다.",
+        "published": "2026-08-10T23:30:13+00:00",
+        "summary": "메타가 새로운 오픈웨이트 모델 ‘뮤즈 글리머(Muse Glimmer)’를 발표했다. 메타슈퍼인텔리전스랩에서 공개한 첫 오픈웨이트 모델이지만, 과거 라마 수준의 대규모 모델은 아니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "“모두를 위한 MMORPG”…컴투스 ‘제우스’, 26일 출격",
-        "url": "https://byline.network/2026/08/7-476/",
-        "source": "ByLine Network",
-        "published": "2026-08-09T22:45:02+00:00",
-        "summary": "“어떤 게임으로 선보여야 할지 많은 고민을 했다. 단순히 화려한 그래픽이나 게임 콘텐츠 규모만으로는 부족하다고 생각했기 때문이다. 그리고 저희가 찾은 답은 바로 ‘모두를 위한 다중접속역할수행게임(MMORPG)’이다.” 남재관 컴투스 대표는 7일 서울 종로구 JW 메리어트 동대문 스퀘어에서 열린 ‘제우스: 오만의 신’(이하 제우스) 쇼케이스에서 이같이 말했다. 제우스는 컴투스가 퍼블리싱을 맡고 에이버튼이 개발 중인 신작으로, 오는 26일 출시 예정이다. 이날 행사는 핵심 콘텐츠, 개발 철학, 서비스 방향 등 제우스에 대한 자세한 내용을 전달하기 위해 열렸다.",
+        "title": "마윈의 ‘윈’과 위펑의 ‘펑’, 윈펑캐피탈은 어떤 펀드인가",
+        "url": "https://platum.kr/archives/292283?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%259c%2588%25ec%259d%2598-%25ec%259c%2588%25ea%25b3%25bc-%25ec%259c%2584%25ed%258e%2591%25ec%259d%2598-%25ed%258e%2591-%25ec%259c%2588%25ed%258e%2591%25ec%25ba%2590%25ed%2594%25bc%25ed%2583%2588%25ec%259d%2580-%25ec%2596%25b4%25eb%2596%25a4-%25ed%258e%2580%25eb%2593%259c%25ec%259d%25b8",
+        "source": "Platum",
+        "published": "2026-08-10T18:07:13+00:00",
+        "summary": "코르기 투자설 소동이 다시 불러낸 윈펑과 마윈의 16년 관계 지난주 미국 AI 보험 스타트업 코르기(Corgi)를 둘러싼 소동이 있었다. 윈펑캐피탈(云锋基金)이 코르기에 약 3,000만 달러를 투자했다는 외신 보도가 나왔다가 코르기 최고경영자의 즉각 반박에 이어 기사가 삭제됐고, 윈펑도 투자 사실을 부인했다. 투자설은 부인으로 끝났다. 그럼에도 이 보도는 하루 만에 각국으로 퍼졌다. 윈펑캐피탈이라는 이름 때문이었다. 윈펑캐피탈은 2010년 상하이에서 출범한 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[플레이BN] 쉴 틈 없이 몰아치는 재미, 데브시스터즈 ‘쿠키런: 크럼블’",
-        "url": "https://byline.network/2026/08/6-443/",
+        "title": "해외 게임쇼에 주목하는 한국 게임사들",
+        "url": "https://byline.network/2026/08/10-695/",
         "source": "ByLine Network",
-        "published": "2026-08-09T22:43:28+00:00",
-        "summary": "요즘은 방치형 RPG 장르의 전성시대라고 해도 과언이 아닙니다. 주요 게임사들이 인지도 높은 지식재산권(IP)을 활용해 너나 할 것 없이 방치형 신작을 쏟아내고 있죠. 데브시스터즈의 ‘쿠키런: 크럼블’도 그중 하나입니다. 하지만 이 게임은 조금 다릅니다. 일반적으로 방치형 게임은 가만히 지켜보는 시간이 길어 자칫 잘못하면 단조롭게 느껴질 수 있는데요. 보는 맛과 이용자의 개입을 잘 버무렸습니다.",
+        "published": "2026-08-10T16:12:15+00:00",
+        "summary": "국내 게임사들이 올해 하반기 해외 게임쇼를 통해 주요 작품 알리기에 나선다. 이달 말 독일에서 열리는 ‘게임스컴 2026’을 시작으로 내달 중순 일본 ‘도쿄 게임쇼(TGS) 2026’까지 규모 있는 행사가 연달아 열린다. 국내 업체들은 글로벌 시장 공략을 위해 각 게임쇼의 성격과 현지 이용자 취향을 고려한 주요 작품을 출품할 계획이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "오픈AI, 차기 모델 ‘아스트라’ 일부 활동 중단…사이버 공격 능력 우려",
-        "url": "https://byline.network/2026/08/9-484/",
+        "title": "싸이월드를 둘러싼 때아닌 이전투구",
+        "url": "https://byline.network/2026/08/0810-2/",
         "source": "ByLine Network",
-        "published": "2026-08-08T15:17:48+00:00",
-        "summary": "오픈AI가 개발 중인 차세대 인공지능(AI) 모델 ‘아스트라(Astra)’의 일부 내부 활동을 일시 중단했다. 최근 자체 평가에서 아스트라의 코딩과 사이버보안 능력이 예상보다 빠르게 높아진 것으로 나타나면서다. 오픈AI는 7일(현지시간) 공식 블로그를 통해 강화한 보안 통제 기준을 충족하지 못한 아스트라 관련 내부 활동을 중단했다고 밝혔다.",
+        "published": "2026-08-10T15:56:09+00:00",
+        "summary": "블록체인 기술 기업 시그마체인이 싸이월드 인수를 완료하고 ‘Cyworld 3.0’ 사업 추진 방향을 공개했다. 기존 미니홈피와 사진첩, BGM, 일촌 등 싸이월드의 이용자 경험을 유지하면서 블록체인과 웹3.0(Web3) 기술을 접목해 콘텐츠 자산화와 이용자 보상, 크리에이터 생태계 구축에 나선다는 구상이다. 시그마체인은 10일 서울 중구 코트야드 메리어트 서울 명동에서 기자회견을 열고 싸이월드를 단순 복원하는 데 그치지 않고 새로운 디지털 플랫폼으로 전환하겠다고 밝혔다. 이번 인수를 계기로 싸이월드를 잘 이해하고 오랫동안 함께 만들어온 창립 원년 멤버들이 다시 모여 서비스의 새로운 방향을 제시한다는 설명이다. 같은 날 김호광 싸이월드 전 대표는 사업권 양수도의 적법성에 문제를 제기하며 맞불 기자회견을 열었다",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "독파모 2차 평가 막바지…4개 팀 전략은",
+        "url": "https://byline.network/2026/08/0810/",
+        "source": "ByLine Network",
+        "published": "2026-08-10T13:40:23+00:00",
+        "summary": "정부가 추진하는 독자 인공지능(AI) 파운데이션 모델(독파모) 프로젝트의 2차 단계평가가 이달 11일 마무리된다. 지난 8일부터 진행된 국민평가단 200명의 사용자 평가가 종료되고 이르면 12일 전후로 최종 3차 평가에 진출할 3개 정예팀이 발표될 예정이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Revolut granted French banking licence",
+        "url": "https://sifted.eu/articles/revolut-french-banking-licence/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-08-10T12:07:47+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Global New Unicorn Counts In The First Half Of 2026 Have Already Surpassed 2025’s Totals",
+        "url": "https://news.crunchbase.com/venture/global-unicorn-counts-rise-ai-robotics-chips-h1-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-08-10T11:00:38+00:00",
+        "summary": "A total 195 companies joined The Crunchbase Unicorn Board in the first half of 2026 — far surpassing counts seen since the second half of 2022. Already, H1 is above the new unicorn totals for all of 2025, when 193 companies were minted with that status.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The Biggest Consequence Of An AI IPO Isn’t The IPO Itself. It’s What Happens Afterward.",
+        "url": "https://news.crunchbase.com/public/ai-ipo-results-lp-liquidity-gershfeld-flint/",
+        "source": "Crunchbase News",
+        "published": "2026-08-10T11:00:36+00:00",
+        "summary": "A wave of major AI IPOs could return significant liquidity to limited partners, fueling a new venture fundraising cycle rather than simply affecting public-market valuations. That capital is likely to flow disproportionately to the largest, established VC firms, writes guest author Andrew Gershfeld of Flint Capital, creating a concentration flywheel that could reshape fundraising, startup financin",
         "thumbnail": "",
         "extras": {}
       }
@@ -232,150 +276,150 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Friedberg: Elon’s $17B Terafab Could Be the Greatest Chip Fab on Earth",
-        "url": "https://www.youtube.com/shorts/rPa4TGGkOH4",
+        "title": "“Ban Them Now”: CEOs Sound Alarm on Chinese Robots",
+        "url": "https://www.youtube.com/shorts/F1VLzQxShVU",
         "source": "All-In Podcast",
-        "published": "2026-08-09T20:02:22+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i3.ytimg.com/vi/rPa4TGGkOH4/hqdefault.jpg",
+        "published": "2026-08-10T21:10:13+00:00",
+        "summary": "Thanks to our partners for making this possible!\n\nMost advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads. 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands o",
+        "thumbnail": "https://i3.ytimg.com/vi/F1VLzQxShVU/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "rPa4TGGkOH4",
+          "videoId": "F1VLzQxShVU",
           "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "How Deep is the DEEPEST Submarine?",
-        "url": "https://www.youtube.com/shorts/I_xdmRe2LXk",
-        "source": "Cleo Abram",
-        "published": "2026-08-09T17:32:37+00:00",
-        "summary": "Most people don’t understand how deep submarines go…\n\nIf we dove to the deepest submarine, here’s what we’d see. \n\nBut we’re not even close to the deepest we can go…\n\nWe’re making more videos about LIVING underwater, so subscribe!\n\n#shorts #deepocean #deepblue #science #ocean #animation #submarine",
-        "thumbnail": "https://i2.ytimg.com/vi/I_xdmRe2LXk/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "I_xdmRe2LXk",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "중국로봇의 비밀은 주방, 마트 세트장의 알바생들",
-        "url": "https://www.youtube.com/watch?v=EpumFHgHORc",
-        "source": "티타임즈TV",
-        "published": "2026-08-08T22:00:09+00:00",
-        "summary": "로봇에 인간의 동작을 가르치려면 인간이 실제로 어떻게 움직이는지 데이터가 필요합니다. 그래서 중국은 로봇에 필요한 행동 데이터를 생산하기 위해 전국에 대규모 훈련센터를 잣고 있습니다. 인간 훈련사들이 주야 교대로 같은 동작을 수천 번 반복하고, 주부와 대학생, 공장 노동자까지 일당을 받고 데이터 수집에 참여하죠. 로봇을 가르칠 데이터를 만드는 데이터 공장이 어떻게 운영되는지 살펴봅니다.\n\n편집 : 박선희 영상 디자이너\n촬영 : 장민주 PD\n자료 : 배소진 기자\n진행 : 배소진 기자\n섬네일 : 이소민 영상 디자이너\n\n▶티타임즈 공식 ",
-        "thumbnail": "https://i2.ytimg.com/vi/EpumFHgHORc/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "EpumFHgHORc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "🚨 The All-In Summit 2026 Speaker Announcement",
-        "url": "https://www.youtube.com/shorts/1IJKIqHCN7M",
-        "source": "All-In Podcast",
-        "published": "2026-08-08T14:30:02+00:00",
-        "summary": "Jensen Huang, CEO of NVIDIA \nSatya Nadella, CEO of Microsoft\nJared Isaacman, NASA Administrator\nGwynne Shotwell, President and COO of SpaceX\nMartin Shkreli, Investor\nNick Shirley, Independent Journalist\nJake Paul, Investor and Entrepreneur\n\nPlus, appearances from your favorite Besties Guesties, Brad",
-        "thumbnail": "https://i2.ytimg.com/vi/1IJKIqHCN7M/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "1IJKIqHCN7M",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Robotics Still Isn't Solved - But Could Be Soon | YC Paper Club",
-        "url": "https://www.youtube.com/watch?v=myDCd0hNqQU",
+        "title": "Peter Steinberger: What Happens When 4.7 Million People Let It Cook",
+        "url": "https://www.youtube.com/watch?v=whcfSGN6CAU",
         "source": "Y Combinator",
-        "published": "2026-08-08T14:00:16+00:00",
-        "summary": "This week's Paper Club is all about robotics. Every year for the last decade, someone has promised that the era of robotics is just around the corner. But we're still waiting. So we gathered a bunch of the top researchers working in AI and robotics to present the latest findings on where we are and ",
-        "thumbnail": "https://i2.ytimg.com/vi/myDCd0hNqQU/hqdefault.jpg",
+        "published": "2026-08-10T20:30:26+00:00",
+        "summary": "Last November, Peter Steinberger was annoyed that there was no good way to talk to his coding agents from his phone, so he built one himself. A few months later, OpenClaw had exploded into one of the biggest open source AI projects in the world, with nearly 3,000 contributors and a peak of 4.7 milli",
+        "thumbnail": "https://i4.ytimg.com/vi/whcfSGN6CAU/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
-          "videoId": "myDCd0hNqQU",
+          "videoId": "whcfSGN6CAU",
           "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "가장 쉽고 타격감 좋은 공급망 타격 작전",
-        "url": "https://www.youtube.com/watch?v=40r95kRLnsU",
+        "title": "Disney: The Renaissance and the Empire",
+        "url": "https://www.youtube.com/watch?v=01QR2tmxSD4",
+        "source": "Acquired",
+        "published": "2026-08-10T17:13:37+00:00",
+        "summary": "In 1984, the Walt Disney Company was worth more dead than alive. Disney Animation — the heart of Walt's famous flywheel — had stagnated for years, bleeding away talent while corporate raiders circled, salivating over offers to sell off the film library to MGM and offload the parks to hotel operators",
+        "thumbnail": "https://i1.ytimg.com/vi/01QR2tmxSD4/hqdefault.jpg",
+        "extras": {
+          "theme": "deep_dive",
+          "videoId": "01QR2tmxSD4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "GameStop CEO: “Why Does Everyone Want Us to Fail?”",
+        "url": "https://www.youtube.com/shorts/0KY-kln39o4",
+        "source": "All-In Podcast",
+        "published": "2026-08-10T15:51:40+00:00",
+        "summary": "Most advertisers have never heard of the platform with an $11B annual run rate in ad spend. AppLovin Ads — 1B+ daily active users, full-screen video ads watched for a median of 35 seconds, and businesses are profitably spending hundreds of thousands of dollars a day on it. Advertiser access is in cl",
+        "thumbnail": "https://i1.ytimg.com/vi/0KY-kln39o4/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "0KY-kln39o4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "This Underwater Machine Sees Ghost Particles",
+        "url": "https://www.youtube.com/shorts/3-YpwP3FoLQ",
+        "source": "Cleo Abram",
+        "published": "2026-08-10T15:11:22+00:00",
+        "summary": "Every 10 seconds a star explodes somewhere in the universe blasting out particles like this guy – the most elusive particle in all of physics!\n\nAnd for the next billion years, it goes in a straight line through stars and planets and walls…without hitting anything. Then one day, it flies all the way ",
+        "thumbnail": "https://i4.ytimg.com/vi/3-YpwP3FoLQ/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "3-YpwP3FoLQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Kavak's Playbook for Rebuilding a Company Around AI",
+        "url": "https://www.youtube.com/watch?v=n34CIw3gk1k",
+        "source": "a16z",
+        "published": "2026-08-10T14:30:04+00:00",
+        "summary": "Angela Strange and Gabriel Vasquez are joined by Alejandro Maza Ayala, Chief Product & AI Officer at Kavak, to unpack how the Latin American used-car marketplace rebuilt itself around AI agents, with 96% of customer interactions and 95% of transactions now handled by agents.\n\nAlejandro explains why ",
+        "thumbnail": "https://i3.ytimg.com/vi/n34CIw3gk1k/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "n34CIw3gk1k",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "기업의 주인은 누구인가?",
+        "url": "https://www.youtube.com/watch?v=2Y-4jWb4qBA",
         "source": "슈카월드",
-        "published": "2026-08-08T09:34:43+00:00",
-        "summary": "0:00 러시아 본토를 공격하기 시작한 우크라이나\n14:00 군사시설 대신, 민간시설을 공격하는게 유행인 요즘 전쟁\n19:07 세계의 전쟁 억지력은 어디로 갔나?",
-        "thumbnail": "https://i1.ytimg.com/vi/40r95kRLnsU/hqdefault.jpg",
+        "published": "2026-08-10T10:00:00+00:00",
+        "summary": "0:00 그게 왜 니돈이야?\n20:42 블룸버그 \"한국은 더이상 투자에 적합하지 않다.\"\n25:14 PD수첩 \"위험을 삽니다.\"",
+        "thumbnail": "https://i3.ytimg.com/vi/2Y-4jWb4qBA/hqdefault.jpg",
         "extras": {
           "theme": "kr",
-          "videoId": "40r95kRLnsU",
+          "videoId": "2Y-4jWb4qBA",
           "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "Is Myanmar’s Civil War at a Turning Point?",
-        "url": "https://www.youtube.com/watch?v=FuLxBBjigBo",
+        "title": "전세계 1억 명이 쓰는 AI툴의 디자이너는 디자인만 하지 않습니다 | Gamma 안채민",
+        "url": "https://www.youtube.com/watch?v=EwAAkimTLd8",
+        "source": "EO 이오",
+        "published": "2026-08-10T09:00:36+00:00",
+        "summary": "\"AI가 아직 크래프트나 테이스트의 영역은 못 넘본다고들 하죠. 저는 동의하지 않습니다. 테이스트는 학습이 가능하거든요.\"\n모두가 피그마를 켜는 지금, 안채민 디자이너는 피그마를 껐습니다.\n\n독일에서 태어나 아홉 살에 한국으로 왔고 고려대에 다니던 시절, 미국 10대 디자인 컨설팅 회사에 무작정 이력서를 돌렸습니다. \n비자가 뭔지도 모르던 때였죠. 전부 거절당했고, 결국 반액 장학금을 받아 시카고 IIT Institute of Design으로 건너갔습니다.\nBCG Digital Ventures에서 3개의 스타트업을 파운딩 디자이너로",
+        "thumbnail": "https://i2.ytimg.com/vi/EwAAkimTLd8/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "EwAAkimTLd8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "원화 스테이블코인 늦어지면 AI 커머스, 글로벌에 먹힌다 (김용진 서강대 경영학과 교수)",
+        "url": "https://www.youtube.com/watch?v=GaN7Hvn-4yc",
+        "source": "티타임즈TV",
+        "published": "2026-08-10T09:00:34+00:00",
+        "summary": "검색하는 시대에서 맡기는 시대로, AI 에이전트가 24시간 비서처럼 소비와 결제를 대행하는 시대가 오고 있습니다. AI 커머스의 시대입니다. 그리고 이를 위해서는 스테이블 코인이 필수적입니다. AI 에이전트가 신원을 확인하고 알아서 결제까지 대행하려면 말이죠. AI에이전트가 우리를 대신하는 커머스는 어떤 모습일지, 왜 스테이블코인이 AI시대 핵심 결제수단인지 김용진 서강대 교수에게 들어봅니다.\n\n편집 : 장민주 PD\n촬영 : 장민주 PD\n자료 : 장민주 PD\n진행 : 박영선 전 장관\n섬네일 : 이소민 영상 디자이너\n\n▶티타임즈 공식",
+        "thumbnail": "https://i4.ytimg.com/vi/GaN7Hvn-4yc/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "GaN7Hvn-4yc",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What’s Gone Wrong With Australia’s Economy?",
+        "url": "https://www.youtube.com/watch?v=cxmiDjnNl64",
         "source": "TLDR News Global",
-        "published": "2026-08-08T08:30:08+00:00",
-        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL009\n\nWatch the World Leader Leaderboard on YouTube: https://youtube.com/tldrpodcasts\n… or search for the World Leader Leaderboard in your favourite podcast app\n\nIn this video, we’re going to explain the latest from Myanmar, the regime’s b",
-        "thumbnail": "https://i3.ytimg.com/vi/FuLxBBjigBo/hqdefault.jpg",
+        "published": "2026-08-10T08:30:00+00:00",
+        "summary": "Order a copy of our magazine Too Long: https://toolong.news/TL009\n\nWatch the Full Trailer: https://youtu.be/mP1b-33Qnqw\nSign Up to TLDR Party: https://toolong.news/party\nLearn More about TLDR Party: https://youtu.be/KVXXC3jk4Kg\n\nDespite decades of consistent growth, since the pandemic the Australian",
+        "thumbnail": "https://i4.ytimg.com/vi/cxmiDjnNl64/hqdefault.jpg",
         "extras": {
           "theme": "news",
-          "videoId": "FuLxBBjigBo",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "엔비디아가 데이터센터 전압을 15배 올리면 벌어질 일들",
-        "url": "https://www.youtube.com/watch?v=NJQx2vKigE4",
-        "source": "티타임즈TV",
-        "published": "2026-08-07T22:00:26+00:00",
-        "summary": "54, 400, 그리고 800. 요즘 AI 인프라 뉴스에 계속 등장하는 숫자입니다. 데이터센터의 GPU에 전력을 전달하는 전압에 대한 숫자인데요. 데이터센터의 서버가 요구하는 전력이 높아지면서 빅테크들의 고민이 커지고 있습니다. AI 경쟁의 병목이 전기에서도 나타나는 셈이죠. 이를 해결하는 그 과정에서 전압을 15배 높이자는 아이디어까지 나오고 있습니다. 그리고 이런 전환 속에서 데이터센터에 들어가는 장비와 부품의 대전환도 일어나고 있습니다. 왜 데이터센터의 전압을 높여야 하는지, 이를 위해 어떤 변화가 필요한지, 나아가서는 왜 기",
-        "thumbnail": "https://i3.ytimg.com/vi/NJQx2vKigE4/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "NJQx2vKigE4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Max Hodak: Average Is Not Good Enough",
-        "url": "https://www.youtube.com/watch?v=Xc4klGbq8v8",
-        "source": "Y Combinator",
-        "published": "2026-08-07T21:30:32+00:00",
-        "summary": "Science is building a retinal implant that restores vision to people who have gone blind. One patient has already used it to read a 300-page novel.\n\nBuilding a company like that requires a lot more than getting the technology right. At Startup School 2026, Science CEO Max Hodak explains how the comp",
-        "thumbnail": "https://i1.ytimg.com/vi/Xc4klGbq8v8/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "Xc4klGbq8v8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Does Antarctic Ice Look So Weird?",
-        "url": "https://www.youtube.com/shorts/12OssboGZE4",
-        "source": "Cleo Abram",
-        "published": "2026-08-07T15:06:20+00:00",
-        "summary": "Why does Antarctic ice look so… weird?\n\nThe ice most of us are used to is blindingly white, but under certain conditions ice can look BRIGHT BLUE. These stunning, rare features are most commonly found in glaciers and can take millions of years to form. But why so blue?\n\nSubscribe for more!\n\n#Antarct",
-        "thumbnail": "https://i2.ytimg.com/vi/12OssboGZE4/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "12OssboGZE4",
+          "videoId": "cxmiDjnNl64",
           "via": "rss"
         }
       }
