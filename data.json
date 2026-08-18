@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-08-17T01:07:25.919297+00:00",
+  "generated_at": "2026-08-18T01:05:34.132685+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia politics live: Hume denies Chalmers’ claims that Coalition would ‘end super as we know it’; NAB profits rise as customers show signs of stress",
-        "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
+        "title": "Australia politics live: independent Sophie Scamps delivers scathing criticism of ‘weak, piecemeal, pathetic’ gambling reforms as deal looms",
+        "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-08-17T00:51:53+00:00",
-        "summary": "Bank says levels of ‘watch loans’ moving higher, reflecting current and potential customer stress. Follow today’s news liveGet our breaking news email, free app or daily news podcastHume says housing the ‘best indicator of economic security’ in retirement over superThe deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their sup",
+        "published": "2026-08-18T00:46:47+00:00",
+        "summary": "Deal on gambling bill between Labor and Coalition expected after party rooms meet today. Follow today’s news liveGet our breaking news email, free app or daily news podcastChalmers calls gambling amendments ‘very substantial changes’Treasurer Jim Chalmers says the opt-out register on gambling advertising will be revenue neutral, because the gambling industry will have to cover the costs.These chan",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "title": "Torrential rains kill one in South Korea while Philippine capital battles major flooding",
+        "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
+        "source": "The Guardian World",
+        "published": "2026-08-18T00:37:42+00:00",
+        "summary": "More than 800mm of rain was recorded in the South Korean city of Geoje, which triggered a landslide that killed one person Torrential downpours that have pounded southern parts of South Korea have killed one person and injured four others, officials have confirmed.Heavy rains have been recorded in South Gyeongsang province, including the city of Geoje, where the 800-mm deluge triggered a landslide",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-18T00:00:00+00:00",
+        "summary": "US president says Iran should &#039;put up the white flag of surrender&#039; as the two nations’ MoU expired on Monday.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-08-17T00:20:51+00:00",
-        "summary": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
+        "published": "2026-08-17T23:28:54+00:00",
+        "summary": "The US actress, who has died at the age of 36, starred in the TV shows Heroes and Nashville.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
-        "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+        "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+        "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-17T23:25:17+00:00",
+        "summary": "Trump&#039;s son-in-law and envoy says US will not &#039;restrict Israel&#039;s right to defend itself&#039; as strikes on Gaza continue.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Sydney Swans coach ‘extremely disappointed’ as club faces call on standing down players over alleged sexual assault",
+        "url": "https://www.theguardian.com/sport/2026/aug/18/sydney-swans-coach-extremely-disappointed-as-club-faces-call-on-standing-down-players-over-alleged-sexual-assault-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-08-17T00:19:53+00:00",
-        "summary": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilitiesDonald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime was learning new battlefield tactics from ",
+        "published": "2026-08-17T22:56:20+00:00",
+        "summary": "Victoria police investigating allegation of sexual assault in the early hours of Monday morning at a Melbourne hotelFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Sydney Swans coach, Dean Cox, says he is “extremely disappointed” as the team and the AFL face a decision on whether to stand down several Swans players under investig",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
-        "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
+        "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+        "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-17T00:11:18+00:00",
-        "summary": "US president says he&#039;s &#039;not happy&#039; about the drills, citing his &#039;very good relationship&#039; with North Korea&#039;s Kim Jong Un.",
+        "published": "2026-08-17T22:26:12+00:00",
+        "summary": "A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
-        "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+        "title": "Melbourne’s Armenian-Lebanese eatery Zareh named Gourmet Traveller’s restaurant of the year",
+        "url": "https://www.theguardian.com/food/2026/aug/18/melbournes-armenian-lebanese-eatery-zareh-named-gourmet-travellers-restaurant-of-the-year",
         "source": "The Guardian World",
-        "published": "2026-08-17T00:09:57+00:00",
-        "summary": "At least 2,325 people have been killed, according to government data, surpassing the death toll from 2018-20 outbreakThe Ebola outbreak in the Democratic Republic of Congo is now the deadliest in the country’s history with at least 2,325 people killed, according to government data, surpassing the toll from the 2018-20 outbreak.Congo’s public health institute said on Sunday that confirmed cases had",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-17T00:06:05+00:00",
-        "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Israel releases 35 Palestinian prisoners back into Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-17T00:05:34+00:00",
-        "summary": "Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-17T00:00:35+00:00",
-        "summary": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
+        "published": "2026-08-17T21:40:46+00:00",
+        "summary": "Previous winners of the award have included Saint Peter, Attica, Orana by the late Jock Zonfrillo, and QuayArmenian-Lebanese eatery Zareh has been named Gourmet Traveller’s restaurant of the year, in a category of the annual industry awards that has historically been dominated by European-leaning cuisine and fine-dining establishments.The restaurant’s menu pulls from the Armenian, Egyptian and Leb",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Life and Death of Direct File [pdf]",
-        "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+        "title": "PM Carney announces largest clean energy investment in North American history",
+        "url": "https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north",
         "source": "Hacker News Front",
-        "published": "2026-08-17T00:17:57+00:00",
-        "summary": "Article URL: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf\nComments URL: https://news.ycombinator.com/item?id=49325185\nPoints: 9\n# Comments: 0",
+        "published": "2026-08-18T00:25:26+00:00",
+        "summary": "Article URL: https://www.pm.gc.ca/en/news/news-releases/2026/08/17/prime-minister-carney-announces-largest-clean-energy-investment-north\nComments URL: https://news.ycombinator.com/item?id=49339577\nPoints: 6\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Webmaster a Manifesto for Everyone",
-        "url": "https://brennan.day/webmaster-a-manifesto-for-everyone/",
-        "source": "Hacker News Front",
-        "published": "2026-08-17T00:04:14+00:00",
-        "summary": "Article URL: https://brennan.day/webmaster-a-manifesto-for-everyone/\nComments URL: https://news.ycombinator.com/item?id=49325092\nPoints: 6\n# Comments: 1",
+        "title": "Anthropic’s annualized revenue surges to $65B",
+        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+        "source": "TechCrunch",
+        "published": "2026-08-17T23:56:26+00:00",
+        "summary": "The model maker added $18 billion in annualized revenue in two months.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "source": "Hacker News Front",
-        "published": "2026-08-16T21:53:43+00:00",
-        "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\nComments URL: https://news.ycombinator.com/item?id=49324087\nPoints: 135\n# Comments: 135",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "OpenAI reportedly disbanded its preparedness team",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+        "title": "Reddit’s AI is turning posts into podcasts and short videos",
+        "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
         "source": "The Verge",
-        "published": "2026-08-16T21:32:56+00:00",
-        "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility [&#8230;]",
+        "published": "2026-08-17T23:46:01+00:00",
+        "summary": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+        "title": "Repair Cafe – Fix Your Broken Items",
+        "url": "https://www.repaircafe.org/",
         "source": "Hacker News Front",
-        "published": "2026-08-16T21:07:10+00:00",
-        "summary": "Article URL: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49323686\nPoints: 90\n# Comments: 20",
+        "published": "2026-08-17T23:28:28+00:00",
+        "summary": "Article URL: https://www.repaircafe.org/\nComments URL: https://news.ycombinator.com/item?id=49339097\nPoints: 4\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-        "source": "TechCrunch",
-        "published": "2026-08-16T20:57:04+00:00",
-        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The Case Against Formal Verification, 50 Years Later",
-        "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+        "title": "Puppy PPE",
+        "url": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
         "source": "Hacker News Front",
-        "published": "2026-08-16T20:38:58+00:00",
-        "summary": "Article URL: https://ivan-gavran.github.io/0-social-processes-paper\nComments URL: https://news.ycombinator.com/item?id=49323459\nPoints: 77\n# Comments: 66",
+        "published": "2026-08-17T23:10:06+00:00",
+        "summary": "Article URL: http://amosdudley.com/weblog/Designing-PPE-for-Hilde\nComments URL: https://news.ycombinator.com/item?id=49338953\nPoints: 12\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-        "source": "TechCrunch",
-        "published": "2026-08-16T20:32:01+00:00",
-        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "title": "Flock cameras haven't improved Atlanta's crime clearance rates",
+        "url": "https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/",
+        "source": "Hacker News Front",
+        "published": "2026-08-17T22:48:25+00:00",
+        "summary": "Article URL: https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/\nComments URL: https://news.ycombinator.com/item?id=49338732\nPoints: 8\n# Comments: 1",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "source": "Hacker News Front",
+        "published": "2026-08-17T22:20:40+00:00",
+        "summary": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/\nComments URL: https://news.ycombinator.com/item?id=49338459\nPoints: 175\n# Comments: 129",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "scScript for Linux",
+        "url": "https://scapplications.com/",
+        "source": "Hacker News Front",
+        "published": "2026-08-17T22:18:05+00:00",
+        "summary": "Article URL: https://scapplications.com/\nComments URL: https://news.ycombinator.com/item?id=49338428\nPoints: 10\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,16 +186,168 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "앤트로픽의 ‘보이지 않는 워터마크’, AI가 쓴 글의 단서가 될 수 있을까",
-        "url": "https://platum.kr/archives/292602?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd%25ec%259d%2598-%25eb%25b3%25b4%25ec%259d%25b4%25ec%25a7%2580-%25ec%2595%258a%25eb%258a%2594-%25ec%259b%258c%25ed%2584%25b0%25eb%25a7%2588%25ed%2581%25ac-ai%25ea%25b0%2580-%25ec%2593%25b4-%25ea%25b8%2580%25ec%259d%2598-%25eb%258b%25a8%25ec%2584%259c",
-        "source": "Platum",
-        "published": "2026-08-15T12:25:22+00:00",
-        "summary": "무슨 일이 있었나 앤트로픽이 자사 AI 모델 클로드(Claude)가 생성하는 텍스트와 파일에 기계만 읽을 수 있는 표식을 넣기 시작했다. 앤트로픽은 8월 11일(현지시간) 클로드 지원 문서를 통해, EU 기준으로 2026년 8월 2일 이후 출시되는 클로드 모델부터 생성 텍스트에 보이지 않는 워터마크를 심고 이미지 등 파일에는 디지털 서명이 담긴 출처 정보를 붙인다고 공지했다. 사흘 뒤인 14일에는 공식 블로그 ... 더 읽기",
+        "title": "Exclusive: Nik Storonsky’s VC firm closes $500m for second fund",
+        "url": "https://sifted.eu/articles/revolut-nik-storonsky-quantumlight-closes-500/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-08-17T17:32:08+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Gravis Robotics hits $1bn valuation with $200m investment from SoftBank",
+        "url": "https://sifted.eu/articles/gravis-robotics-1bn-valuation-200m-softbank/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-08-17T15:51:10+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Your verified customers are for sale: The rise of account farms",
+        "url": "https://sifted.eu/articles/the-rise-of-account-farms-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-08-17T13:02:46+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Semiconductor Giants Are Busy Backing Startups This Year",
+        "url": "https://news.crunchbase.com/venture/semiconductor-giants-nvda-intc-backing-ai-robotics-starups-2026/",
+        "source": "Crunchbase News",
+        "published": "2026-08-17T11:00:24+00:00",
+        "summary": "Massive AI spending has helped push earnings and valuations for semiconductor industry leaders to record levels, prompting the sector's giants to invest record sums in artificial intelligence and robotics startups.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[인터뷰] 당신이 먹는 삼겹살, 그 뒤에 로봇이 들어왔다",
+        "url": "https://byline.network/2026/08/34892840982034/",
+        "source": "ByLine Network",
+        "published": "2026-08-17T05:34:50+00:00",
+        "summary": "삼겹살은 맛있지만 밥상에 오르기까지의 과정은 험난하다. 돼지는 도축부터 발골·가공·포장에 이르기까지 수십 개 공정을 거친다. 육체적으로 힘든 것은 물론이고 도축 과정에서 작업자가 받는 정신적 부담도 크다.\n아직은 사람의 손이 필요한 ‘샤클링’과 ‘방혈’ 공정만 봐도 그렇다. 전살(기절)된 돼지의 다리에 고리를 걸어 라인에 매다는 작업이 샤클링이다. 이후 방혈 작업자가 칼로 혈관을 절개해 피를 뺀다. 빠르게 움직이는 라인 맞춰 같은 작업을 장시간 반복해야 한다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Does it make sense for Revolut to get physical?",
+        "url": "https://sifted.eu/articles/revolut-airport-lounges-opinion/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-08-17T05:00:55+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "University of Glasgow spinouts looking to raise",
+        "url": "https://sifted.eu/articles/university-of-glasgow-spinouts-looking-to-raise/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-08-17T05:00:05+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[플레이BN] 함께하면 재미가 두 배, 라인게임즈 ‘콰이어트’",
+        "url": "https://byline.network/2026/08/14-620/",
+        "source": "ByLine Network",
+        "published": "2026-08-17T04:43:03+00:00",
+        "summary": "라인게임즈가 스팀 테스트 중인 ‘콰이어트(QUIET)’는 프렌드슬롭 특유의 즐거움을 담은 작품입니다. 설정이나 게임 방법 등 프렌드슬롭 게임의 장점을 구현하기 위해 노력한 흔적이 보이죠. 그 덕분에 함께했을 때 재미가 배가 되는 게임입니다. 다만 아직 완성된 작품이 아니고, 일부 콘텐츠만 공개된 만큼 보완해야 할 부분도 보입니다.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Crazy New Machine Helps Us Find Aliens",
+        "url": "https://www.youtube.com/shorts/gNrXSmbJOYY",
+        "source": "Cleo Abram",
+        "published": "2026-08-17T14:33:58+00:00",
+        "summary": "This crazy machine might help us find aliens.\n\nRight now, it’s hard to find Earth-like planets behind the bright glare of the stars they orbit…\n\nThis telescope uses a new machine to uncover them and it’s 100 to 1,000 times more powerful than any other of its kind on a space telescope…\n\nTo see what i",
+        "thumbnail": "https://i4.ytimg.com/vi/gNrXSmbJOYY/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "gNrXSmbJOYY",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Tokens Are the New Dollars | Stripe with a16z",
+        "url": "https://www.youtube.com/watch?v=P5iICDVn5gc",
+        "source": "a16z",
+        "published": "2026-08-17T14:30:20+00:00",
+        "summary": "a16z General Partner David George is joined by Will Gaybrick, President of Product & Business at Stripe, to discuss how AI is changing the way Stripe builds products, organizes teams, and thinks about the future of internet commerce. Stripe has evolved from a payments company into a multi-product fi",
+        "thumbnail": "https://i1.ytimg.com/vi/P5iICDVn5gc/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "P5iICDVn5gc",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "찐반등인가, 훼이크인가",
+        "url": "https://www.youtube.com/watch?v=TgmE7y5syXk",
+        "source": "슈카월드",
+        "published": "2026-08-17T10:38:20+00:00",
+        "summary": "0:00 역대급 하락 이후 처음으로 상승 주간을 맞은 코스피\n6:17 샌디스크 잉여 현금흐름 100% 주주환원 발표\n14:27 마이크론 현금흐름 100% 주주환원 발표\n17:17 일본 시장을 뒤흔든 넥슨의 배당 발표\n23:54 삼성전자의 주주환원 규모는?\n26:42 SK하이닉스의 주주환원 규모는?\n28:40 뜨거웠던 뉴스, 엔비디아 AI 펀드 결성",
+        "thumbnail": "https://i1.ytimg.com/vi/TgmE7y5syXk/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "TgmE7y5syXk",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is Circular AI Financing Really as Bad as It Sounds?",
+        "url": "https://www.youtube.com/watch?v=e-bWY_FOBX0",
+        "source": "TLDR News Global",
+        "published": "2026-08-17T10:25:41+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nPre-Order a copy of Too Long: https://toolong.news/collections/too-long-autumn-2026\n\nOur video on AI's Hidden Debt: https://youtu.be/NFeVgFeeQoU\n\nCo",
+        "thumbnail": "https://i2.ytimg.com/vi/e-bWY_FOBX0/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "e-bWY_FOBX0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“HW·SW 다 직접 만들어요” 창업 6개월 만에 엔비디아 뚫고 10억 매출 낸 20대들",
+        "url": "https://www.youtube.com/watch?v=favRMy-9XNk",
+        "source": "EO 이오",
+        "published": "2026-08-17T09:00:03+00:00",
+        "summary": "AI가 세상을 진짜로 이해하기 위해 비어있던 마지막 퍼즐은 \n바로 촉각 데이터입니다.\n \n기존 AI 모델들이 물리 법칙을 제대로 이해하지 못할 때, \n오픈그래프랩스는 직접 만든 카메라와 촉각 글러브로 피지컬 AI의 \n데이터 병목을 해결하고 있습니다.  \n\n논문 읽고 시도한 콜드컨택에서 엔비디아의 공식 벤더가 되기까지 걸린 시간은 단 6개월이었습니다. \n\n엔비디아 공식 파트너 선정부터 글로벌 빅테크와의 협업까지, \n샌프란시스코·중국·멕시코를 넘나들며 기회를 만들어낸 20대 창업가들. \n\n\"망해봤자 얼마나 망하겠냐\"며 정답의 틀을 깨고",
+        "thumbnail": "https://i3.ytimg.com/vi/favRMy-9XNk/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "favRMy-9XNk",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -268,81 +420,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "KXnkqKImu5M",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "키작남이 줄고, 키큰남이 늘었다.",
-        "url": "https://www.youtube.com/watch?v=XyXohIM3ZO0",
-        "source": "슈카월드",
-        "published": "2026-08-15T12:08:22+00:00",
-        "summary": "0:00 요즘 아이들, 정말 키가 커지고 있는가\n10:15 키가 크면 인생에 얼마나 유리한가?\n20:21 키에 미친 나라 1위",
-        "thumbnail": "https://i1.ytimg.com/vi/XyXohIM3ZO0/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "XyXohIM3ZO0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Battle Tearing MAGA Apart Explained",
-        "url": "https://www.youtube.com/watch?v=njcKX1lod18",
-        "source": "TLDR News Global",
-        "published": "2026-08-15T09:00:37+00:00",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nWatch The Editorial on YouTube: https://youtube.com/tldrpodcasts\n… or search for The Editorial in your favourite podcast app\n\nIn this video, we’re g",
-        "thumbnail": "https://i3.ytimg.com/vi/njcKX1lod18/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "njcKX1lod18",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Susan Kare: Designing Icons & Graphics For the Original Mac",
-        "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
-        "source": "Y Combinator",
-        "published": "2026-08-14T19:14:32+00:00",
-        "summary": "Susan Kare joined Apple as an art history PhD who barely knew anything about computers. She went on to design many of the icons, typefaces, and symbols that helped make the original Macintosh feel understandable and human, defining a visual language for personal computing that still influences softw",
-        "thumbnail": "https://i2.ytimg.com/vi/YEvLKzsEwMw/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "YEvLKzsEwMw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What The Sun REALLY Looks Like",
-        "url": "https://www.youtube.com/shorts/CsBnIUfEaC0",
-        "source": "Cleo Abram",
-        "published": "2026-08-14T14:40:17+00:00",
-        "summary": "Have you seen these incredible NEW images of our Sun!?\n\nWhat’s truly crazy is their scale…this giant telescope in Hawaii captured the sharpest images EVER of these plasma whirlpools and made simulations to see how they MOVE. \n\nTo see what’s deeper inside the Sun, subscribe!\n\n#sun #telescope #image #",
-        "thumbnail": "https://i4.ytimg.com/vi/CsBnIUfEaC0/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "CsBnIUfEaC0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Travis Kalanick: How AI Will Transform the Physical World",
-        "url": "https://www.youtube.com/watch?v=r8qKNFeBPXE",
-        "source": "a16z",
-        "published": "2026-08-14T14:30:13+00:00",
-        "summary": "Ben Horowitz, Travis Kalanick, and Erik Torenberg take the stage at Atoms' launch event for a candid fireside conversation about entrepreneurship, company building, and why Kalanick believes the next industrial revolution will be powered by AI.\n\nThey revisit pivotal moments from Uber's history, incl",
-        "thumbnail": "https://i3.ytimg.com/vi/r8qKNFeBPXE/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "r8qKNFeBPXE",
           "via": "rss"
         }
       }
