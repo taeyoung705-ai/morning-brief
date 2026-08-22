@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-08-21T01:09:07.996251+00:00",
+  "generated_at": "2026-08-22T01:05:40.166751+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "2 Hijackings in 4 Days: Somali Piracy Rises",
-        "url": "https://www.nytimes.com/2026/08/20/world/africa/2-hijackings-in-4-days-somali-piracy-surges.html",
+        "title": "California lawmaker overcomes pro-Israel spending to win special election",
+        "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-22T00:38:06+00:00",
+        "summary": "Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
+        "url": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-22T00:32:35+00:00",
+        "summary": "Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-22T00:06:48+00:00",
+        "summary": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
+        "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
         "source": "NYT World",
-        "published": "2026-08-21T01:05:38+00:00",
-        "summary": "Experts worry that the conflict in Iran and other regional dynamics are setting the stage for a Somali pirates’ comeback.",
+        "published": "2026-08-22T00:06:17+00:00",
+        "summary": "Canadian negotiators were in Washington to finalize a deal that would stave off new tariffs and improve the terms of existing ones, but Mark Carney faces a tough sell back home.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Swans coach says respect for women a ‘highest priority’ for club; Israel ambassador insists IDF strike that killed Zomi Frankcom a ‘reasonable mistake’",
-        "url": "https://www.theguardian.com/australia-news/live/2026/aug/21/australia-news-live-anthony-albanese-melon-podcast-sydney-swans-melbourne-hotel-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-08-21T00:59:40+00:00",
-        "summary": "Dean Cox says Sydney Swans’ culture ‘has taken a hit’. Follow today’s news liveGet our breaking news email, free app or daily news podcastWoman behind allegation of sexual assault linked to Sydney Swans reportedly says she wants ‘justice’The woman who alleges she was sexually assaulted in a Melbourne hotel told the Herald Sun “all I care about is justice”.I don’t want money. All I care about is ju",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Taliban release two detained UN staff members in Afghanistan",
-        "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan?traffic_source=rss",
+        "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-21T00:44:46+00:00",
-        "summary": "The two men, detained in the western city of Herat on August 9, were released on Thursday morning.",
+        "published": "2026-08-22T00:00:00+00:00",
+        "summary": "US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US deports nearly 2,300 Mexicans to Guatemala over Mexico’s objections",
-        "url": "https://www.aljazeera.com/news/2026/8/21/us-deports-nearly-2300-mexicans-to-guatemala-over-mexicos-objections?traffic_source=rss",
+        "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
+        "url": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-21T00:12:37+00:00",
-        "summary": "The Trump administration has ramped up deportations to third countries in an apparent bid to deter immigration.",
+        "published": "2026-08-21T23:52:28+00:00",
+        "summary": "More than 100 people were in the monastery for a religious retreat, according to a local resident.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+        "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
+        "url": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-21T00:00:00+00:00",
-        "summary": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+        "published": "2026-08-21T23:51:40+00:00",
+        "summary": "Editor-in-chief Erik Slavin has suggested his firing was retaliation for speaking out about editorial independence.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Why Nigeria's one-time political giant may face extinction",
-        "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-20T23:21:22+00:00",
-        "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-        "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-20T23:19:56+00:00",
-        "summary": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-        "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-20T23:16:45+00:00",
-        "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
+        "url": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
+        "source": "NYT World",
+        "published": "2026-08-21T23:44:19+00:00",
+        "summary": "After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "There's no such thing as a small software team anymore",
-        "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T01:03:06+00:00",
+        "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "HN: The Good Parts (2016)",
+        "url": "https://danluu.com/hn-comments/",
         "source": "Hacker News Front",
-        "published": "2026-08-21T00:28:37+00:00",
-        "summary": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/\nComments URL: https://news.ycombinator.com/item?id=49382152\nPoints: 5\n# Comments: 4",
+        "published": "2026-08-21T23:53:03+00:00",
+        "summary": "Article URL: https://danluu.com/hn-comments/\nComments URL: https://news.ycombinator.com/item?id=49395171\nPoints: 9\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-        "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-        "source": "TechCrunch",
-        "published": "2026-08-21T00:23:36+00:00",
-        "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Copyright does not protect AI-generated content in EU",
-        "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+        "title": "Paul Atkins misreads Adam Smith and the American founding",
+        "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
         "source": "Hacker News Front",
-        "published": "2026-08-21T00:15:12+00:00",
-        "summary": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678\nComments URL: https://news.ycombinator.com/item?id=49382041\nPoints: 33\n# Comments: 33",
+        "published": "2026-08-21T23:32:44+00:00",
+        "summary": "Article URL: https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/\nComments URL: https://news.ycombinator.com/item?id=49395040\nPoints: 51\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-        "source": "TechCrunch",
-        "published": "2026-08-21T00:13:44+00:00",
-        "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-        "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-        "source": "TechCrunch",
-        "published": "2026-08-20T23:32:27+00:00",
-        "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Google Pixel 11 Review: Minor Upgrade",
-        "url": "https://www.wired.com/review/google-pixel-11/",
+        "title": "The Unlikely Place at the Center of China’s AI Boom",
+        "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
         "source": "Wired",
-        "published": "2026-08-20T23:15:27+00:00",
-        "summary": "Incremental improvements fail to generate much excitement, but Google’s Pixel 11 is still an accomplished Android phone.",
+        "published": "2026-08-21T23:25:32+00:00",
+        "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Detecting scraper bots through scroll behaviour",
-        "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
+        "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+        "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+        "source": "Wired",
+        "published": "2026-08-21T23:10:00+00:00",
+        "summary": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates—but they will also require physical warning stickers and camera-related updates.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "url": "https://ozbrain.com",
         "source": "Hacker News Front",
-        "published": "2026-08-20T22:47:52+00:00",
-        "summary": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour\nComments URL: https://news.ycombinator.com/item?id=49381311\nPoints: 20\n# Comments: 8",
+        "published": "2026-08-21T23:09:06+00:00",
+        "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
         "source": "TechCrunch",
-        "published": "2026-08-20T22:36:37+00:00",
-        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "published": "2026-08-21T23:07:25+00:00",
+        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
+        "url": "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70",
+        "source": "Hacker News Front",
+        "published": "2026-08-21T23:03:18+00:00",
+        "summary": "Article URL: https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70\nComments URL: https://news.ycombinator.com/item?id=49394797\nPoints: 35\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,54 +186,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "‘모두의 AI’에 뛰어든 기업들",
-        "url": "https://byline.network/2026/08/20_2172763/",
-        "source": "ByLine Network",
-        "published": "2026-08-21T00:16:33+00:00",
-        "summary": "전 국민이 무료로 쓸 수 있는 국산 AI 챗봇을 만드는 ‘모두의 AI’ 사업 공모에 SKT·KT·카카오·이스트소프트가 각각 컨소시엄을 꾸려 도전장을 던졌다. LG유플러스 등 LG그룹 주요 계열사가 카카오에 합류하면서, 통신3사 모두 이 사업에 도전한다.\n\n일정이 촉박한 '모두의 AI' 프로젝트에 통신3사와 카카오가 모두 뛰어든 배경을 두고, IT 업계에서는 국내에 아직 없는 ‘대표 AI 서비스 기업’ 자리를 선점하려는 시도라고 본다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "UK chip startup Fractile in talks to raise at $6.5bn valuation, reports say",
-        "url": "https://sifted.eu/articles/uk-chip-startup-fractile-in-talks-to-raise-at-6-5bn-valuation-reports-say/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-08-20T17:00:02+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Starling unveils weekly AI rollout as fintech race intensifies",
-        "url": "https://sifted.eu/articles/starling-weekly-ai-rollout/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-08-20T16:09:55+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "From Humanities To AI: How Ali Hussain Built Fintech Tabs Into A $400M Startup",
-        "url": "https://news.crunchbase.com/venture/ai-fintech-startup-tabs-founder-hussain/",
+        "title": "The Week’s 10 Biggest Funding Rounds: Defense Tech, AI Tools And Infrastructure Lead The Way",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infrastructure-castelion/",
         "source": "Crunchbase News",
-        "published": "2026-08-20T11:00:56+00:00",
-        "summary": "Our third in a series of articles about non-tech founders getting venture funding features Tabs founder Ali Hussain, who started the AI fintech after realizing pursuing a Ph.D. in humanities was a terrible idea and spent some time in the tech workforce where he learned a few things about building venture-backed companies.",
+        "published": "2026-08-21T15:42:23+00:00",
+        "summary": "The biggest financing of the week went to Castelion, a defense tech startup developing a hypersonic missile. Other sizable rounds went to companies developing AI inference technology, a video-creation platform, data centers and voice-to-text tools.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI model maker Domyn raises over $1bn",
-        "url": "https://sifted.eu/articles/domyn-raises-over-1bn/",
+        "title": "카카오가 인적분할하려는 이유 (feat. 일문일답)",
+        "url": "https://byline.network/2026/08/21_921827/",
+        "source": "ByLine Network",
+        "published": "2026-08-21T15:27:21+00:00",
+        "summary": "5년 전 최고점을 찍었던 카카오의 주가는 카카오와 카카오모빌리티의 문어발식 골목상권 침해와 분할상장 논란, SM엔터테인먼트 인수 등 여러 사회적 이슈에 휘말리며 빠르게 추락했다. AI 시대가 온 지금, 에이전틱 AI를 실현하겠다는 카카오의 꿈과 목표도 주가에 반영되지 못하고 과거 고점의 5분의 1로 추락했다. \n\n카카오는 카카오톡 중심 AI 사업을 맡는 신설법인 '카카오AI'와 그 외 사업을 모두 안는 '카카오X'로 나눠 자본시장의 새로운 시각 아래 평가 받는다는 목표다. 회사는 이번 인적 분할이 카카오를 시장에 'AI 기업'으로 자리잡는 데 디딤돌이 될 수 있을 것으로 보고 있다. 남은 '카카오X'은 계열사 성장과 신사업 발굴에 집중하는 투자 회사 역할을 할 계획이다. 간담회에서 카카오가 제시한 그림과 일",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "닥터나우 방지법 국회 통과…스타트업 업계 우려",
+        "url": "https://byline.network/2026/08/23749287492/",
+        "source": "ByLine Network",
+        "published": "2026-08-21T14:05:35+00:00",
+        "summary": "비대면진료 플랫폼을 제한하는 ‘닥터나우 방지법’(약사법 개정안)이 국회 문턱을 넘자 스타트업 업계가 우려를 제기했다. 스타트업 업계는 후속 제도 설계 과정에서 업계 의견을 반영해달라고 요구하고 있다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "All the decacorns in Europe: listed",
+        "url": "https://sifted.eu/articles/all-the-decacorns-in-europe-listed/",
         "source": "Sifted (EU startups)",
-        "published": "2026-08-20T10:49:56+00:00",
+        "published": "2026-08-21T13:45:25+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -241,10 +230,21 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Callosum raises $100m seed led by Atomico to tackle AI compute bottlenecks",
-        "url": "https://sifted.eu/articles/callosum-raise-atomico-plural-uk-sovereign-ai/",
+        "title": "5 Interesting Startup Deals You May Have Missed: AI For Everything From Recycling To Breathing To Winning Construction Bids",
+        "url": "https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-healthcare-data/",
+        "source": "Crunchbase News",
+        "published": "2026-08-21T11:00:42+00:00",
+        "summary": "This month’s installment of this column is all AI, though applications for the technology range widely, from two startups that apply AI to trash or recycling, to another that promises to help people breathe and sleep better, to a company that says its AI can help architects and builders spot commercial projects before they’re even announced.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Who are Europe’s ‘top’ VCs? Claude and ChatGPT have some left-field picks",
+        "url": "https://sifted.eu/articles/who-are-europes-top-vcs-claude-and-chatgpt-have-some-quirky-picks/",
         "source": "Sifted (EU startups)",
-        "published": "2026-08-20T09:57:03+00:00",
+        "published": "2026-08-21T10:40:40+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,27 +252,117 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "카카오게임즈, K-판타지 ‘도깨비의 세계’ 장기 IP 만든다",
-        "url": "https://byline.network/2026/08/20-643/",
+        "title": "[심재석의 입장] 카카오는 네이버-NHN의 길을 갈까",
+        "url": "https://byline.network/2026/08/kakao-3/",
         "source": "ByLine Network",
-        "published": "2026-08-20T08:47:37+00:00",
-        "summary": "“지키려는 하나의 원칙이 있다. 오랫동안 사랑받는 IP를 찾아내는 것. 그리고 역량 있는 개발사와 긴밀히 협력해 안정적인 서비스를 제공하는 것이다. 도깨비의 세계 역시 그 원칙 위에서 준비한 작품이다. 한국적인 정서, 독창적인 세계관 그리고 다중접속역할수행게임(MMORPG) 본연의 재미를 현대적인 감각으로 담아냈다.” 이시우 카카오게임즈 공동대표는 20일 서울 중구 한국의집에서 개최한 ‘도깨비의 세계’ 미디어 쇼케이스에서 이같이 말했다. 도깨비의 세계는 카카오게임즈가 퍼블리싱을, 슈퍼캣이 개발 중인 신작이다. 게임은 2.5D 도트 그래픽과 한국 전통 설화를 결합했으며, 웹소설·웹툰 ‘멸귀수도전: 도깨비의 세계’를 기반으로 한다. 오는 10월 출시 예정이다.",
+        "published": "2026-08-21T10:38:17+00:00",
+        "summary": "“양 법인에서 창업자이자 대주주 역할은 계속 수행해 주실 거라고 믿고 있습니다.”\n\n21일 카카오의 긴급 설명회에서 나온 김도영 카카오인베스트먼트 대표의 말이다. 이날 카카오는 자사를 카카오AI와 카카오X라는 두 개의 회사로 인적분할한다고 발표했다. 이번 분할의 목표로 복합기업 할인 해소와 사업별 전문 경영을 통한 기업가치·주주가치 제고를 내걸었다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[커머스BN] 서로를 탐내는 쿠팡과 네이버",
-        "url": "https://byline.network/2026/08/20_1927736/",
-        "source": "ByLine Network",
-        "published": "2026-08-20T08:40:50+00:00",
-        "summary": "쿠팡과 네이버가 서로의 안마당을 넘보기 시작했습니다. 물류에 강점이 있는 쿠팡은 지난달 결제 서비스 '로켓페이'를 내놨고, 결제에 강점이 있는 네이버는 지난달부터 물류 서비스 'N배송 FBN(Fulfillment By Naver)'을 베타로 돌리고 있습니다. 하지만 빈칸을 채우겠다는 그림은 같아도, 그 방식은 두 회사가 전혀 다릅니다.",
+        "title": "Exclusive: Legal dispute emerges at Monzo cofounder's Monaco banking venture",
+        "url": "https://sifted.eu/articles/legal-dispute-monaco-bank/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-08-21T10:09:35+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“엔비디아를 가장 위협할 기업, 구글과 애플입니다” (김정호 카이스트 교수)",
+        "url": "https://www.youtube.com/watch?v=hx5TnPMxKU8",
+        "source": "티타임즈TV",
+        "published": "2026-08-21T23:00:33+00:00",
+        "summary": "‘HBM의 아버지’ 김정호 카이스트 교수에게 듣는 향후 가장 유망한 기술, 기업, 나라는?\n\nQ. 앞으로 엔비디아를 위협할 회사는?\nA. 구글과 애플이 될 것. 엔비디아의 AI 데이터센터 점유율은 현재 90%에서 60%로 떨어질 것\n\nQ. 가장 주목해야 할 기술은?\nA. ① HBM HBF HBS 메모리혁명 ② 3D 패키징 ③ 칩렛 ④ 유리기판 ⑤ 실리콘 포토닉스 ⑥ 차세대 컴퓨팅(양자컴퓨팅, 뉴로모픽, 광컴퓨팅)\n\nQ. AI 최종 승전국은?\nA. 10년내로는 미국\n\n편집 : 이소민 영상디자이너 \n촬영 : 장민주 PD\n자료 : 박성수",
+        "thumbnail": "https://i1.ytimg.com/vi/hx5TnPMxKU8/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "hx5TnPMxKU8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“저한테 이메일 오는 횟수 보면 중국도 3년내 HBM3 만듭니다” (카이스트 김정호 교수)",
+        "url": "https://www.youtube.com/watch?v=AhAvCBC9JXE",
+        "source": "티타임즈TV",
+        "published": "2026-08-21T21:00:24+00:00",
+        "summary": "‘HBM의 아버지’ 김정호 카이스트 교수가 생각하는 ‘에이전트 이코노미’, 그리고 ‘중국 반도체의 수준’.\n\n“우리 연구실의 에이전트가 주식투자하고 스테이블코인 사고 쿠팡 구매하고 하더라구요. 저는 미래에는 에이전트 오케스트라만 남는다, 그러니까 디렉터나 사장 같은 사람만 남는 거죠.”\n\n“저한테 이메일 오는 횟수를 보면, 중국도 3년내 HBM3는 만들 수 있을 것 같아요”\n\n편집 : 장민주 PD\n촬영 : 장민주 PD\n자료 : 장민주 PD\n진행 : 박영선 전 장관\n섬네일 : 이소민 영상디자이너 \n\n▶티타임즈 공식 홈페이지\nhttp:",
+        "thumbnail": "https://i2.ytimg.com/vi/AhAvCBC9JXE/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "AhAvCBC9JXE",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What If You Dove Into Saturn?",
+        "url": "https://www.youtube.com/shorts/H_NlGVOlaVI",
+        "source": "Cleo Abram",
+        "published": "2026-08-21T15:04:28+00:00",
+        "summary": "If you dug a hole into Saturn, the first thing you'd realize is most of it isn't solid!\n\nIt's got a frigid atmosphere of hydrogen and helium with icy ammonia clouds with winds that are about 4 times faster than the strongest hurricane winds on earth! As we fall deeper into its layers, we discover mo",
+        "thumbnail": "https://i1.ytimg.com/vi/H_NlGVOlaVI/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "H_NlGVOlaVI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+        "url": "https://www.youtube.com/watch?v=Sij_v-mcZXQ",
+        "source": "All-In Podcast",
+        "published": "2026-08-21T14:26:38+00:00",
+        "summary": "(00:00) Besties are back!\n(00:13) Dario's two-part essay: regulatory capture, doomerism, and the data center backlash\n(10:25) FINRA for AI vs. MPAA for AI: SROs, thinking tokens, and the \"DMV for AI\"\n(30:12) Is an open source ban coming? Harnesses, FDI, jobs, and recursive self-improvement\n(56:33) a",
+        "thumbnail": "https://i4.ytimg.com/vi/Sij_v-mcZXQ/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "Sij_v-mcZXQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "영국인들의 슬픈 외침, '똥 좀 버리지 마세요 ㅠㅠ'",
+        "url": "https://www.youtube.com/watch?v=TsjGmQg59a4",
+        "source": "슈카월드",
+        "published": "2026-08-21T10:05:08+00:00",
+        "summary": "0:00 파리 센강은 똥물인가\n13:10 런던 템즈강은 똥물인가",
+        "thumbnail": "https://i1.ytimg.com/vi/TsjGmQg59a4/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "TsjGmQg59a4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why the Gulf States Are Fed Up With Trump",
+        "url": "https://www.youtube.com/watch?v=oFakBGXbq1s",
+        "source": "TLDR News Global",
+        "published": "2026-08-21T09:30:19+00:00",
+        "summary": "Pre-order a copy of Too Long: https://toolong.news/TL009\n\nRelations between the US and the Gulf states have deteriorated since the war began with Iran and are continuing to strain with no end to the conflict in sight. In this video we'll explain these growing tensions and why their focus is shifting",
+        "thumbnail": "https://i4.ytimg.com/vi/oFakBGXbq1s/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "oFakBGXbq1s",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "0t3TpJXa5-A",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI 발전으로 커져가는, 검열과 감시의 욕망",
-        "url": "https://www.youtube.com/watch?v=dHAaIsSspe4",
-        "source": "슈카월드",
-        "published": "2026-08-20T10:11:36+00:00",
-        "summary": "0:00 오픈AI 해킹 사태\n6:27 AI가 고도화될 수록 커져가는 욕망\n15:41 VPN이란 무엇인가\n\nNordVPN 유료광고가 포함된 영상입니다.\n\n검열과 해킹으로부터 자유로운 사이버 세상 지킴이, NordVPN\n슈카월드 혜택 링크: https://nordvpn.com/syuka (쿠폰코드: syuka)\n위 링크로 2년 플랜 구매시 최대 할인 + 4개월 보너스!\n10대 기기 동시 연결/ 30일 내 환불 보장",
-        "thumbnail": "https://i1.ytimg.com/vi/dHAaIsSspe4/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "dHAaIsSspe4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Israel’s Economy Might Be Doomed Long-Term",
-        "url": "https://www.youtube.com/watch?v=FjGppl7m0mc",
-        "source": "TLDR News Global",
-        "published": "2026-08-20T09:38:23+00:00",
-        "summary": "Pre-order a copy of Too Long: https://toolong.news/TL009\n\nUnprecedented levels of emigration could see Israel's economy suffer in the long term, with a potential \"brain drain\" exacerbating the growth of ultra-orthodox religious groups. So in this video, we'll explore these demographics and why it sp",
-        "thumbnail": "https://i3.ytimg.com/vi/FjGppl7m0mc/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "FjGppl7m0mc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "'너무 오래 걸려, 토큰 너무 많이 써, 너무 자주 물어봐'...해결하려면? (강수진 박사)",
-        "url": "https://www.youtube.com/watch?v=vER13LHKJ9o",
-        "source": "티타임즈TV",
-        "published": "2026-08-20T09:00:09+00:00",
-        "summary": "페이블5, GPT-5.6, 키미 K3, 딥시크 V4 등 최신 프론티어 모델들은 도구를 잘 다루는 에이전틱 모델입니다. 추론도 잘하고, 정확성도 높죠. 계획도 스스로 세우고 빈약한 사용자의 프롬프트도 알아서 풍성하게 채웁니다. 그래서 예전처럼 세세하게 지시하고, 예문을 제공할 필요가 없죠. 시시콜콜한 지시는 오히려 모델의 능력을 저하시킬 수 있다고 합니다. 그래서 최신 프론티어 모델은 프롬프트 작성법도, 잘 쓰는 방법도 다르다고 합니다. AI 에이전트의 도구 사용 한도를 제한하고, 추론 강도를 조절하는 게 중요하다고 하죠. 정량화된 ",
-        "thumbnail": "https://i3.ytimg.com/vi/vER13LHKJ9o/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "vER13LHKJ9o",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Whatnot's Live Shopping Beats Traditional E-Commerce",
-        "url": "https://www.youtube.com/watch?v=XqEr7hk89HY",
-        "source": "a16z",
-        "published": "2026-08-19T14:30:20+00:00",
-        "summary": "a16z General Partner David George is joined by Grant LaFontaine, co-founder of Whatnot, to unpack how a marketplace that started with collectibles evolved into one of the world's leading live shopping platforms.\n\nGrant traces the company's origins from selling Pokémon cards online as a kid to discov",
-        "thumbnail": "https://i1.ytimg.com/vi/XqEr7hk89HY/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "XqEr7hk89HY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Saronic CTO: The Massive Advantage of Unmanned Warships",
-        "url": "https://www.youtube.com/shorts/trQ9EvXIBBY",
-        "source": "All-In Podcast",
-        "published": "2026-08-19T12:42:21+00:00",
-        "summary": "Thanks to our partners for making this possible!\n\nAs wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. \nhttps://ad.doubleclick.net/ddm/trackclk/N2598215.3565",
-        "thumbnail": "https://i1.ytimg.com/vi/trQ9EvXIBBY/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "trQ9EvXIBBY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "42.5도, 대한민국 기온 신기록을 세운 지역은?",
-        "url": "https://www.youtube.com/watch?v=0oMfiGpslU4",
-        "source": "슈카월드",
-        "published": "2026-08-19T10:09:59+00:00",
-        "summary": "0:00 역대급 더위의 대한민국\n8:32 강물이 마르고 있는 나라들\n15:42 기후변화 대책을 어르신들에게 맡겨도 되는가\n19:15 세계 최대 규모 식목일 사업\n25:09 현실판 느와르, 다가오는 브라질 대선",
-        "thumbnail": "https://i1.ytimg.com/vi/0oMfiGpslU4/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "0oMfiGpslU4",
           "via": "rss"
         }
       }
