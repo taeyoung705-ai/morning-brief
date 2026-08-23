@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-08-22T01:05:40.166751+00:00",
+  "generated_at": "2026-08-23T01:10:51.411057+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "California lawmaker overcomes pro-Israel spending to win special election",
-        "url": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-22T00:38:06+00:00",
-        "summary": "Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.",
+        "title": "Australia news live: One Nation MP gives ‘hat tip’ to Albanese for rice factory rescue plan; Liberals flag radical redesign of Victorian appeals court",
+        "url": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-08-23T00:57:52+00:00",
+        "summary": "Follow liveVictorian Labor expands on free dental care election promiseThe Victorian premier, Ben Carroll, and health minister, Ingrid Stitt, have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November.You can’t use a Medicare card for dental unless you’ve got a healthcare card o",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
-        "url": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-22T00:32:35+00:00",
-        "summary": "Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.",
+        "title": "Fur seal‘s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain",
+        "url": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+        "source": "The Guardian World",
+        "published": "2026-08-23T00:42:49+00:00",
+        "summary": "Seal found dead at Beachport in South Australia on Wednesday follows three mass mortality events in ternsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA long-nosed fur seal has died from H5 bird flu in South Australia, marking the first confirmed case in a mammal on the Australian mainland.\n The seal was found dead at Beachport on ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+        "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-22T00:06:48+00:00",
-        "summary": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+        "published": "2026-08-23T00:00:00+00:00",
+        "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms",
-        "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-deal.html",
+        "title": "Iran threatens countries that join US ‘economic D-Day’",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-22T23:56:32+00:00",
+        "summary": "Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+        "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-22T23:26:15+00:00",
+        "summary": "The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+        "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
         "source": "NYT World",
-        "published": "2026-08-22T00:06:17+00:00",
-        "summary": "Canadian negotiators were in Washington to finalize a deal that would stave off new tariffs and improve the terms of existing ones, but Mark Carney faces a tough sell back home.",
+        "published": "2026-08-22T23:02:27+00:00",
+        "summary": "In an interview, Jamieson Greer, President’s Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+        "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+        "url": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-22T00:00:00+00:00",
-        "summary": "US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.",
+        "published": "2026-08-22T22:29:07+00:00",
+        "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-        "url": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
+        "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+        "url": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-08-21T23:52:28+00:00",
-        "summary": "More than 100 people were in the monastery for a religious retreat, according to a local resident.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-        "url": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-21T23:51:40+00:00",
-        "summary": "Editor-in-chief Erik Slavin has suggested his firing was retaliation for speaking out about editorial independence.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
-        "url": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
-        "source": "NYT World",
-        "published": "2026-08-21T23:44:19+00:00",
-        "summary": "After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back.",
+        "published": "2026-08-22T21:55:06+00:00",
+        "summary": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham&#039;s opener.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+        "title": "NanoGPT Speedrun Frontier",
+        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "source": "Hacker News Front",
+        "published": "2026-08-22T22:14:27+00:00",
+        "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun\nComments URL: https://news.ycombinator.com/item?id=49404380\nPoints: 39\n# Comments: 8",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
         "source": "TechCrunch",
-        "published": "2026-08-22T01:03:06+00:00",
-        "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+        "published": "2026-08-22T21:46:56+00:00",
+        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "HN: The Good Parts (2016)",
-        "url": "https://danluu.com/hn-comments/",
-        "source": "Hacker News Front",
-        "published": "2026-08-21T23:53:03+00:00",
-        "summary": "Article URL: https://danluu.com/hn-comments/\nComments URL: https://news.ycombinator.com/item?id=49395171\nPoints: 9\n# Comments: 5",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Paul Atkins misreads Adam Smith and the American founding",
-        "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
-        "source": "Hacker News Front",
-        "published": "2026-08-21T23:32:44+00:00",
-        "summary": "Article URL: https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/\nComments URL: https://news.ycombinator.com/item?id=49395040\nPoints: 51\n# Comments: 2",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The Unlikely Place at the Center of China’s AI Boom",
-        "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-        "source": "Wired",
-        "published": "2026-08-21T23:25:32+00:00",
-        "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
-        "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
-        "source": "Wired",
-        "published": "2026-08-21T23:10:00+00:00",
-        "summary": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates—but they will also require physical warning stickers and camera-related updates.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-        "url": "https://ozbrain.com",
-        "source": "Hacker News Front",
-        "published": "2026-08-21T23:09:06+00:00",
-        "summary": "I think agent-first chat interfaces will be a primary software modality and busy dashboard/UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow/go with me.A lot of the “knowledge” ie research, analysis, reasoning will be done by agents as the primary user. Our current notes tools & tasks management systems were built for humans… I don’t care what the 17th thing on my ",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+        "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
         "source": "TechCrunch",
-        "published": "2026-08-21T23:07:25+00:00",
-        "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "published": "2026-08-22T20:24:20+00:00",
+        "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Pentagon dismisses Stars and Stripes leadership after opposition to interference",
-        "url": "https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70",
+        "title": "NetBSD and my life (2005)",
+        "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
         "source": "Hacker News Front",
-        "published": "2026-08-21T23:03:18+00:00",
-        "summary": "Article URL: https://apnews.com/article/stars-stripes-pentagon-censorship-media-d42affb0c17fef31c6089645c8dbbe70\nComments URL: https://news.ycombinator.com/item?id=49394797\nPoints: 35\n# Comments: 1",
+        "published": "2026-08-22T19:07:46+00:00",
+        "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html\nComments URL: https://news.ycombinator.com/item?id=49402781\nPoints: 90\n# Comments: 22",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+        "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+        "source": "Hacker News Front",
+        "published": "2026-08-22T19:04:41+00:00",
+        "summary": "Article URL: https://lapcatsoftware.com/articles/2026/8/7.html\nComments URL: https://news.ycombinator.com/item?id=49402741\nPoints: 157\n# Comments: 62",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "source": "TechCrunch",
+        "published": "2026-08-22T19:00:00+00:00",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "source": "Hacker News Front",
+        "published": "2026-08-22T18:14:16+00:00",
+        "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\nComments URL: https://news.ycombinator.com/item?id=49402232\nPoints: 166\n# Comments: 51",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Thinking in Python by Bruce Eckel",
+        "url": "https://thinkinginpython.com/",
+        "source": "Hacker News Front",
+        "published": "2026-08-22T18:10:49+00:00",
+        "summary": "Article URL: https://thinkinginpython.com/\nComments URL: https://news.ycombinator.com/item?id=49402202\nPoints: 44\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       }
@@ -213,6 +213,17 @@
         "source": "ByLine Network",
         "published": "2026-08-21T14:05:35+00:00",
         "summary": "비대면진료 플랫폼을 제한하는 ‘닥터나우 방지법’(약사법 개정안)이 국회 문턱을 넘자 스타트업 업계가 우려를 제기했다. 스타트업 업계는 후속 제도 설계 과정에서 업계 의견을 반영해달라고 요구하고 있다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "유니트리 왕싱싱 “휴머노이드 ‘챗GPT 순간’, 10년 걸릴 수도”",
+        "url": "https://platum.kr/archives/293055?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259c%25a0%25eb%258b%2588%25ed%258a%25b8%25eb%25a6%25ac-%25ec%2599%2595%25ec%258b%25b1%25ec%258b%25b1-%25ed%259c%25b4%25eb%25a8%25b8%25eb%2585%25b8%25ec%259d%25b4%25eb%2593%259c-%25ec%25b1%2597gpt-%25ec%2588%259c%25ea%25b0%2584-10%25eb%2585%2584-%25ea%25b1%25b8%25eb%25a6%25b4-%25ec%2588%2598%25eb%258f%2584",
+        "source": "Platum",
+        "published": "2026-08-21T13:45:31+00:00",
+        "summary": "상장 이튿날, 낙관은 유지했지만 &#8216;일반화의 벽&#8217;에 시간표 넓혀 상장 대박을 터뜨린 바로 다음 날, 유니트리 창업자는 자축 대신 기술의 현주소부터 짚었다. 판을 바꿀 도약 가능성에 대한 낙관은 유지했다. 다만 그 시점에는 지난해보다 훨씬 넓은 여지를 뒀다. 중국 휴머노이드·사족보행 로봇 기업 유니트리(정식 사명 위수커지)의 왕싱싱 대표는 8월 20일 베이징 월드로봇콘퍼런스 기조연설에서 휴머노이드 로봇의 &#8216;챗GPT 순간&#8217;이 빠르면 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
@@ -259,20 +270,69 @@
         "summary": "“양 법인에서 창업자이자 대주주 역할은 계속 수행해 주실 거라고 믿고 있습니다.”\n\n21일 카카오의 긴급 설명회에서 나온 김도영 카카오인베스트먼트 대표의 말이다. 이날 카카오는 자사를 카카오AI와 카카오X라는 두 개의 회사로 인적분할한다고 발표했다. 이번 분할의 목표로 복합기업 할인 해소와 사업별 전문 경영을 통한 기업가치·주주가치 제고를 내걸었다.",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: Legal dispute emerges at Monzo cofounder's Monaco banking venture",
-        "url": "https://sifted.eu/articles/legal-dispute-monaco-bank/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-08-21T10:09:35+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "대답할 때마다 돈 나가는 오픈AI · 앤스로픽 돈 들어오는 구글",
+        "url": "https://www.youtube.com/watch?v=vd__njvqkqc",
+        "source": "티타임즈TV",
+        "published": "2026-08-22T22:00:08+00:00",
+        "summary": "구글의 AI 제미나이가 성능 벤치마크 상위권에서 사라졌습니다. 코딩 AI 시장에서도 앤스로픽과 오픈AI에 밀려나고 있죠. 최상위 모델은 예고보다 두 달 넘게 출시가 밀렸고요. 핵심 인재들도 회사를 떠나고 있습니다. \n\n하지만 이는 구글의 전략이라는 시선도 있습니다. 10억명이 넘는 사용자 모두에게 최상위 모델을 제공할 이유가 없다는 이야기죠. 그리고 이미 AI 답변에 광고를 붙여 수익을 내면서 게임의 규칙을 바꾸고 있다는 것인데요. 구글의 변화, 전략인지 실수인지 살펴봅니다. \n\n편집 : 박선희 영상디자이너\n촬영 : 장민주 PD\n자",
+        "thumbnail": "https://i3.ytimg.com/vi/vd__njvqkqc/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "vd__njvqkqc",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Jason Calacanis on America’s AI Backlash: “They’re Sharpening the Guillotines”",
+        "url": "https://www.youtube.com/shorts/JXnLFsOg-vk",
+        "source": "All-In Podcast",
+        "published": "2026-08-22T18:26:32+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+        "thumbnail": "https://i3.ytimg.com/vi/JXnLFsOg-vk/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "JXnLFsOg-vk",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "\"아플거면 지난주에 미리 말했어야지.\"",
+        "url": "https://www.youtube.com/watch?v=OPrI1j-j2E8",
+        "source": "슈카월드",
+        "published": "2026-08-22T10:50:26+00:00",
+        "summary": "0:00 최대 6주 유급 병가 가능한 독일\n14:40 병가 직원을 조사하는 사립 탐정들\n25:00 우리나라에서 병가를 내도 되는가",
+        "thumbnail": "https://i4.ytimg.com/vi/OPrI1j-j2E8/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "OPrI1j-j2E8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Could Turkey’s New Party Oust Erdoğan?",
+        "url": "https://www.youtube.com/watch?v=DrSiZNi9YX0",
+        "source": "TLDR News Global",
+        "published": "2026-08-22T09:30:13+00:00",
+        "summary": "Pre-order a copy of Too Long: https://toolong.news/TL009\n\nIn this video, we're going to take a closer look at Turkey's New Party and what it means for the country’s opposition, before assessing whether the New Party could actually put an end to Erdoğan’s two-decade-long grip on power.\n\n📰 Too Long: h",
+        "thumbnail": "https://i1.ytimg.com/vi/DrSiZNi9YX0/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "DrSiZNi9YX0",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -285,21 +345,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "hx5TnPMxKU8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“저한테 이메일 오는 횟수 보면 중국도 3년내 HBM3 만듭니다” (카이스트 김정호 교수)",
-        "url": "https://www.youtube.com/watch?v=AhAvCBC9JXE",
-        "source": "티타임즈TV",
-        "published": "2026-08-21T21:00:24+00:00",
-        "summary": "‘HBM의 아버지’ 김정호 카이스트 교수가 생각하는 ‘에이전트 이코노미’, 그리고 ‘중국 반도체의 수준’.\n\n“우리 연구실의 에이전트가 주식투자하고 스테이블코인 사고 쿠팡 구매하고 하더라구요. 저는 미래에는 에이전트 오케스트라만 남는다, 그러니까 디렉터나 사장 같은 사람만 남는 거죠.”\n\n“저한테 이메일 오는 횟수를 보면, 중국도 3년내 HBM3는 만들 수 있을 것 같아요”\n\n편집 : 장민주 PD\n촬영 : 장민주 PD\n자료 : 장민주 PD\n진행 : 박영선 전 장관\n섬네일 : 이소민 영상디자이너 \n\n▶티타임즈 공식 홈페이지\nhttp:",
-        "thumbnail": "https://i2.ytimg.com/vi/AhAvCBC9JXE/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "AhAvCBC9JXE",
           "via": "rss"
         }
       },
@@ -375,51 +420,6 @@
         "extras": {
           "theme": "deep_dive",
           "videoId": "Zdg8rzp4u_o",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "This is A Heart on a Chip",
-        "url": "https://www.youtube.com/shorts/yEbT5hb0xWs",
-        "source": "Cleo Abram",
-        "published": "2026-08-20T14:36:36+00:00",
-        "summary": "This is part of your heart on a chip!\n\nScientists made them by scanning the arteries of real patients, creating a 3D image, and 3D printing it onto a piece of glass.\n\nThey’re using it to understand blood clots, make patient-specific treatments, and test new drugs.\n\nTo see what happens next subscribe",
-        "thumbnail": "https://i2.ytimg.com/vi/yEbT5hb0xWs/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "yEbT5hb0xWs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Going In Deep On Data | YC Paper Club",
-        "url": "https://www.youtube.com/watch?v=IfoPg2QefF8",
-        "source": "Y Combinator",
-        "published": "2026-08-20T14:00:12+00:00",
-        "summary": "This week's YC Paper Club is focused on data. Three domain experts give talks to break down the challenges and frontiers of training data, benchmarks, and multilingual pre-training.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapter",
-        "thumbnail": "https://i2.ytimg.com/vi/IfoPg2QefF8/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "IfoPg2QefF8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why the Next Great Founders Will Be Borderless",
-        "url": "https://www.youtube.com/watch?v=0t3TpJXa5-A",
-        "source": "a16z",
-        "published": "2026-08-20T13:05:06+00:00",
-        "summary": "Elena Burger is joined by a16z’s Angela Strange and Gabriel Vasquez to discuss the rise of the \"borderless founder\": entrepreneurs who bring the networks and insights of their home markets together with the talent, capital, and speed of Silicon Valley to build global companies.\n\nAngela and Gabriel t",
-        "thumbnail": "https://i1.ytimg.com/vi/0t3TpJXa5-A/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "0t3TpJXa5-A",
           "via": "rss"
         }
       }
