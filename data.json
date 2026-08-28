@@ -1,82 +1,16 @@
 {
-  "generated_at": "2026-08-27T07:19:09.526984+00:00",
+  "generated_at": "2026-08-28T09:33:04.959243+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "‘A Huge Paradox’: Nepal Region Hit by Flood Known for Development and Disasters",
-        "url": "https://www.nytimes.com/2026/08/27/world/asia/a-huge-paradox-nepal-region-hit-by-flood-known-for-development-and-disasters.html",
+        "title": "Live Updates: New Nepal Flood Warning Clouds Desperate Search for Survivors",
+        "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
         "source": "NYT World",
-        "published": "2026-08-27T07:11:51+00:00",
-        "summary": "The region has experienced an economic boom even as natural disasters have repeatedly struck, including a flood that killed more than 160 people on Wednesday.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: Pauline Hanson adds to confusion over One Nation’s immigration policy; fugitive developer Jean Nassif to face Icac hearing",
-        "url": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-08-27T07:10:16+00:00",
-        "summary": "Follow today’s news liveNepal flash flood disaster – live updatesGet our breaking news email, free app or daily news podcastThe prime minister, Anthony Albanese, says Dfat officials are ready to provide consular assistance to Australians in Nepal, after the devastating flooding in the country.A local tourism official said they believed 34 Australians were missing in the area, among hundreds of for",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Two dead and 10 hurt after car rams into crowd in northern France",
-        "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-08-27T07:07:34+00:00",
-        "summary": "A suspect was arrested after the incident in Caen, police said, following a reported fight at a nearby bar.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Nepal floods: missing Australians identified as children as young as 11 among those yet to be found",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
-        "source": "The Guardian World",
-        "published": "2026-08-27T07:05:15+00:00",
-        "summary": "Nepali tour operator fears 15 Australians who had been on a trek near the border with China have died after devastating floodNepal flash flood live updatesGet our breaking news email, free app or daily news podcastA New South Wales couple on a spiritual pilgrimage are among the first Australians identified as missing after flash flooding ravaged the Nepal-Tibet border.Venkatraman Balakrishnan, 52,",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Levy secretly added to Victorian public transport fares scrapped as Labor admits it ‘did not pass the pub test’",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/27/labor-scrap-secret-public-transport-levy-suburban-loop-melbourne-victoria",
-        "source": "The Guardian World",
-        "published": "2026-08-27T06:55:31+00:00",
-        "summary": "Premier confirms levy, which was intended to help pay for the multibillion-dollar Suburban Rail Loop and other Big Build projects, will be abolishedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Victorian premier, Ben Carroll, has announced he will abolish a levy secretly slapped on public transport users 18 months ago to help p",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "More Than 1,300 Missing After Torrent Sweeps Away Villages in Nepal and Tibet",
-        "url": "https://www.nytimes.com/live/2026/08/26/world/nepal-floods",
-        "source": "NYT World",
-        "published": "2026-08-27T06:53:58+00:00",
-        "summary": "At least 160 people were killed when floods tore through a Himalayan river valley between Nepal and the Tibet region of China, the authorities said.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Nepal flash flood: more than 1,500 missing, mostly tourists, after disaster kills at least 165 at Tibet border",
-        "url": "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border",
-        "source": "The Guardian World",
-        "published": "2026-08-27T06:51:40+00:00",
-        "summary": "Entire populated areas swept away after glacial collapse causes catastrophic flood in mountainous region popular with trekkers and pilgrimsNepal-Tibet flash flood – latest updatesWhat we know so farHave you been affected by the flash floods?Nearly 1,500 people are missing, the majority of whom are tourists, authorities have said, after a catastrophic flash flood hit Nepal and Tibet, roaring down v",
+        "published": "2026-08-28T09:30:02+00:00",
+        "summary": "The Nepali police warned people to head for safety because more water could soak flood-ravaged villages. China said that the risk of a Tibetan lake overflowing had “gradually decreased.”",
         "thumbnail": "",
         "extras": {}
       },
@@ -84,10 +18,76 @@
         "category": "world",
         "kind": "article",
         "title": "Here’s the latest.",
-        "url": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods/heres-the-latest",
+        "url": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods/heres-the-latest",
         "source": "NYT World",
-        "published": "2026-08-27T06:36:13+00:00",
+        "published": "2026-08-28T09:24:15+00:00",
         "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Nepal-Tibet flash flood: rescue operations resume after halting over lake overflow; death toll rises to 469 – latest updates",
+        "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+        "source": "The Guardian World",
+        "published": "2026-08-28T09:14:38+00:00",
+        "summary": "Operations were suspended amid fears of further destruction; 1,500 people still missing amid race to find survivorsFlood risk forces halt to rescues in Tibet, as Nepal death toll rises to 469Visual guide: how the deadly flooding unfoldedTell us: have you been affected by the flash floods?More now on the Nepali army’s rescue operation to save about 100 people trapped in a tunnel at a hydropower pro",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘We execute the prick’: Charles Perrottet sent text plotting downfall of NSW Liberal minister, Icac hears",
+        "url": "https://www.theguardian.com/australia-news/2026/aug/28/icac-hears-charles-perrottet-plotted-downfall-nsw-liberal-minister-david-elliott-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-08-28T09:13:35+00:00",
+        "summary": "Brother of former state premier tells Icac he sent message to his wife referring to a plan to damage the career of rival David ElliottFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastCharles Perrottet wrote about a plan to damage a Liberal minister’s career following his brother Dominic’s accession to the New South Wales premiership i",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘The Sauna Is Hot and Uncomfortable’: Vote on E.U. Talks Makes Iceland Sweat",
+        "url": "https://www.nytimes.com/2026/08/28/world/europe/iceland-european-union-vote.html",
+        "source": "NYT World",
+        "published": "2026-08-28T09:05:44+00:00",
+        "summary": "The usually genial country is been bitterly divided over a vote this weekend on whether to enter membership talks with the European Union.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Fear Over Malaysia’s Plan to Send Back Rohingya Migrants to Myanmar",
+        "url": "https://www.nytimes.com/2026/08/28/world/asia/rohingya-refugees-malaysia-myanmar.html",
+        "source": "NYT World",
+        "published": "2026-08-28T09:04:28+00:00",
+        "summary": "The announcement has sent panic through a community that fled its country’s brutal military rule, civil war, religious persecution or some combination of the three.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "A look back at the King who broke with tradition",
+        "url": "https://www.bbc.co.uk/news/videos/c93v7x5qr79o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-08-28T09:04:11+00:00",
+        "summary": "Norway's King Harald V has died aged 89 after being treated for a bacterial infection in his blood.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Children take cover behind shopping cart during Israeli drone fire",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/children-take-cover-behind-shopping-cart-during-israeli-drone-fire?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-28T09:01:51+00:00",
+        "summary": "Video shows children in Gaza taking cover behind a shopping cart during a reported gun attack by an Israeli drone.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Nvidia closes in on Hugging Face acquisition",
-        "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-        "source": "TechCrunch",
-        "published": "2026-08-27T06:32:51+00:00",
-        "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+        "title": "How to sign up for a virtual power plant—and decide whether you should",
+        "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+        "source": "MIT Technology Review",
+        "published": "2026-08-28T09:00:00+00:00",
+        "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such&#8230;",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The UK Power Grid Has a Phantom Data Center Problem",
-        "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+        "title": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
+        "url": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
         "source": "Wired",
-        "published": "2026-08-27T06:00:00+00:00",
-        "summary": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+        "published": "2026-08-28T09:00:00+00:00",
+        "summary": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why show how vast—and invasive—the network has become.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Pnpm 12.0",
-        "url": "https://pnpm.io/blog/releases/12.0",
+        "title": "Overcooked? Why robotic pizza makers are failing",
+        "url": "https://www.bbc.com/news/articles/czxq0wgkkdjo",
         "source": "Hacker News Front",
-        "published": "2026-08-27T05:12:39+00:00",
-        "summary": "Article URL: https://pnpm.io/blog/releases/12.0\nComments URL: https://news.ycombinator.com/item?id=49460032\nPoints: 44\n# Comments: 22",
+        "published": "2026-08-28T08:37:27+00:00",
+        "summary": "Article URL: https://www.bbc.com/news/articles/czxq0wgkkdjo\nComments URL: https://news.ycombinator.com/item?id=49475993\nPoints: 11\n# Comments: 10",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Therabody Promo Codes: 15% Off September 2026",
-        "url": "https://www.wired.com/story/therabody-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-27T05:00:00+00:00",
-        "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+        "title": "Climate change is strengthening El Niño, coral records suggest",
+        "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+        "source": "Hacker News Front",
+        "published": "2026-08-28T07:19:16+00:00",
+        "summary": "Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest\nComments URL: https://news.ycombinator.com/item?id=49475404\nPoints: 35\n# Comments: 9",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Birdfy Discount Codes: 15% Off Sitewide",
-        "url": "https://www.wired.com/story/birdfy-discount-code/",
-        "source": "Wired",
-        "published": "2026-08-27T05:00:00+00:00",
-        "summary": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+        "title": "That's a Lot of YAML",
+        "url": "https://noyaml.com/",
+        "source": "Hacker News Front",
+        "published": "2026-08-28T07:03:53+00:00",
+        "summary": "Article URL: https://noyaml.com/\nComments URL: https://news.ycombinator.com/item?id=49475301\nPoints: 22\n# Comments: 18",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026",
-        "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
-        "source": "Wired",
-        "published": "2026-08-27T05:00:00+00:00",
-        "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
+        "title": "Sovereign Tech Agency invests €500k in Flatpak",
+        "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+        "source": "Hacker News Front",
+        "published": "2026-08-28T05:42:47+00:00",
+        "summary": "Article URL: https://modal.cx/blog/announcing-flatpak-sta/\nComments URL: https://news.ycombinator.com/item?id=49474786\nPoints: 103\n# Comments: 59",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Alo Discount Code: 20% Off September 2026",
-        "url": "https://www.wired.com/story/alo-yoga-discount-code/",
+        "title": "Uber Eats Promo Codes: $15 Off │September 2026",
+        "url": "https://www.wired.com/story/uber-eats-promo-code/",
         "source": "Wired",
-        "published": "2026-08-27T05:00:00+00:00",
-        "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+        "published": "2026-08-28T05:00:00+00:00",
+        "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Starz Promo Codes: $5 Off for September 2026",
-        "url": "https://www.wired.com/story/starz-promo-code/",
+        "title": "Reebok Discount Code: Save 15%+ in September 2026",
+        "url": "https://www.wired.com/story/reebok-discount-code/",
         "source": "Wired",
-        "published": "2026-08-27T05:00:00+00:00",
-        "summary": "Ready to stream award-winning series, hit movies, and exclusive originals? Our comprehensive guide helps you find every active Starz coupon, free trial, and discount code to save big on your subscription this 2026.",
+        "published": "2026-08-28T05:00:00+00:00",
+        "summary": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,43 +186,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "정체불명 AI ‘옥스 알파’, 중국의 Z.ai였다",
-        "url": "https://byline.network/2026/08/z-ai/",
+        "title": "AI 학습데이터 어디까지 공개해야 하나…“편향 검증” vs “기업 경쟁력 훼손”",
+        "url": "https://byline.network/2026/08/0828-8/",
         "source": "ByLine Network",
-        "published": "2026-08-27T06:05:28+00:00",
-        "summary": "지난주 AI 업계를 뒤흔든 정체불명의 AI 모델 ‘옥스 알파(Ox Alpha)’의 정체가 밝혀졌다. 중국 베이징의 AI 스타트업 Z.ai(즈푸AI)였다.\n\nZ.ai는 26일(현지시각) 옥스 알파가 자사 GLM 시리즈의 신형 모델이라고 공식 확인했다. 모델명은 GLM-5.3-플래시다.",
+        "published": "2026-08-28T09:16:04+00:00",
+        "summary": "거대 인공지능(AI) 모델 학습 데이터 투명성을 둘러싸고 사회적 갈등이 증가하고 있다. 알고리즘 편향성을 막고 신뢰를 구축하기 위해 데이터 출처를 공개하라는 요구와, 기술 경쟁력을 지키기 위해 영업비밀을 보호해야 한다는 주장이 맞서는 상황이다. 최근 정부 지원을 받은 국내 대표 기업들이 1조5000억개토큰 규모 학습 데이터를 무료로 개방하기로 하였으나, 상용 서비스 전반에 걸친 투명성 의무화 논의는 여전히 합의점을 찾지 못하고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "스노우플레이크가 제시한 AI 시대 ‘에이전틱 엔터프라이즈’ 구현 방안",
-        "url": "https://byline.network/2026/08/27-675/",
+        "title": "AI·N2SF 변화 속 상반기 보안업계 실적은",
+        "url": "https://byline.network/2026/08/28-652/",
         "source": "ByLine Network",
-        "published": "2026-08-27T06:00:46+00:00",
-        "summary": "“현재 많은 사람들은 AI 에이전트를 배포하면 에이전트가 데이터를 분석해 필요한 정보와 원하는 답을 얻을 수 있을 것이라고 잘못 생각하고 있다. 기업은 현재 다양한 애플리케이션, 다양한 데이터 형식과 데이터베이스 같은 파편화된 엔터프라이즈 아키텍처를 보유하고 있다. 이같은 환경에서 AI가 안정적으로 작동하는 방법을 찾은 것은 매우 어려운 과제다.” 스노우플레이크는 27일 서울 코엑스에서 열린 ‘스노우플레이크 월드 투어 서울’ 행사에서 기업이 이같은 문제를 해결해 에이전틱 엔터프라이즈 환경을 구현할 수 있는 핵심 방안을 소개했다.",
+        "published": "2026-08-28T08:56:22+00:00",
+        "summary": "올해 상반기 국내 주요 보안기업에서는 기존 보안제품과 클라우드·서비스 사업이 실적을 이끌었다. 엔드포인트 탐지·대응(EDR), 네트워크 접근 제어(NAC) 수요가 늘었고, 국가망보안체계(N2SF)와 제로 트러스트 전환도 일부 기업의 제품 매출 증가로 이어졌다. 보안업계의 새 먹거리로 떠오른 인공지능(AI) 보안과 양자내성암호(PQC)가 실제 실적에 반영된 사례도 나왔다. 다만 여러 기업은 AI와 PQC, N2SF를 상반기 실적 견인 요인보다는 하반기 이후 성장 사업으로 제시했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "독파모 5개 정예팀, AI 학습데이터 3544만건 공개…1조5600억토큰 규모",
-        "url": "https://byline.network/2026/08/0827-5/",
+        "title": "독파모 1위 SKT “모델 경쟁은 끝났다…지능의 개선 루프 중요”",
+        "url": "https://byline.network/2026/08/skt-2/",
         "source": "ByLine Network",
-        "published": "2026-08-27T05:06:16+00:00",
-        "summary": "과학기술정보통신부(과기정통부)와 한국지능정보사회진흥원(NIA)은 27일 독자 인공지능(AI) 파운데이션 모델(독파모) 프로젝트에 참여한 5개 정예팀(네이버클라우드·업스테이지·SK텔레콤·엔씨에이아이·LG AI연구원)이 구축한 AI 학습용 데이터 29종을 공개했다.",
+        "published": "2026-08-28T06:48:41+00:00",
+        "summary": "“미래의 AI 경쟁은 가장 좋은 모델을 한 번 만들어내는 경쟁이 아닙니다. 가장 빠른  \n유경상 SK텔레콤 AI CIC장은 지난 23일 SKT 뉴스룸에 게재한 칼럼에서 이같이 진단했다. 앞으로 펼쳐질 AI 경쟁은 좋은 모델 한 번 만드는 데서 경쟁이 끝나는 것이 아니고, 만들어진 모델을 지속적으로 빠르게 개선시켜 나가는 시스템을 구축하는 것이 중요하다는 의미다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Starling's AI gamble sparks staff concerns",
-        "url": "https://sifted.eu/articles/starlings-ai-gamble-sparks-staff-concerns/",
+        "title": "Eurosummer is a thing of the past: 10 under-the-radar rounds you may have missed in Europe's second-busiest August ever",
+        "url": "https://sifted.eu/articles/eurosummer-is-a-thing-of-the-past-10-under-the-radar-rounds/",
         "source": "Sifted (EU startups)",
-        "published": "2026-08-27T05:00:29+00:00",
+        "published": "2026-08-28T05:00:44+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -230,49 +230,154 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "틱톡 “2030년 K컬처 경제효과 40조원, 틱톡이 견인”",
-        "url": "https://byline.network/2026/08/26_3982737/",
+        "title": "The most active US VCs in Europe",
+        "url": "https://sifted.eu/articles/the-most-active-us-vcs-in-europe/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-08-28T05:00:05+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "카카오페이손보 “AI 프로젝트, PoC 위한 PoC 경계해야”",
+        "url": "https://byline.network/2026/08/0827-10/",
         "source": "ByLine Network",
-        "published": "2026-08-27T04:54:56+00:00",
-        "summary": "K-컬처 콘텐츠 글로벌 유통 플랫폼으로 부상한 틱톡이 오는 2030년까지 한국에 가져올 경제적 효과가 약 40조원에 이르는 것으로 나타났다. 발견-신뢰-참여로 이어지는 틱톡의 콘텐츠 유통 구조가 K-컬처의 성장에 유의미한 영향을 미친다는 분석이다.",
+        "published": "2026-08-28T02:29:43+00:00",
+        "summary": "인공지능(AI) 프로젝트가 실제 서비스로 이어지기 위해서는 초기부터 시간과 비용, 현실 가능성을 제약 조건으로 설정해야 한다는 지적이 나왔다. 개념검증(PoC)에 머무는 ‘PoC를 위한 PoC’를 막기 위해서는 처음부터 출시를 전제로 범위를 정하고, 고객의 페인포인트(고충점)를 해결하는 데 필요한 기능에 집중해야 한다는 취지다. 27일 서울 중구 대한상공회의소에서 열린 ‘아마존웹서비스(AWS) 파이낸셜 서비스 포럼 서울 2026’에서 김희준 카카오페이손해보험 부사장 겸 최고기술책임자(CTO)는 이같이 밝혔다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "이용석 스노우플레이크 지사장 “한국, 가파른 성장 계속…AI, 실험 아닌 성과 내는 워크로드로”",
-        "url": "https://byline.network/2026/08/27-667/",
+        "title": "과기정통부, ‘모두의 AI’ 수행기관에 SKT·카카오·KT 선정",
+        "url": "https://byline.network/2026/08/0828-4/",
         "source": "ByLine Network",
-        "published": "2026-08-27T04:31:50+00:00",
-        "summary": "“AI 프로젝트가 개념검증(PoC) 단계에 머무르지 않고 실제 운영 환경으로 빠르게 전환하도록 지원해, AI를 지금 성과를 내는 워크로드로 만들겠습니다.\" 이용석 스노우플레이크 신임 한국지사장은 27일 서울 코엑스에서 열린 연례 컨퍼런스 ‘스노우플레이크 월드 투어 서울’ 행사에 나와 이같이 말하고 “대한민국을 대표하는 기업들과 함께 쌓아온 신뢰를 바탕으로 앞으로 더 많은 기업들이 AI 비즈니스 성과를 만들어 갈 수 있도록 계속 노력하겠다”는 포부를 밝혔다.",
+        "published": "2026-08-28T02:08:41+00:00",
+        "summary": "과학기술정보통신부는 ‘모두의 인공지능(AI)’ 프로젝트 수행기관으로 SK텔레콤(SKT), 카카오, KT를 선정해 28일 발표했다. 선정된 이들 세 사업자는 올해 그래픽처리장치(GPU) B200 512장을 지원받는다. 또 2027년부터 전 국민 서비스 제공에 필요한 비용을 정부 예산으로 받게 된다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "코딩 에이전트 결과물, 다시 안 짜고 배포한다… 유아이패스 ‘마에스트로 플로우’",
-        "url": "https://platum.kr/archives/293362?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bd%2594%25eb%2594%25a9-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ea%25b2%25b0%25ea%25b3%25bc%25eb%25ac%25bc-%25eb%258b%25a4%25ec%258b%259c-%25ec%2595%2588-%25ec%25a7%259c%25ea%25b3%25a0-%25eb%25b0%25b0%25ed%258f%25ac%25ed%2595%259c%25eb%258b%25a4-%25ec%259c%25a0%25ec%2595%2584",
+        "title": "아도바, 중국 장쑤 인재혁신창업대회 AI 부문 수상",
+        "url": "https://platum.kr/archives/293466?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2584%25eb%258f%2584%25eb%25b0%2594-%25ec%25a4%2591%25ea%25b5%25ad-%25ec%259e%25a5%25ec%2591%25a4-%25ec%259d%25b8%25ec%259e%25ac%25ed%2598%2581%25ec%258b%25a0%25ec%25b0%25bd%25ec%2597%2585%25eb%258c%2580%25ed%259a%258c-ai-%25eb%25b6%2580%25eb%25ac%25b8-%25ec%2588%2598%25ec%2583%2581",
         "source": "Platum",
-        "published": "2026-08-27T01:37:46+00:00",
-        "summary": "클로드 코드나 커서 같은 코딩 에이전트로 만든 프로토타입을 다시 작성하지 않고 그대로 실제 운영 환경까지 배포하는 개발 도구가 나왔다. 비즈니스 오케스트레이션·자동화 기업 유아이패스(UiPath)는 개발자 중심 오케스트레이션 설계 환경 &#8216;마에스트로 플로우(Maestro Flow)&#8217;를 27일 발표했다. 코딩 에이전트가 확산되면서 기업 개발자가 AI 에이전트를 빠르게 만드는 일은 쉬워졌지만, 이를 여러 시스템에 걸친 실제 비즈니스 프로세스로 구현하고 운영하는 일은 여전히 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "SBVA, 소프트뱅크 비전펀드 출신 2인을 벤처파트너로 영입",
-        "url": "https://platum.kr/archives/293368?utm_source=rss&utm_medium=rss&utm_campaign=sbva-%25ec%2586%258c%25ed%2594%2584%25ed%258a%25b8%25eb%25b1%2585%25ed%2581%25ac-%25eb%25b9%2584%25ec%25a0%2584%25ed%258e%2580%25eb%2593%259c-%25ec%25b6%259c%25ec%258b%25a0-2%25ec%259d%25b8%25ec%259d%2584-%25eb%25b2%25a4%25ec%25b2%2598%25ed%258c%258c%25ed%258a%25b8%25eb%2584%2588%25eb%25a1%259c-%25ec%2598%2581",
-        "source": "Platum",
-        "published": "2026-08-27T00:52:58+00:00",
-        "summary": "SBVA(에스비브이에이)가 소프트뱅크 비전펀드 출신 투자 전문가 이지행(Chris Lee) 전 파트너와 카즈 요시마루(Kaz Yoshimaru) 전 디렉터를 벤처파트너로 영입했다고 27일 밝혔다. 소프트뱅크벤처스가 전신인 SBVA는 이번 영입으로 글로벌 투자 역량을 강화하고 포트폴리오 기업의 해외 시장 진출과 사업 확장을 지원할 계획이다. 이지행 벤처파트너는 시카고대에서 경제학을 전공하고 CVC캐피탈파트너스, 싱가포르투자청(GIC)을 거쳐 소프트뱅크 비전펀드 파트너를 지냈다. 사모투자와 그로스 에쿼티 분야에서 경력을 쌓으며 ... 더 읽기",
+        "published": "2026-08-27T23:46:21+00:00",
+        "summary": "AI 기반 크리에이터 솔루션 기업 아도바가 중국 &#8216;2026 중국 장쑤 인재혁신창업대회(2026年中国江苏人才创新创业大赛)&#8217; 인공지능(AI) 부문에서 수상했다. 한국 기업이 이 대회 AI 부문에서 수상한 것은 이번이 처음이다. 이번 대회는 장쑤성 당위원회 인재업무 관련 부서와 장쑤성 인력자원사회보장청이 공동 주최했으며, &#8216;장쑤에 인재를 모아 함께 미래를 창조한다&#8217;를 주제로 진행됐다. 중국 내 13개 지역과 5개 해외 지역에서 예선을 거쳐 지난 8월 22일 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is the Taliban's Grip on Afghanistan Slipping?",
+        "url": "https://www.youtube.com/watch?v=uPhpBVg_Oh8",
+        "source": "TLDR News Global",
+        "published": "2026-08-28T08:30:27+00:00",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nPre-order a copy of Too Long: https://toolong.news/TL009\n\nIn this video, we’re going to take a look at what’s happening in Afghanistan; and whether it presents a genuine challenge to Taliban rule.\n\n📰 Too Long: https://t",
+        "thumbnail": "https://i2.ytimg.com/vi/uPhpBVg_Oh8/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "uPhpBVg_Oh8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "주식 보조지표 실제로는 왜 안맞아요?",
+        "url": "https://www.youtube.com/shorts/LbSGA-UyqOs",
+        "source": "슈카월드",
+        "published": "2026-08-28T04:20:43+00:00",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i1.ytimg.com/vi/LbSGA-UyqOs/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "LbSGA-UyqOs",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Cursor Built One of AI’s Fastest-Growing Companies",
+        "url": "https://www.youtube.com/watch?v=GHrnbvkVPZA",
+        "source": "a16z",
+        "published": "2026-08-27T14:30:08+00:00",
+        "summary": "a16z General Partners Martin Casado, Sarah Wang, and Matt Bornstein unpack the story of Cursor: how a small, product-obsessed team entered one of the most competitive markets in technology, took on incumbents with seemingly unbeatable advantages, and repeatedly made decisions that ran against conven",
+        "thumbnail": "https://i4.ytimg.com/vi/GHrnbvkVPZA/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "GHrnbvkVPZA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Strong Is The STRONGEST Magnet?",
+        "url": "https://www.youtube.com/shorts/z0ZCcSn5qA4",
+        "source": "Cleo Abram",
+        "published": "2026-08-27T14:22:23+00:00",
+        "summary": "The world’s strongest magnet… how strong is it?\n\nFor reference a fridge magnet is about 0.001 “Tesla,\" which is how we measure a magnet’s strength...\n\nWe use these insanely powerful magnets to do experiments. And if you want to know what they’ve found, subscribe!\n\n#shorts #magnet #science #tech",
+        "thumbnail": "https://i3.ytimg.com/vi/z0ZCcSn5qA4/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "z0ZCcSn5qA4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "선거를 앞두고 '국민 1인당 44만원'을 뿌리는 나라",
+        "url": "https://www.youtube.com/watch?v=2mIbAq_-gys",
+        "source": "슈카월드",
+        "published": "2026-08-27T10:54:34+00:00",
+        "summary": "0:00 익숙한 모습의 대만 상황\n11:39 AI 국민 배당금\n21:37 '선거 치트키'",
+        "thumbnail": "https://i3.ytimg.com/vi/2mIbAq_-gys/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "2mIbAq_-gys",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "\"MLCC와 기판 없으면, AI 반도체는 절대 못 만듭니다\"(박철민 삼성전기 상무)",
+        "url": "https://www.youtube.com/watch?v=NjvhhBT8xA0",
+        "source": "티타임즈TV",
+        "published": "2026-08-27T09:00:08+00:00",
+        "summary": "반도체를 만드는 데 반드시 필요한 3대 요소가 있습니다. 파운드리, 메모리, 그리고 기판과 MLCC인데요. 앞의 둘은 수요가 50~70% 늘어날 때 기판과 MLCC의 수요는 2배, 3배씩 늘어나고 있다고 합니다. 심지어 하이엔드 기판인 FC-BGA는 기존 기판 대비 공정이 1000배 더 들어가고 가격도 비싸지만 폭발하고 있다고 하고요.\n\n그리고 이 기술을 보유한 전 세계 몇 안되는 기업 중 하나가 한국의 삼성전기이죠. 오랫동안 일본이 쥐고 있던 이 시장을 삼성전기가 어떻게 뚫고 들어갔는지, 중국의 추격은 어디까지 왔는지 들어봅니다.",
+        "thumbnail": "https://i3.ytimg.com/vi/NjvhhBT8xA0/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "NjvhhBT8xA0",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Chinese Solar Saved Cuba (sort of)",
+        "url": "https://www.youtube.com/watch?v=YwFth1cf4D4",
+        "source": "TLDR News Global",
+        "published": "2026-08-27T08:30:02+00:00",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nPre-order a copy of Too Long: https://toolong.news/TL009\n\nIn this video, we’re going to take a closer look at the impacts of the US blockade on Cuba, and how China has played a big role in helping mitigate its effects r",
+        "thumbnail": "https://i2.ytimg.com/vi/YwFth1cf4D4/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "YwFth1cf4D4",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -315,111 +420,6 @@
         "extras": {
           "theme": "deep_dive",
           "videoId": "6tlDEpIrfBc",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Gavin Baker: If you're a patriot, you should be pro-open source AI",
-        "url": "https://www.youtube.com/shorts/hTLXWbfVi8w",
-        "source": "All-In Podcast",
-        "published": "2026-08-26T15:00:24+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i1.ytimg.com/vi/hTLXWbfVi8w/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "hTLXWbfVi8w",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The State of AI: Models, Moats, and the Consumer Renaissance",
-        "url": "https://www.youtube.com/watch?v=zEZ0rQ8Ef-Y",
-        "source": "a16z",
-        "published": "2026-08-26T14:30:27+00:00",
-        "summary": "Anish Acharya joins Jen Kha to break down the next frontier of AI, from the evolving model landscape and open-source AI to why the application layer, and consumer AI in particular, may be entering a new phase.\n\nAnish explains why he believes there will be multiple winners at the model layer, why tra",
-        "thumbnail": "https://i3.ytimg.com/vi/zEZ0rQ8Ef-Y/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "zEZ0rQ8Ef-Y",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "이란의 비핵화가 목표라면, 북한은??",
-        "url": "https://www.youtube.com/watch?v=2lFgnNyvBCs",
-        "source": "슈카월드",
-        "published": "2026-08-26T11:56:50+00:00",
-        "summary": "0:00 2007년 이후 최고치를 경신한 미국채 금리\n6:16 금리는 왜 이렇게 올랐을까?\n14:33 이란 전쟁은 도대체 왜 하는거야?\n25:26 미국채 발행량은 왜 크게 증가했는가\n34:36 이란 비핵화를 원한다면, 북한은 왜..?",
-        "thumbnail": "https://i3.ytimg.com/vi/2lFgnNyvBCs/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "2lFgnNyvBCs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "코스피는 원래 이랬습니다.",
-        "url": "https://www.youtube.com/shorts/H3y_67kNa30",
-        "source": "슈카월드",
-        "published": "2026-08-26T11:55:34+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i1.ytimg.com/vi/H3y_67kNa30/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "H3y_67kNa30",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "빨래개기는 로봇 최대 난제이자 최고 연습문제",
-        "url": "https://www.youtube.com/watch?v=dUVHJOpzTBI",
-        "source": "티타임즈TV",
-        "published": "2026-08-26T09:00:25+00:00",
-        "summary": "테슬라의 옵티머스, 피규어AI, LG전자 등 휴머노이드 만드는 회사들이 시연으로 가장 많이 보여주는 장면 가운데 하나가 빨래 개기입니다. 빨래 개기를 핵심기능으로 내건 로봇 스타트업도 등장했죠. 로봇회사들은 왜 빨래 개기에 집착할까요? 수건인지 바지인지 판단해야 하고 가장자리와 소매를 찾아 두 손으로 펼쳐 방향도 맞춰야 하는 등 휴머노이드의 난제이자, 동시에 빨래는 깨지지 않기 때문에 시행착오 데이터를 쌓기에 가장 좋은 연습 문제이기 때문입니다.\n\n편집 : 박선희 영상디자이너 \n촬영 : 장민주 PD \n자료 : 배소진 기자\n진행 : ",
-        "thumbnail": "https://i1.ytimg.com/vi/dUVHJOpzTBI/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "dUVHJOpzTBI",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Is America’s Debt Crisis Finally Arriving?",
-        "url": "https://www.youtube.com/watch?v=3gn1LdBCONM",
-        "source": "TLDR News Global",
-        "published": "2026-08-26T08:30:23+00:00",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nPre-order a copy of Too Long: https://toolong.news/TL009\n\nFor many years, people have been predicting a sovereign debt crisis in the US that much to their disappointment, just hasn't yet materialised. But the markets no",
-        "thumbnail": "https://i4.ytimg.com/vi/3gn1LdBCONM/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "3gn1LdBCONM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Guess The Biggest Land Animal in Antarctica",
-        "url": "https://www.youtube.com/shorts/u3InBVjrEeo",
-        "source": "Cleo Abram",
-        "published": "2026-08-25T16:41:53+00:00",
-        "summary": "What is the biggest land animal in Antarctica?\n\nIs it…polar bears? Penguins? Seals? A large bird? Nope… \n\nBut to see what’s hidden underneath Antarctica, subscribe!\n\n#shorts #antarctica #animal #biggest #animalfacts",
-        "thumbnail": "https://i2.ytimg.com/vi/u3InBVjrEeo/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "u3InBVjrEeo",
           "via": "rss"
         }
       }
