@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-08-30T03:39:35.572229+00:00",
+  "generated_at": "2026-08-31T03:39:48.513970+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: ‘we owe it to history’ to defeat One Nation, PM tells Labor faithful; man dies after falling from eighth-floor balcony in Sydney",
-        "url": "https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb",
+        "title": "Australia news live: Rowland says no plans to ban import of smart glasses; Queensland’s e-bike laws begin",
+        "url": "https://www.theguardian.com/australia-news/live/2026/aug/31/nepal-floods-penny-wong-labor-anthony-albanese-one-nation-pauline-hanson-angus-taylor-liberal-party-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-08-30T03:22:26+00:00",
-        "summary": "Police attempted to speak to man at Elizabeth Bay apartment block east of Sydney’s CBD on Sunday morning. Follow latest updates liveJoyce explains One Nation’s migration policy with sheep and cattleBarnaby Joyce has used sheep and cattle to illustrate his claim that One Nation wants to cut net overseas migration to 130,000 people without counting short-stay visas.No it’s not. … Short-term visa sta",
+        "published": "2026-08-31T03:26:40+00:00",
+        "summary": "Australians ‘increasingly concerned about how their data is being collected, used, and shared,’ attorney general says. Follow the day’s news liveGet our breaking news email, free app or daily news podcastThe Australian government is working with Russian officials in a bid to secure the release of Australian Oscar Jenkins, Matt Thistlethwaite says.\n Speaking to ABC news breakfast, the assistant min",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US deports relative of Afghans who aided military to Africa",
-        "url": "https://www.aljazeera.com/news/2026/8/30/us-deports-relative-of-afghans-who-aided-military-to-africa?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T03:10:06+00:00",
-        "summary": "Afghan national granted protection in the US is one of dozens of people deported to war-torn Central African Republic.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Nepal Flood Survivors Return to Devastated Towns",
-        "url": "https://www.nytimes.com/video/world/asia/100000011120032/nepal-flood-survivors-return-to-devastated-towns.html",
-        "source": "NYT World",
-        "published": "2026-08-30T02:55:01+00:00",
-        "summary": "Our correspondent Anupreeta Das visited Bidur, Nepal, days after floods devastated the region. Residents sifted through thick mud to salvage what remained of their homes.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia could make social media algorithms optional and follow UK ban on pornography depicting strangulation",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/30/australia-could-make-social-media-algorithms-optional-and-follow-uk-ban-on-pornography-depicting-strangulation",
-        "source": "The Guardian World",
-        "published": "2026-08-30T01:49:30+00:00",
-        "summary": "Social services minister says social media was playing a role in the increase of sexual violence among teenagersFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Australian government is considering allowing users to opt in or opt out of social media algorithms, and is looking at a recent UK ban on depictions of strangulation and s",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Bullet-riddled car on display in Berlin to remember Hind Rajab",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/bullet-riddled-car-on-display-in-berlin-to-remember-hind-rajab?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T01:43:52+00:00",
-        "summary": "A memorial display in Berlin has recreated the scene of the killing of six-year-old Palestinian girl Hind Rajab.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Isolated by raging floodwaters, Nepal’s miracle home amid the devastation",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/isolated-by-raging-floodwaters-nepals-miracle-home-amid-the-devastation?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-08-30T01:35:27+00:00",
-        "summary": "Footage shows a house surrounded by raging floodwaters at the Nepal-Tibet border, with people trapped on rooftops.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Families balance hope and despair in race to find survivors in Nepal as 41 Australians still missing",
-        "url": "https://www.theguardian.com/world/2026/aug/30/families-balance-hope-and-despair-in-race-to-find-survivors-in-nepal-as-australians-still-missing",
-        "source": "The Guardian World",
-        "published": "2026-08-30T00:27:59+00:00",
-        "summary": "The walls of a teaching hospital are filled with pictures of unidentified victims as authorities collect DNA samples and plan burials before morgues fill upFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSome of them are young, some old; most of them appear to be men. Some of them could be sleeping, except for the mud that covers the",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Canada installs large Lake Ontario sign in latest jab at US",
-        "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+        "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-08-30T00:17:25+00:00",
-        "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+        "published": "2026-08-31T03:25:36+00:00",
+        "summary": "Iran says the attack killed two people and injured two others, in the first known US strike on Iran since late July.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Mamdani lookalike contest draws hundreds of hopefuls in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/08-31-26-mamdani-nyc-lookalike-sv?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T03:11:56+00:00",
+        "summary": "Hundreds gathered for a Zohran Mamdani lookalike contest in New York, with nine contestants vying for votes.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Two Palestinians reported dead as Israeli forces raid Nablus",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T03:08:35+00:00",
+        "summary": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iran targets Jordan after first US attack in a month",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T03:06:56+00:00",
+        "summary": "The US has launched its first strikes on Iran in a month, hitting sites on Larak Island. Iran hit back targeting bases h",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+        "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
+        "source": "NYT World",
+        "published": "2026-08-31T02:47:34+00:00",
+        "summary": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Niger mutiny puts Russia’s expanding role in the Sahel to the test",
+        "url": "https://www.aljazeera.com/news/2026/8/31/niger-mutiny-puts-russias-expanding-role-in-the-sahel-to-the-test?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T02:15:35+00:00",
+        "summary": "Failed uprising in Niamey exposed tensions in Niger’s military, and the role of the Africa Corps in suppressing unrest.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Tunisia swelters as power cuts disrupt water supplies",
+        "url": "https://www.aljazeera.com/news/2026/8/31/tunisia-swelters-as-power-cuts-disrupt-water-supplies?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-08-31T02:11:35+00:00",
+        "summary": "Near 50C temperatures are driving record electricity demand, disrupting water supplies and straining health services.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
-        "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+        "title": "SolarWindow launches 0.85 mm-thick, self-adhesive solar film",
+        "url": "https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/",
         "source": "Hacker News Front",
-        "published": "2026-08-30T02:25:32+00:00",
-        "summary": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws\nComments URL: https://news.ycombinator.com/item?id=49495127\nPoints: 5\n# Comments: 1",
+        "published": "2026-08-31T02:50:00+00:00",
+        "summary": "Article URL: https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/\nComments URL: https://news.ycombinator.com/item?id=49505062\nPoints: 8\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "FreeCORE TrueNAS Core – Continued",
-        "url": "https://freecore.org/",
+        "title": "Flock Safety's controversial CEO just got a taste of his own medicine",
+        "url": "https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/",
         "source": "Hacker News Front",
-        "published": "2026-08-30T01:31:32+00:00",
-        "summary": "Article URL: https://freecore.org/\nComments URL: https://news.ycombinator.com/item?id=49494856\nPoints: 45\n# Comments: 19",
+        "published": "2026-08-31T02:44:30+00:00",
+        "summary": "Article URL: https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/\nComments URL: https://news.ycombinator.com/item?id=49505040\nPoints: 17\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-        "url": "https://github.com/mk6i/open-oscar-server",
+        "title": "Why do I lose my passion and want to do nothing?",
+        "url": "https://news.ycombinator.com/item?id=49505014",
         "source": "Hacker News Front",
-        "published": "2026-08-30T00:33:35+00:00",
-        "summary": "Article URL: https://github.com/mk6i/open-oscar-server\nComments URL: https://news.ycombinator.com/item?id=49494571\nPoints: 4\n# Comments: 2",
+        "published": "2026-08-31T02:40:37+00:00",
+        "summary": "When AI makes results readily available, why do I lose my passion and want to do nothing?\n\nComments URL: https://news.ycombinator.com/item?id=49505014\nPoints: 36\n# Comments: 18",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Bug Blindness",
-        "url": "https://danluu.com/bug-blind/",
-        "source": "Hacker News Front",
-        "published": "2026-08-30T00:21:40+00:00",
-        "summary": "Article URL: https://danluu.com/bug-blind/\nComments URL: https://news.ycombinator.com/item?id=49494520\nPoints: 97\n# Comments: 36",
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+        "source": "TechCrunch",
+        "published": "2026-08-31T02:34:00+00:00",
+        "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
-        "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+        "title": "CobaltC – The Successor to C?",
+        "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
         "source": "Hacker News Front",
-        "published": "2026-08-29T23:26:44+00:00",
-        "summary": "Article URL: https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms\nComments URL: https://news.ycombinator.com/item?id=49494231\nPoints: 131\n# Comments: 118",
+        "published": "2026-08-31T02:26:09+00:00",
+        "summary": "Article URL: https://strawberry9.github.io/the-wrong-memory/Appendix_06.html\nComments URL: https://news.ycombinator.com/item?id=49504922\nPoints: 6\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-        "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-        "source": "Hacker News Front",
-        "published": "2026-08-29T23:17:17+00:00",
-        "summary": "Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/\nComments URL: https://news.ycombinator.com/item?id=49494182\nPoints: 158\n# Comments: 65",
+        "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+        "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+        "source": "TechCrunch",
+        "published": "2026-08-31T02:18:57+00:00",
+        "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&#038;A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and long-distance matchmaking are turning Grindr into the \"gayborhood in your pocket\" he's been promising since 2022.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-        "url": "https://defrag98.com",
+        "title": "Understanding ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
         "source": "Hacker News Front",
-        "published": "2026-08-29T22:51:17+00:00",
-        "summary": "Article URL: https://defrag98.com\nComments URL: https://news.ycombinator.com/item?id=49494036\nPoints: 104\n# Comments: 58",
+        "published": "2026-08-31T01:28:22+00:00",
+        "summary": "Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\nComments URL: https://news.ycombinator.com/item?id=49504625\nPoints: 63\n# Comments: 23",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
-        "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
-        "source": "The Verge",
-        "published": "2026-08-29T20:59:26+00:00",
-        "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing [&#8230;]",
+        "title": "How to build a diffusion language model",
+        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+        "source": "Hacker News Front",
+        "published": "2026-08-30T23:41:32+00:00",
+        "summary": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\nComments URL: https://news.ycombinator.com/item?id=49503956\nPoints: 21\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,88 +186,44 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "허깅페이스의 399달러 로봇 오리, 하루 만에 주문액 260만달러",
-        "url": "https://platum.kr/archives/293563?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2597%2588%25ea%25b9%2585%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4%25ec%259d%2598-399%25eb%258b%25ac%25eb%259f%25ac-%25eb%25a1%259c%25eb%25b4%2587-%25ec%2598%25a4%25eb%25a6%25ac-%25ed%2595%2598%25eb%25a3%25a8-%25eb%25a7%258c%25ec%2597%2590-%25ec%25a3%25bc%25eb%25ac%25b8%25ec%2595%25a1-260%25eb%25a7%258c",
+        "title": "[플레이BN] 패키지 게임으로 완전해진 ‘드래곤 소드: 어웨이크닝’",
+        "url": "https://byline.network/2026/08/28-645/",
+        "source": "ByLine Network",
+        "published": "2026-08-30T13:59:15+00:00",
+        "summary": "하운드13이 개발한 ‘드래곤 소드’는 조금 특별한 길을 걸었습니다. 지난 1월 모바일·PC 부분 유료 게임으로 출시됐지만 퍼블리셔와 분쟁으로 불과 한 달 만에 사실상 서비스가 중단됐습니다. 이후 회사는 게임을 직접 되살리기로 결정했고 ‘드래곤 소드: 어웨이크닝’이라는 이름으로 스팀에 재출시했습니다. 패키지 게임으로 부활한 겁니다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "하정우, AI전략위 부위원장으로 복귀…AI미래기획수석에는 구글 출신 이해민",
+        "url": "https://byline.network/2026/08/30_1273773/",
+        "source": "ByLine Network",
+        "published": "2026-08-30T13:56:48+00:00",
+        "summary": "하정우 전 AI미래기획수석이 국가AI전략위원회 부위원장으로 이재명 정부 AI 컨트롤타워에 복귀한다. 그가 맡았던 AI미래기획수석 자리에는 구글 출신인 이해민 조국혁신당 의원이 기용된다. 핵심 인사의 선거 차출로 비었던 두 자리가 채워지면서, 그동안 지연됐던 AI 정책도 속도를 낼 것으로 보인다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "국산 AI에 5000만 사용자를 붙인다…한국 ‘전 국민 AI’ 실험이 겨냥한 것",
+        "url": "https://platum.kr/archives/293572?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b5%25ad%25ec%2582%25b0-ai%25ec%2597%2590-5000%25eb%25a7%258c-%25ec%2582%25ac%25ec%259a%25a9%25ec%259e%2590%25eb%25a5%25bc-%25eb%25b6%2599%25ec%259d%25b8%25eb%258b%25a4%25ed%2595%259c%25ea%25b5%25ad-%25ec%25a0%2584-%25ea%25b5%25ad%25eb%25af%25bc-ai-%25ec%258b%25a4%25ed%2597%2598%25ec%259d%25b4",
         "source": "Platum",
-        "published": "2026-08-28T20:20:51+00:00",
-        "summary": "걷고 공 차고 롤러스케이트까지…399달러 개발용 로봇, 한국에서도 주문 가능 허깅페이스가 내놓은 399달러짜리 이족보행 로봇 &#8216;마이크로덕(Microduck)&#8217;의 판매 시작 24시간 주문액이 260만달러를 넘었다. 마이크로덕은 허깅페이스 산하 폴렌로보틱스(Pollen Robotics)가 27일(현지시간) 예약 판매를 시작한 제품이다. 허깅페이스 공동창업자 토마스 울프는 28일 X에 첫 24시간 주문액이 260만달러를 넘었다고 적었다. 공개 6시간 뒤에는 100만달러를 넘겼다고 밝힌 바 있다. 가격 399달러로 나누면 6500대 ... 더 읽기",
+        "published": "2026-08-29T08:39:40+00:00",
+        "summary": "무료 챗봇 뒤엔 &#8216;국산 모델 80%&#8217;…공급에서 수요로 옮겨간 AI 정책 정부가 전 국민에게 무료 AI를 제공하면서 사업자에게 내건 조건은 국산 모델 비율이다. &#8216;모두의 AI&#8217; 참여 사업자는 서비스에 활용하는 AI 모델 가운데 독자 AI 파운데이션 모델 기준에 부합하는 국산 모델을 50% 이상 써야 한다. 여기에 더해 서비스 운영사가 아닌 다른 국내 기업의 모델도 30% 이상 활용해야 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: AI Tools And Assistants Lead Sparser Lineup Of Megadeals",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-tools-assistants-instinct/",
-        "source": "Crunchbase News",
-        "published": "2026-08-28T17:21:00+00:00",
-        "summary": "Most of this week’s largest funding recipients were AI-focused startups, with Instinct, a developer of AI assistants, pulling in the biggest round.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Are the Nordics really on fire?",
-        "url": "https://sifted.eu/articles/are-the-nordics-really-on-fire/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-08-28T15:31:08+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Sector Snapshot: Space Tech Startup Funding Orbits New Highs",
-        "url": "https://news.crunchbase.com/venture/record-breaking-space-tech-startup-funding-spcx/",
-        "source": "Crunchbase News",
-        "published": "2026-08-28T11:00:47+00:00",
-        "summary": "So far this year, a record $20.3 billion in global seed- through growth-stage funding has gone to companies in space- and satellite-related sectors, per Crunchbase data. That’s already by far the highest annual tally on record, and we’ve still got four months left in 2026.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Just three deals make up almost half of all VC funding in Germany this year",
-        "url": "https://sifted.eu/articles/three-deals-almost-half-vc-funding-germany/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-08-28T10:45:00+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "엔비디아, 허깅페이스 18조원 인수 합의…GPU 다음은 오픈모델 유통망",
-        "url": "https://platum.kr/archives/293559?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594%25ec%2595%2584-%25ed%2597%2588%25ea%25b9%2585%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4-18%25ec%25a1%25b0%25ec%259b%2590-%25ec%259d%25b8%25ec%2588%2598-%25ed%2595%25a9%25ec%259d%2598gpu-%25eb%258b%25a4%25ec%259d%258c%25ec%259d%2580-%25ec%2598%25a4",
+        "title": "오픈AI, 스페이스X가 600억달러에 인수한 커서에 모델 공급 중단…커서 “비중 5%”",
+        "url": "https://platum.kr/archives/293567?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588ai-%25eb%25a8%25b8%25ec%258a%25a4%25ed%2581%25ac%25ec%259d%2598-600%25ec%2596%25b5%25eb%258b%25ac%25eb%259f%25ac-%25ec%25bb%25a4%25ec%2584%259c%25ec%2597%2590-%25eb%25aa%25a8%25eb%258d%25b8-%25ea%25b3%25b5%25ea%25b8%2589-%25ec%25a4%2591%25eb%258b%25a8%25ec%25bb%25a4",
         "source": "Platum",
-        "published": "2026-08-28T10:28:49+00:00",
-        "summary": "2023년 기업가치의 약 3배, 연 매출의 80배 넘는 값. 폐쇄형 진영이 자체 칩을 설계하는 사이 엔비디아는 개방형 모델이 모이는 장소를 노린다 무슨 일이 있었나 엔비디아가 오픈소스 AI 플랫폼 허깅페이스(Hugging Face)를 129억달러(약 18조원)에 인수하기로 합의했다는 보도가 26일(현지시간) 나왔다. 소식통을 인용한 보도이며, 엔비디아와 허깅페이스 모두 공식 확인하지 않았다. 앞서 나온 다른 보도는 계약서 서명 전 단계이고 협상이 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "AI가 혼자 사고 내면 해킹일까…보험사들, 에이전트 시대 보험 약관 다시 쓴다",
-        "url": "https://platum.kr/archives/293556?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25ed%2598%25bc%25ec%259e%2590-%25ec%2582%25ac%25ea%25b3%25a0-%25eb%2582%25b4%25eb%25a9%25b4-%25ed%2595%25b4%25ed%2582%25b9%25ec%259d%25bc%25ea%25b9%258c%25eb%25b3%25b4%25ed%2597%2598%25ec%2582%25ac%25eb%2593%25a4-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ec%258b%259c",
-        "source": "Platum",
-        "published": "2026-08-28T10:04:48+00:00",
-        "summary": "사이버보험사들이 AI 에이전트를 새로운 위험 변수로 다루기 시작했다. 외부 침입자가 없어도 기업이 정상적으로 권한을 부여한 AI가 스스로 시스템을 건드려 손실을 낼 수 있다는 이유에서다. MSIG와 QBE, 영국 비즐리(Beazley) 등은 자율형 AI가 기업 시스템 안에서 맡는 역할이 커지자 기존 사이버보험 약관 문구와 인수심사 기준을 다시 보고 있다. 인수심사는 보험사가 계약을 받아들일지, 보험료를 얼마로 매길지를 정하는 절차다. ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "‘인가된 보안 테스트입니다’, 랜섬웨어 조직이 커서 AI 에이전트를 설득한 방법",
-        "url": "https://platum.kr/archives/293550?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b8%25ea%25b0%2580%25eb%2590%259c-%25eb%25b3%25b4%25ec%2595%2588-%25ed%2585%258c%25ec%258a%25a4%25ed%258a%25b8%25ec%259e%2585%25eb%258b%2588%25eb%258b%25a4-%25eb%259e%259c%25ec%2584%25ac%25ec%259b%25a8%25ec%2596%25b4-%25ec%25a1%25b0%25ec%25a7%2581%25ec%259d%25b4-%25ec%25bb%25a4%25ec%2584%259c-ai",
-        "source": "Platum",
-        "published": "2026-08-28T09:01:44+00:00",
-        "summary": "러시아어권 랜섬웨어 조직이 AI 코딩 도구 커서(Cursor)의 자동 실행 기능을 실제 기업 침입에 사용한 정황이 공개됐다. 이스라엘 보안기업 감빗시큐리티(Gambit Security)는 8월 27일 보고서에서 랜섬웨어 조직 오로라(Aurora·Aur0ra)의 운영자가 4월 8일부터 5월 21일까지 10개 조직을 상대로 커서의 &#8216;에이전트&#8217; 기능을 이용해 침입 작업을 수행했다고 밝혔다. 에이전트는 사용자가 목표를 주면 스스로 명령을 실행하고 그 결과를 읽어 다음 작업까지 이어가는 ... 더 읽기",
+        "published": "2026-08-29T05:52:13+00:00",
+        "summary": "스페이스X 인수로 지배권 변경 조항 발동…오픈AI &#8220;머스크 기업 계약 위반 이력 우려&#8221; 오픈AI가 일론 머스크의 스페이스X에 인수된 AI 코딩 도구 커서(Cursor)에 자사 모델 공급을 중단하기로 했다. 머스크가 이끄는 기업들의 과거 계약 위반 사례를 고려하면 스페이스X가 오픈AI 기술을 서비스 약관에 맞게 사용할 것이라고 확신하기 어렵다는 이유다. 커서 측은 오픈AI 모델이 전체 사용자 트래픽에서 차지하는 비중이 약 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,15 +232,60 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Chamath: “This could be the beginning of a death spiral.”",
-        "url": "https://www.youtube.com/shorts/WkTC8Hn60Gs",
+        "title": "Jason Calacanis: “Elon's Optimus will be the best-selling product of all time.”",
+        "url": "https://www.youtube.com/shorts/Fg24nRvNoS4",
         "source": "All-In Podcast",
-        "published": "2026-08-29T19:00:03+00:00",
+        "published": "2026-08-30T19:00:15+00:00",
         "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i4.ytimg.com/vi/WkTC8Hn60Gs/hqdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/Fg24nRvNoS4/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "WkTC8Hn60Gs",
+          "videoId": "Fg24nRvNoS4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "$1,100,000,000. The Machine Age Fund | a16z",
+        "url": "https://www.youtube.com/watch?v=1bmsSH9dmgQ",
+        "source": "a16z",
+        "published": "2026-08-30T18:25:45+00:00",
+        "summary": "At Andreessen Horowitz, we just raised $1.1 billion for the Machine Age Fund to back the founders building the technologies, companies, and infrastructure defining this new era. The Machine Age is here.\n\nThis is an a16z Original, produced by the New Media team for the 2026 fundraise.",
+        "thumbnail": "https://i2.ytimg.com/vi/1bmsSH9dmgQ/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "1bmsSH9dmgQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "David Friedberg: Government Spending Ruins Everything it Touches",
+        "url": "https://www.youtube.com/shorts/m-HbN9IHF-A",
+        "source": "All-In Podcast",
+        "published": "2026-08-30T15:30:05+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+        "thumbnail": "https://i2.ytimg.com/vi/m-HbN9IHF-A/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "m-HbN9IHF-A",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Australia Is Becoming a Major Pacific Power",
+        "url": "https://www.youtube.com/watch?v=WalOeYktCZ0",
+        "source": "TLDR News Global",
+        "published": "2026-08-30T09:00:34+00:00",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nPre-order a copy of Too Long: https://toolong.news/TL009\n\nWhen it comes to the Pacific, China isn't the only regional power, with Australia seeking to counter their influence and building a network of alliances. In this",
+        "thumbnail": "https://i4.ytimg.com/vi/WalOeYktCZ0/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "WalOeYktCZ0",
           "via": "rss"
         }
       },
@@ -300,21 +301,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "yWgHx0HE8m8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Sacks: China’s Biggest AI Advantage Over America Is Optimism",
-        "url": "https://www.youtube.com/shorts/heZBlRiD_sM",
-        "source": "All-In Podcast",
-        "published": "2026-08-29T15:00:38+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i1.ytimg.com/vi/heZBlRiD_sM/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "heZBlRiD_sM",
           "via": "rss"
         }
       },
@@ -390,36 +376,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "Zx1Ec8LWFeM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Is the Taliban's Grip on Afghanistan Slipping?",
-        "url": "https://www.youtube.com/watch?v=uPhpBVg_Oh8",
-        "source": "TLDR News Global",
-        "published": "2026-08-28T08:30:27+00:00",
-        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nPre-order a copy of Too Long: https://toolong.news/TL009\n\nIn this video, we’re going to take a look at what’s happening in Afghanistan; and whether it presents a genuine challenge to Taliban rule.\n\n📰 Too Long: https://t",
-        "thumbnail": "https://i2.ytimg.com/vi/uPhpBVg_Oh8/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "uPhpBVg_Oh8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "주식 보조지표 실제로는 왜 안맞아요?",
-        "url": "https://www.youtube.com/shorts/LbSGA-UyqOs",
-        "source": "슈카월드",
-        "published": "2026-08-28T04:20:43+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i1.ytimg.com/vi/LbSGA-UyqOs/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "LbSGA-UyqOs",
           "via": "rss"
         }
       }
