@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-02T02:53:32.935514+00:00",
+  "generated_at": "2026-09-03T02:57:26.326288+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: economy grows by 2.1% in year to June; Telstra outage driven by lack of oversight and expertise, investigation finds",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-09-02T02:39:18+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastRide share driver charged on allegations of committing sexual acts during bookingA ride share driver will face court in Sydney today over multiple allegations of sexual acts, including one allegedly committed in the city’s CBD last weekend.They’re sick and tired of the feminisation of our curriculum and the lack o",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
-        "url": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-02T02:20:45+00:00",
-        "summary": "The Republican House speaker defends the US-Israel war on Iran and praises Trump&#039;s &#039;steady hands at the wheel&#039;.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+        "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-09-02T01:59:54+00:00",
-        "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+        "published": "2026-09-03T02:46:10+00:00",
+        "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Relief as five Australians missing in Nepal-Tibet flood disaster found alive",
-        "url": "https://www.theguardian.com/world/2026/sep/01/missing-australian-found-alive-nepal-tibet-floods",
+        "title": "News live: Vanuatu minister condemns Australia ‘not doing enough’ on climate crisis; Marles and Hegseth talk weapons in US",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-02T01:59:06+00:00",
-        "summary": "Several missing Australians have been found since Tuesday morning, bringing the total citizens unaccounted for to 38Australians missing in the Nepal floods: what we know so farA total of five Australians missing after devastating floods ravaged the Nepal-Tibet border last week have been found.Of the five Australians confirmed safe, one was found in Nepal, one in Tibet, and three outside the crisis",
+        "published": "2026-09-03T02:40:15+00:00",
+        "summary": "Meanwhile investors fret that soaring oil prices will reignite inflationary pressures. Follow the day’s news live.Get our breaking news email, free app or daily news podcastShadow treasurer says tobacco plans would bring in extra billions and stop people buying from the ‘black market’Tim Wilson, the shadow treasurer, said the tobacco proposal would bring in an extra $2bn a year as it would stop pe",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
-        "url": "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html",
-        "source": "NYT World",
-        "published": "2026-09-02T01:53:53+00:00",
-        "summary": "The Russian president promised continued retaliation against the Ukrainians and “full solidarity” with Iran.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Germany blames Russia for drone attack at Leipzig airport",
-        "url": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+        "title": "Australia’s new environmental protection agency approves coal project, angering climate groups",
+        "url": "https://www.theguardian.com/environment/2026/sep/03/saraji-qld-bhp-bma-coal-project-approved-2055-angering-climate-groups",
         "source": "The Guardian World",
-        "published": "2026-09-02T01:45:56+00:00",
-        "summary": "Government says ‘dangerous behaviour’ is part of effort by Moscow to cause damage with hybrid attacksThe German government has blamed Russia for the drone attack on Leipzig airport last month, calling it “dangerous behaviour” and part of a systematic and concerted effort by Moscow to “cause great damage” through a large number of hybrid attacks.The interior minister, Alexander Dobrindt, and the fo",
+        "published": "2026-09-03T02:23:37+00:00",
+        "summary": "Queensland open-cut Saraji mine will be able to keep digging until 2055 as Anthony Albanese denies tensions with Pacific leaders over fossil fuelsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s new national agency for environmental protection has approved its first coal project, allowing a Queensland open-cut mine to keep",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Honduran Court Clears Ex-President Juan Orlando Hernández",
-        "url": "https://www.nytimes.com/2026/09/01/world/americas/honduran-court-clears-former-president-pardoned-by-trump.html",
-        "source": "NYT World",
-        "published": "2026-09-02T01:40:39+00:00",
-        "summary": "President Trump’s decision set Juan Orlando Hernández free in December. On Tuesday, a court dismissed money laundering and fraud charges against him, effectively making him a free man.",
+        "title": "Molly Ticehurst’s father tells DV murderer he hopes daughter’s screams will haunt him forever",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/03/molly-ticehurst-father-tells-killer-daniel-billings-hopes-daughter-screams-haunt-him-forever-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-09-03T02:06:32+00:00",
+        "summary": "Tony Ticehurst confronts Daniel Billings during sentence hearing in regional NSW, stating: ‘When she died, part of me died with her’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe family of Molly Ticehurst, who was murdered by her abusive ex-boyfriend Daniel Billings in her home in central western New South Wales in 2024, has com",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "What to know about Germany’s drone attack accusations against Russia",
-        "url": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia?traffic_source=rss",
+        "title": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-09-02T01:40:01+00:00",
-        "summary": "German intelligence has concluded that an explosive-laden drone was linked to Russia. Officials promise consequences.",
+        "published": "2026-09-03T01:53:40+00:00",
+        "summary": "Al Jazeera’s Jessica Washington gets exclusive access to rescue crews in Rasuwa, Nepal, digging and blasting.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+        "url": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-03T01:45:32+00:00",
+        "summary": "Trump says US can hit Iran &#039;anytime we want&#039; as Tehran says deadly strikes, including on wedding party, a war crime.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
+        "url": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-03T01:22:21+00:00",
+        "summary": "Former Venezuelan leader was abducted by US forces during a military attack on Caracas in January.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Inside the Fight Against a Flesh-Eating Fly in Mexico",
+        "url": "https://www.nytimes.com/2026/09/02/world/americas/screwworm-facility-mexico.html",
+        "source": "NYT World",
+        "published": "2026-09-03T01:14:05+00:00",
+        "summary": "For the first time in a year, the U.S.-Mexico border partly reopened to cattle imports following a screwworm infestation across the region. The battle against the flesh-eating fly has only just begun deep in Mexico.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Larry Page’s flying car company Pivotal loses its CEO",
-        "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
-        "source": "TechCrunch",
-        "published": "2026-09-01T23:59:59+00:00",
-        "summary": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The efficient frontier of LLM inference",
-        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-        "source": "Hacker News Front",
-        "published": "2026-09-01T23:48:05+00:00",
-        "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49529898\nPoints: 49\n# Comments: 7",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-        "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-        "source": "Hacker News Front",
-        "published": "2026-09-01T23:17:43+00:00",
-        "summary": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\nComments URL: https://news.ycombinator.com/item?id=49529621\nPoints: 10\n# Comments: 0",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Improving our alignment and security efforts",
-        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-        "source": "Hacker News Front",
-        "published": "2026-09-01T23:12:45+00:00",
-        "summary": "Article URL: https://www.anthropic.com/news/improving-alignment-security-efforts\nComments URL: https://news.ycombinator.com/item?id=49529567\nPoints: 18\n# Comments: 9",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-        "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-        "source": "Ars Technica",
-        "published": "2026-09-01T23:01:52+00:00",
-        "summary": "333 miles of real-world range with uncompromised comfort and off-road ability.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The Range Rover Electric: Specs, Price, Availability",
-        "url": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
+        "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
         "source": "Wired",
-        "published": "2026-09-01T23:01:00+00:00",
-        "summary": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model.",
+        "published": "2026-09-03T01:32:02+00:00",
+        "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
-        "url": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
         "source": "TechCrunch",
-        "published": "2026-09-01T23:00:00+00:00",
-        "summary": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+        "published": "2026-09-02T23:01:00+00:00",
+        "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Google needs Hollywood more than the studios need AI",
-        "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+        "title": "Uber beats Waymo as first to launch robotaxis in London",
+        "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
         "source": "The Verge",
-        "published": "2026-09-01T22:50:29+00:00",
-        "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+        "published": "2026-09-02T23:00:00+00:00",
+        "summary": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "source": "TechCrunch",
+        "published": "2026-09-02T22:44:56+00:00",
+        "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+        "url": "https://news.ycombinator.com/item?id=49543530",
+        "source": "Hacker News Front",
+        "published": "2026-09-02T22:36:04+00:00",
+        "summary": "Hi HN,I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, compounding, manufacturing, and delivery. We are starting with GLP-1s and peptides.The path to RonanRx is fairly unconventional. During the pandemic, I built one of the largest mask manufacturing factories in the US. We co",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "source": "TechCrunch",
+        "published": "2026-09-02T22:24:09+00:00",
+        "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are",
+        "url": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/",
+        "source": "Wired",
+        "published": "2026-09-02T22:23:26+00:00",
+        "summary": "Amazon just hiked prices on Kindles, Echo speakers, Eero routers, and Fire TV devices ahead of the holiday shopping season.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Reasons robotics is hard",
+        "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+        "source": "Hacker News Front",
+        "published": "2026-09-02T22:02:30+00:00",
+        "summary": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard\nComments URL: https://news.ycombinator.com/item?id=49543191\nPoints: 47\n# Comments: 13",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,168 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "아르고스다인, K-드론이 ‘유럽 시장’으로 간 이유는?",
-        "url": "https://byline.network/2026/09/3327482749/",
+        "title": "네이버클라우드, LG와 공격·방어 특화 AI 투트랙 개발",
+        "url": "https://byline.network/2026/09/3-449/",
         "source": "ByLine Network",
-        "published": "2026-09-02T01:24:18+00:00",
-        "summary": "유럽에서는 드론이 다양한 용도로 활용되고 있다. 옛 귀족들이 살았던 성이나 대저택을 관리하기 위해 날아다니는 드론도 있다. 드론은 광활한 부지와 건축물을 순찰·관리하거나 부동산 판매용 사진을 촬영하는 기본 업무뿐만 아니라 지붕 청소처럼 사람이 하기에 위험한 일에도 투입되고 있다.",
+        "published": "2026-09-03T02:45:41+00:00",
+        "summary": "네이버클라우드 컨소시엄이 정부의 ‘사이버 보안 특화 인공지능(AI) 파운데이션 모델 개발’ 사업 수행기관으로 선정됐다. 네이버의 ‘하이퍼클로바X’와 LG AI연구원의 ‘엑사원’을 기반으로 공격과 방어에 각각 특화한 보안 AI 모델 2개를 개발한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "IBM “AI, 이제 업무 도구 아닌 기업 운영체제”",
-        "url": "https://byline.network/2026/09/0901-10/",
+        "title": "보안 특파모, 네이버클라우드 컨소시엄 선정",
+        "url": "https://byline.network/2026/09/3-444/",
         "source": "ByLine Network",
-        "published": "2026-09-02T00:47:11+00:00",
-        "summary": "한국IBM이 AI를 단순 업무 자동화 도구를 넘어 기업 핵심 운영체제로 통합해야 한다고 강조했다. KB증권·SK텔레콤·삼성생명 등은 AI 전환 과정에서 데이터 품질, 레거시 시스템 연동, 보안·거버넌스 등 현실적인 과제를 공유했으며, IBM은 에이전틱 AI 확산과 함께 하이브리드 클라우드와 양자컴퓨팅 등 차세대 기술 활용도 기업 경쟁력의 핵심으로 제시했다.",
+        "published": "2026-09-03T00:20:51+00:00",
+        "summary": "정부가 추진하는 ‘보안 특파모’ 사업에서 2개 컨소시엄이 맞붙은 끝에 네이버클라우드 컨소시엄이 최종 사업자로 선정됐다. 과학기술정보통신부(이하 과기정통부)는 3일 ‘사이버 보안 특화 인공지능(AI) 파운데이션 모델(보안 특파모) 개발’ 사업 수행기관으로 네이버클라우드 컨소시엄을 선정했다고 밝혔다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "몸값 4분의 1 된 쉬인",
-        "url": "https://byline.network/2026/09/01_shein/",
-        "source": "ByLine Network",
-        "published": "2026-09-01T22:35:42+00:00",
-        "summary": "중국 온라인 패션 플랫폼 쉬인(SHEIN)이 원래 기대하던 기업가치 4분의 1 수준으로 홍콩 증권시장에 상장했다. 관세·규제·경쟁 심화가 겹치며 몸값이 크게 깎였다. 이에 따라 2022년 예상했던 기업가치 1000억달러(한화 약 140조원)에 한참 못 미치는 기업가치로 데뷔했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "WhatsApp Remittance Startup Félix Secures $200M Series C Led By A16z, General Catalyst",
-        "url": "https://news.crunchbase.com/venture/fintech-whatsapp-remittance-startup-felix-raises-200m-a16z-general-catalyst/",
-        "source": "Crunchbase News",
-        "published": "2026-09-01T17:21:50+00:00",
-        "summary": "Félix, a Miami-based AI-powered WhatsApp remittance platform for Latino immigrants, announced on Tuesday that it has secured $200 million in Series C funding co-led by Andreessen Horowitz and General Catalyst.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "AI 시대 고성능 조건은 ‘냉각’…레노버가 내놓은 해법은",
-        "url": "https://byline.network/2026/09/1-1470/",
-        "source": "ByLine Network",
-        "published": "2026-09-01T12:54:53+00:00",
-        "summary": "“인공지능(AI) 시대의 핵심 과제는 단순히 연산 성능만 높인 게 아니다. 높은 성능을 지속적이고 안정적으로 유지하기 위해 전력과 발열을 어떻게 관리하느냐가 더욱 중요해지고 있다.” 이형우 한국레노버 상무는 1일 서울 용산구 몬드리안 서울 이태원에서 열린 ‘씽크스테이션 P4 출시 미디어 쇼케이스’에서 이같이 말했다. AI 시대가 본격 시작되면서 많은 연산이 필요한 작업이 늘어났다. 이에 레노버는 워크스테이션 역시 발열을 제어하는 일이 중요해졌다고 판단했다. 성능 향상에 맞춰 쿨링 시스템이 뒷받침해야 한다는 것이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "“AI-레디 상품 데이터, 공공 인프라로 만들자”",
-        "url": "https://byline.network/2026/09/28817334/",
-        "source": "ByLine Network",
-        "published": "2026-09-01T12:42:16+00:00",
-        "summary": "온라인 쇼핑 환경이 소비자의 직접 검색·비교에서 AI가 직접 상품 후보를 찾고 구매까지 연결하는 'AI 쇼핑'으로 변화하고 있다. 이에 따라 기업들 또한 AI가 상품 정보를 읽을 수 있도록 상품 데이터 품질을 고도화해야 한다는 제안이 나왔다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "지문 등록도 단말기도 없이… 근태관리 앱 ‘체크리’ 오픈베타",
-        "url": "https://platum.kr/archives/293788?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2580%25eb%25ac%25b8-%25eb%2593%25b1%25eb%25a1%259d%25eb%258f%2584-%25eb%258b%25a8%25eb%25a7%2590%25ea%25b8%25b0%25eb%258f%2584-%25ec%2597%2586%25ec%259d%25b4-%25ea%25b7%25bc%25ed%2583%259c%25ea%25b4%2580%25eb%25a6%25ac-%25ec%2595%25b1-%25ec%25b2%25b4%25ed%2581%25ac%25eb%25a6%25ac-%25ec%2598%25a4",
+        "title": "이파피루스, 파이썬 PDF 라이브러리 ‘PyMuPDF’ 누적 다운로드 10억 건 돌파",
+        "url": "https://platum.kr/archives/293873?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b4%25ed%258c%258c%25ed%2594%25bc%25eb%25a3%25a8%25ec%258a%25a4-%25ed%258c%258c%25ec%259d%25b4%25ec%258d%25ac-pdf-%25eb%259d%25bc%25ec%259d%25b4%25eb%25b8%258c%25eb%259f%25ac%25eb%25a6%25ac-pymupdf-%25eb%2588%2584%25ec%25a0%2581-%25eb%258b%25a4%25ec%259a%25b4%25eb%25a1%259c%25eb%2593%259c-10",
         "source": "Platum",
-        "published": "2026-09-01T11:27:57+00:00",
-        "summary": "지문이나 얼굴 정보를 모으지 않고 근무지마다 전용 단말기를 두지도 않는 근태관리 서비스가 나왔다. 제이원랩은 위치 기반 근태관리 앱 &#8216;체크리(Check-ly)&#8217;의 오픈베타를 시작했다고 밝혔다. 구글 플레이스토어와 애플 앱스토어에서 내려받을 수 있으며 웹 관리자 도구가 함께 제공된다. 출퇴근은 이용자가 버튼을 길게 누르거나 화면을 아래로 당겨 직접 기록한다. 자동 감지로 의도하지 않은 기록이 남는 것을 막고, 근로자가 자기 기록을 ... 더 읽기",
+        "published": "2026-09-02T23:27:27+00:00",
+        "summary": "이파피루스는 파이썬 PDF 처리 라이브러리 &#8216;PyMuPDF&#8217;의 글로벌 누적 다운로드가 10억 건을 넘었다고 3일 밝혔다. 출시 10주년에 맞춰 나온 기록이다. PyMuPDF는 파이썬 환경에서 PDF를 렌더링하고 텍스트와 이미지를 추출·변환·편집하는 라이브러리다. 처리 속도가 빠르고 엔진이 가벼워 문서 데이터 처리 도구로 쓰여 왔다. 이번 기록에서 눈에 띄는 대목은 시점이다. 전체 누적 다운로드의 83%가 최근 12개월 사이에 발생했다는 것이 회사 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Sector Snapshot: Proptech Funding Holds Up, But Investors Are Placing Different Bets",
-        "url": "https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/",
+        "title": "Nvidia backs Spanish spinout IPronics in $125m Series B",
+        "url": "https://sifted.eu/articles/nvidia-backs-spanish-spinout-ipronics-in-125m-series-b/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-02T17:37:27+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation",
+        "url": "https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/",
         "source": "Crunchbase News",
-        "published": "2026-09-01T11:00:51+00:00",
-        "summary": "Real estate tech startup investors are being more selective about their bets and putting more money into companies using AI and other technology to make construction, property operations and real estate transactions faster and less expensive.",
+        "published": "2026-09-02T17:34:29+00:00",
+        "summary": "Lyte, a physical AI startup building sensing and perception technology for robots, has raised a Maverick Silicon-led $165 million Series C funding at a $1.6 billion post-money valuation.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Exclusive: Samsung, Nvidia, ASML and Scaleup Fund back Mistral in €3bn fundraise",
+        "url": "https://sifted.eu/articles/mistral-series-d-samsung-nvidia-asml/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-02T15:00:33+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[금융권 스타트업 협업⑤] 고이, 금융권과 손잡고 고객 접점 넓힌다",
+        "url": "https://byline.network/2026/09/0902-10/",
+        "source": "ByLine Network",
+        "published": "2026-09-02T13:51:03+00:00",
+        "summary": "2021년 설립된 고이장례연구소는 원스톱 장례 서비스 ‘고이’를 운영하고 있다. 서비스 출시 1년 만에 유료 가입자 10만명을 돌파하며 상조업계 15위권에 진입했다. 장례 시장은 사망 전과 이후로 나뉜다. 사망 전에는 상조 서비스를 이용하고, 사망 이후에는 실제 장례 절차가 진행된다. 고이는 이 가운데 사망 이후 장례 시장을 주요 사업 영역으로 삼고 있으며, 현재 점유율은 1%가 조금 넘는다. 고이는 고객 확보 채널을 넓히기 위해 금융권과 협업을 확대하고 있다. 지난해에는 OK저축은행과 ‘OK이자도받는상조적금’을 공동 설계했다. 상조 연계 적금 가입자가 고이를 포함한 3개 상조사 가운데 원하는 기업을 선택할 수 있는 개방형 상품이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "AI 국가 경쟁력 확보하려면 “네트워크 고도화에 정부 지원 필요”",
+        "url": "https://byline.network/2026/09/0902-9/",
+        "source": "ByLine Network",
+        "published": "2026-09-02T11:19:23+00:00",
+        "summary": "대한민국이 글로벌 인공지능(AI) 경쟁에 앞서기 위해서는 통신망과 데이터센터 등 핵심 AI 인프라에 대한 투자를 늘릴 수 있는 정부 차원의 지원책이 필요하다는 산업계 진단이 제기됐다. 수익성 정체에 직면한 통신업계가 AI 인프라에 투자에 나설 수 있도록 세액공제나 주파수 비용 부담 완화 등 실질적인 인센티브를 마련해야 한다는 입장이다.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Inside Moderna’s Biggest mRNA Test Since COVID",
+        "url": "https://www.youtube.com/watch?v=yTNMEYeCgWw",
+        "source": "a16z",
+        "published": "2026-09-02T14:30:26Z",
+        "summary": "a16z General Partner Jorge Conde sits down with Moderna CEO Stéphane Bancel to discuss a major milestone for mRNA ...",
+        "thumbnail": "https://i.ytimg.com/vi/yTNMEYeCgWw/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "yTNMEYeCgWw",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "유튜브 알고리즘의 노예가 되어가는 과정",
+        "url": "https://www.youtube.com/shorts/Fj1dHmEN5vI",
+        "source": "슈카월드",
+        "published": "2026-09-02T12:40:04+00:00",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i3.ytimg.com/vi/Fj1dHmEN5vI/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "Fj1dHmEN5vI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "대대적인 위생 단속을 실시한 인도 근황",
+        "url": "https://www.youtube.com/watch?v=cp7_u68GYLA",
+        "source": "슈카월드",
+        "published": "2026-09-02T11:50:42+00:00",
+        "summary": "0:00 대대적인 식품 위생 단속을 하는 인도\n12:44 인도 국민들 \"모디 대통령은 그동안 뭐했나?\"\n14:51 인도 정부가 강력 추진하는 소고기 탄압",
+        "thumbnail": "https://i4.ytimg.com/vi/cp7_u68GYLA/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "cp7_u68GYLA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why OPEC’s Collapse Looks Increasingly Inevitable",
+        "url": "https://www.youtube.com/watch?v=6_YhhCs9FUw",
+        "source": "TLDR News Global",
+        "published": "2026-09-02T09:30:17+00:00",
+        "summary": "Take back your privacy- start using Proton Mail for free: http://proton.me/tldr\n\nPre-order a copy of Too Long: https://toolong.news/TL009\n\nIn this video, we’re going to dive into four reasons that we believe could possibly bring about the slow death of OPEC.\n\n📰 Too Long: https://toolong.news/\n🎉 TLDR",
+        "thumbnail": "https://i3.ytimg.com/vi/6_YhhCs9FUw/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "6_YhhCs9FUw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "쓰지 않는 에이전트는 ‘굶겨서 내보낸다’는 IBM 사례 (김덕중 퍼브 AI연구소장)",
+        "url": "https://www.youtube.com/watch?v=Y2_326EUR74",
+        "source": "티타임즈TV",
+        "published": "2026-09-02T09:00:22Z",
+        "summary": "이제 AI 에이전트는 인간 직원과 함께 일하는 '디지털 워커'로 조직에 들어오고 있습니다. 가장 앞서 도입한 사례가 IBM입니다. IBM은 ...",
+        "thumbnail": "https://i.ytimg.com/vi/Y2_326EUR74/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "Y2_326EUR74",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -336,21 +411,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "미국 재무장관의 명언",
-        "url": "https://www.youtube.com/watch?v=tBmOG0of1q8",
-        "source": "슈카월드",
-        "published": "2026-09-01T13:53:06Z",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i.ytimg.com/vi/tBmOG0of1q8/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "tBmOG0of1q8",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "AI에이전트도 면접보고 채용하고 은퇴시켜야 한다 (김덕중 퍼브 AI연구소장)",
         "url": "https://www.youtube.com/watch?v=ckQnPKqe35M",
         "source": "티타임즈TV",
@@ -360,66 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "ckQnPKqe35M",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "트럼프가 관세 50%를 부과하자, 캐나다가 보인 반응",
-        "url": "https://www.youtube.com/watch?v=XXpW-QNHcCk",
-        "source": "슈카월드",
-        "published": "2026-09-01T08:13:03Z",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i.ytimg.com/vi/XXpW-QNHcCk/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "XXpW-QNHcCk",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Eric Weinstein's Theory on Aliens: Nukes May Have Alerted Something Else to Our Existence",
-        "url": "https://www.youtube.com/shorts/GkjviiG0Lt0",
-        "source": "All-In Podcast",
-        "published": "2026-08-31T22:30:29+00:00",
-        "summary": "Thanks to our partners for making this possible!\n\nAs wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. https://ad.doubleclick.net/ddm/trackclk/N2598215.35651",
-        "thumbnail": "https://i4.ytimg.com/vi/GkjviiG0Lt0/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "GkjviiG0Lt0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What If You Create Life In A Lab?",
-        "url": "https://www.youtube.com/shorts/rVdQMcTTQCY",
-        "source": "Cleo Abram",
-        "published": "2026-08-31T14:42:14+00:00",
-        "summary": "Did scientists “create life” in a lab?\n\nThe most common approach is called a “top down” method, where scientists take an already living cell and edit the DNA to strip it down to the bare minimum needed and then to place that DNA into a host cell. \n\nThis is groundbreaking, but it still requires a liv",
-        "thumbnail": "https://i3.ytimg.com/vi/rVdQMcTTQCY/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "rVdQMcTTQCY",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why AI Demand Is Outrunning Compute Supply",
-        "url": "https://www.youtube.com/watch?v=FGC4ofTcg2k",
-        "source": "a16z",
-        "published": "2026-08-31T14:01:07Z",
-        "summary": "a16z's David George sits down with Gavin Baker to unpack the state of the AI boom, why demand for intelligence may still be ...",
-        "thumbnail": "https://i.ytimg.com/vi/FGC4ofTcg2k/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "FGC4ofTcg2k",
           "via": "api"
         }
       }
