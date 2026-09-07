@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-06T02:57:01.912622+00:00",
+  "generated_at": "2026-09-07T02:54:48.869445+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-        "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+        "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
+        "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
         "source": "NYT World",
-        "published": "2026-09-06T02:49:50+00:00",
-        "summary": "President Vladimir V. Putin ordered a pause in strikes on Ukraine’s capital, Kyiv, ahead of the meeting with President Trump’s envoys: his son-in-law Jared Kushner and the businessman Steve Witkoff.",
+        "published": "2026-09-07T02:48:57+00:00",
+        "summary": "As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Labor say Coalition plan to criminalise flag burning flag has ‘element of desperation, trying to chase One Nation’",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
+        "title": "Far-right AfD wins key German state election but falls just short of majority",
+        "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
         "source": "The Guardian World",
-        "published": "2026-09-06T02:43:20+00:00",
-        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastDuniam targets ‘frivolous’ asylum seeker claimsThe opposition is “very close” to “having a full migration package”, Duniam says. He says they’re willing to work with the government and that illegal overstayers must be deported.We spend more per student per year than we ever have before and we’ve got declining standa",
+        "published": "2026-09-07T02:42:09+00:00",
+        "summary": "Alternative für Deutschland surges to victory in Saxony-Anhalt as Friedrich Merz’s CDU slumps to disastrous resultThe populist, far-right, anti-immigration Alternative für Deutschland (AfD) has surged to a resounding victory in a crucial state election in Germany, but fell just short of winning a majority in its quest to form the country’s first far-right state government since the second world wa",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-09-06T02:24:16+00:00",
-        "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump envoys and Putin discussed ‘next steps’ for ending Ukraine war, White House says",
-        "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-        "source": "The Guardian World",
-        "published": "2026-09-06T02:21:03+00:00",
-        "summary": "‘Substantive plans’ will be announced in ‘coming weeks’ as envoys head to Kyiv for talks with Ukraine’s president, Volodymyr ZelenskyyDonald Trump’s envoys “discussed substantive plans for next steps” for ending the war between Ukraine and Russia during their meeting on Saturday in Moscow with Vladimir Putin, the White House said.Those steps would be announced in “coming weeks”, a White House offi",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-        "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-09-06T01:54:29+00:00",
-        "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss",
+        "title": "Iran to announce restricted zone outside Strait of Hormuz",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-09-06T01:38:52+00:00",
-        "summary": "A 21-year-old student in India’s Madhya Pradesh has single-handedly cleaned up a trash-filled river.",
+        "published": "2026-09-07T02:41:56+00:00",
+        "summary": "Iran&#039;s security chief Mohsen Rezaei says Tehran will announce a restricted zone around the Strait of Hormuz.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Labor plans crackdown on social media algorithms as Taylor says he’s ‘deeply sceptical’",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/06/labor-plans-crackdown-on-social-media-algorithms-as-taylor-says-hes-deeply-sceptical",
+        "title": "Australia politics live: Hume claims Labor’s algorithm bill gives it too much power; embattled developer Bathla stands down 200 workers",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-06T01:32:38+00:00",
-        "summary": "Anika Wells expected to release legislation creating a digital duty of care in parliament this week, but Coalition argues it is ‘attempt to censor the internet’Follow our Australia news live blog for latest updatesSign up for Guardian Australia’s Politics, really newsletter hereLabor’s plan to crack down on social media algorithms faces significant opposition in federal parliament, with the opposi",
+        "published": "2026-09-07T02:41:47+00:00",
+        "summary": "Follow the day’s news liveOne Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a current cash boost.Pauline Hanson says under their plan anyone paying rent or a mortgage can take up to a quarter of their super as a “pay boost” for up to three years. Continue reading...",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "U.S. Military Sinks Boats Said to Aid Drug Smuggling Near Ecuador",
-        "url": "https://www.nytimes.com/2026/09/05/us/politics/us-military-sinks-boats-near-ecuador.html",
-        "source": "NYT World",
-        "published": "2026-09-06T01:25:17+00:00",
-        "summary": "Unlike dozens of similar strikes, no one was killed after people suspected of drug smuggling were removed from what the U.S. military described as a floating refueling station.",
+        "title": "Australia’s proposed ‘opt out’ law targets Big Tech algorithms",
+        "url": "https://www.aljazeera.com/news/2026/9/7/australias-proposed-opt-out-law-targets-big-tech-algorithms?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-07T02:35:14+00:00",
+        "summary": "Social media platforms face scrutiny over addictive algorithms; new law aims to give Australians greater feed control.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Eight-year-old Gaza girl killed by Israel on first day of school",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/eight-year-old-gaza-girl-killed-by-israel-on-first-day-of-school?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-07T02:17:17+00:00",
+        "summary": "An eight-year-old girl and her father were killed when an Israeli strike hit their vehicle on her first day of school.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Adidas faces boycott over amputee campaign featuring Israeli soldier",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/adidas-faces-boycott-over-amputee-campaign-featuring-israeli-soldier?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-07T02:12:35+00:00",
+        "summary": "Adidas is facing calls for a boycott after featuring a former Israeli soldier in a campaign for amputees.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Jamaica to file slavery reparations petition during UK visit",
+        "url": "https://www.aljazeera.com/news/2026/9/7/jamaica-to-file-slavery-reparations-petition-during-uk-visit?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-07T01:34:57+00:00",
+        "summary": "Petition to King Charles questions the legality of slavery under English law and UK’s responsibility for reparations.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "GPT-6 Astra on robot arms",
-        "url": "https://openai.robocurve.org/gpt-6-astra/",
+        "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "url": "https://github.com/Staatsgeheim/MathKernel",
         "source": "Hacker News Front",
-        "published": "2026-09-06T01:52:45+00:00",
-        "summary": "Article URL: https://openai.robocurve.org/gpt-6-astra/\nComments URL: https://news.ycombinator.com/item?id=49582582\nPoints: 17\n# Comments: 2",
+        "published": "2026-09-07T00:21:01+00:00",
+        "summary": "Article URL: https://github.com/Staatsgeheim/MathKernel\nComments URL: https://news.ycombinator.com/item?id=49592366\nPoints: 9\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Gateside by TSA Precheck",
-        "url": "https://www.tsa.gov/precheck/gateside-tsa-precheck",
-        "source": "Hacker News Front",
-        "published": "2026-09-06T01:12:43+00:00",
-        "summary": "Article URL: https://www.tsa.gov/precheck/gateside-tsa-precheck\nComments URL: https://news.ycombinator.com/item?id=49582410\nPoints: 11\n# Comments: 7",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-        "url": "https://cloudinabottle.org/blog/launch-post",
-        "source": "Hacker News Front",
-        "published": "2026-09-06T00:03:29+00:00",
-        "summary": "Article URL: https://cloudinabottle.org/blog/launch-post\nComments URL: https://news.ycombinator.com/item?id=49582000\nPoints: 154\n# Comments: 55",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Chrome again exempts Google from user site data settings",
-        "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-        "source": "Hacker News Front",
-        "published": "2026-09-05T23:39:47+00:00",
-        "summary": "Article URL: https://lapcatsoftware.com/articles/2026/9/1.html\nComments URL: https://news.ycombinator.com/item?id=49581870\nPoints: 91\n# Comments: 3",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "source": "TechCrunch",
-        "published": "2026-09-05T22:49:55+00:00",
-        "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "url": "https://github.com/okf-memory/okf-agent-memory",
-        "source": "Hacker News Front",
-        "published": "2026-09-05T22:15:52+00:00",
-        "summary": "Article URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 40\n# Comments: 14",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The revolt of the reader",
-        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "source": "Hacker News Front",
-        "published": "2026-09-05T21:37:49+00:00",
-        "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/\nComments URL: https://news.ycombinator.com/item?id=49580939\nPoints: 141\n# Comments: 51",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Explore the globe in field recordings",
-        "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
         "source": "The Verge",
-        "published": "2026-09-05T21:31:34+00:00",
-        "summary": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling brooks or urban chaos. Earth Garden gives you a globe to explore with real [&#8230;]",
+        "published": "2026-09-06T23:36:04+00:00",
+        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Making a Python interpreter in 1024 bytes",
+        "url": "https://austinhenley.com/blog/python1024.html",
+        "source": "Hacker News Front",
+        "published": "2026-09-06T23:14:08+00:00",
+        "summary": "Article URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 110\n# Comments: 44",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+        "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+        "source": "Hacker News Front",
+        "published": "2026-09-06T22:43:25+00:00",
+        "summary": "https://xcancel.com/Liquid_BTC/status/2096696272447218108\n\nComments URL: https://news.ycombinator.com/item?id=49591672\nPoints: 71\n# Comments: 45",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+        "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+        "source": "TechCrunch",
+        "published": "2026-09-06T21:41:06+00:00",
+        "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "An Amazon cargo plane crashed at Miami International Airport",
+        "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+        "source": "The Verge",
+        "published": "2026-09-06T20:56:38+00:00",
+        "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident, the FAA released a statement [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "source": "TechCrunch",
+        "published": "2026-09-06T20:47:37+00:00",
+        "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "url": "https://github.com/marsbos/mador",
+        "source": "Hacker News Front",
+        "published": "2026-09-06T20:45:13+00:00",
+        "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 71\n# Comments: 22",
         "thumbnail": "",
         "extras": {}
       }
@@ -193,86 +193,24 @@
         "summary": "",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: Crusoe And Fluidstack Lead Multibillion-Dollar AI Infrastructure Haul",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-crusoe-fluidstack-multibillion-dollar-ai-infrastructure/",
-        "source": "Crunchbase News",
-        "published": "2026-09-04T17:59:30+00:00",
-        "summary": "AI infrastructure dominated the largest venture rounds this week, with two multibillion-dollar deals in the sector taking the top spots. Data center and cloud provider Crusoe led with a massive $3 billion financing, followed by Fluidstack’s $1.5 billion raise.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: H cofounder Laurent Sifre joins Microsoft",
-        "url": "https://sifted.eu/articles/exclusive-h-cofounder-laurent-sifre-joins-microsoft/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-04T14:05:07+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Bessemer and Creandum set to back new AI infrastructure startup at $600m valuation, sources say",
-        "url": "https://sifted.eu/articles/bessemer-creandum-gridfield/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-04T11:39:39+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "A Startup General Counsel Knew What Corporate Lawyers Needed From AI. So She Built It.",
-        "url": "https://news.crunchbase.com/venture/nontech-startup-general-counsel-built-legal-tech-gc-ai-ziniti/",
-        "source": "Crunchbase News",
-        "published": "2026-09-04T11:00:55+00:00",
-        "summary": "After nearly two decades working as a lawyer at companies such as Amazon, Cruise, Replit and Anki, Cecilia Ziniti teamed up with engineer Bardia Pourvakil to combine their knowledge of law and coding to co-found GC AI.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "네이버, 11월부터 네이버플러스 멤버십 회원에만 ‘새벽배송’ 제공",
-        "url": "https://byline.network/2026/09/04_2918283/",
-        "source": "ByLine Network",
-        "published": "2026-09-04T10:26:55+00:00",
-        "summary": "네이버가 11월 말부터 새벽배송 서비스를 네이버플러스 멤버십 회원 전용 혜택으로 전환한다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[플레이BN] 눈은 즐겁고 성장은 편하게, 컴투스 ‘제우스: 오만의 신’",
-        "url": "https://byline.network/2026/09/4-489/",
-        "source": "ByLine Network",
-        "published": "2026-09-04T10:12:20+00:00",
-        "summary": "요즘 국내 게임사들이 다중접속역할수행게임(MMORPG)을 연달아 선보이고 있습니다. 컴투스에서 지난달 26일 출시한 ‘제우스: 오만의 신’도 그중 하나입니다. 회사는 이전부터 이 작품에 큰 기대를 걸고 있다고 거듭 강조해왔습니다. 오랜만에 대규모 미디어 쇼케이스도 열었었죠. 그래서 궁금해졌습니다. 도대체 어떤 게임인지 말이죠.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "카카오·SKT·KT 3사3색 ‘모두의 AI’ 서비스, 12월 출시",
-        "url": "https://byline.network/2026/09/0904-6/",
-        "source": "ByLine Network",
-        "published": "2026-09-04T09:56:33+00:00",
-        "summary": "국내 주요 통신·플랫폼 기업들이 별도 애플리케이션(앱) 설치 없이 카카오톡이나 전화·문자 등으로 쉽게 이용할 수 있는 대국민 인공지능(AI) 비서를 연내 출시한다. 복잡한 사용법을 새로 익혀야 하는 외산 AI와 달리, 전 국민에게 익숙한 기존 채널을 활용해 진입 장벽을 대폭 낮춘 것이 특징이다.",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "This Glacier Is Bleeding. It Gets Weirder.",
+        "url": "https://www.youtube.com/shorts/sMbtPtuQ3cc",
+        "source": "Cleo Abram",
+        "published": "2026-09-06T18:36:46+00:00",
+        "summary": "This glacier is bleeding and they just found something very new and weird inside!\n\nBlood falls was first discovered in 1911 and remained a very unsettling mystery for over 100 years. Finally, when scientists were able to sample the falls they were surprised to find out exactly what turned this water",
+        "thumbnail": "https://i4.ytimg.com/vi/sMbtPtuQ3cc/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "sMbtPtuQ3cc",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -405,21 +343,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "AqMyu50R25Q",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why World Models Could Change Robotics, 3D, and Creativity",
-        "url": "https://www.youtube.com/watch?v=qn1QDDBnTA0",
-        "source": "a16z",
-        "published": "2026-09-04T14:30:28+00:00",
-        "summary": "World Labs co-founders Fei-Fei Li, Justin Johnson, and Ben Mildenhall join a16z General Partner Martin Casado to discuss Atlas, their latest world model, and what it reveals about the pursuit of spatial intelligence.\n\nAt the center of Atlas is what the team calls “new view prediction”: given images ",
-        "thumbnail": "https://i2.ytimg.com/vi/qn1QDDBnTA0/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "qn1QDDBnTA0",
           "via": "rss"
         }
       }
