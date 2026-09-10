@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-09T03:05:54.992690+00:00",
+  "generated_at": "2026-09-10T03:06:35.142941+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-09-09T03:03:32+00:00",
-        "summary": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Politics live: Trump administration warns Australia after social media algorithm reform; Albanese mourns ‘true one-off’ in d’Alpuget",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/09/coalition-victoria-energy-bills-labor-one-nation-super-digital-duty-of-care-ntwnfb",
+        "title": "Australia politics live: Greens in turmoil as senators to cross floor over koala deal; Coalition rejects social media regulation plan",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-09T02:57:48+00:00",
-        "summary": "Follow the day’s news liveAlbanese dismisses concerns over powers in digital duty of care billAnthony Albanese says the Nationals leader, Matt Canavan, is being “disingenuous” over his criticisms that the communications minister, Anika Wells, will have too much power under the new digital duty of care legislation.The eSafety commissioner will of course provide the advice, but Matt Canavan actually",
+        "published": "2026-09-10T02:54:54+00:00",
+        "summary": "Follow the day’s news liveLabor introducing new laws to crack down on illegal tobaccoLabor will introduce new laws to make it easier to prosecute criminals involved in the illicit tobacco trade, as the government fights an uphill battle against the exploding black market.The new laws think about it as a list of observable indicators, very simple, fact-based things like: is the tobacco appropriatel",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Cameraman catches the moment Yemeni government forces are ambushed",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/cameraman-catches-the-moment-yemeni-government-forces-are-ambushed?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-09T02:54:28+00:00",
-        "summary": "A suspected-Houthi roadside ambush of Yemeni government forces has been captured on camera.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Gambian leader pledges halt to rolling blackouts as protests turn violent",
-        "url": "https://www.aljazeera.com/news/2026/9/9/gambian-leader-pledges-halt-to-rolling-blackouts-as-protests-turn-violent?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-09T02:47:59+00:00",
-        "summary": "Barrow pledges new power infrastructure, including a 24-megawatt plant, to tackle the worsening electricity crisis.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Tung Chee-hwa, Who Led Hong Kong After Its Return to China, Dies at 89",
-        "url": "https://www.nytimes.com/2026/09/08/world/asia/tung-chee-hwa-dead.html",
+        "title": "How Fighting Fires Became an All-of-Europe Project",
+        "url": "https://www.nytimes.com/2026/09/09/world/europe/eu-fire-fighting.html",
         "source": "NYT World",
-        "published": "2026-09-09T02:44:07+00:00",
-        "summary": "As the first leader of the former British colony after its handover, he balanced the demands of Beijing and Hong Kongers, making it clear that Beijing was now in charge.",
+        "published": "2026-09-10T02:44:43+00:00",
+        "summary": "The European Union isn’t known for firefighting expertise. But with the continent ablaze, Brussels is playing a growing role.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "UK air traffic control breakdown strands hundreds of thousands of passengers",
-        "url": "https://www.theguardian.com/business/2026/sep/08/air-traffic-control-issue-flights-delays-disruption-uk",
+        "title": "Fighting Wildfire Haze With an Airplane and Lots of Salt and Water",
+        "url": "https://www.nytimes.com/2026/09/09/world/asia/indonesia-wildfires-malaysia-cloud-seeding.html",
+        "source": "NYT World",
+        "published": "2026-09-10T02:39:33+00:00",
+        "summary": "The authorities in Malaysian Borneo have been trying to seed clouds to counteract the effects of smoke wafting in from neighboring Indonesia.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Deadly Philippines ferry fire leaves scores of people missing",
+        "url": "https://www.theguardian.com/world/2026/sep/10/deadly-philippines-ferry-fire-leaves-scores-of-people-missing",
         "source": "The Guardian World",
-        "published": "2026-09-09T02:40:00+00:00",
-        "summary": "More than 1,000 flights cancelled with disruption continuing on Wednesday and airlines calling for overhaul after third incident in just over three yearsUK airport disruption: what are your rights?Flight delays and cancellations were expected to continue into Wednesday at UK airports after another air traffic control failure kept planes grounded for hours, affecting hundreds of thousands of passen",
+        "published": "2026-09-10T02:23:28+00:00",
+        "summary": "Forty-three people rescued and early death toll stands at five after blaze aboard MV ‌June Aster in waters off Coron, Palawan, says coast guardFive people were confirmed dead ⁠in early counting and ​more than 80 were missing after a ferry caught fire ⁠off Palawan island in the western Philippines on Wednesday night, the Philippine coast ⁠guard said.Forty-three people were ​rescued from the MV ‌Jun",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US reading scores hit near-25-year low in latest global assessment",
-        "url": "https://www.aljazeera.com/news/2026/9/9/us-reading-scores-hit-near-25-year-low-in-latest-global-assessment?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-09T02:36:44+00:00",
-        "summary": "Scores among US 15-year-olds dropped 14 points from 2022, as the Trump administration pushes for &#039;school choice&#039;.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Liberal operative denies he invented pink paper record of agreement with fugitive developer, Icac hears",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/09/liberal-operative-denies-he-invented-pink-paper-record-of-agreement-with-fugitive-developer-icac-hears-ntwnfb",
+        "title": "Instagram boss says users will be ‘overwhelmed’ with brand content in algorithm-free world",
+        "url": "https://www.theguardian.com/media/2026/sep/10/instagram-boss-says-users-will-be-overwhelmed-with-brand-content-in-algorithm-free-world",
         "source": "The Guardian World",
-        "published": "2026-09-09T02:35:31+00:00",
-        "summary": "Jeremy Greenwood tells inquiry note contained agreement with Jean Nassif as counsel assisting says ‘threads of your story pull apart very quickly’A Liberal operative has denied making up a “pink” or “fuchsia”-coloured piece of paper which he says was the record of an agreement with a property developer worth up to $5m, a corruption inquiry has heard.Jeremy Greenwood told the Independent Commission",
+        "published": "2026-09-10T02:10:08+00:00",
+        "summary": "Adam Mosseri says platform’s algorithm ‘feels like a black box’ but company trying to give users more control after Labor announces opt-out planFollow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastInstagram’s chief executive has said users will have a worse experience in an algorithm-free world, seeing more brand-related content, and spen",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "SMH columnist Peter FitzSimons tells Alan Jones trial alleged victim was ‘revolted’ by abuse",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/10/smh-columnist-peter-fitzsimons-alan-jones-trial-alleged-victim-revolted-by-abuse-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-09-10T02:09:03+00:00",
+        "summary": "FitzSimons tells court that complainant C told him Jones, who has pleaded not guilty, would touch his penis and he ‘kept pushing it away’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSydney Morning Herald columnist Peter FitzSimons has told the Alan Jones trial an alleged victim he spoke to in 2019 was “tearful” and sounded “emotio",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "August Ties for Hottest Month on Record",
+        "url": "https://www.nytimes.com/2026/09/09/climate/august-hottest-month-global-warming.html",
+        "source": "NYT World",
+        "published": "2026-09-10T02:00:12+00:00",
+        "summary": "Sweltering summer temperatures put last month on par with July 2023 for global warmth, scientists said. More records could be broken in the months ahead.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Jacqui Lambie says Pauline Hanson a ‘bloody coward’ after One Nation cartoon calling Andrew Hastie a traitor",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/10/jacqui-lambie-says-pauline-hanson-a-bloody-coward-after-one-nation-cartoon-calling-andrew-hastie-a-traitor-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-09-10T01:57:51+00:00",
+        "summary": "Lambie, a veteran and Tasmanian senator, says One Nation leader is showing her ‘true colours’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastJacqui Lambie has accused Pauline Hanson of being a “coward” for a One Nation cartoon calling the Liberal frontbencher Andrew Hastie a traitor, amid a growing spat between the One Nation leader ",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Harvard study predicts most suicide attempts a week in advance",
-        "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+        "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+        "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
         "source": "Hacker News Front",
-        "published": "2026-09-09T02:07:13+00:00",
-        "summary": "Article URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance\nComments URL: https://news.ycombinator.com/item?id=49619906\nPoints: 65\n# Comments: 23",
+        "published": "2026-09-10T01:59:51+00:00",
+        "summary": "Article URL: https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/\nComments URL: https://news.ycombinator.com/item?id=49637395\nPoints: 2\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "AI Responsibility – OpenAI and Anthropic",
-        "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+        "title": "Show HN: What if the speed of light was 5 km/h?",
+        "url": "https://rivendell.dmitrybrant.com/relativity/",
         "source": "Hacker News Front",
-        "published": "2026-09-09T01:32:49+00:00",
-        "summary": "Article URL: https://twitter.com/hilbertspaess/status/2097476196791709843\nComments URL: https://news.ycombinator.com/item?id=49619639\nPoints: 24\n# Comments: 1",
+        "published": "2026-09-10T01:58:00+00:00",
+        "summary": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. And here is the first version of it!\n\nComments URL: https://news.ycombinator.com/item?id=49637385\nPoints: 16\n# Comments: 9",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-        "url": "https://gpu-lexer.vercel.app/",
-        "source": "Hacker News Front",
-        "published": "2026-09-09T01:14:50+00:00",
-        "summary": "Article URL: https://gpu-lexer.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49619464\nPoints: 17\n# Comments: 4",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-        "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
         "source": "TechCrunch",
-        "published": "2026-09-08T23:23:23+00:00",
-        "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+        "published": "2026-09-10T00:00:37+00:00",
+        "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "A Topological Picture Book, Rendered",
-        "url": "https://e-infinity.space/picture-book/",
+        "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+        "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
         "source": "Hacker News Front",
-        "published": "2026-09-08T22:28:14+00:00",
-        "summary": "Article URL: https://e-infinity.space/picture-book/\nComments URL: https://news.ycombinator.com/item?id=49618050\nPoints: 60\n# Comments: 7",
+        "published": "2026-09-09T23:49:29+00:00",
+        "summary": "Article URL: https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/\nComments URL: https://news.ycombinator.com/item?id=49636283\nPoints: 67\n# Comments: 116",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "LG TV shown scanning LAN for third-party phones and other devices",
-        "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-        "source": "Ars Technica",
-        "published": "2026-09-08T21:52:29+00:00",
-        "summary": "“It doesn’t cost a lot to store text forever.”",
+        "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+        "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+        "source": "TechCrunch",
+        "published": "2026-09-09T23:14:29+00:00",
+        "summary": "Mullenweg said in a company Slack message that it was against his will.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Sony isn’t phasing out discs quite as quickly as we thought",
-        "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+        "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+        "url": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
         "source": "The Verge",
-        "published": "2026-09-08T21:52:13+00:00",
-        "summary": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported detail was wrong. Originally, [&#8230;]",
+        "published": "2026-09-09T23:00:04+00:00",
+        "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Large language models develop novel social biases through adaptive exploration",
-        "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-        "source": "Hacker News Front",
-        "published": "2026-09-08T21:47:38+00:00",
-        "summary": "Article URL: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH\nComments URL: https://news.ycombinator.com/item?id=49617581\nPoints: 106\n# Comments: 52",
+        "title": "The black iPhone Pro returns",
+        "url": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+        "source": "The Verge",
+        "published": "2026-09-09T22:37:51+00:00",
+        "summary": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there was no black (or dark gray) for [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "source": "TechCrunch",
+        "published": "2026-09-09T22:25:22+00:00",
+        "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,183 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "부산 인문계 고교 열에 넷이 써본 AI 수업 도구, 초·중학교로 넓힌다",
-        "url": "https://platum.kr/archives/294230?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b6%2580%25ec%2582%25b0-%25ec%259d%25b8%25eb%25ac%25b8%25ea%25b3%2584-%25ea%25b3%25a0%25ea%25b5%2590-%25ec%2597%25b4%25ec%2597%2590-%25eb%2584%25b7%25ec%259d%25b4-%25ec%258d%25a8%25eb%25b3%25b8-ai-%25ec%2588%2598%25ec%2597%2585-%25eb%258f%2584%25ea%25b5%25ac-%25ec%25b4%2588%25c2%25b7%25ec%25a4%2591%25ed%2595%2599",
-        "source": "Platum",
-        "published": "2026-09-09T01:03:14+00:00",
-        "summary": "부산의 인문계 고등학교 93곳 가운데 37곳이 임팩터스의 AI 수업 플랫폼 &#8216;임팩트 스페이스&#8217;를 써봤다. 교육 분야 AI 스타트업 임팩터스는 9월 7일 부산 해운대구 파크 하얏트에서 열린 &#8216;동남권 지·산·학 커넥트 데이&#8217;에서 실증기업 대표로 이런 성과를 발표했다. 임팩터스는&#160;진로·탐구 프로젝트 수업을&#160;대상으로 16개&#160;고교에서 자체 실증을 시작해 사용&#160;학교를 37곳까지&#160;늘렸다. 올해는 부산교육대학교가&#160;운영하는 에듀테크소프트랩&#160;실증사업을 통해 중학교 3곳,&#160;초등학교 3곳으로&#160;사용자층을 넓혔다. 고등학교&#160;중심이던 서비스를 다른&#160;학교급으로 확장할 수 있는지&#160;확인한 것",
+        "title": "카카오모빌리티, 자율주행 판단 “규칙에서 AI로” 무게중심 이동",
+        "url": "https://byline.network/2026/09/09_kakaomobility/",
+        "source": "ByLine Network",
+        "published": "2026-09-10T02:35:04+00:00",
+        "summary": "카카오모빌리티가 연말까지 엔드 투 엔드(E2E) 자율주행 모델 활용 비중을 높인다. 지난 반년간 자율주행 차량 ‘서울자율차’를 운영하며 쌓아온 데이터로 자율주행 기술을 계속해 고도화한다는 계획이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "카카오페이머니 담던 지갑에 스테이블코인도, 카카오페이 기술 검증 마쳤다",
-        "url": "https://platum.kr/archives/294227?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25ed%258e%2598%25ec%259d%25b4%25eb%25a8%25b8%25eb%258b%2588-%25eb%258b%25b4%25eb%258d%2598-%25ec%25a7%2580%25ea%25b0%2591%25ec%2597%2590-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25eb%25b8%2594%25ec%25bd%2594%25ec%259d%25b8%25eb%258f%2584-%25ec%25b9%25b4%25ec%25b9%25b4",
-        "source": "Platum",
-        "published": "2026-09-09T00:59:41+00:00",
-        "summary": "카카오페이 사용자들이 선불충전금인 카카오페이머니를 담아 쓰던 지갑에 스테이블코인 같은 블록체인상 자산도 담는 구조가 기술 검증을 마쳤다. 카카오페이는 디지털 자산 지갑 구축 기술의 개념검증(PoC)을 완료했다고 9월 9일 밝혔다. 검증 대상은 기존 지갑 시스템을 온체인 자산까지 다루는 통합 지갑으로 확장하는 것이다. 회사는 대량의 거래를 처리해 온 지갑 환경에서 스테이블코인의 송금과 결제, 정산이 작동하는지 확인하고 사용자 화면까지 만들었다고 ... 더 읽기",
+        "title": "오픈AI 코리아 출범 1주년…엔터프라이즈 사업 확대",
+        "url": "https://byline.network/2026/09/0909-7/",
+        "source": "ByLine Network",
+        "published": "2026-09-09T16:59:04+00:00",
+        "summary": "오픈AI코리아가 인공지능(AI) 기술 발전 상황과 한국 기업의 도입 현황, 향후 인프라 확충 계획을 공개했다. 김경훈 오픈AI코리아 총괄대표는 9일 서울 강남구 조선팰리스호텔에서 열린 ‘한국 오피스 공식 출범 1주년’ 기자간담회에서 단순한 정보 검색을 넘어 AI가 스스로 판단하고 복잡한 업무를 수행하는 에이전트(Agent) AI로 기술이 발전하고 있다고 설명했다. 이번 기자간담회는 한국 시장 진출 1년을 맞아 기업간거래(B2B) 사업 성과와 향후 인프라 확충 계획을 공유하기 위해 마련됐다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "“프랑스 전력으로 유럽용 AI 팩토리 짓자”, 최수연 대표가 현지에서 던진 제안",
-        "url": "https://platum.kr/archives/294226?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2594%2584%25eb%259e%2591%25ec%258a%25a4-%25ec%25a0%2584%25eb%25a0%25a5%25ec%259c%25bc%25eb%25a1%259c-%25ec%259c%25a0%25eb%259f%25bd%25ec%259a%25a9-ai-%25ed%258c%25a9%25ed%2586%25a0%25eb%25a6%25ac-%25ec%25a7%2593%25ec%259e%2590-%25ec%25b5%259c%25ec%2588%2598%25ec%2597%25b0-%25eb%258c%2580%25ed%2591%259c",
-        "source": "Platum",
-        "published": "2026-09-09T00:33:41+00:00",
-        "summary": "네이버가 유럽에 AI 데이터센터를 짓는 구상을 프랑스 기업인들 앞에서 꺼냈다. 최수연 네이버 대표는 현지시간 9월 8일 한국·프랑스 경제인 비즈니스 라운드테이블에서 &#8220;프랑스의 안정적인 에너지 기반과 네이버의 AI 생태계 경험을 결합해 유럽의 기업과 스타트업이 활용할 AI 팩토리를 함께 만들고 싶다&#8221;고 밝혔다. 원전 비중이 높아 전력 사정이 안정적인 프랑스를 후보지로 염두에 둔 제안이다. 네이버는 지난 3일 엔비디아, 브룩필드와 ... 더 읽기",
+        "title": "The Crunchbase Tech Layoffs Tracker",
+        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+        "source": "Crunchbase News",
+        "published": "2026-09-09T15:56:30+00:00",
+        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "안부확인부터 보이스피싱 상담까지, 카카오톡 활용 공공서비스 30선",
-        "url": "https://platum.kr/archives/294219?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2588%25eb%25b6%2580%25ed%2599%2595%25ec%259d%25b8%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b3%25b4%25ec%259d%25b4%25ec%258a%25a4%25ed%2594%25bc%25ec%258b%25b1-%25ec%2583%2581%25eb%258b%25b4%25ea%25b9%258c%25ec%25a7%2580-%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25ed%2586%25a1-%25ed%2599%259c%25ec%259a%25a9",
-        "source": "Platum",
-        "published": "2026-09-09T00:29:44+00:00",
-        "summary": "전남대학교병원 권역모자의료센터는 협력 병원 의료진이 참여하는 카카오톡 단체대화방을 &#8216;모자의료 진료협력 기관 핫라인&#8217;으로 쓴다. 응급환자가 생기면 이송 가능한 병원을 이 대화방에서 빠르게 확인하는 방식이다. 한국전력공사는 전력을 평소보다 많이 쓸 것으로 예상되는 고객에게 알림톡으로 요금이 오를 수 있다고 미리 알린다. 부산광역시는 카카오맵과 연동한 &#8217;15분도시 생활지도&#8217;로 어린이시설과 도서관, 공원 등 10개 분야 1,665곳의 위치와 운영정보를 제공한다. 카카오가 이런 ... 더 읽기",
+        "title": "Loft Orbital strikes billion-dollar deal with UAE's Marlan Space to build AI-powered satellite constellation",
+        "url": "https://sifted.eu/articles/loft-orbital-billion-dollar-deal-marlan-space/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-09T15:14:04+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "서울역 주차장, 카메라가 빈자리까지 길 안내하고 만차 층은 차단기로 막는다",
-        "url": "https://platum.kr/archives/294215?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%259c%25ec%259a%25b8%25ec%2597%25ad-%25ec%25a3%25bc%25ec%25b0%25a8%25ec%259e%25a5-%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc%25ea%25b0%2580-%25eb%25b9%2588%25ec%259e%2590%25eb%25a6%25ac%25ea%25b9%258c%25ec%25a7%2580-%25ea%25b8%25b8-%25ec%2595%2588%25eb%2582%25b4%25ed%2595%2598%25ea%25b3%25a0-%25eb%25a7%258c",
-        "source": "Platum",
-        "published": "2026-09-09T00:23:45+00:00",
-        "summary": "서울역 주차장에 들어선 차량은 이제 전광판이 알려주는 경로를 따라 빈자리까지 안내받는다. 빈 주차면이 있어도 앞서 들어간 차가 그쪽으로 향하고 있으면 다른 자리로 유도되고, 곧 만차가 될 것으로 예상되는 층은 차단기가 자동으로 진입을 막았다가 자리가 나면 다시 연다. 휴맥스모빌리티의 주차 운영 자회사 하이파킹이 서울역 주차장에 AI 영상 유도 시스템 &#8216;Ai-PAS&#8217;를 구축했다. 시스템은 360도 카메라로 주차면뿐 아니라 ... 더 읽기",
+        "title": "The DeepMind mafia building startups in Europe",
+        "url": "https://sifted.eu/articles/investors-have-poured-billions-into-the-deepmind-mafia/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-09T12:20:44+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "울산태화호 갑판 위에서 열린 스타트업 IR",
-        "url": "https://platum.kr/archives/294216?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259a%25b8%25ec%2582%25b0%25ed%2583%259c%25ed%2599%2594%25ed%2598%25b8-%25ea%25b0%2591%25ed%258c%2590-%25ec%259c%2584%25ec%2597%2590%25ec%2584%259c-%25ec%2597%25b4%25eb%25a6%25b0-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-ir",
-        "source": "Platum",
-        "published": "2026-09-09T00:18:30+00:00",
-        "summary": "조선·해양 스타트업들이 전기추진선 갑판 위에서 해외 투자사와 미디어를 앞에 두고 사업을 소개했다. 울산창조경제혁신센터가 9월 8일 &#8216;2026년 창업도시투어 in 울산&#8217;을 열고 울산의 산업 인프라와 창업 생태계를 해외 관계자들에게 소개했다. 행사에는 유럽 스타트업 전문 매체 시프티드(Sifted)와 스타트업 데이터 기관 딜룸(Dealroom), 스타트업 지놈(Startup Genome), 해외 투자사 드라쿤 벤처스(Dracoon Ventures)와 하트펠트(Heartfelt) 관계자가 참여했다. 여기에 지역 투자기관과 조선·해양 분야 스타트업, ... 더 읽기",
+        "title": "The Sales Test This Norwest Partner Gives Founders Before He’ll Invest",
+        "url": "https://news.crunchbase.com/venture/startup-investment-qa-ai-hr-fintech-jacobsohn-norwest/",
+        "source": "Crunchbase News",
+        "published": "2026-09-09T11:00:58+00:00",
+        "summary": "In an interview with Crunchbase News, Sean Jacobsohn, a partner at venture firm Norwest, discusses where he still sees openings in the crowded market for finance software, how far companies should trust AI with accounting work, why HR startups may be better off attacking the secondary products of large platforms, and why he tests a CEO's sales ability before investing.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI·차량용·로봇 반도체 스타트업 모집, LX세미콘과 1대1 미팅 기회",
-        "url": "https://platum.kr/archives/294209?utm_source=rss&utm_medium=rss&utm_campaign=ai%25c2%25b7%25ec%25b0%25a8%25eb%259f%2589%25ec%259a%25a9%25c2%25b7%25eb%25a1%259c%25eb%25b4%2587-%25eb%25b0%2598%25eb%258f%2584%25ec%25b2%25b4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25ec%25a7%2591-lx%25ec%2584%25b8%25eb%25af%25b8%25ec%25bd%2598%25ea%25b3%25bc-1%25eb%258c%25801",
-        "source": "Platum",
-        "published": "2026-09-09T00:11:07+00:00",
-        "summary": "반도체 설계 기업 LX세미콘이 협업할 스타트업을 찾는다. 충남창조경제혁신센터는 LX세미콘과 함께 &#8216;2026 넥서스 커넥트(Nexus Connect) 오픈이노베이션 밋업 데이&#8217;를 열고 9월 8일부터 10월 6일까지 참가 기업을 모집한다고 밝혔다. 대상은&#160;여섯 개 분야다. AI 반도체, 차량용&#160;반도체,&#160;전력관리·아날로그 반도체, 비전·센서&#160;반도체, 광통신·고속 인터페이스&#160;반도체, 로봇&#160;반도체로, LX세미콘이 실제로&#160;필요로 하는 기술&#160;수요를 기준으로 정했다.&#160;충남혁신센터는 지원 기업&#160;가운데 수요 기술과의&#160;연계성, 기술 경쟁력,&#160;사업 협력 가능성을&#160;검토해 1대1 밋업 대상 기업을",
+        "title": "The dos and don’ts of a team offsite: Candle making, line dancing, no hard booze",
+        "url": "https://sifted.eu/articles/voize-offsite-dos-donts/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-09T10:40:48+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[전화성의 스타트업 모닝커피 1394회] 드래그앤드롭",
-        "url": "https://platum.kr/archives/294204?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2584%25ed%2599%2594%25ec%2584%25b1%25ec%259d%2598-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8%25eb%258b%259d%25ec%25bb%25a4%25ed%2594%25bc-1394%25ed%259a%258c-%25eb%2593%259c%25eb%259e%2598%25ea%25b7%25b8%25ec%2595%25a4%25eb%2593%259c%25eb%25a1%25ad",
-        "source": "Platum",
-        "published": "2026-09-09T00:03:31+00:00",
-        "summary": "‘스타트업 모닝커피’는 씨엔티테크 전화성 대표가 진행하는 유튜브 프로그램으로, 매일 오전 8시 40분 ‘전화성의 CNTV’ 채널에서 라이브로 방송되며, 다양한 스타트업의 핵심 역량과 시장 잠재성을 소개할 뿐만 아니라, 실시간 댓글을 통한 시청자와의 쌍방향 소통을 통해 스타트업 생태계에 관심 있는 이들에게 유용한 정보 플랫폼으로 자리잡고 있다. 1.드래그앤드롭 기업은 드래그앤드롭(대표 최부열)은 교육자가 자신의 브랜드로 교육 사업을 시작하고 운영할 수 ... 더 읽기",
+        "title": "Ex-Google DeepMind duo raise €3.2m to build software for fusion startups",
+        "url": "https://sifted.eu/articles/google-deepmind-fusionality-raise/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-09T10:19:51+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Amjad Masad, CEO of Replit, shares the story of how he hacked into his university&#39;s database.",
+        "url": "https://www.youtube.com/watch?v=2zWC1i3rie4",
+        "source": "a16z",
+        "published": "2026-09-09T18:00:19Z",
+        "summary": "Amjad Masad grew up in Amman, Jordan, learning to code on borrowed computers at internet cafes. He later moved to the US, ...",
+        "thumbnail": "https://i.ytimg.com/vi/2zWC1i3rie4/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "2zWC1i3rie4",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The ISS Is Crashing Into The Ocean",
+        "url": "https://www.youtube.com/watch?v=0eKmAij6dlQ",
+        "source": "Cleo Abram",
+        "published": "2026-09-09T14:53:53Z",
+        "summary": "The International Space Station is crashing down into the ocean in 2030! But why is that the best option? Turns out, world space ...",
+        "thumbnail": "https://i.ytimg.com/vi/0eKmAij6dlQ/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "0eKmAij6dlQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Inside the Race to Measure Frontier Intelligence",
+        "url": "https://www.youtube.com/watch?v=WO9c9qxDxzU",
+        "source": "a16z",
+        "published": "2026-09-09T14:30:03Z",
+        "summary": "a16z's Erik Torenberg, Ben Horowitz, and Jennifer Li sit down with Vals founder and CEO Rayan Krishnan to discuss one of AI's ...",
+        "thumbnail": "https://i.ytimg.com/vi/WO9c9qxDxzU/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "WO9c9qxDxzU",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "일본 국채 금리 3% 돌파, 아베노믹스는 끝났는가",
+        "url": "https://www.youtube.com/watch?v=ub6p8js1ED0",
+        "source": "슈카월드",
+        "published": "2026-09-09T10:33:12Z",
+        "summary": "0:00 미국 정부 부채, 이자만 5경 4천 조 원 12:55 일본 전체 예산 중 빚 갚는데 쓰는 돈 26%",
+        "thumbnail": "https://i.ytimg.com/vi/ub6p8js1ED0/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "ub6p8js1ED0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why the Oil Market Suddenly Looks Worryingly Fragile",
+        "url": "https://www.youtube.com/watch?v=I8eBX9zMCmk",
+        "source": "TLDR News Global",
+        "published": "2026-09-09T09:00:03Z",
+        "summary": "Order a copy of Too Long: https://toolong.news/TL009 Despite many analysts' projections following the US war on Iran, the crude ...",
+        "thumbnail": "https://i.ytimg.com/vi/I8eBX9zMCmk/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "I8eBX9zMCmk",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "브랜드가 AI의 선택을 받기 위해 &#39;신뢰&#39;를 쌓는 방법 (이중대 메시지하우스 대표)",
+        "url": "https://www.youtube.com/watch?v=tNFWXt43EL8",
+        "source": "티타임즈TV",
+        "published": "2026-09-09T09:00:03Z",
+        "summary": "AI오버뷰, 챗GPT, 클로드 때문에 사이트 클릭 수가 반토막 났다는 기업이 많습니다. 소비자의 바뀐 습관에 대응하려면 AI 검색 최적화 ...",
+        "thumbnail": "https://i.ytimg.com/vi/tNFWXt43EL8/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "tNFWXt43EL8",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "2JiUeYzcRKE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Inside OpenAI’s Breakthroughs in Mathematical Reasoning",
-        "url": "https://www.youtube.com/watch?v=1JvyLGd2Sfs",
-        "source": "a16z",
-        "published": "2026-09-08T14:30:11+00:00",
-        "summary": "a16z Infra Partner Lisha Li sits down with OpenAI mathematicians Mehtaab Sawhney and Mark Sellke to discuss how quickly AI’s mathematical capabilities are advancing, what recent results reveal about model reasoning, and what happens when AI begins making progress on problems mathematicians have stru",
-        "thumbnail": "https://i2.ytimg.com/vi/1JvyLGd2Sfs/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "1JvyLGd2Sfs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "They Created A Skin Cancer Vaccine",
-        "url": "https://www.youtube.com/watch?v=RCKiVbz-cs0",
-        "source": "Cleo Abram",
-        "published": "2026-09-08T14:22:50Z",
-        "summary": "Scientists recently completed a phase 3 clinical trial of a new vaccine for a type of skin cancer called Melanoma. The results are ...",
-        "thumbnail": "https://i.ytimg.com/vi/RCKiVbz-cs0/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "RCKiVbz-cs0",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "과연 테슬라 주가는 화성 갈 것인가",
-        "url": "https://www.youtube.com/watch?v=Us890Q2m3Tg",
-        "source": "슈카월드",
-        "published": "2026-09-08T11:09:24+00:00",
-        "summary": "0:00 핸들, 페달 없는 완전자율주행 택시 출시한 테슬라\n11:02 개쩌는 완전자율주행 출시에도 테슬라 가격이 빠진 이유\n16:35 중국, 인도, 유럽 시장 진출각이 나올까\n23:35 다시 정치를 넘보는 머스크?",
-        "thumbnail": "https://i2.ytimg.com/vi/Us890Q2m3Tg/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "Us890Q2m3Tg",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI 도입하고도 직원 수 유지하는 월마트의 비결은",
-        "url": "https://www.youtube.com/watch?v=KQrIUK7jDBw",
-        "source": "티타임즈TV",
-        "published": "2026-09-08T09:00:38Z",
-        "summary": "AI로 사라지는 직무가 생기더라도 직원을 재교육해 새로운 역할로 이동시키겠다는 월마트. 이 구상을 내놓은 지 약 1년, 현장에서는 ...",
-        "thumbnail": "https://i.ytimg.com/vi/KQrIUK7jDBw/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "KQrIUK7jDBw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "2년간 샌프란시스코에서 살아남은 00년생 창업가의 새로운 도전ㅣ아메리칸드림2.0",
-        "url": "https://www.youtube.com/watch?v=yvjqxQKBsM4",
-        "source": "EO 이오",
-        "published": "2026-09-08T09:00:04Z",
-        "summary": "마지막 회 대AI 시대, 다시 없을 변화의 기회를 잡기 위해 샌프란시스코 해커하우스에 모인 20대 창업가들. 그들은 실리콘밸리까지 ...",
-        "thumbnail": "https://i.ytimg.com/vi/yvjqxQKBsM4/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "yvjqxQKBsM4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why the US Trade Deficit is Still Getting Bigger",
-        "url": "https://www.youtube.com/watch?v=gbYxWzEb3zA",
-        "source": "TLDR News Global",
-        "published": "2026-09-08T08:30:12Z",
-        "summary": "Pre-order a copy of Too Long: https://toolong.news/TL009 We explain why, despite Trump's best efforts, the US trade deficit is still ...",
-        "thumbnail": "https://i.ytimg.com/vi/gbYxWzEb3zA/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "gbYxWzEb3zA",
           "via": "api"
         }
       }
