@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-12T03:08:25.324252+00:00",
+  "generated_at": "2026-09-13T03:11:10.357897+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-09-12T03:02:28+00:00",
-        "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-09-12T02:29:49+00:00",
-        "summary": "Tasia Fortune's body was found  in the lot of an abandoned home in Mississippi in August.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-        "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-12T02:25:59+00:00",
-        "summary": "South Korea said it was closely exchanging information on the launches with the US and Japan.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Putin and Pezeshkian call out US dominance ahead of BRICS",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-12T02:22:29+00:00",
-        "summary": "The presidents of Iran and Russia have criticised US dollar dominance ahead of the BRICS summit in India.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Satellite image shows critical Saudi pipeline damaged in drone attack",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/saudi-arabia-east-west-oil-pipeline-drone-attack-iraq?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-12T02:18:52+00:00",
-        "summary": "Saudi Arabia has shut its East-West oil pipeline after a drone attack. Riyadh says the attack originated in Iraq.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "NSW police seize 36 illegal ebikes on northern beaches that are now destined for the crusher",
-        "url": "https://www.theguardian.com/world/2026/sep/12/nsw-police-seize-illegal-ebikes-northern-beaches-crushed",
+        "title": "News live: Albanese hits back at Hanson criticism of his mother’s use of public housing; Melissa Doyle appointed Australia Day council chair",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-12T01:53:23+00:00",
-        "summary": "Officers found one 14-year-old’s ebike was capable of hitting 90km/h. Owners have two weeks to appeal the seizure before the bikes will be crushedGet our breaking news email, free app or daily news podcastDozens of high-powered and illegal ebikes have been seized by police on Sydney’s northern beaches just weeks after the force was granted new powers to destroy dangerous bikes.The operation was pa",
+        "published": "2026-09-13T02:54:00+00:00",
+        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastAndrew Hastie says he “feels sorry” for Barnaby Joyce and that he and One Nation MP David Farley probably have “buyers remorse” after joining the rightwing party.Hastie has been feuding with Pauline Hanson this week over a One Nation animated cartoon which labelled him a “traitor” after he gave evidence against Ben ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
-        "url": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-12T01:22:41+00:00",
-        "summary": "A briefer told Clinton in 1998 that bin Laden’s &#039;preferred option is to strike the US on its own soil in Washington&#039;.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Toyohiro Akiyama, Japan’s Chain-Smoking ‘Space Antihero,’ Dies at 84",
-        "url": "https://www.nytimes.com/2026/09/10/world/asia/toyohiro-akiyama-dead.html",
+        "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+        "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
         "source": "NYT World",
-        "published": "2026-09-12T00:59:23+00:00",
-        "summary": "A journalist, he was the first Japanese person to enter space, joining a Soviet crew as part of a spectacular $35 million ratings stunt in 1990.",
+        "published": "2026-09-13T02:46:53+00:00",
+        "summary": "The group, which includes Iran, has been split over the war. It called for “maximum restraint” in the Middle East without casting blame on any particular country.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-13T02:44:32+00:00",
+        "summary": "Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
+        "url": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
+        "source": "The Guardian World",
+        "published": "2026-09-13T02:39:50+00:00",
+        "summary": "Prime minister’s office tells families of those missing ‘the nation stands with you’ as search and rescue efforts continueOne person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu, the country’s government says.The vessel, MV Matui, had set sail with more than 40 passengers and crew on Friday from the island of Santo to Ambae island in very rough seas, but did no",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘We started to plummet’: Turbulence rocks Turkish Airlines flight",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/we-started-to-plummet-turbulence-rocks-turkish-airlines-flight?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-13T02:37:24+00:00",
+        "summary": "Video shows passengers screaming as turbulence rocked a Tunisia-bound Turkish Airlines flight.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
+        "url": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-13T02:32:12+00:00",
+        "summary": "Saudi authorities trace the launch site to Maysan province in southeastern Iraq, near the Iranian border.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
+        "url": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
+        "source": "NYT World",
+        "published": "2026-09-13T02:32:07+00:00",
+        "summary": "Officials say the Trump administration is blocking some of Brazil’s efforts to expand cooperation on fighting transnational crime.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "NSW to put strict caps on screen time in classrooms while pushing for ‘pen and paper’ learning",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/13/nsw-to-put-strict-caps-on-screen-time-in-classrooms-while-pushing-for-pen-and-paper-learning",
+        "source": "The Guardian World",
+        "published": "2026-09-13T02:00:53+00:00",
+        "summary": "Screen limits will become mandatory in NSW schools from 2028 as federal education minister says students may need a ‘digital detox’Follow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastThe New South Wales government has announced it will implement limits on screen time in public school classrooms and push for students to take part in daily",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "How Poor People Buy Cars",
-        "url": "https://abio.substack.com/p/how-poor-people-buy-cars",
+        "title": "The Interim Computer Museum",
+        "url": "https://icm.museum/",
         "source": "Hacker News Front",
-        "published": "2026-09-12T01:37:06+00:00",
-        "summary": "Article URL: https://abio.substack.com/p/how-poor-people-buy-cars\nComments URL: https://news.ycombinator.com/item?id=49667762\nPoints: 47\n# Comments: 38",
+        "published": "2026-09-13T02:43:57+00:00",
+        "summary": "Article URL: https://icm.museum/\nComments URL: https://news.ycombinator.com/item?id=49679459\nPoints: 13\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-        "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+        "title": "Align AI and Mathematics–To Something Else",
+        "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
         "source": "Hacker News Front",
-        "published": "2026-09-12T00:40:32+00:00",
-        "summary": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies\nComments URL: https://news.ycombinator.com/item?id=49667375\nPoints: 45\n# Comments: 20",
+        "published": "2026-09-13T00:47:48+00:00",
+        "summary": "Article URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/\nComments URL: https://news.ycombinator.com/item?id=49678783\nPoints: 18\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-        "url": "https://github.com/zachsaw/graphify-csharp",
+        "title": "Everyone should slow down AI development except for me",
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
         "source": "Hacker News Front",
-        "published": "2026-09-12T00:16:10+00:00",
-        "summary": "Article URL: https://github.com/zachsaw/graphify-csharp\nComments URL: https://news.ycombinator.com/item?id=49667188\nPoints: 9\n# Comments: 7",
+        "published": "2026-09-13T00:30:44+00:00",
+        "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\nComments URL: https://news.ycombinator.com/item?id=49678683\nPoints: 174\n# Comments: 66",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Some satellite companies still have an appetite for boutique launch services",
-        "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-        "source": "Ars Technica",
-        "published": "2026-09-11T23:34:45+00:00",
-        "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "url": "https://www.rubyhack.ai/",
+        "title": "Recurrent Looped Transformer",
+        "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
         "source": "Hacker News Front",
-        "published": "2026-09-11T23:17:42+00:00",
-        "summary": "Article URL: https://www.rubyhack.ai/\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 397\n# Comments: 230",
+        "published": "2026-09-13T00:05:22+00:00",
+        "summary": "Article URL: https://yifanzhang-pro.github.io/recurrent-looped-tranformer/\nComments URL: https://news.ycombinator.com/item?id=49678548\nPoints: 14\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "title": "AgentsDock: An IDE designed for agentic AI research",
+        "url": "https://agentsdock.net/",
+        "source": "Hacker News Front",
+        "published": "2026-09-12T23:45:58+00:00",
+        "summary": "Article URL: https://agentsdock.net/\nComments URL: https://news.ycombinator.com/item?id=49678435\nPoints: 16\n# Comments: 6",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
+        "url": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+        "source": "Hacker News Front",
+        "published": "2026-09-12T23:44:44+00:00",
+        "summary": "Article URL: https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278\nComments URL: https://news.ycombinator.com/item?id=49678432\nPoints: 25\n# Comments: 26",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+        "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
         "source": "TechCrunch",
-        "published": "2026-09-11T22:58:17+00:00",
-        "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "published": "2026-09-12T23:25:38+00:00",
+        "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-        "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+        "title": "Don't be the out of touch Kung Fu master – John Carmack",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
         "source": "Hacker News Front",
-        "published": "2026-09-11T22:16:15+00:00",
-        "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf\nComments URL: https://news.ycombinator.com/item?id=49666155\nPoints: 21\n# Comments: 8",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Project Blinkenlights",
-        "url": "https://blinkenlights.de/en/",
-        "source": "Hacker News Front",
-        "published": "2026-09-11T22:15:00+00:00",
-        "summary": "Article URL: https://blinkenlights.de/en/\nComments URL: https://news.ycombinator.com/item?id=49666146\nPoints: 56\n# Comments: 23",
+        "published": "2026-09-12T21:51:43+00:00",
+        "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095\nComments URL: https://news.ycombinator.com/item?id=49677577\nPoints: 31\n# Comments: 11",
         "thumbnail": "",
         "extras": {}
       }
@@ -191,6 +191,17 @@
         "source": "Crunchbase News",
         "published": "2026-09-11T18:00:31+00:00",
         "summary": "It was a monster week for U.S. startup funding, with four companies each raising $1 billion or more. The Boring Co. led with a $3 billion Series D, followed by AI coding startup Cognition at $2 billion. Joining them near the top was fleet management software provider Motive, which landed $1.3 billion, while reusable rocket developer Stoke Space raised another $1 billion.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "본사는 홍콩, 시장은 처음부터 밖에 있었다",
+        "url": "https://platum.kr/archives/294458?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b3%25b8%25ec%2582%25ac%25eb%258a%2594-%25ed%2599%258d%25ec%25bd%25a9-%25ec%258b%259c%25ec%259e%25a5%25ec%259d%2580-%25ec%25b2%2598%25ec%259d%258c%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b0%2596%25ec%2597%2590-%25ec%259e%2588%25ec%2597%2588%25eb%258b%25a4",
+        "source": "Platum",
+        "published": "2026-09-11T17:54:39+00:00",
+        "summary": "9월 11일 오전 홍콩 사이언스파크 19W 건물 1층 아레나에서 두 스타트업의 발표를 들었다. 발표가 끝나고 남은 것은 제품 설명이 아니라 두 회사의 사무소 목록이었다. 로보코어(Robocore)의 슬라이드에는 홍콩 본사와 함께 텔아비브, 뉴욕, 선전, 무스카트, 싱가포르가 적혀 있었다. 연구센터는 광저우와 말레이시아 이포에 있다. 2019년에 세워진 로봇 회사다. 이스라엘 로봇 브랜드 temi를 인수해 핵심 플랫폼으로 삼았다. 지난해 8월에는 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
@@ -259,20 +270,99 @@
         "summary": "지난 2008년 피처폰 시절 어떤 게임을 주로 했나요. 저는 주로 액션 역할수행게임(RPG)를 친구들과 함께 즐겼습니다. 아직도 당시 기억이 생생합니다. 수업 시간에 선생님 눈을 속이기 위해 책상 위에 책을 높이 쌓아두고 몰래 휴대폰으로 게임을 즐겼습니다. 지금은 보기 힘든 야간 자율학습 시간에도 선생님의 감시를 피해 게임을 했죠.",
         "thumbnail": "",
         "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "올리브영 천국 홍대 앞에 던진 무신사 뷰티의 승부수",
-        "url": "https://byline.network/2026/09/10_musinsa/",
-        "source": "ByLine Network",
-        "published": "2026-09-11T09:42:53+00:00",
-        "summary": "‘무신사 뷰티 홍대’에서 무신사가 내세우는 건 ‘약국’과 ‘인디’입니다. 최근 성분 중심의 트렌드에 맞춰 온누리약국과 협업하는 한편, 온라인 패션 브랜드를 발굴해 오프라인과 연계했던 전략을 뷰티까지 확장합니다.",
-        "thumbnail": "",
-        "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "자율형 AI에이전트 너무 쉬워졌다. 설치파일 받고 바로 시작 (김민정 HRX랩 부대표)",
+        "url": "https://www.youtube.com/watch?v=aaS2sVh-F10",
+        "source": "티타임즈TV",
+        "published": "2026-09-12T22:00:11Z",
+        "summary": "AI가 챗봇에서 에이전트로 업그레이드되면서 답변을 넘어 행동을 수행하는 단계에 접어들었습니다. 자율형 에이전트라 불리는 ...",
+        "thumbnail": "https://i.ytimg.com/vi/aaS2sVh-F10/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "aaS2sVh-F10",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "David Friedberg: AI Models are Training on YOUR DATA",
+        "url": "https://www.youtube.com/watch?v=z9YHCR6VlLA",
+        "source": "All-In Podcast",
+        "published": "2026-09-12T17:30:28Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/z9YHCR6VlLA/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "z9YHCR6VlLA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "This Star Is Very Weird",
+        "url": "https://www.youtube.com/watch?v=gOkTMV0NEHE",
+        "source": "Cleo Abram",
+        "published": "2026-09-12T15:43:28Z",
+        "summary": "This bright star is basically the eye of Sauron. And we just discovered something very weird. This is Fomalhaut A. It's sometimes ...",
+        "thumbnail": "https://i.ytimg.com/vi/gOkTMV0NEHE/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "gOkTMV0NEHE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How To Get Better At Outbound Sales",
+        "url": "https://www.youtube.com/watch?v=wr6PMD06hP0",
+        "source": "Y Combinator",
+        "published": "2026-09-12T14:00:16Z",
+        "summary": "The best outbound starts before you automate anything. Founders need to learn who actually has the problem, what gets their ...",
+        "thumbnail": "https://i.ytimg.com/vi/wr6PMD06hP0/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "wr6PMD06hP0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "유럽으로 가는 더 빠른 길 북극 항로에 적극적인 한국과 소극적인 일본",
+        "url": "https://www.youtube.com/watch?v=LFBEEft1uFc",
+        "source": "슈카월드",
+        "published": "2026-09-12T09:27:49Z",
+        "summary": "0:00 북극의 빙하가 녹으면서 벌어지는 일 3:38 북극 항로를 꽉 쥐고 있는 세계 최대 깡패 15:16 일본은 왜 북극 항로를 싫어하는가 ...",
+        "thumbnail": "https://i.ytimg.com/vi/LFBEEft1uFc/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "LFBEEft1uFc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Could Trump Really Just Give Everyone $5000?",
+        "url": "https://www.youtube.com/watch?v=oYoifJvqFbc",
+        "source": "TLDR News Global",
+        "published": "2026-09-12T08:30:17Z",
+        "summary": "Order a copy of Too Long: https://toolong.news/TL009 For the past few months, Republican strategists have been worrying about ...",
+        "thumbnail": "https://i.ytimg.com/vi/oYoifJvqFbc/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "oYoifJvqFbc",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -307,15 +397,15 @@
         "category": "videos",
         "kind": "video",
         "title": "Mass Magnetics: USA-made magnetics for robotics and defense",
-        "url": "https://www.youtube.com/shorts/hkfCJip_HXQ",
+        "url": "https://www.youtube.com/watch?v=hkfCJip_HXQ",
         "source": "Y Combinator",
-        "published": "2026-09-11T19:06:46+00:00",
-        "summary": "Magnets are becoming critical to the future of robotics, defense, and other major US industries.\n\nBut 90% of rare earth magnet material is conventionally thrown away.\n\nThe team at Mass Magnetics are recycling magnets from old EV motors into new ones, with the goal of making American magnets at scale",
-        "thumbnail": "https://i1.ytimg.com/vi/hkfCJip_HXQ/hqdefault.jpg",
+        "published": "2026-09-11T19:06:46Z",
+        "summary": "Magnets are becoming critical to the future of robotics, defense, and other major US industries. But 90% of rare earth magnet ...",
+        "thumbnail": "https://i.ytimg.com/vi/hkfCJip_HXQ/mqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "hkfCJip_HXQ",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "8hguYycdoZY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Houthis Advance: Will the Saudis Trigger the Mecca Alliance?",
-        "url": "https://www.youtube.com/watch?v=DwLHhEOwFsw",
-        "source": "TLDR News Global",
-        "published": "2026-09-11T08:45:07Z",
-        "summary": "Order a copy of Too Long: https://toolong.news/TL009 Yemen is accelerating back into a state of war as exchanges between ...",
-        "thumbnail": "https://i.ytimg.com/vi/DwLHhEOwFsw/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "DwLHhEOwFsw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Investors Are Rethinking Everything for the AI Era",
-        "url": "https://www.youtube.com/watch?v=bsdJd2VeLvg",
-        "source": "a16z",
-        "published": "2026-09-10T14:30:05Z",
-        "summary": "a16z's Jen Kha and David George sit down with Accolade Partners' Aram Verdiyan to discuss how AI is changing the power law ...",
-        "thumbnail": "https://i.ytimg.com/vi/bsdJd2VeLvg/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "bsdJd2VeLvg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "한 편 제작비 100만원? 쏟아지는 AI 숏폼 드라마",
-        "url": "https://www.youtube.com/watch?v=gGJEoJlLErI",
-        "source": "슈카월드",
-        "published": "2026-09-10T10:28:13Z",
-        "summary": "0:00 중국 사극 대하 드라마 1편에 5분! 4:00 중국을 완전히 장악한 AI 숏폼 영상 15:15 미국은 안되고, 중국은 된다?",
-        "thumbnail": "https://i.ytimg.com/vi/gGJEoJlLErI/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "gGJEoJlLErI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "고도의 해킹기술 없어도 해킹 가능한 시대, 어떻게 막아야 하나 (김인순 작가)",
-        "url": "https://www.youtube.com/watch?v=gLl635d1uow",
-        "source": "티타임즈TV",
-        "published": "2026-09-10T09:00:19Z",
-        "summary": "왜 개인정보 유출 사고가 하루가 멀다하고 터지는 걸까요? 20년 보안 전문 기자 출신 김인순 대표가 한국 기업들의 과도한 정보 수집, ...",
-        "thumbnail": "https://i.ytimg.com/vi/gLl635d1uow/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "gLl635d1uow",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Can Taiwan Defend Itself?",
-        "url": "https://www.youtube.com/watch?v=p3JmDC4r_Rc",
-        "source": "TLDR News Global",
-        "published": "2026-09-10T09:00:12Z",
-        "summary": "Take Part in our Taiwan Documentary: https://forms.gle/ZBA4b5JFRDMsrFuq5 Order a copy of Too Long: ...",
-        "thumbnail": "https://i.ytimg.com/vi/p3JmDC4r_Rc/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "p3JmDC4r_Rc",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Amjad Masad, CEO of Replit, shares the story of how he hacked into his university&#39;s database.",
-        "url": "https://www.youtube.com/watch?v=2zWC1i3rie4",
-        "source": "a16z",
-        "published": "2026-09-09T18:00:19Z",
-        "summary": "Amjad Masad grew up in Amman, Jordan, learning to code on borrowed computers at internet cafes. He later moved to the US, ...",
-        "thumbnail": "https://i.ytimg.com/vi/2zWC1i3rie4/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "2zWC1i3rie4",
           "via": "api"
         }
       }
