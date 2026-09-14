@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-13T03:11:10.357897+00:00",
+  "generated_at": "2026-09-14T03:23:49.153304+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "News live: Albanese hits back at Hanson criticism of his mother’s use of public housing; Melissa Doyle appointed Australia Day council chair",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/13/australia-news-live-chris-bowen-middle-east-fuel-petrol-prices-anika-wells-social-media-algorithm-andrew-hastie-pauline-hanson-one-nation-albanese-labor-coalition-liberal-ntwnfb",
+        "title": "Politics live: petrol prices set to rise ‘even higher’ as Middle East crisis escalates; OpenAI says it wants to train models in Australia",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-13T02:54:00+00:00",
-        "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastAndrew Hastie says he “feels sorry” for Barnaby Joyce and that he and One Nation MP David Farley probably have “buyers remorse” after joining the rightwing party.Hastie has been feuding with Pauline Hanson this week over a One Nation animated cartoon which labelled him a “traitor” after he gave evidence against Ben ",
+        "published": "2026-09-14T03:07:34+00:00",
+        "summary": "Follow the day’s news liveGet our new political email, free app or daily news podcastHanson’s comments on Albanese’s mother ‘gratuitous and unnecessary’: HumeJane Hume has joined the pile on, blasting Pauline Hanson for her comments about Anthony Albanese’s mother.I think that these comments were gratuitous and unnecessary. And the idea that you would disparage people that have grown up in social ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
-        "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+        "title": "Alan Jones told prominent athlete ‘I would like to be kissing you all night’ after alleged assault, trial hears",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/14/alan-jones-trial-athlete-witness-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-09-14T03:05:55+00:00",
+        "summary": "Alleged victim tells court he froze and was ‘in disbelief’ after broadcaster kissed him on corner of his lips at public eventA prominent athlete froze and was “shocked and embarrassed” when Alan Jones kissed him on the side of his mouth at a public event, the broadcaster’s trial at Sydney’s Downing Centre has heard.The witness said the kiss on the corner of his lips happened years after Jones sent",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Peptide user tore oesophagus after using counterfeit product, Australian regulator warns",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/14/counterfeit-retratrutide-warning-peptide-torn-oesophagus-australia-tga",
+        "source": "The Guardian World",
+        "published": "2026-09-14T02:41:49+00:00",
+        "summary": "TGA issues alert after person was hospitalised after believing they were taking experimental weight loss drug retatrutideFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA patient who tore their oesophagus after taking a counterfeit version of an experimental weight loss drug has prompted Australia’s medicines regulator to warn of ser",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "One Nation vows to cut migration by 750,000 amid warnings move would damage economy",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/14/one-nation-new-migration-plan-cut-750000-aged-care-impact-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-09-14T02:25:17+00:00",
+        "summary": "New immigration policy has attracted bipartisan condemnation, with Labor warning it would damage construction, healthcare and agricultureFollow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastOne Nation says it will cut the number of temporary migrants in Australia by more than 750,000 over three years, targeting international students and ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Niger mutiny exposes growing reliance on Russia",
+        "url": "https://www.aljazeera.com/news/2026/9/14/niger-mutiny-exposes-growing-reliance-on-russia?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-14T02:02:27+00:00",
+        "summary": "The attempted power grab has exposed deep grievances within the army and tested Niger’s ties with its Sahelian allies.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament",
+        "url": "https://www.aljazeera.com/news/2026/9/14/philippines-muslim-majority-bangsamoro-region-votes-for-first-parliament?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-14T01:59:01+00:00",
+        "summary": "However, deadly violence marred the elections one day before the polls open in the southern Philippine region.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-09-14T01:58:59+00:00",
+        "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Why Carney Isn’t Rushing Back to the Negotiating Table",
+        "url": "https://www.nytimes.com/2026/09/12/world/canada/us-canada-trade-war-carney-trump.html",
         "source": "NYT World",
-        "published": "2026-09-13T02:46:53+00:00",
-        "summary": "The group, which includes Iran, has been split over the war. It called for “maximum restraint” in the Middle East without casting blame on any particular country.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Yemen’s Houthis seize strategic Mayun Island in Red Sea",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-13T02:44:32+00:00",
-        "summary": "Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "One dead and more than 30 missing after ferry sinks off Vanuatu coast in rough seas",
-        "url": "https://www.theguardian.com/world/2026/sep/13/one-dead-and-more-than-30-missing-after-ferry-sinks-off-vanuatu-coast-in-rough-seas",
-        "source": "The Guardian World",
-        "published": "2026-09-13T02:39:50+00:00",
-        "summary": "Prime minister’s office tells families of those missing ‘the nation stands with you’ as search and rescue efforts continueOne person has died and more than 30 are missing after a ferry sank off the coast of Vanuatu, the country’s government says.The vessel, MV Matui, had set sail with more than 40 passengers and crew on Friday from the island of Santo to Ambae island in very rough seas, but did no",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "‘We started to plummet’: Turbulence rocks Turkish Airlines flight",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/we-started-to-plummet-turbulence-rocks-turkish-airlines-flight?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-13T02:37:24+00:00",
-        "summary": "Video shows passengers screaming as turbulence rocked a Tunisia-bound Turkish Airlines flight.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
-        "url": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-13T02:32:12+00:00",
-        "summary": "Saudi authorities trace the launch site to Maysan province in southeastern Iraq, near the Iranian border.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
-        "url": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
-        "source": "NYT World",
-        "published": "2026-09-13T02:32:07+00:00",
-        "summary": "Officials say the Trump administration is blocking some of Brazil’s efforts to expand cooperation on fighting transnational crime.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "NSW to put strict caps on screen time in classrooms while pushing for ‘pen and paper’ learning",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/13/nsw-to-put-strict-caps-on-screen-time-in-classrooms-while-pushing-for-pen-and-paper-learning",
-        "source": "The Guardian World",
-        "published": "2026-09-13T02:00:53+00:00",
-        "summary": "Screen limits will become mandatory in NSW schools from 2028 as federal education minister says students may need a ‘digital detox’Follow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastThe New South Wales government has announced it will implement limits on screen time in public school classrooms and push for students to take part in daily",
+        "published": "2026-09-14T01:54:31+00:00",
+        "summary": "Canadians back his tough stance on trade with the U.S. An expert says that support gives him little incentive to reopen talks soon.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,241 +96,167 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Interim Computer Museum",
-        "url": "https://icm.museum/",
+        "title": "Show HN: Is It Greg?",
+        "url": "https://github.com/antoineleclair/is-it-greg",
         "source": "Hacker News Front",
-        "published": "2026-09-13T02:43:57+00:00",
-        "summary": "Article URL: https://icm.museum/\nComments URL: https://news.ycombinator.com/item?id=49679459\nPoints: 13\n# Comments: 2",
+        "published": "2026-09-14T01:58:41+00:00",
+        "summary": "My friend Greg often posts incredible things he just made, just for fun.Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG!A few things he made that I think are amazing:- ikea complexity index: https://ikea.greg.technology/- Boing: https://boing.greg.technology/I want to make sure I don't miss anything from him, so I created this Chrome extension th",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Align AI and Mathematics–To Something Else",
-        "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+        "title": "The Malicious Use of Artificial Intelligence",
+        "url": "https://arxiv.org/abs/1802.07228",
         "source": "Hacker News Front",
-        "published": "2026-09-13T00:47:48+00:00",
-        "summary": "Article URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/\nComments URL: https://news.ycombinator.com/item?id=49678783\nPoints: 18\n# Comments: 6",
+        "published": "2026-09-14T01:22:35+00:00",
+        "summary": "Article URL: https://arxiv.org/abs/1802.07228\nComments URL: https://news.ycombinator.com/item?id=49690678\nPoints: 11\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Everyone should slow down AI development except for me",
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "title": "Show HN: Exploring the intersection of prediction markets and social media",
+        "url": "https://www.thevidmarket.com/",
         "source": "Hacker News Front",
-        "published": "2026-09-13T00:30:44+00:00",
-        "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\nComments URL: https://news.ycombinator.com/item?id=49678683\nPoints: 174\n# Comments: 66",
+        "published": "2026-09-14T01:14:25+00:00",
+        "summary": "The idea is to explore whether an intersection of social media, popularity, and prediction markets can exist and what it can look like.\n\nComments URL: https://news.ycombinator.com/item?id=49690614\nPoints: 4\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Recurrent Looped Transformer",
-        "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+        "title": "AI is not a normal technology",
+        "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
         "source": "Hacker News Front",
-        "published": "2026-09-13T00:05:22+00:00",
-        "summary": "Article URL: https://yifanzhang-pro.github.io/recurrent-looped-tranformer/\nComments URL: https://news.ycombinator.com/item?id=49678548\nPoints: 14\n# Comments: 7",
+        "published": "2026-09-14T01:00:09+00:00",
+        "summary": "Article URL: https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology\nComments URL: https://news.ycombinator.com/item?id=49690529\nPoints: 15\n# Comments: 25",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "AgentsDock: An IDE designed for agentic AI research",
-        "url": "https://agentsdock.net/",
+        "title": "AI Robots – When will they be in our homes",
+        "url": "https://spectrum.ieee.org/ai-robots",
         "source": "Hacker News Front",
-        "published": "2026-09-12T23:45:58+00:00",
-        "summary": "Article URL: https://agentsdock.net/\nComments URL: https://news.ycombinator.com/item?id=49678435\nPoints: 16\n# Comments: 6",
+        "published": "2026-09-14T00:44:23+00:00",
+        "summary": "Article URL: https://spectrum.ieee.org/ai-robots\nComments URL: https://news.ycombinator.com/item?id=49690411\nPoints: 5\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
-        "url": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+        "title": "Writing a better reality: The case for optimistic sci-fi",
+        "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
         "source": "Hacker News Front",
-        "published": "2026-09-12T23:44:44+00:00",
-        "summary": "Article URL: https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278\nComments URL: https://news.ycombinator.com/item?id=49678432\nPoints: 25\n# Comments: 26",
+        "published": "2026-09-14T00:27:11+00:00",
+        "summary": "Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/\nComments URL: https://news.ycombinator.com/item?id=49690279\nPoints: 10\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-        "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-        "source": "TechCrunch",
-        "published": "2026-09-12T23:25:38+00:00",
-        "summary": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+        "title": "Open-Source AI and Open Models Reading List",
+        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+        "source": "Hacker News Front",
+        "published": "2026-09-14T00:22:51+00:00",
+        "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list\nComments URL: https://news.ycombinator.com/item?id=49690260\nPoints: 31\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Don't be the out of touch Kung Fu master – John Carmack",
-        "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+        "title": "Apple's Dimensional Drawings",
+        "url": "https://developer.apple.com/accessories/dimensional-drawings/",
         "source": "Hacker News Front",
-        "published": "2026-09-12T21:51:43+00:00",
-        "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095\nComments URL: https://news.ycombinator.com/item?id=49677577\nPoints: 31\n# Comments: 11",
+        "published": "2026-09-14T00:11:21+00:00",
+        "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/\nComments URL: https://news.ycombinator.com/item?id=49690174\nPoints: 39\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       }
     ],
-    "startup": [
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week",
-        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/",
-        "source": "Crunchbase News",
-        "published": "2026-09-11T18:00:31+00:00",
-        "summary": "It was a monster week for U.S. startup funding, with four companies each raising $1 billion or more. The Boring Co. led with a $3 billion Series D, followed by AI coding startup Cognition at $2 billion. Joining them near the top was fleet management software provider Motive, which landed $1.3 billion, while reusable rocket developer Stoke Space raised another $1 billion.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "본사는 홍콩, 시장은 처음부터 밖에 있었다",
-        "url": "https://platum.kr/archives/294458?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b3%25b8%25ec%2582%25ac%25eb%258a%2594-%25ed%2599%258d%25ec%25bd%25a9-%25ec%258b%259c%25ec%259e%25a5%25ec%259d%2580-%25ec%25b2%2598%25ec%259d%258c%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b0%2596%25ec%2597%2590-%25ec%259e%2588%25ec%2597%2588%25eb%258b%25a4",
-        "source": "Platum",
-        "published": "2026-09-11T17:54:39+00:00",
-        "summary": "9월 11일 오전 홍콩 사이언스파크 19W 건물 1층 아레나에서 두 스타트업의 발표를 들었다. 발표가 끝나고 남은 것은 제품 설명이 아니라 두 회사의 사무소 목록이었다. 로보코어(Robocore)의 슬라이드에는 홍콩 본사와 함께 텔아비브, 뉴욕, 선전, 무스카트, 싱가포르가 적혀 있었다. 연구센터는 광저우와 말레이시아 이포에 있다. 2019년에 세워진 로봇 회사다. 이스라엘 로봇 브랜드 temi를 인수해 핵심 플랫폼으로 삼았다. 지난해 8월에는 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Is Mistral's monster fundraise a win for European sovereignty?",
-        "url": "https://sifted.eu/articles/mistral-fundraise-podcast/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-11T17:50:09+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Carbon accounting startup Greenly acquires competitor Normative in €65m deal",
-        "url": "https://sifted.eu/articles/greenly-normative-acquisition-carbon-accounting/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-11T12:11:44+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Only 2 Moats That Actually Work In The AI Era",
-        "url": "https://news.crunchbase.com/ai/moats-that-actually-work-moatti-mighty-capital/",
-        "source": "Crunchbase News",
-        "published": "2026-09-11T11:00:30+00:00",
-        "summary": "AI itself is no longer a durable differentiator, argues guest author SC Moatti of Mighty Capital, who says he strongest startup moats are counter-positioning and network economies.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "How This Doctor-Turned-Startup-Founder Decided To Fix The Healthcare Staffing Crunch: Make Employers Apply",
-        "url": "https://news.crunchbase.com/venture/doctor-turned-startup-founder-healthcare-staffing-crunch-abuzeid-incredible/",
-        "source": "Crunchbase News",
-        "published": "2026-09-11T11:00:10+00:00",
-        "summary": "Iman Abuzeid left clinical medicine to tackle healthcare problems at scale, co-founding Incredible Health, a hiring platform that reverses traditional recruiting by having employers apply to healthcare professionals by combining her expertise with co-founder Rome Portlock’s technical skills the company uses AI agents to cut hiring time by 30%.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "US VC FirstMark: ‘Europe is underrated’ right now among American investors",
-        "url": "https://sifted.eu/articles/europe-underrated-us-vc-firstmark-capital/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-11T10:45:31+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[플레이BN] 추억은 그대로, 불편함만 덜어낸 ‘제노니아1’ 리마스터",
-        "url": "https://byline.network/2026/09/11-697/",
-        "source": "ByLine Network",
-        "published": "2026-09-11T09:48:19+00:00",
-        "summary": "지난 2008년 피처폰 시절 어떤 게임을 주로 했나요. 저는 주로 액션 역할수행게임(RPG)를 친구들과 함께 즐겼습니다. 아직도 당시 기억이 생생합니다. 수업 시간에 선생님 눈을 속이기 위해 책상 위에 책을 높이 쌓아두고 몰래 휴대폰으로 게임을 즐겼습니다. 지금은 보기 힘든 야간 자율학습 시간에도 선생님의 감시를 피해 게임을 했죠.",
-        "thumbnail": "",
-        "extras": {}
-      }
-    ],
+    "startup": [],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Your Weather App Is So Bad",
+        "url": "https://www.youtube.com/shorts/jLvmBJ1fLuQ",
+        "source": "Cleo Abram",
+        "published": "2026-09-13T15:23:43+00:00",
+        "summary": "There’s a better way to predict the weather.\n\nHere’s how your weather app works and what it might be able to do very soon…\n\nBut we know this year half the world’s weather system is about to break. To see why, subscribe.\n\n#weather #extreme #tech #science \n\nNote: Satellite imagery provided by NOAA/NES",
+        "thumbnail": "https://i3.ytimg.com/vi/jLvmBJ1fLuQ/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "jLvmBJ1fLuQ",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
         "title": "자율형 AI에이전트 너무 쉬워졌다. 설치파일 받고 바로 시작 (김민정 HRX랩 부대표)",
         "url": "https://www.youtube.com/watch?v=aaS2sVh-F10",
         "source": "티타임즈TV",
-        "published": "2026-09-12T22:00:11Z",
-        "summary": "AI가 챗봇에서 에이전트로 업그레이드되면서 답변을 넘어 행동을 수행하는 단계에 접어들었습니다. 자율형 에이전트라 불리는 ...",
-        "thumbnail": "https://i.ytimg.com/vi/aaS2sVh-F10/mqdefault.jpg",
+        "published": "2026-09-12T22:00:11+00:00",
+        "summary": "AI가 챗봇에서 에이전트로 업그레이드되면서 답변을 넘어 행동을 수행하는 단계에 접어들었습니다. 자율형 에이전트라 불리는 '헤르메스'는 코덱스나 클로드 코드와 무엇이 다른 걸까요? 개발 지식이 없는 일반인에게는 설치하고 사용하는 것이 너무 어렵지 않을까요?\n\n'노트북LM 마녀'라 불리며 일반인들의 스마트한 AI 사용을 돕는 김민정 HRX랩 부대표는 이제 누구나 헤르메스를 사용할 수 있는 시기가 왔다고 합니다. 별다른 세팅 없이 설치 파일만 내려 받으면 바로 이용할 수 있게끔 쉬워진 것이 예전과 다른 점이라고 하죠. 어려워만 보였던 '",
+        "thumbnail": "https://i2.ytimg.com/vi/aaS2sVh-F10/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "aaS2sVh-F10",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
         "title": "David Friedberg: AI Models are Training on YOUR DATA",
-        "url": "https://www.youtube.com/watch?v=z9YHCR6VlLA",
+        "url": "https://www.youtube.com/shorts/z9YHCR6VlLA",
         "source": "All-In Podcast",
-        "published": "2026-09-12T17:30:28Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/z9YHCR6VlLA/mqdefault.jpg",
+        "published": "2026-09-12T17:30:28+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+        "thumbnail": "https://i3.ytimg.com/vi/z9YHCR6VlLA/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "z9YHCR6VlLA",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
         "title": "This Star Is Very Weird",
-        "url": "https://www.youtube.com/watch?v=gOkTMV0NEHE",
+        "url": "https://www.youtube.com/shorts/gOkTMV0NEHE",
         "source": "Cleo Abram",
-        "published": "2026-09-12T15:43:28Z",
-        "summary": "This bright star is basically the eye of Sauron. And we just discovered something very weird. This is Fomalhaut A. It's sometimes ...",
-        "thumbnail": "https://i.ytimg.com/vi/gOkTMV0NEHE/mqdefault.jpg",
+        "published": "2026-09-12T15:43:28+00:00",
+        "summary": "This bright star is basically the eye of Sauron. And we just discovered something very weird.\n\nThis is Fomalhaut A. It’s sometimes called the “loneliest star,” but when we pointed our telescopes at it we found something… very strange. \n\nTo find out more, subscribe!\n\n#Astronomy #Formalhaut #Science",
+        "thumbnail": "https://i4.ytimg.com/vi/gOkTMV0NEHE/hqdefault.jpg",
         "extras": {
           "theme": "trend",
           "videoId": "gOkTMV0NEHE",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "How To Get Better At Outbound Sales",
+        "title": "Why You're Getting Zero Replies To Your Cold Emails",
         "url": "https://www.youtube.com/watch?v=wr6PMD06hP0",
         "source": "Y Combinator",
-        "published": "2026-09-12T14:00:16Z",
-        "summary": "The best outbound starts before you automate anything. Founders need to learn who actually has the problem, what gets their ...",
-        "thumbnail": "https://i.ytimg.com/vi/wr6PMD06hP0/mqdefault.jpg",
+        "published": "2026-09-12T14:00:16+00:00",
+        "summary": "The best outbound starts before you automate anything. Founders need to learn who actually has the problem, what gets their attention, and what makes them reply. YC Visiting Partner Christina Gilbert recommends doing at least your first 100 outreaches by hand so you can learn those things yourself.\n",
+        "thumbnail": "https://i4.ytimg.com/vi/wr6PMD06hP0/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "wr6PMD06hP0",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -369,13 +295,13 @@
         "title": "AI Kills Everybody or Doomer Psyop? OpenAI’s Math Breakthrough, Nike’s $200B Collapse",
         "url": "https://www.youtube.com/watch?v=cvxjqbfLVk0",
         "source": "All-In Podcast",
-        "published": "2026-09-12T00:26:25Z",
-        "summary": "(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the ...",
-        "thumbnail": "https://i.ytimg.com/vi/cvxjqbfLVk0/mqdefault.jpg",
+        "published": "2026-09-12T00:26:25+00:00",
+        "summary": "(0:00) Bestie intros!\n(0:35) AI Doomsday: Valid concern or Doomer psyop?\n(33:40) Steelmanning AI Doomsday scenarios and the impact on Anthropic's IPO\n(58:45) OpenAI says it cracked a 200 year old math problem, but did it front-run users with their own data?\n(1:19:55) Nike removed from S&amp;P 100 af",
+        "thumbnail": "https://i4.ytimg.com/vi/cvxjqbfLVk0/hqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "cvxjqbfLVk0",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
@@ -384,43 +310,28 @@
         "title": "“해킹 비용은 0에 수렴, 해킹 대상은 무한대 증식” (박세준 티오리 대표)",
         "url": "https://www.youtube.com/watch?v=o75PWyZaV6s",
         "source": "티타임즈TV",
-        "published": "2026-09-11T22:00:01Z",
-        "summary": "하루가 멀다하고 대기업부터 중소기업까지 해킹을 당했다는 소식이 전해지고 있습니다. 해커들의 올림픽이라 불리는 데프콘에서 9회 ...",
-        "thumbnail": "https://i.ytimg.com/vi/o75PWyZaV6s/mqdefault.jpg",
+        "published": "2026-09-11T22:00:01+00:00",
+        "summary": "하루가 멀다하고 대기업부터 중소기업까지 해킹을 당했다는 소식이 전해지고 있습니다. 해커들의 올림픽이라 불리는 데프콘에서 9회 우승을 기록한 박세준 티오리 대표는 '해커들의 ROI' 때문이라고 설명합니다. 해커들이 공격을 할 때도 시간과 비용이 들어가기 때문에 얻을 것이 많은 곳을 우선적으로 공격하게 된다는 것이죠. AI와 함께 사이버 공격을 하게 되면서, 해커들의 공격 비용은 0원으로 수렴하고 있다는 것입니다. 이제는 그 어떤 곳이든 털지 않을 이유가 없다는 뜻이죠. 박세준 대표와 함께 AI 해킹의 위험성과 대처 방법에 대해 알아봅",
+        "thumbnail": "https://i4.ytimg.com/vi/o75PWyZaV6s/hqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "o75PWyZaV6s",
-          "via": "api"
+          "via": "rss"
         }
       },
       {
         "category": "videos",
         "kind": "video",
         "title": "Mass Magnetics: USA-made magnetics for robotics and defense",
-        "url": "https://www.youtube.com/watch?v=hkfCJip_HXQ",
+        "url": "https://www.youtube.com/shorts/hkfCJip_HXQ",
         "source": "Y Combinator",
-        "published": "2026-09-11T19:06:46Z",
-        "summary": "Magnets are becoming critical to the future of robotics, defense, and other major US industries. But 90% of rare earth magnet ...",
-        "thumbnail": "https://i.ytimg.com/vi/hkfCJip_HXQ/mqdefault.jpg",
+        "published": "2026-09-11T19:06:46+00:00",
+        "summary": "Magnets are becoming critical to the future of robotics, defense, and other major US industries.\n\nBut 90% of rare earth magnet material is conventionally thrown away.\n\nThe team at Mass Magnetics are recycling magnets from old EV motors into new ones, with the goal of making American magnets at scale",
+        "thumbnail": "https://i1.ytimg.com/vi/hkfCJip_HXQ/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "hkfCJip_HXQ",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "알려지지 않은 넥스트 시절 잡스, 잡스와 함께 일한 111명의 취재로 알게된 것 | 이오서재, 넥스트 스티브잡스",
-        "url": "https://www.youtube.com/watch?v=8hguYycdoZY",
-        "source": "EO 이오",
-        "published": "2026-09-11T09:00:15Z",
-        "summary": "수많은 창업가들의 우상, 스티브 잡스. 우리는 보통 잡스의 신념, 또는 타협하지 않아 완벽한 그의 디자인 철학에 매료되곤 합니다.",
-        "thumbnail": "https://i.ytimg.com/vi/8hguYycdoZY/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "8hguYycdoZY",
-          "via": "api"
+          "via": "rss"
         }
       }
     ]
