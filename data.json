@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-15T03:25:15.532031+00:00",
+  "generated_at": "2026-09-16T03:21:20.490450+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australian politics live: Pauline Hanson offers qualified apologies to Albanese and Indigenous Australians over podcast comments",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb",
+        "title": "Denmark Says Russian Warship \\Fired Flares at Military Helicopter",
+        "url": "https://www.nytimes.com/2026/09/15/world/europe/denmark-russia-flares-helicopter.html",
+        "source": "NYT World",
+        "published": "2026-09-16T03:12:37+00:00",
+        "summary": "The incident was the latest in string of episodes involving airspace incursions and other provocations that European leaders have blamed on Russia.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Rising Fuel Prices Set Off Anger and Protests Around the World",
+        "url": "https://www.nytimes.com/2026/09/15/world/asia/syria-fuel-price-protests-world.html",
+        "source": "NYT World",
+        "published": "2026-09-16T03:05:49+00:00",
+        "summary": "From Indonesia to Guatemala to Syria, shortages and price increases are leading to protests and blackouts.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australian politics live: Greens say AI companies’ ‘audacity is gobsmacking’; growing risk of selling Sydney or Melbourne units at a loss",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-15T03:19:40+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastThe South Australian premier, Peter Malinauskas, says there is optimism that steel making will continue in his state, after the closure of a major blast furnace at Whyalla was announced yesterday.Speaking to ABC News Breakfast from Whyalla and donned in some hi-vis, Malinauskas says there was disappointment, heart",
+        "published": "2026-09-16T02:58:35+00:00",
+        "summary": "Follow the day’s news liveGet our new political email, free app or daily news podcastSports precinct funding report reveals a ‘pattern of behaviour’, Wilson saysTim Wilson says there are questions for Labor to answer over an ABC report which says health minister Mark Butler’s office asked an Adelaide council to put forward a $6m sports precinct upgrade for federal funding before any detailed costi",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
-        "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+        "title": "Is US health care too broken to cure cancer?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-16T02:52:44+00:00",
+        "summary": "Ted Okon tells Al Jazeera that even with a cure, the US wouldn’t be able to treat everyone with cancer.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-16T02:40:08+00:00",
+        "summary": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Alice Springs heavy metal music venue raises $1m in donations in fight to stay open",
+        "url": "https://www.theguardian.com/music/2026/sep/16/alice-springs-heavy-metal-music-venue-black-wreath-fundraiser-raises-1m",
         "source": "The Guardian World",
-        "published": "2026-09-15T02:43:18+00:00",
-        "summary": "Latest daily reductions will further choke one of the world’s most important shipping lanesThe Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climate phenomenon, further choking up one of the world’s most important shipping lanes.The canal handles 5% of global maritime trade and about 40% of US container traffic; it is favoured by shippers because i",
+        "published": "2026-09-16T02:31:05+00:00",
+        "summary": "Supporters from around Australia back the Black Wreath, a volunteer-run centre far off the beaten touring trackAlice Springs has a population of 34,000 and exactly one dedicated live music space: a heavy metal venue called the Black Wreath. It has hosted hundreds of bands from around the country over the past decade – despite being 1,500km from the nearest city.For musicians in central Australia, ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump administration suffers double legal setback over immigration rules",
-        "url": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss",
+        "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-09-15T02:31:18+00:00",
-        "summary": "Courts and Democratic-led states mount legal challenges against Trump administration visa and green card limits.",
+        "published": "2026-09-16T01:53:27+00:00",
+        "summary": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Suspected bicycle thief dies during arrest in Netherlands",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_suspected-bike-thief-dies-during-arrest-netherlands-140926?traffic_source=rss",
+        "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+        "url": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-09-15T02:30:09+00:00",
-        "summary": "Protests have been held in Rotterdam, the Netherlands after a man died during a police arrest over the weekend.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Viral hit-and-run raises road rage questions in India",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-15T02:07:17+00:00",
-        "summary": "Indian police have launched a probe after a woman biker shared video of a car ramming her motorcycle.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-15T01:23:53+00:00",
-        "summary": "Israeli rights group B’Tselem says Israeli settler violence aims to eliminate Palestinian existence.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Russia resupplies military bases in Syria for first time under new deal",
-        "url": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-15T00:43:47+00:00",
-        "summary": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Geneva talks put Rwanda-DRC peace deal to the test",
-        "url": "https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-15T00:26:06+00:00",
-        "summary": "The talks come amid continued fighting and disputes over the implementation of key security commitments.",
+        "published": "2026-09-16T01:42:37+00:00",
+        "summary": "M23 controls large parts of eastern DRC as Kinshasa and Kigali remain divided over security and sovereignty.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-        "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+        "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+        "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+        "source": "Hacker News Front",
+        "published": "2026-09-16T02:46:06+00:00",
+        "summary": "Article URL: https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/\nComments URL: https://news.ycombinator.com/item?id=49721548\nPoints: 13\n# Comments: 4",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Stay discoverable in search while disallowing AI training",
+        "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+        "source": "Hacker News Front",
+        "published": "2026-09-16T02:25:18+00:00",
+        "summary": "Article URL: https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/\nComments URL: https://news.ycombinator.com/item?id=49721435\nPoints: 23\n# Comments: 12",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Apple Reference Image: A New Approach for Verified Photography",
+        "url": "https://security.apple.com/blog/apple-reference-image/",
+        "source": "Hacker News Front",
+        "published": "2026-09-16T02:07:31+00:00",
+        "summary": "Article URL: https://security.apple.com/blog/apple-reference-image/\nComments URL: https://news.ycombinator.com/item?id=49721322\nPoints: 16\n# Comments: 7",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+        "url": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+        "source": "The Verge",
+        "published": "2026-09-16T02:00:00+00:00",
+        "summary": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump depending on how you plan to use it. While the Palma 2 launched in 2024 for $279.99, [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+        "url": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+        "source": "The Verge",
+        "published": "2026-09-16T01:00:00+00:00",
+        "summary": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and more accessible alternative to the Canon R6 Mark II for photographers wanting a larger [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
         "source": "TechCrunch",
-        "published": "2026-09-15T01:50:48+00:00",
-        "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+        "published": "2026-09-16T00:20:39+00:00",
+        "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+        "title": "AI and data centers are incredibly unpopular in every poll",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "source": "The Verge",
+        "published": "2026-09-15T23:34:25+00:00",
+        "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Saving Jet Fuel",
+        "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
         "source": "Hacker News Front",
-        "published": "2026-09-15T00:40:14+00:00",
-        "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325\nComments URL: https://news.ycombinator.com/item?id=49706223\nPoints: 41\n# Comments: 17",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
-        "url": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
-        "source": "Wired",
-        "published": "2026-09-15T00:23:42+00:00",
-        "summary": "The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say would upend voting in November.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-        "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-        "source": "The Verge",
-        "published": "2026-09-15T00:13:47+00:00",
-        "summary": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valve designer Pierre-Loup [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-        "url": "https://github.com/JamesRyanATX/fcbnerd",
-        "source": "Hacker News Front",
-        "published": "2026-09-14T23:01:36+00:00",
-        "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd\nComments URL: https://news.ycombinator.com/item?id=49705442\nPoints: 44\n# Comments: 7",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "source": "The Verge",
-        "published": "2026-09-14T22:59:41+00:00",
-        "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Apple Home’s new security camera features cost as much as $60 a month",
-        "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-        "source": "The Verge",
-        "published": "2026-09-14T22:28:52+00:00",
-        "summary": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short text descriptions of who and what compatible security cameras saw, [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-        "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-        "source": "Ars Technica",
-        "published": "2026-09-14T22:06:24+00:00",
-        "summary": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+        "published": "2026-09-15T23:17:20+00:00",
+        "summary": "Article URL: https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html\nComments URL: https://news.ycombinator.com/item?id=49720164\nPoints: 46\n# Comments: 19",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,88 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[중국 비즈니스 트렌드&동향] AI가 대신 약속 잡는 위챗, 중동 자본 들어온 루이싱커피",
-        "url": "https://platum.kr/archives/294472?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-ai%25ea%25b0%2580-%25eb%258c%2580%25ec%258b%25a0-%25ec%2595%25bd%25ec%2586%258d-%25ec%259e%25a1%25eb%258a%2594-%25ec%259c%2584%25ec%25b1%2597",
-        "source": "Platum",
-        "published": "2026-09-14T23:01:00+00:00",
-        "summary": "위챗, AI 비서끼리 먼저 협의하는 &#8216;샤오웨이 AI 소셜&#8217; 내부 테스트 위챗(WeChat, 微信)이 사용자의 AI 비서가 상대방의 AI 비서와 직접 대화해 용건을 처리하는 &#8216;샤오웨이 AI 소셜(小微AI社交)&#8217; 기능을 소수 사용자 대상으로 내부 테스트하고 있다. 사용자가 자신의 샤오웨이에게 용건을 말하면 샤오웨이가 상대방 계정의 샤오웨이를 찾아 먼저 협의하고, 결과를 가져오는 방식이다. 약속 시간 조율이나 일정 확인, 행사 참석 의사 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "ETH Zurich students build ‘first Swiss humanoid’, eye fundraising",
-        "url": "https://sifted.eu/articles/eth-zurich-students-humanoid-xalun/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-14T15:30:14+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Satellite startup Open Cosmos raises €300m amid space frenzy",
-        "url": "https://sifted.eu/articles/open-cosmos-fundraise-space/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-14T14:00:22+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "에이전트가 키우는 추론 수요…중국 AI 연산, 4년 뒤 80%가 ‘모델 돌리기’",
-        "url": "https://platum.kr/archives/294575?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8%25ea%25b0%2580-%25ed%2582%25a4%25ec%259a%25b0%25eb%258a%2594-%25ec%25b6%2594%25eb%25a1%25a0-%25ec%2588%2598%25ec%259a%2594%25ec%25a4%2591%25ea%25b5%25ad-ai-%25ec%2597%25b0%25ec%2582%25b0-4%25eb%2585%2584-%25eb%2592%25a4-80%25ea%25b0%2580",
-        "source": "Platum",
-        "published": "2026-09-14T11:03:49+00:00",
-        "summary": "중국 AI 산업의 경쟁축이 대형모델 개발에서 에이전트의 배치와 운영으로 옮겨가고 있다. 중국전신연구원은 12일 발표한 &#8216;에이전트 시대 AI 인프라 발전 연구보고서 2026&#8217;에서 2029년이면 추론 컴퓨팅이 중국 컴퓨팅 시장의 약 80%를 차지해 학습 수요를 크게 앞설 것으로 전망했다. 보고서는 중국 AI 산업이 대형모델과 단순 컴퓨팅 규모 경쟁에서 에이전트의 대규모 배치와 상용화 단계로 넘어가고 있다고 진단했다. 향후 2~3년 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Y Combinator Still Busiest Startup Investor In August As Nvidia Ramps Up Its Dealmaking Pace",
-        "url": "https://news.crunchbase.com/venture/y-combinator-busiest-startup-investor-nvda-ramps-up-august-2026/",
-        "source": "Crunchbase News",
-        "published": "2026-09-14T11:00:45+00:00",
-        "summary": "We ranked August’s most active startup investors across several categories, including lead backers, prolific venture dealmakers, highest spenders and seed investors, which were once again dominated by familiar names.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Dead Weight On The Cap Table: The Startup Equity Problem Causing Litigation And How You Can Fix It",
-        "url": "https://news.crunchbase.com/startups/cap-table-dead-weight-avoiding-litigation-siegel-grellas/",
-        "source": "Crunchbase News",
-        "published": "2026-09-14T11:00:33+00:00",
-        "summary": "The standard four-year founder vesting schedule can leave departed founders with large equity stakes, complicating financing and control, and prompting costly litigation aimed at reclaiming shares. Guest author David Siegel, a partner at Grellas Shah LLP, shares ways startups can reduce these risks.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "설계사가 고객 끌어오던 시대는 갔다…토스인슈어런스의 답",
-        "url": "https://byline.network/2026/09/0914-3/",
+        "title": "[인터뷰] 토스인슈어런스는 왜 ‘토스 앱’ 밖으로 나오려 하나",
+        "url": "https://byline.network/2026/09/0915-5/",
         "source": "ByLine Network",
-        "published": "2026-09-14T10:11:35+00:00",
-        "summary": "보험대리점(GA) 업계의 경쟁 방식이 설계사 영입과 선지급 수수료 중심에서 고객 관리와 계약 유지, 내부통제 등 시스템 중심으로 이동하고 있다. 토스인슈어런스는 설계사 확보 경쟁보다 고객 데이터베이스(DB) 공급과 자체 교육, 디지털 업무 시스템, 내부통제 등을 강화하며 변화에 대응하고 있다.",
+        "published": "2026-09-16T01:55:37+00:00",
+        "summary": "보험에 가입하기 전 정보를 찾는 경로가 달라지고 있다. 포털 검색은 물론 생성형 인공지능(AI) 서비스에서도 보험 정보를 탐색한다. 이 과정에서 앱을 설치해야 하는 경우가 진입장벽이 될 수 있다. 보험대리점(GA) 토스인슈어런스의 보험 상담은 그간 토스 앱 이용자를 중심으로 이뤄졌다. 토스인슈어런스는 지난달 모바일·PC 웹에서도 보험 상담을 신청할 수 있도록 공식 홈페이지를 리뉴얼했다. 토스 앱을 이용하지 않는 소비자도 웹에서 상담을 신청할 수 있도록 고객 접점을 넓힌 것이다. 최근 토스인슈어런스는 고객뿐 아니라 보험설계사를 만나는 접점도 넓히고 있다. 정부의 수수료 제도 개편으로 설계사에게 지급하는 초기 수수료 경쟁에 제동이 걸리면서 GA 업계의 설계사 영입 방식에도 변화가 나타나고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "창업자 절반이 정신건강 문제 경험, 81%는 어려움 말하지 않는다",
-        "url": "https://platum.kr/archives/294571?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590-%25ec%25a0%2588%25eb%25b0%2598%25ec%259d%25b4-%25ec%25a0%2595%25ec%258b%25a0%25ea%25b1%25b4%25ea%25b0%2595-%25eb%25ac%25b8%25ec%25a0%259c-%25ea%25b2%25bd%25ed%2597%2598-81%25eb%258a%2594-%25ec%2596%25b4%25eb%25a0%25a4%25ec%259b%2580-%25eb%25a7%2590%25ed%2595%2598%25ec%25a7%2580",
-        "source": "Platum",
-        "published": "2026-09-14T09:44:43+00:00",
-        "summary": "창업자 242명을 조사한 미국 연구에서 절반에 가까운 49%가 생애 한 번 이상 정신건강 문제를 경험했다고 답했다. 최근 2~3년 사이 나온 스타트업 업계 조사에서도 불안과 번아웃, 높은 스트레스를 호소하는 창업자가 적지 않다. 성공한 창업자의 이야기는 넘치지만 회사를 만들고 키우는 과정에서 창업자 개인이 치르는 정신적 비용은 오랫동안 주변부의 문제였다. 얼마나 많은가 창업자 정신건강 연구에서 자주 인용되는 연구 ... 더 읽기",
+        "title": "캐릭터챗 다음은 무엇일까…딥그로브 “내가 주인공인 AI 드라마”",
+        "url": "https://byline.network/2026/09/3748274929/",
+        "source": "ByLine Network",
+        "published": "2026-09-16T01:26:43+00:00",
+        "summary": "나봉민 딥그로브 대표는 캐릭터챗이 터질 것을 가장 먼저 알아본 사람 중 하나였다. 그는 뤼튼테크놀로지스 재직 시절 캐릭터챗 서비스 ‘크랙’을 기획하기도 했다. 크랙은 뤼튼테크놀로지스를 기업가치 1조원 유니콘으로 밀어 올린 일등공신이다. 이 정도의 폭발적인 성장은 처음 기획할 때 아무도 예상하지 못했다. 나 대표만 빼고는.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Exein raises $270m to fight AI hackers, doubles valuation",
+        "url": "https://sifted.eu/articles/exein-funding-round-ai-hack-cybersecurity/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-15T16:58:28+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Exclusive: Revolut’s Storonsky hits back in €350m superyacht court case",
+        "url": "https://sifted.eu/articles/defence-storonsky-superyacht/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-15T16:36:36+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Does Europe have a voice in AI safety?",
+        "url": "https://sifted.eu/articles/europe-ai-safety-podcast/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-15T15:02:23+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Samsung and EU Scaleup Fund back efficient AI startup Euclyd in €200m Series A",
+        "url": "https://sifted.eu/articles/euclyd-efficient-ai-series-a/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-15T13:40:07+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "MP calls for scrutiny of AI Security Institute as fears grow",
+        "url": "https://sifted.eu/articles/scrutiny-ai-security-institute/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-15T12:21:31+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "AI Is Creating Wealth Faster Than Financial Lives Can Adapt",
+        "url": "https://news.crunchbase.com/startups/ai-creating-wealth-fast-honig-from-honig/",
+        "source": "Crunchbase News",
+        "published": "2026-09-15T11:00:56+00:00",
+        "summary": "AI startups are reaching massive valuations and liquidity events so quickly that young founders and employees often acquire life-changing wealth before they are prepared to manage it. Ron Honig of From-Honig Family Office, advises that the company's financial plans should remain flexible, balancing long-term security with future opportunities.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,30 +276,120 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "The Besties REACT to Trump and Jensen Calling Out the Doomer Hoax",
-        "url": "https://www.youtube.com/watch?v=zXGso01RBIA",
+        "title": "JD Vance to AI Labs: Don’t Build “Frankenstein” and Then Ask for Government Regulation",
+        "url": "https://www.youtube.com/watch?v=QGKlOf_kThY",
         "source": "All-In Podcast",
-        "published": "2026-09-15T02:30:08Z",
+        "published": "2026-09-15T22:10:26Z",
         "summary": "Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute ...",
-        "thumbnail": "https://i.ytimg.com/vi/zXGso01RBIA/mqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/QGKlOf_kThY/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "zXGso01RBIA",
+          "videoId": "QGKlOf_kThY",
           "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "MUST SEE: Trump calls Nvidia CEO Jensen Huang live on stage!",
-        "url": "https://www.youtube.com/watch?v=6tF4oYLQrJc",
+        "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse &amp; the Midterms",
+        "url": "https://www.youtube.com/watch?v=PUcooQRy0PU",
         "source": "All-In Podcast",
-        "published": "2026-09-14T22:52:17Z",
-        "summary": "Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute ...",
-        "thumbnail": "https://i.ytimg.com/vi/6tF4oYLQrJc/mqdefault.jpg",
+        "published": "2026-09-15T21:13:22Z",
+        "summary": "(0:00) VP JD Vance joins The Besties! (1:40) Assessing the Trump Admin so far: Border control, re-industrialization, inflation, Iran, ...",
+        "thumbnail": "https://i.ytimg.com/vi/PUcooQRy0PU/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "6tF4oYLQrJc",
+          "videoId": "PUcooQRy0PU",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is Yemen About to Fall to the Houthis?",
+        "url": "https://www.youtube.com/watch?v=0YqvhdKM0jQ",
+        "source": "TLDR News Global",
+        "published": "2026-09-15T14:33:43Z",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going ...",
+        "thumbnail": "https://i.ytimg.com/vi/0YqvhdKM0jQ/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "0YqvhdKM0jQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Real Story Behind the Internet&#39;s Biggest Wellness Trends",
+        "url": "https://www.youtube.com/watch?v=HKZdte6exaw",
+        "source": "a16z",
+        "published": "2026-09-15T14:30:36Z",
+        "summary": "Elena Burger sits down with academic and cyber ethnographer Ruby Justice Thelot to explore the increasingly blurry line ...",
+        "thumbnail": "https://i.ytimg.com/vi/HKZdte6exaw/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "HKZdte6exaw",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Most Controversial Math Problem Today",
+        "url": "https://www.youtube.com/watch?v=QmRchnYSqBQ",
+        "source": "Cleo Abram",
+        "published": "2026-09-15T14:11:49Z",
+        "summary": "Have you heard the real story about one of the hardest math problems of all time… the “Navier-Stokes” problem? There's a million ...",
+        "thumbnail": "https://i.ytimg.com/vi/QmRchnYSqBQ/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "QmRchnYSqBQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "GPT-6 Astra, 이번에야말로 호들갑 아니다??",
+        "url": "https://www.youtube.com/watch?v=q836AS_27GE",
+        "source": "슈카월드",
+        "published": "2026-09-15T10:11:11Z",
+        "summary": "0:00 gpt6 아스트라, 수학계 7대 난제 해결했다? 8:18 압도적 기능을 자랑하는 gpt 6 16:14 반도체 시장의 구원자가 될 것인가? 19:05 ...",
+        "thumbnail": "https://i.ytimg.com/vi/q836AS_27GE/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "q836AS_27GE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Regional Defence Pacts Are on the Rise",
+        "url": "https://www.youtube.com/watch?v=EYPjUOfPfjw",
+        "source": "TLDR News Global",
+        "published": "2026-09-15T09:00:36Z",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going ...",
+        "thumbnail": "https://i.ytimg.com/vi/EYPjUOfPfjw/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "EYPjUOfPfjw",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“AI가 조직의 중심, 사람은 가장자리에서 일한다”는 잭 도시",
+        "url": "https://www.youtube.com/watch?v=BeeSuExA9wM",
+        "source": "티타임즈TV",
+        "published": "2026-09-15T09:00:06Z",
+        "summary": "트위터 공동창업자 잭 도시가 자신의 또다른 회사 블록에서 새로운 실험을 시작했습니다. 전 직원의 40%를 내보내고, 중간관리자를 ...",
+        "thumbnail": "https://i.ytimg.com/vi/BeeSuExA9wM/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "BeeSuExA9wM",
           "via": "api"
         }
       },
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "OX-wZsHD5sU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Greg Brockman Says AGI Has Arrived",
-        "url": "https://www.youtube.com/watch?v=IJn8cagMW18",
-        "source": "a16z",
-        "published": "2026-09-14T14:30:28Z",
-        "summary": "Ben Horowitz and Erik Torenberg sit down with OpenAI co-founder and President Greg Brockman to discuss why he believes AI ...",
-        "thumbnail": "https://i.ytimg.com/vi/IJn8cagMW18/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "IJn8cagMW18",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "한국인 10명 중 1명이 쓰는 앱을 만든 하버드 출신 창업가 l Speak",
-        "url": "https://www.youtube.com/watch?v=x7CKvwhWGVg",
-        "source": "EO 이오",
-        "published": "2026-09-14T11:30:31Z",
-        "summary": "최고의 교육은 1:1이라는 걸, 40년 전부터 모두가 알고 있었습니다. 하지만 모두에게 1:1 선생님을 붙이는 건 경제적으로 불가능한 일 ...",
-        "thumbnail": "https://i.ytimg.com/vi/x7CKvwhWGVg/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "x7CKvwhWGVg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "아이폰 최초 폴더블폰, 509만원 살만할까?",
-        "url": "https://www.youtube.com/watch?v=IR9mLZlMZVo",
-        "source": "슈카월드",
-        "published": "2026-09-14T10:20:50Z",
-        "summary": "0:00 뜨거운 관심 속에 공개된 '아이폰 듀오' 17:50 배터리 두배, 디스플레이 두배, 가격도 두배.. 21:14 삼성의 반응 34:33 듀오 이외의 ...",
-        "thumbnail": "https://i.ytimg.com/vi/IR9mLZlMZVo/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "IR9mLZlMZVo",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "헤르메스를 조직에서도 쓸 수 있을까? (김민정 HRX랩 부대표)",
-        "url": "https://www.youtube.com/watch?v=SBpTfkNJHKY",
-        "source": "티타임즈TV",
-        "published": "2026-09-14T09:00:16Z",
-        "summary": "헤르메스나 오픈클로 같은 자율형 AI 에이전트는 설치부터 세팅까지의 과정이 어려웠습니다. 하지만 최근에는 설치파일만 내려 ...",
-        "thumbnail": "https://i.ytimg.com/vi/SBpTfkNJHKY/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "SBpTfkNJHKY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "The Home Depot: The best-performing stock in the S&amp;P 500 since IPO (Audio)",
-        "url": "https://www.youtube.com/watch?v=6Kq5e49MD6U",
-        "source": "Acquired",
-        "published": "2026-09-14T03:45:30Z",
-        "summary": "The Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ...",
-        "thumbnail": "https://i.ytimg.com/vi/6Kq5e49MD6U/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "6Kq5e49MD6U",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Your Weather App Is So Bad",
-        "url": "https://www.youtube.com/watch?v=jLvmBJ1fLuQ",
-        "source": "Cleo Abram",
-        "published": "2026-09-13T15:23:43Z",
-        "summary": "There's a better way to predict the weather. Here's how your weather app works and what it might be able to do very soon…",
-        "thumbnail": "https://i.ytimg.com/vi/jLvmBJ1fLuQ/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "jLvmBJ1fLuQ",
           "via": "api"
         }
       }
