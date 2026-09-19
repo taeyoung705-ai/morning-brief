@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-18T03:13:05.265042+00:00",
+  "generated_at": "2026-09-19T03:09:11.664405+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Home affairs warns AI enables foreign interference and hackers; Qantas ground staff prepare to strike",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/18/labor-migration-plan-tony-burke-coalition-qantas-renewable-energy-ntwnfb",
+        "title": "South Africans voice their anger as hundreds hold femicide vigil",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/south-africans-voice-their-anger-as-hundreds-hold-femicide-vigil?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-19T02:41:57+00:00",
+        "summary": "Hundreds of people gathered at the University of Cape Town on Friday at a vigil for victims of femicide in South Africa.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "US court blocks Trump plan to deport migrants to third countries",
+        "url": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-19T02:16:45+00:00",
+        "summary": "US judges affirm migrants must have opportunities to voice safety concerns before deportation to unfamiliar nations.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Iranian women defy law and run Tehran race without hijab",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/iranian-women-defy-law-and-run-tehran-race-without-hijab?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-19T01:45:36+00:00",
+        "summary": "Hundreds of Iranian women defy hijab law in Tehran 10K race.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Google’s Gemini AI hacks 3 companies in security test, then stops",
+        "url": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-19T01:38:02+00:00",
+        "summary": "Google discloses first breakout by Gemini following similar incidents by Meta, Anthropic and OpenAI.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "US and Denmark reach security deal after Trump’s threats to take over Greenland",
+        "url": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
         "source": "The Guardian World",
-        "published": "2026-09-18T03:03:09+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastAustralia needs to slow down its artificial intelligence use and create better security laws, the companies creating the technology have told the federal government.In a submission to an ongoing inquiry, OpenAI said national leaders had a responsibility to work with other countries to stop global security threats:",
+        "published": "2026-09-19T01:01:37+00:00",
+        "summary": "The agreement would allow the US to expand its military presence, while Denmark and Greenland say it preserves their sovereignty and right to self-determinationDonald Trump announced on Friday that the US had struck an Arctic security pact with the leaders of Denmark and Greenland, after threatening for much of his second term to annex the semi-autonomous Danish territory by force.The full scope o",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump Moves Ahead With F-35 Jet Sales to Saudi Arabia Despite Intelligence Concerns",
-        "url": "https://www.nytimes.com/2026/09/17/us/politics/trump-f35-jet-saudi-arabia.html",
-        "source": "NYT World",
-        "published": "2026-09-18T02:32:18+00:00",
-        "summary": "U.S. intelligence agencies have warned in internal reports that China could acquire or steal U.S. warplane technology if F-35 jets are sent to Saudi Arabia.",
+        "title": "Trump signs sweeping Russia sanctions over Ukraine war",
+        "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-19T00:46:04+00:00",
+        "summary": "New law allows tariffs of up to 100 percent on major buyers of Russian oil, including China and India.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Sydney woman sentenced for killing and dismembering abusive husband",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/18/sydney-woman-nirmeen-noufl-sentenced-killing-and-dismembering-abusive-husband-ntwnfb",
+        "title": "Swimmer dies after being bitten by shark off popular Perth beach",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/18/swimmer-dies-after-being-bitten-by-shark-off-popular-perth-beach",
         "source": "The Guardian World",
-        "published": "2026-09-18T02:06:52+00:00",
-        "summary": "‘Disposal of the body in this case was as thorough as it was brutal,’ justice Peter Hamill said when sentencing 55-year-old Nirmeen NouflFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA woman who lied to police multiple times to cover up killing and dismembering her abusive husband will spend a further 12 months in jail.Nirmeen Nouf",
+        "published": "2026-09-19T00:38:47+00:00",
+        "summary": "Locals describe their shock at witnessing the incident at Sorrento beach on Friday morningGet our breaking news email, free app or daily news podcastA 63-year-old man has died after being bitten by a shark off Sorrento beach in Perth’s north.Emergency services were called to the popular beach at about 10.30am on Friday after reports of a shark-related incident. Continue reading...",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Russians go to polls against backdrop of Ukraine war and Putin’s tightening grip",
-        "url": "https://www.theguardian.com/world/2026/sep/18/russia-parliament-election-duma-putin",
-        "source": "The Guardian World",
-        "published": "2026-09-18T02:00:05+00:00",
-        "summary": "President’s United Russia party faces no meaningful opposition after liberal anti-war party barred from ballotRussians are going to the polls to elect a new State Duma in a tightly controlled vote stripped of meaningful competition and with little doubt about the result.Vladimir Putin’s United Russia is expected to extend the grip on parliament it has held for 23 years, alongside a handful of nomi",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
-        "url": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-18T01:58:54+00:00",
-        "summary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "UN findings show US strikes on Minab could be war crimes",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-18T01:58:53+00:00",
-        "summary": "UN-backed human rights experts say the US committed possible war crimes when it launched two strikes.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "White House withdraws Lance Schroyer’s nomination to lead ICE",
-        "url": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-18T01:23:44+00:00",
-        "summary": "The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Former Assad officer sentenced to 60 years in US for torture",
-        "url": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-18T01:15:25+00:00",
-        "summary": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad&#039;s regime.",
+        "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+        "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-09-19T00:03:53+00:00",
+        "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Waymo says Singapore will be its next international robotaxi city",
-        "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-        "source": "The Verge",
-        "published": "2026-09-18T02:00:00+00:00",
-        "summary": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Ask A Monk – A digital wilderness for thoughts with no immediate answer",
-        "url": "https://askamonk.online",
+        "title": "SDCC – Small Device C Compiler",
+        "url": "https://sdcc.sourceforge.net/",
         "source": "Hacker News Front",
-        "published": "2026-09-18T01:34:08+00:00",
-        "summary": "Article URL: https://askamonk.online\nComments URL: https://news.ycombinator.com/item?id=49749171\nPoints: 3\n# Comments: 0",
+        "published": "2026-09-19T02:32:36+00:00",
+        "summary": "Article URL: https://sdcc.sourceforge.net/\nComments URL: https://news.ycombinator.com/item?id=49762744\nPoints: 6\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Telstra outage: The night a network decided the year was 2006",
-        "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+        "title": "Flock Offers Employees Buyouts as Customers Flee",
+        "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
+        "source": "Wired",
+        "published": "2026-09-19T02:22:54+00:00",
+        "summary": "As dozens of cities end contracts for its controversial license plate readers, Flock is rolling out a voluntary severance program, WIRED has learned.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Science Is Open Software",
+        "url": "https://jepedersen.dk/blog/202505_research/",
         "source": "Hacker News Front",
-        "published": "2026-09-18T01:05:03+00:00",
-        "summary": "Article URL: https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006\nComments URL: https://news.ycombinator.com/item?id=49748957\nPoints: 14\n# Comments: 4",
+        "published": "2026-09-19T02:21:35+00:00",
+        "summary": "Article URL: https://jepedersen.dk/blog/202505_research/\nComments URL: https://news.ycombinator.com/item?id=49762687\nPoints: 12\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Goose:experimental lang 1.16x faster than C++ and 1.12x than safe Rust, mem safe",
-        "url": "https://github.com/aardappel/goose/tree/master",
+        "title": "Gemini hacked three companies in first known breakout by Google's AI",
+        "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
         "source": "Hacker News Front",
-        "published": "2026-09-18T01:04:54+00:00",
-        "summary": "Article URL: https://github.com/aardappel/goose/tree/master\nComments URL: https://news.ycombinator.com/item?id=49748954\nPoints: 43\n# Comments: 39",
+        "published": "2026-09-19T01:40:35+00:00",
+        "summary": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/\nComments URL: https://news.ycombinator.com/item?id=49762493\nPoints: 12\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
-        "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
         "source": "TechCrunch",
-        "published": "2026-09-18T00:02:36+00:00",
-        "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+        "published": "2026-09-19T01:00:00+00:00",
+        "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-        "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-        "source": "TechCrunch",
-        "published": "2026-09-17T23:25:52+00:00",
-        "summary": "The round values the data center giant at $30.9 billion.",
+        "title": "Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe",
+        "url": "https://liveworld.info/",
+        "source": "Hacker News Front",
+        "published": "2026-09-19T00:30:34+00:00",
+        "summary": "Article URL: https://liveworld.info/\nComments URL: https://news.ycombinator.com/item?id=49762099\nPoints: 14\n# Comments: 14",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Google DeepMind launches institute to widen the AGI debate",
-        "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
         "source": "TechCrunch",
-        "published": "2026-09-17T23:21:17+00:00",
-        "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+        "published": "2026-09-19T00:12:07+00:00",
+        "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-        "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-        "source": "TechCrunch",
-        "published": "2026-09-17T23:08:24+00:00",
-        "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+        "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+        "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+        "source": "Hacker News Front",
+        "published": "2026-09-18T23:54:42+00:00",
+        "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\nComments URL: https://news.ycombinator.com/item?id=49761840\nPoints: 40\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,65 +186,54 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "EU Scaleup Fund in talks to back ElevenLabs in $500m round, reports say",
-        "url": "https://sifted.eu/articles/elevenlabs-funding-round-scaleup-europe-fund/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-17T16:20:47+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Revolut mulls dual listing in London and New York",
-        "url": "https://sifted.eu/articles/revolut-dual-listing-2/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-17T16:15:32+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: Fintech Offers Startups Alternative To Venture Debt With A New Model To Finance Customer Acquisition Costs",
-        "url": "https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisition-skalar/",
+        "title": "The Week’s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment Management Lead",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/",
         "source": "Crunchbase News",
-        "published": "2026-09-17T14:00:42+00:00",
-        "summary": "Newly launched Skalar provides startups with capital to fund sales and marketing initiatives in a fairly straightforward, though somewhat unusual model which lets the startups pay it back out of the revenue generated by the customers acquired with that capital.",
+        "published": "2026-09-18T18:29:32+00:00",
+        "summary": "After a week of multiple billion-dollar-plus rounds, startup investors have reduced the number of zeroes on their funding checks. This past week, the largest U.S. startup funding rounds were in the hundreds of millions, topped by a $550 million financing for AI infrastructure company Temporal Technologies and a $308 million investment in space vehicle developer Impulse Space.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "에버퓨어 “AI 시대, 앱보다 데이터가 중심”",
-        "url": "https://byline.network/2026/09/0917-8/",
-        "source": "ByLine Network",
-        "published": "2026-09-17T11:25:02+00:00",
-        "summary": "에버퓨어가 AI 시대의 데이터 중심 인프라 전환 필요성을 강조했다. 데이터 파편화와 다크 데이터 문제를 지적하고, 4단계 데이터 분류 프레임워크와 엔터프라이즈 데이터 클라우드(EDC) 전략을 제시했다. 국내 올플래시 스토리지 시장 성장과 네오 클라우드 사업자들의 인프라 투자 확대 등 시장 동향도 공유했다.",
+        "title": "UK Sovereign AI Fund in talks to back £500m raise for drug discovery startup",
+        "url": "https://sifted.eu/articles/uk-sovereign-ai-fund-in-talks-to-back-500m-raise-for-drug-discovery-startup/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-18T16:51:46+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "5 Interesting Startup Deals You May Have Missed: Floating Nuclear Power, Robot Report Cards And Voice AI For Farmers",
-        "url": "https://news.crunchbase.com/venture/interesting-startup-deals-nuclear-power-robotics-ai-agtech-proptech/",
+        "title": "The biggest conversations in US VC right now",
+        "url": "https://sifted.eu/articles/us-vc-conversations-ai-anthropic-agents/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-18T11:55:11+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "What 25,000 Startup Applications Reveal About The New Rules Of Seed-Stage Startups",
+        "url": "https://news.crunchbase.com/seed/startup-funding-rules-ai-gtm-golbin-lvlup/",
         "source": "Crunchbase News",
-        "published": "2026-09-17T11:00:13+00:00",
-        "summary": "From putting nuclear reactors on barges to grading how well AI models can control robots, this month’s crop of interesting startup deals takes AI and other emerging technologies well beyond the conventional software stack.",
+        "published": "2026-09-18T11:00:18+00:00",
+        "summary": "The most-fundable startups prioritize a clear go-to-market strategy and test distinctive marketing channels early, treating distribution and disciplined focus as durable competitive advantages, explains guest author Aaron Golbin, a co-founder and general partner at LvlUp Ventures, who believes that seed-stage success depends on focused execution, diversified financing, built-in distribution, rapid",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Europe's AI moment is moving from hype to execution",
-        "url": "https://sifted.eu/articles/europes-ai-moment-is-moving-from-hype-to-execution-brnd/",
+        "title": "‘It’s the modern nuclear arms race’: safety expert Denis Shilov on slowing down AI",
+        "url": "https://sifted.eu/articles/denis-shilov-white-circle-ai-safety/",
         "source": "Sifted (EU startups)",
-        "published": "2026-09-17T10:27:44+00:00",
+        "published": "2026-09-18T10:50:36+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,22 +241,33 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "DeepMind researcher’s new AI lab nears $4bn valuation, reports say",
-        "url": "https://sifted.eu/articles/deepmind-researchers-new-ai-lab-nears-4bn-valuation-reports-say/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-17T09:32:15+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "국정원, 레드티밍·안전성 평가로 공공기관 AI 검증한다",
-        "url": "https://byline.network/2026/09/17-607/",
+        "title": "‘반도체·피지컬AI·AIDC’ 국가 3대 메가프로젝트의 보안 과제",
+        "url": "https://byline.network/2026/09/18-638/",
         "source": "ByLine Network",
-        "published": "2026-09-17T09:24:17+00:00",
-        "summary": "국가정보원(원장 이종석)이 공공기관의 인공지능(AI) 도입·활용 전반을 레드티밍과 국가안보 분야 안전성 평가로 검증하는 체계를 마련한다. 공공기관에 구축된 AI 시스템과 인프라는 공격자 관점에서 취약점을 찾고, AI 모델 자체는 사이버보안과 화학·생물학·방사능·핵·폭발물(CBRN-E), 국가 핵심시설 등과 관련한 유해 답변을 내놓는지 평가하는 방식이다.",
+        "published": "2026-09-18T08:50:04+00:00",
+        "summary": "정부가 추진하는 인공지능(AI) 데이터센터와 피지컬 AI, 반도체 등 3대 메가프로젝트에서 보안이 주요 과제로 떠오르고 있다. AI 활용이 산업 현장으로 확대되면서, 기술정보를 지키고 시스템을 안전하게 운영할 보안 체계도 함께 갖춰야 한다는 제언이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "AI가 다 하는 시대, 마케터는 뭘 해야 하나",
+        "url": "https://byline.network/2026/09/18_292817723/",
+        "source": "ByLine Network",
+        "published": "2026-09-18T08:30:41+00:00",
+        "summary": "“AI는 기술을 더 똑똑하게 만들지만, 차이를 만드는 건 어떤 오디언스가 중요한지, 어떤 성과를 만들 건지 결정하는 마케터의 몫입니다. AI가 똑똑해지면 마케터의 판단 중요성이 더 커집니다.”",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[그게 뭔가요] 지스타 주인공된 ′캐릭터 챗′, 누구냐 넌",
+        "url": "https://byline.network/2026/09/17-608/",
+        "source": "ByLine Network",
+        "published": "2026-09-18T08:16:10+00:00",
+        "summary": "‘인공지능(AI) 캐릭터 챗’이라는 서비스를 아시나요. 하나의 정립된 세계관 안에서 성격과 외형이 다른 다양한 등장인물과 대화를 나누며 서사를 만들어 나가는 콘텐츠입니다. 캐릭터와 1:1 대화도 가능하죠. 다른 사람이 만든 콘텐츠를 즐기거나, 스스로 만들 수도 있습니다. 일반적인 AI 챗봇과 달리 엔터테인먼트 성격이 강합니다.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,30 +276,120 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Jason to Nick Shirley: You’re Kicking Ass at Exposing Fraud. They Want to Stop You. Don’t Stop.",
-        "url": "https://www.youtube.com/watch?v=68eKbz5-D5w",
+        "title": "Bill Gurley: Searching for Feynman",
+        "url": "https://www.youtube.com/watch?v=A4Q7zAayW20",
         "source": "All-In Podcast",
-        "published": "2026-09-18T01:03:07Z",
-        "summary": "Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute ...",
-        "thumbnail": "https://i.ytimg.com/vi/68eKbz5-D5w/mqdefault.jpg",
+        "published": "2026-09-19T00:30:06Z",
+        "summary": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional ...",
+        "thumbnail": "https://i.ytimg.com/vi/A4Q7zAayW20/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "68eKbz5-D5w",
+          "videoId": "A4Q7zAayW20",
           "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "Nick Shirley: Exposing Government Fraud, Suing California &amp; Taking on the Media",
-        "url": "https://www.youtube.com/watch?v=SwBCPBNe_60",
+        "title": "AI 에이전트와 블록체인이 만나 새로운 경제 폭발한다 (김서준 해시드 대표)",
+        "url": "https://www.youtube.com/watch?v=iG7Mi6KYQkE",
+        "source": "티타임즈TV",
+        "published": "2026-09-18T22:00:07Z",
+        "summary": "김서준 해시드 대표에게 들어봅니다. 에이전트 이코노미가 블록체인과 만나면 어떤 세상을 만들지, 에이전트 시대에 사람에게는 결국 ...",
+        "thumbnail": "https://i.ytimg.com/vi/iG7Mi6KYQkE/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "iG7Mi6KYQkE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "America&#39;s Next 250: Remember Who We Are",
+        "url": "https://www.youtube.com/watch?v=Nvc6HWfoSoE",
         "source": "All-In Podcast",
-        "published": "2026-09-18T00:30:13Z",
-        "summary": "(0:00) Nick Shirley debuts his new video at the All-In Summit: \"Inside California's High Speed Rail to Nowhere\" (11:42) Nick joins ...",
-        "thumbnail": "https://i.ytimg.com/vi/SwBCPBNe_60/mqdefault.jpg",
+        "published": "2026-09-18T19:29:11Z",
+        "summary": "The 2026 All-In Summit Intro Video Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks ...",
+        "thumbnail": "https://i.ytimg.com/vi/Nvc6HWfoSoE/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "SwBCPBNe_60",
+          "videoId": "Nvc6HWfoSoE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Databricks CEO: Stop Scaring People About AI",
+        "url": "https://www.youtube.com/watch?v=GzEtpAKYRvE",
+        "source": "a16z",
+        "published": "2026-09-18T19:25:08Z",
+        "summary": "Databricks co-founder and CEO Ali Ghodsi joins a16z General Partners Martin Casado and Sarah Wang for a conversation about ...",
+        "thumbnail": "https://i.ytimg.com/vi/GzEtpAKYRvE/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "GzEtpAKYRvE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Thunderquakes Let Us Find Secrets Underground",
+        "url": "https://www.youtube.com/watch?v=DviPg66uW9U",
+        "source": "Cleo Abram",
+        "published": "2026-09-18T14:39:42Z",
+        "summary": "Scientists are using thunderquakes to see what's hidden underground… When lightning strikes, it heats up the air around it, ...",
+        "thumbnail": "https://i.ytimg.com/vi/DviPg66uW9U/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "DviPg66uW9U",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "&quot;지금이라도 사야 하나?&quot; 기로에 선 일본 청년들",
+        "url": "https://www.youtube.com/watch?v=x65FxA3UZ6o",
+        "source": "슈카월드",
+        "published": "2026-09-18T12:26:14Z",
+        "summary": "0:00 미 재무장관의 한마디 3:45 서울 못지 않은 도쿄 집값 상승세 14:47 청년 영끌 주책 매수 선진국의 사례(?)",
+        "thumbnail": "https://i.ytimg.com/vi/x65FxA3UZ6o/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "x65FxA3UZ6o",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why the Treasury Market is Even Shakier Than It Looks",
+        "url": "https://www.youtube.com/watch?v=wqqMefZDPNQ",
+        "source": "TLDR News Global",
+        "published": "2026-09-18T09:00:24Z",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going ...",
+        "thumbnail": "https://i.ytimg.com/vi/wqqMefZDPNQ/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "wqqMefZDPNQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI 드라마 PD를 &#39;뽑기사&#39;라고 부르는 이유",
+        "url": "https://www.youtube.com/watch?v=ox1U_mjXimA",
+        "source": "티타임즈TV",
+        "published": "2026-09-18T09:00:20Z",
+        "summary": "중국에서 AI로 만든 장편 드라마 '후서유기'가 프라임타임 1위를 차지했다는 보도가 나왔습니다. 실제 배우 촬영 없이 AI 배경, AI 배우 ...",
+        "thumbnail": "https://i.ytimg.com/vi/ox1U_mjXimA/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "ox1U_mjXimA",
           "via": "api"
         }
       },
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "SDbRJXQrYGY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How A Zero G Plane Works",
-        "url": "https://www.youtube.com/shorts/6Q2usdxSGwE",
-        "source": "Cleo Abram",
-        "published": "2026-09-17T14:06:07+00:00",
-        "summary": "I’m in a zero gravity plane. It looks like I’m floating but I’m actually freefalling - this plane is hurtling towards the ground in a 42 degree nosedive!\n\nThe whole flight is split up into 3 phases:\n\nFirst the plane pitches up to 50 degrees, speeding up steeply for 20 seconds along this path. During",
-        "thumbnail": "https://i3.ytimg.com/vi/6Q2usdxSGwE/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "6Q2usdxSGwE",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "경력있는 신입만 뽑습니다.",
-        "url": "https://www.youtube.com/watch?v=hQ3gURmunP4",
-        "source": "슈카월드",
-        "published": "2026-09-17T12:19:39Z",
-        "summary": "0:00 사라지는 대규모 공채 9:40 급성장하는 헤드헌팅 시장 21:49 리멤버 인터뷰 리멤버 유료광고가 포함된 영상입니다. 가고 싶었던 ...",
-        "thumbnail": "https://i.ytimg.com/vi/hQ3gURmunP4/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "hQ3gURmunP4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI 때문에 모래 위에 창업한 느낌, 창업가들은 어떻게 해야 하나 (임승찬 코치, 윤우진 캠핏 대표)",
-        "url": "https://www.youtube.com/watch?v=_dnBuXLy3LU",
-        "source": "티타임즈TV",
-        "published": "2026-09-17T09:00:27Z",
-        "summary": "창업자들은 기업의 비전을 중요시 여깁니다. 구성원 모두가 한 방향으로 나아가게 만드는 원동력도 그 기업의 비전입니다. 하지만 워낙 ...",
-        "thumbnail": "https://i.ytimg.com/vi/_dnBuXLy3LU/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "_dnBuXLy3LU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Everything Went Wrong for Saudi Arabia",
-        "url": "https://www.youtube.com/watch?v=OOQn0sIHt9k",
-        "source": "TLDR News Global",
-        "published": "2026-09-17T08:30:01Z",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going ...",
-        "thumbnail": "https://i.ytimg.com/vi/OOQn0sIHt9k/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "OOQn0sIHt9k",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502",
-        "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-        "source": "Lex Fridman",
-        "published": "2026-09-17T00:34:47Z",
-        "summary": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: ...",
-        "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/mqdefault.jpg",
-        "extras": {
-          "theme": "interview",
-          "videoId": "s7d2d8FhevU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Mark Zuckerberg on what makes great companies",
-        "url": "https://www.youtube.com/watch?v=XgqKqN_H-4M",
-        "source": "a16z",
-        "published": "2026-09-16T18:00:09Z",
-        "summary": "Mark Zuckerberg on why your competitors are rarely what determines your outcome. Most companies spend too much time ...",
-        "thumbnail": "https://i.ytimg.com/vi/XgqKqN_H-4M/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "XgqKqN_H-4M",
           "via": "api"
         }
       }
