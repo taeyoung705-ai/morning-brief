@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-21T03:20:41.905771+00:00",
+  "generated_at": "2026-09-22T03:20:05.738570+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Wong speaks to Palestinian foreign minister about Gaza; Queensland premier says plans to reduce visas are ‘nuts’",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-09-21T03:09:32+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastDan Tehan says fuel excise cut when oil price high a ‘sensible’ planDan Tehan, the shadow minister for energy, said Gallagher’s criticism of the Coalition’s fuel plan wasn’t fair.[What] I would say to Anthony Albanese and the Labor party is get out amongst the people and see what’s happening in your electorates be",
+        "title": "Trump’s U.N. Speech Comes at a Time of Tumult",
+        "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
+        "source": "NYT World",
+        "published": "2026-09-22T03:10:19+00:00",
+        "summary": "The president, who has been dogged by the war in Iran and eroding alliances, is also expected to sign a security deal on Greenland and meet with world leaders.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Imran Khan’s family says three sisters detained ahead of Islamabad march",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/09-21-aleema-khan-arrest-sv?traffic_source=rss",
+        "title": "Australia news live: Liberal MP proposes using super to secure mortgages; BBC deletes crocodile post showing wrong river",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-09-22T03:01:41+00:00",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastJim Chalmers was also asked earlier if the government would support a national royal commission into violence against women and children. He said the government had chosen to increase resourcing for child and family violence and domestic violence, adding to the ABC:We’re trying to deal with the sources of all of t",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+        "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-09-21T02:31:37+00:00",
-        "summary": "Imran Khan’s family says three of his sisters have been detained in Lahore ahead of a march demanding his release.",
+        "published": "2026-09-22T02:44:51+00:00",
+        "summary": "British Columbia lawsuit implicates ChatGPT, claiming tech firm ignored deadly threats and demanding safety overhauls.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "More Australians will be dying than being born in 40 years as major report predicts future of lower growth",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/21/jim-chalmers-intergenerational-report-2026-deaths-outnumber-births-australia2060s",
+        "title": "Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon",
+        "url": "https://www.nytimes.com/2026/09/21/world/middleeast/lebanon-amnesty-law-aoun.html",
+        "source": "NYT World",
+        "published": "2026-09-22T02:39:09+00:00",
+        "summary": "An amnesty measure was supposed to ease prison overcrowding and pressure on the judiciary. Instead, it highlighted the country’s divides.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
+        "url": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html",
+        "source": "NYT World",
+        "published": "2026-09-22T02:37:14+00:00",
+        "summary": "Artificial intelligence is a race solely between two rival powers with the rest of the world largely on the sidelines, foreign policy experts said.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "At 92, the Bard of Bollywood Is Still Writing About Love",
+        "url": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
+        "source": "NYT World",
+        "published": "2026-09-22T02:21:49+00:00",
+        "summary": "The poet and lyricist Gulzar has profoundly shaped the idea of tender romance in India through his verse and songs in more than 150 musicals.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Political fight over gun buyback after boy, 11, shot in the face and neck in Sydney apartment",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/22/boy-11-shot-face-sydney-man-charged-gun-laws-buyback-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-21T02:30:32+00:00",
-        "summary": "Seventh intergenerational report also outlines how Australia is at cusp of an uncertain age of artificial intelligenceFollow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastThere will be more Australians dying than being born in 40 years’ time, according to the government’s latest intergenerational report, which lays bare the fundamental ch",
+        "published": "2026-09-22T02:05:02+00:00",
+        "summary": "Police don’t know if shooting was accidental as Labor attacks opposition vow to scrap gun buyback announced after Bondi massacreFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe shooting of an 11-year-old boy in Sydney’s north-west was a “tragic reminder” of the danger of guns, the New South Wales premier, Chris Minns, has said whi",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Police allege mother stabbed three children in Blue Mountains leaving one child dead",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/21/police-mother-children-stabbing-attack-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-09-21T02:19:55+00:00",
-        "summary": "Bystanders found all four on the side of the road at Valley Heights on Sunday with stabbing injuriesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPolice have alleged that a mother was behind a stabbing attack on three young children that left one dead and two others fighting for their lives in hospital.The woman, aged in her 40s, i",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "John Farnham tribute: Céline Dion, Chris Martin and Hugh Jackman honour ‘living legend’ at livestreamed concert",
-        "url": "https://www.theguardian.com/music/2026/sep/21/john-farnham-living-legend-concert-melbourne-celine-dion-chris-martin-hugh-jackman-tribute",
-        "source": "The Guardian World",
-        "published": "2026-09-21T02:01:01+00:00",
-        "summary": "Though the man of the hour is unable to attend, fans flock to Rod Laver Arena and cinemas nationwide to celebrate the songs of an Australian iconAt a Sydney shopping centre on a balmy Sunday evening, hundreds of people gathered to watch a concert that, according to its host, Richard Wilkins, would set a new livestreaming record for Australian cinemas.Experiencing a Rod Laver Arena event with popco",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Powerful explosions at Syrian army site near Aleppo injure at least four",
-        "url": "https://www.aljazeera.com/news/2026/9/21/powerful-explosions-at-syrian-army-site-near-aleppo-injures-at-least-four?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-21T01:30:46+00:00",
-        "summary": "Officials urge civilians to stay away from the site in al-Eis near Aleppo after a series of explosions.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump administration readies sweeping sanctions against ICC, reports say",
-        "url": "https://www.aljazeera.com/news/2026/9/21/trump-administration-readies-sweeping-sanctions-against-icc-reports-say?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-21T01:19:42+00:00",
-        "summary": "Measures targeting the court itself could disrupt payments, IT services and investigations.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
-        "url": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
-        "source": "The Guardian World",
-        "published": "2026-09-21T01:09:23+00:00",
-        "summary": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with USThe leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate change and the erosion of democratic values, after ⁠they met in a ⁠French territory off Canada’s Atlantic coast.The two leaders’ visit to Saint-Pierre ​and Miquelon ",
+        "title": "Japan Meets With Trump, Hoping to Get His Help on China",
+        "url": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
+        "source": "NYT World",
+        "published": "2026-09-22T02:01:04+00:00",
+        "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Deterministic Core, Non-Deterministic Shell",
-        "url": "https://outdata.net/blog/260803",
+        "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+        "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
         "source": "Hacker News Front",
-        "published": "2026-09-21T02:02:45+00:00",
-        "summary": "Article URL: https://outdata.net/blog/260803\nComments URL: https://news.ycombinator.com/item?id=49782220\nPoints: 3\n# Comments: 1",
+        "published": "2026-09-22T01:24:49+00:00",
+        "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/\nComments URL: https://news.ycombinator.com/item?id=49795718\nPoints: 53\n# Comments: 22",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Why back propagation goes backward",
-        "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+        "title": "Claude Status – Elevated errors for multiple models",
+        "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
         "source": "Hacker News Front",
-        "published": "2026-09-21T00:42:14+00:00",
-        "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/\nComments URL: https://news.ycombinator.com/item?id=49781693\nPoints: 12\n# Comments: 1",
+        "published": "2026-09-22T01:05:19+00:00",
+        "summary": "Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh\nComments URL: https://news.ycombinator.com/item?id=49795579\nPoints: 72\n# Comments: 57",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Amiga Unix, Again",
-        "url": "https://amigaux.org/",
+        "title": "Socrates vs. the Written Word (2011)",
+        "url": "https://wondermark.com/socrates-vs-writing/",
         "source": "Hacker News Front",
-        "published": "2026-09-20T23:57:10+00:00",
-        "summary": "Article URL: https://amigaux.org/\nComments URL: https://news.ycombinator.com/item?id=49781436\nPoints: 25\n# Comments: 9",
+        "published": "2026-09-22T00:06:55+00:00",
+        "summary": "Article URL: https://wondermark.com/socrates-vs-writing/\nComments URL: https://news.ycombinator.com/item?id=49795122\nPoints: 11\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-        "url": "https://github.com/BytedTsinghua-SIA/DAPO",
-        "source": "Hacker News Front",
-        "published": "2026-09-20T23:19:04+00:00",
-        "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO\nComments URL: https://news.ycombinator.com/item?id=49781138\nPoints: 12\n# Comments: 2",
+        "title": "A cut cable disrupted hundreds of flights across the US",
+        "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+        "source": "The Verge",
+        "published": "2026-09-21T23:48:56+00:00",
+        "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "What happened to the Snowden archive",
-        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-        "source": "Hacker News Front",
-        "published": "2026-09-20T22:35:49+00:00",
-        "summary": "Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive\nComments URL: https://news.ycombinator.com/item?id=49780820\nPoints: 205\n# Comments: 113",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Google's Open Agentic Orchestrator",
-        "url": "https://agentexecutor.io",
-        "source": "Hacker News Front",
-        "published": "2026-09-20T22:32:43+00:00",
-        "summary": "Article URL: https://agentexecutor.io\nComments URL: https://news.ycombinator.com/item?id=49780797\nPoints: 259\n# Comments: 102",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Bill to Ban Private Equity from Owning Medical Practices",
-        "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-        "source": "Hacker News Front",
-        "published": "2026-09-20T22:13:46+00:00",
-        "summary": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/\nComments URL: https://news.ycombinator.com/item?id=49780630\nPoints: 324\n# Comments: 206",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
         "source": "TechCrunch",
-        "published": "2026-09-20T21:41:08+00:00",
-        "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+        "published": "2026-09-21T23:44:28+00:00",
+        "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Looking forward to Git 2.56 – and 3.0",
+        "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+        "source": "Hacker News Front",
+        "published": "2026-09-21T23:16:51+00:00",
+        "summary": "Article URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\nComments URL: https://news.ycombinator.com/item?id=49794736\nPoints: 42\n# Comments: 9",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+        "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+        "source": "The Verge",
+        "published": "2026-09-21T23:15:32+00:00",
+        "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Spymarks, Not Watermarks",
+        "url": "https://brand.io/article/spymarks/",
+        "source": "Hacker News Front",
+        "published": "2026-09-21T23:03:49+00:00",
+        "summary": "Article URL: https://brand.io/article/spymarks/\nComments URL: https://news.ycombinator.com/item?id=49794615\nPoints: 169\n# Comments: 37",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,11 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "오픈AI, 로봇의 모터와 기어까지 직접 설계한다",
-        "url": "https://platum.kr/archives/294889?utm_source=rss&utm_medium=rss&utm_campaign=openai-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%2598-%25eb%25aa%25a8%25ed%2584%25b0%25ec%2599%2580-%25ea%25b8%25b0%25ec%2596%25b4%25ea%25b9%258c%25ec%25a7%2580-%25ec%25a7%2581%25ec%25a0%2591-%25ec%2584%25a4%25ea%25b3%2584%25ed%2595%259c%25eb%258b%25a4",
+        "title": "IBM “AI 에이전트 통제의 시작은 신원 부여부터”",
+        "url": "https://byline.network/2026/09/22-602/",
+        "source": "ByLine Network",
+        "published": "2026-09-22T02:34:39+00:00",
+        "summary": "“업무적으로 AI를 많이 써야 하는 시기가 곧 도래할 것이므로, 기계와 잘 공존할 수단을 마련해야 한다.  아직 AI가 비즈니스를 수행하기엔 신뢰가 떨어지는 게 사실이므로, AI를 잘 통제해야 원하는 방향대로 활용할 수 있다. AI 에이전트의 신원, 권한, 실행, 도구사용을 런타임에서 통제하지 못하는게 문제의 본질이다. 엔터프라이즈 환경에서 에이전틱 AI를 보호하는 것의 시작은 고유한 신원을 AI 에이전트에게 부여하는 것이다.” 최석재 IBM 상무는 22일 여의도 FKI타워 컨퍼런스센터에서 개최된 ‘금융 테크 컨퍼런스 2026’에서 이같이 밝혔다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[커머스BN] 토스-오아시스 동맹, 네이버-컬리와 닮았지만 다르다",
+        "url": "https://byline.network/2026/09/22_19287272/",
+        "source": "ByLine Network",
+        "published": "2026-09-22T00:54:06+00:00",
+        "summary": "토스가 오아시스마켓 운영사 오아시스와 손잡았습니다. 300억원을 투자해 지분 2.3%를 확보하고, 토스쇼핑 내 오아시스마켓 전용관을 엽니다.\n\n대형 플랫폼이 신선식품 전문몰과 손잡고 전용관을 연다는 그림만 보면, 지난해 네이버와 컬리의 협업이 떠오릅니다. 하지만 물류망을 놓고 보면 이야기가 달라집니다.\n\n왜 다른지, 그리고 양사 협업이 앞으로 어디까지 넓어질 수 있는지 살펴봅니다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "로지텍 첫 폴더블 마우스 ‘모비 폴드’ 써보니",
+        "url": "https://byline.network/2026/09/21-612/",
+        "source": "ByLine Network",
+        "published": "2026-09-21T08:17:14+00:00",
+        "summary": "저는 휴대하기에 적당한 크기와 무게를 지닌 제품을 선호하는데요. 얼마 전 로지텍 팝업을 둘러보던 중 한 제품이 눈에 들어왔습니다. 반으로 접히는 마우스 ‘모비 폴드’였습니다. 보통 마우스는 은근히 휴대가 애매합니다. 다른 물건과 뒤섞이면 파손되기도 하고요. 모비 폴드는 휴대성이 뛰어나고 보관이 용이한 새로운 물건입니다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "블루 아카이브 다음 노린다…한국 서브컬처, TGS서 승부수",
+        "url": "https://byline.network/2026/09/18-642/",
+        "source": "ByLine Network",
+        "published": "2026-09-21T08:10:37+00:00",
+        "summary": "세계 3대 게임쇼 중 하나인 ‘도쿄게임쇼 2026’(TGS 2026)가 막을 올린 가운데, 한국 게임사들이 다수의 서브컬처 신작을 출품했다. 서브컬처 장르의 본고장인 일본에서 차기작을 선보이며 글로벌 진출을 위한 포석을 다지고 서브컬처 팬층과 접점을 넓히는 모습이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "국민의힘 “가상자산 과세 시기상조”",
+        "url": "https://byline.network/2026/09/0921-5/",
+        "source": "ByLine Network",
+        "published": "2026-09-21T08:01:00+00:00",
+        "summary": "디지털자산 과세에 앞서 디지털자산기본법을 마련하는 등 제도적 틀을 먼저 정비해야 한다는 주장이 나왔다. 최수진 국민의힘 원내수석대변인은 21일 국회에서 열린 ‘디지털자산 과세제도 개선 정책간담회’ 직후 백브리핑에서 디지털자산 과세에 대해 시기상조라는 당의 입장을 밝혔다. 디지털자산 관련 기본법과 개념 정의 등 제도적 기반이 마련되지 않은 상태에서 과세를 먼저 시행하는 것은 적절하지 않다는 취지다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "답을 말하는 대신, 보기마다 확률을 매기는 AI 모델 등장",
+        "url": "https://platum.kr/archives/294981?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2597%25eb%25b4%2587-%25ec%2595%2584%25eb%258b%258c-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25eb%2593%25b1%25ec%259e%25a5-%25ed%2594%2584%25eb%25a1%259c%25ea%25b7%25b8%25eb%259e%25a8-%25ec%2595%2588%25ec%2597%2590%25ec%2584%259c-%25eb%25b6%2584%25eb%25a5%2598%25c2%25b7%25ec%2584%25a0%25ed%2583%259d%25c2%25b7",
         "source": "Platum",
-        "published": "2026-09-19T09:30:48+00:00",
-        "summary": "챗GPT로 생성형 AI 시장을 이끌어온 오픈AI가 로봇 하드웨어 설계 인력을 대거 뽑고 있다. 오픈AI 채용 페이지에 올라온 로보틱스 조직 공고에는 로봇 학습 모델이나 제어 소프트웨어 개발자뿐 아니라 액추에이터(로봇 관절을 움직이는 구동 장치) 설계 엔지니어, 액추에이터 기어 설계 엔지니어, 모터 기계설계 엔지니어, 모터·액추에이터 제조 엔지니어, 펌웨어 엔지니어, 인쇄회로기판(PCB) 설계 인력이 포함돼 있다. 공고 내용을 보면 채용 ... 더 읽기",
+        "published": "2026-09-21T07:25:53+00:00",
+        "summary": "챗GPT 같은 생성형 AI는 질문을 받으면 단어 조각(토큰)을 하나씩 이어 붙여 답을 문장으로 만든다. 미국 샌프란시스코의 AI 스타트업 타입세이프 AI(TypeSafe AI)가 9월 15일 공개한 모델 &#8216;제브(Jev)&#8217;는 문장을 만들지 않는다. 개발자가 미리 정해 둔 선택지 가운데 하나를 고르거나 점수를 매기고, 어떤 진술이 참일 확률을 계산해 돌려준다. 사람과 대화하는 용도가 아니라, 프로그램이 업무를 처리하는 중간에 불러 쓰는 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "제약・바이오 기업의 ‘품질・제조・자산’은 왜 통합돼야 하나",
+        "url": "https://byline.network/2026/09/21-602/",
+        "source": "ByLine Network",
+        "published": "2026-09-21T05:18:31+00:00",
+        "summary": "제약 및 바이오로 대표되는 생명과학 산업의 디지털화 흐름이 거세다. 모든 산업이 AI로 비즈니스를 전면 재설계하는 가운데, 생명과학 분야 산업도 AI 도입을 위한 길로 나아가고 있다. 특히 제약·바이오 산업이 글로벌화되는 가운데 ‘의약품 제조 및 품질관리 기준(GMP)에 대한 요구가 데이터·위험·생애주기관점에서 더 구체화되는 흐름이 뚜렷해졌다. 전산화 시스템뿐 아니라 제조설비와 시험·계측기의 상태·이력·성능 데이터까지 품질시스템의 일부로 보는 접근이 확대되고 있다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "치과위생사 대신 로봇이 석션을 잡는다, 덴탈로보틱스 시드 투자 유치",
+        "url": "https://platum.kr/archives/294978?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%2598%25ea%25b3%25bc%25ec%259c%2584%25ec%2583%259d%25ec%2582%25ac-%25eb%258c%2580%25ec%258b%25a0-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25ec%2584%259d%25ec%2585%2598%25ec%259d%2584-%25ec%259e%25a1%25eb%258a%2594%25eb%258b%25a4-%25eb%258d%25b4%25ed%2583%2588%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b1",
+        "source": "Platum",
+        "published": "2026-09-21T05:18:11+00:00",
+        "summary": "치과 진료 중 환자 입안의 침과 피를 빨아들이는 석션 작업을 로봇이 스스로 하도록 만드는 스타트업이 시드 투자를 받았다. 덴탈로보틱스가 AI엔젤클럽이 주도하고 씨엔티테크, 피플인베스트먼트, 디지털헬스케어파트너스(DHP)가 참여한 시드 라운드 투자를 유치했다. 투자 금액은 공개하지 않았다. 회사가 겨냥하는 문제는 치과 보조인력 부족이다. 회사가 분석한 진료 현장에서 치과위생사는 하루 평균 2.5시간을 석션에 쓰고, 그중 약 2시간은 혼자 진료 보조를 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
@@ -199,15 +276,75 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 &amp; the $50B Game Ad Market",
-        "url": "https://www.youtube.com/watch?v=JtomF4bGxHs",
+        "title": "Naveen Rao: 4D Computing, AI&#39;s Energy Wall &amp; Beating Biology",
+        "url": "https://www.youtube.com/watch?v=yAsrMA_ADPc",
         "source": "All-In Podcast",
-        "published": "2026-09-20T21:06:04Z",
-        "summary": "(0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming ...",
-        "thumbnail": "https://i.ytimg.com/vi/JtomF4bGxHs/mqdefault.jpg",
+        "published": "2026-09-21T21:04:44Z",
+        "summary": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) ...",
+        "thumbnail": "https://i.ytimg.com/vi/yAsrMA_ADPc/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "JtomF4bGxHs",
+          "videoId": "yAsrMA_ADPc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“They Got a $50,000 Check”: Meta’s Data Center Windfall for Local Teachers",
+        "url": "https://www.youtube.com/watch?v=yLnJpR8H2kY",
+        "source": "All-In Podcast",
+        "published": "2026-09-21T20:47:35Z",
+        "summary": "Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute ...",
+        "thumbnail": "https://i.ytimg.com/vi/yLnJpR8H2kY/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "yLnJpR8H2kY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "돈 없다고 드러누운 일본 아시안 게임",
+        "url": "https://www.youtube.com/watch?v=XT11yoScLBA",
+        "source": "슈카월드",
+        "published": "2026-09-21T10:19:32Z",
+        "summary": "0:00 돈쓰고 욕먹는 축제 4:19 역대 최악의 숙소 환경 13:33 주최측의 뻔뻔한 태도 31:08 광주-대구 2038 아시안게임 유치?",
+        "thumbnail": "https://i.ytimg.com/vi/XT11yoScLBA/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "XT11yoScLBA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is China Winning the Energy Race?",
+        "url": "https://www.youtube.com/watch?v=TrN6ZTDQ8dA",
+        "source": "TLDR News Global",
+        "published": "2026-09-21T09:30:11Z",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going ...",
+        "thumbnail": "https://i.ytimg.com/vi/TrN6ZTDQ8dA/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "TrN6ZTDQ8dA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI가 물 새는 소리까지 듣는다. MWC가 주목한 K-수도관 기술",
+        "url": "https://www.youtube.com/watch?v=R523yMcIeUw",
+        "source": "티타임즈TV",
+        "published": "2026-09-21T09:00:09Z",
+        "summary": "세계 최대 모바일 전시회 MWC에서 뜻밖의 기술이 상을 받았습니다. 바로 한국의 '수도관 관리 기술'입니다. 스마트폰도, 반도체도 ...",
+        "thumbnail": "https://i.ytimg.com/vi/R523yMcIeUw/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "R523yMcIeUw",
           "via": "api"
         }
       },
@@ -238,21 +375,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "pkMGVeatSBA",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "그 직원 학습한 에이전트만 남기고 직원 해고한다면, 그 에이전트는 누구의 것인가? (김서준 해시드 대표)",
-        "url": "https://www.youtube.com/watch?v=ejtSOizIcjQ",
-        "source": "티타임즈TV",
-        "published": "2026-09-19T22:00:21Z",
-        "summary": "김서준 해시드 대표는 어떻게 에이전트 5남매와 살고 있는지, 그리고 AI가 인간보다 뛰어날 경우 인간에게 남는 것은 무엇인지 그의 ...",
-        "thumbnail": "https://i.ytimg.com/vi/ejtSOizIcjQ/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "ejtSOizIcjQ",
           "via": "api"
         }
       },
@@ -298,51 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "Imf1RaZ9M5k",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Bill Gurley: Searching for Feynman",
-        "url": "https://www.youtube.com/watch?v=A4Q7zAayW20",
-        "source": "All-In Podcast",
-        "published": "2026-09-19T00:30:06Z",
-        "summary": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional ...",
-        "thumbnail": "https://i.ytimg.com/vi/A4Q7zAayW20/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "A4Q7zAayW20",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Databricks CEO: Stop Scaring People About AI",
-        "url": "https://www.youtube.com/watch?v=GzEtpAKYRvE",
-        "source": "a16z",
-        "published": "2026-09-18T19:25:08Z",
-        "summary": "Databricks co-founder and CEO Ali Ghodsi joins a16z General Partners Martin Casado and Sarah Wang for a conversation about ...",
-        "thumbnail": "https://i.ytimg.com/vi/GzEtpAKYRvE/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "GzEtpAKYRvE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Thunderquakes Let Us Find Secrets Underground",
-        "url": "https://www.youtube.com/watch?v=DviPg66uW9U",
-        "source": "Cleo Abram",
-        "published": "2026-09-18T14:39:42Z",
-        "summary": "Scientists are using thunderquakes to see what's hidden underground… When lightning strikes, it heats up the air around it, ...",
-        "thumbnail": "https://i.ytimg.com/vi/DviPg66uW9U/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "DviPg66uW9U",
           "via": "api"
         }
       }
