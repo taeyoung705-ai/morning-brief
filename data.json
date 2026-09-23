@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-22T03:20:05.738570+00:00",
+  "generated_at": "2026-09-23T03:20:48.494456+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump’s U.N. Speech Comes at a Time of Tumult",
-        "url": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
+        "title": "U.N. Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
+        "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
         "source": "NYT World",
-        "published": "2026-09-22T03:10:19+00:00",
-        "summary": "The president, who has been dogged by the war in Iran and eroding alliances, is also expected to sign a security deal on Greenland and meet with world leaders.",
+        "published": "2026-09-23T03:17:33+00:00",
+        "summary": "President Trump said he must decide whether to make a deal or “annihilate” Iran, in a gathering where world leaders typically focus on declarations of global harmony.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Liberal MP proposes using super to secure mortgages; BBC deletes crocodile post showing wrong river",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
+        "title": "Australia news live: police offer $1m for information about Gus Lamont; Trump and Albanese ‘catch up’ on sidelines of UN summit",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-22T03:01:41+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastJim Chalmers was also asked earlier if the government would support a national royal commission into violence against women and children. He said the government had chosen to increase resourcing for child and family violence and domestic violence, adding to the ABC:We’re trying to deal with the sources of all of t",
+        "published": "2026-09-23T03:02:29+00:00",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastAndrew Bragg, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan.The policy hasn’t been adopted by the opposition, and leader Angus Taylor said yesterday it wasn’t Coaliti",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
-        "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-09-23T02:57:00+00:00",
+        "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Wall Street’s Nasdaq hits all-time high as AI frenzy gathers pace",
+        "url": "https://www.aljazeera.com/economy/2026/9/23/wall-streets-nasdaq-hits-all-time-high-as-ai-frenzy-gathers-pace?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-09-22T02:44:51+00:00",
-        "summary": "British Columbia lawsuit implicates ChatGPT, claiming tech firm ignored deadly threats and demanding safety overhauls.",
+        "published": "2026-09-23T02:50:36+00:00",
+        "summary": "Investors shrug off AI safety concerns and Iran war, sending market to a new peak.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Why a Law to Help Prisoners Became a New Sectarian Flashpoint in Lebanon",
-        "url": "https://www.nytimes.com/2026/09/21/world/middleeast/lebanon-amnesty-law-aoun.html",
+        "title": "Canada pledges aid for Palestine as UK and France demand action at UNGA",
+        "url": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-23T02:36:32+00:00",
+        "summary": "Canada pledges 100 million Canadian dollars ($71m) for Palestinians as UK and France urge action on Israeli settlements.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "At U.N., Carney Lays Out a Broad Plan for a Divided World",
+        "url": "https://www.nytimes.com/2026/09/22/world/canada/carney-united-nations-general-assembly.html",
         "source": "NYT World",
-        "published": "2026-09-22T02:39:09+00:00",
-        "summary": "An amnesty measure was supposed to ease prison overcrowding and pressure on the judiciary. Instead, it highlighted the country’s divides.",
+        "published": "2026-09-23T02:27:48+00:00",
+        "summary": "Mark Carney, the Canadian prime minister, said the world is now at a point ‘that comes once or twice a century.’",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "U.N. Seeks Relevance on A.I. as the U.S. and China Race Ahead",
-        "url": "https://www.nytimes.com/2026/09/21/us/politics/united-nations-artificial-intelligence-china-us.html",
-        "source": "NYT World",
-        "published": "2026-09-22T02:37:14+00:00",
-        "summary": "Artificial intelligence is a race solely between two rival powers with the rest of the world largely on the sidelines, foreign policy experts said.",
+        "title": "UK Prime Minister vows not to ‘stand by’ as Palestinians suffer",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-23T02:24:01+00:00",
+        "summary": "UK PM Burnham condemned Israel’s war on Gaza, and explains why the UK sanctioned illegal Israeli settlements.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "At 92, the Bard of Bollywood Is Still Writing About Love",
-        "url": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
-        "source": "NYT World",
-        "published": "2026-09-22T02:21:49+00:00",
-        "summary": "The poet and lyricist Gulzar has profoundly shaped the idea of tender romance in India through his verse and songs in more than 150 musicals.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Political fight over gun buyback after boy, 11, shot in the face and neck in Sydney apartment",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/22/boy-11-shot-face-sydney-man-charged-gun-laws-buyback-ntwnfb",
+        "title": "Jesse Baird ‘petrified’ of Beau Lamarre-Condon and kept repeating ‘he has a gun’, court hears",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/23/beau-lamarre-condon-trial-jesse-baird-luke-davies-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-22T02:05:02+00:00",
-        "summary": "Police don’t know if shooting was accidental as Labor attacks opposition vow to scrap gun buyback announced after Bondi massacreFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe shooting of an 11-year-old boy in Sydney’s north-west was a “tragic reminder” of the danger of guns, the New South Wales premier, Chris Minns, has said whi",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Japan Meets With Trump, Hoping to Get His Help on China",
-        "url": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
-        "source": "NYT World",
-        "published": "2026-09-22T02:01:04+00:00",
-        "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
+        "published": "2026-09-23T02:21:57+00:00",
+        "summary": "Friend sobs in witness box and tells Sydney murder trial Baird was scared to go to the policeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastJesse Baird was “petrified” of Beau Lamarre-Condon because he was an armed police officer who could make a false allegation that would ruin his career, a court has heard.Lamarre-Condon has been ",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-        "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+        "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+        "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
         "source": "Hacker News Front",
-        "published": "2026-09-22T01:24:49+00:00",
-        "summary": "Article URL: https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/\nComments URL: https://news.ycombinator.com/item?id=49795718\nPoints: 53\n# Comments: 22",
+        "published": "2026-09-23T02:13:52+00:00",
+        "summary": "Article URL: https://www.bbc.com/news/articles/cqj3dgy8x3vro\nComments URL: https://news.ycombinator.com/item?id=49810829\nPoints: 13\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Claude Status – Elevated errors for multiple models",
-        "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-        "source": "Hacker News Front",
-        "published": "2026-09-22T01:05:19+00:00",
-        "summary": "Article URL: https://status.claude.com/incidents/7g1qpkyz5gxh\nComments URL: https://news.ycombinator.com/item?id=49795579\nPoints: 72\n# Comments: 57",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Socrates vs. the Written Word (2011)",
-        "url": "https://wondermark.com/socrates-vs-writing/",
-        "source": "Hacker News Front",
-        "published": "2026-09-22T00:06:55+00:00",
-        "summary": "Article URL: https://wondermark.com/socrates-vs-writing/\nComments URL: https://news.ycombinator.com/item?id=49795122\nPoints: 11\n# Comments: 1",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "A cut cable disrupted hundreds of flights across the US",
-        "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
         "source": "The Verge",
-        "published": "2026-09-21T23:48:56+00:00",
-        "summary": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing [&#8230;]",
+        "published": "2026-09-23T00:17:17+00:00",
+        "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
         "source": "TechCrunch",
-        "published": "2026-09-21T23:44:28+00:00",
-        "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+        "published": "2026-09-22T23:21:49+00:00",
+        "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Looking forward to Git 2.56 – and 3.0",
-        "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-        "source": "Hacker News Front",
-        "published": "2026-09-21T23:16:51+00:00",
-        "summary": "Article URL: https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/\nComments URL: https://news.ycombinator.com/item?id=49794736\nPoints: 42\n# Comments: 9",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-        "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+        "title": "Paramount will need to release way more movies to make this merger work",
+        "url": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
         "source": "The Verge",
-        "published": "2026-09-21T23:15:32+00:00",
-        "summary": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water [&#8230;]",
+        "published": "2026-09-22T22:26:07+00:00",
+        "summary": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Spymarks, Not Watermarks",
-        "url": "https://brand.io/article/spymarks/",
+        "title": "The current balance of power in open models",
+        "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
         "source": "Hacker News Front",
-        "published": "2026-09-21T23:03:49+00:00",
-        "summary": "Article URL: https://brand.io/article/spymarks/\nComments URL: https://news.ycombinator.com/item?id=49794615\nPoints: 169\n# Comments: 37",
+        "published": "2026-09-22T22:03:46+00:00",
+        "summary": "Article URL: https://www.interconnects.ai/p/the-current-balance-of-power-in-open\nComments URL: https://news.ycombinator.com/item?id=49808816\nPoints: 54\n# Comments: 16",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "source": "TechCrunch",
+        "published": "2026-09-22T21:56:43+00:00",
+        "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+        "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+        "source": "Ars Technica",
+        "published": "2026-09-22T21:42:14+00:00",
+        "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+        "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+        "source": "Ars Technica",
+        "published": "2026-09-22T21:25:18+00:00",
+        "summary": "The frontier AI model race has entered its comparison shopping phase.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,88 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "IBM “AI 에이전트 통제의 시작은 신원 부여부터”",
-        "url": "https://byline.network/2026/09/22-602/",
+        "title": "인섹시큐리티 “N2SF의 크로스도메인 보안, 옵스왓 단일 플랫폼으로 구현”",
+        "url": "https://byline.network/2026/09/22-611/",
         "source": "ByLine Network",
-        "published": "2026-09-22T02:34:39+00:00",
-        "summary": "“업무적으로 AI를 많이 써야 하는 시기가 곧 도래할 것이므로, 기계와 잘 공존할 수단을 마련해야 한다.  아직 AI가 비즈니스를 수행하기엔 신뢰가 떨어지는 게 사실이므로, AI를 잘 통제해야 원하는 방향대로 활용할 수 있다. AI 에이전트의 신원, 권한, 실행, 도구사용을 런타임에서 통제하지 못하는게 문제의 본질이다. 엔터프라이즈 환경에서 에이전틱 AI를 보호하는 것의 시작은 고유한 신원을 AI 에이전트에게 부여하는 것이다.” 최석재 IBM 상무는 22일 여의도 FKI타워 컨퍼런스센터에서 개최된 ‘금융 테크 컨퍼런스 2026’에서 이같이 밝혔다.",
+        "published": "2026-09-23T01:13:53+00:00",
+        "summary": "옵스왓(OPSWAT) 국내 총판 인섹시큐리티(대표 김종광)가 국가망보안체계(N2SF)에서 보안 등급이 다른 영역 사이의 파일 이동을 안전하게 통제하는 방안을 제시했다. 옵스왓의 ‘메타디펜더(MetaDefender)’를 중심으로 일방향 전송, 악성코드 검사, 파일 검증, ‘콘텐트 무해화(CDR)’기술을 묶어 등급 간 데이터 이동을 통제하는 전략이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[커머스BN] 토스-오아시스 동맹, 네이버-컬리와 닮았지만 다르다",
-        "url": "https://byline.network/2026/09/22_19287272/",
-        "source": "ByLine Network",
-        "published": "2026-09-22T00:54:06+00:00",
-        "summary": "토스가 오아시스마켓 운영사 오아시스와 손잡았습니다. 300억원을 투자해 지분 2.3%를 확보하고, 토스쇼핑 내 오아시스마켓 전용관을 엽니다.\n\n대형 플랫폼이 신선식품 전문몰과 손잡고 전용관을 연다는 그림만 보면, 지난해 네이버와 컬리의 협업이 떠오릅니다. 하지만 물류망을 놓고 보면 이야기가 달라집니다.\n\n왜 다른지, 그리고 양사 협업이 앞으로 어디까지 넓어질 수 있는지 살펴봅니다.",
+        "title": "Cloud startup Verda raises $189m in funding round led by Emergence Capital",
+        "url": "https://sifted.eu/articles/verda-datacrunch-funding-round-emergence-ventures/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-22T16:08:30+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "로지텍 첫 폴더블 마우스 ‘모비 폴드’ 써보니",
-        "url": "https://byline.network/2026/09/21-612/",
-        "source": "ByLine Network",
-        "published": "2026-09-21T08:17:14+00:00",
-        "summary": "저는 휴대하기에 적당한 크기와 무게를 지닌 제품을 선호하는데요. 얼마 전 로지텍 팝업을 둘러보던 중 한 제품이 눈에 들어왔습니다. 반으로 접히는 마우스 ‘모비 폴드’였습니다. 보통 마우스는 은근히 휴대가 애매합니다. 다른 물건과 뒤섞이면 파손되기도 하고요. 모비 폴드는 휴대성이 뛰어나고 보관이 용이한 새로운 물건입니다.",
+        "title": "Exclusive: Mistral acquires adtech startup Pimento in €12.7m cash-and-shares deal, filings show",
+        "url": "https://sifted.eu/articles/exclusive-mistral-pimento-acquisition/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-22T15:00:15+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "블루 아카이브 다음 노린다…한국 서브컬처, TGS서 승부수",
-        "url": "https://byline.network/2026/09/18-642/",
-        "source": "ByLine Network",
-        "published": "2026-09-21T08:10:37+00:00",
-        "summary": "세계 3대 게임쇼 중 하나인 ‘도쿄게임쇼 2026’(TGS 2026)가 막을 올린 가운데, 한국 게임사들이 다수의 서브컬처 신작을 출품했다. 서브컬처 장르의 본고장인 일본에서 차기작을 선보이며 글로벌 진출을 위한 포석을 다지고 서브컬처 팬층과 접점을 넓히는 모습이다.",
+        "title": "Exclusive: NIF backs defence startup Terasi in €11m raise",
+        "url": "https://sifted.eu/articles/exclusive-nif-backs-defence-startup-terasi-in-e11m-raise/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-22T13:33:38+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "국민의힘 “가상자산 과세 시기상조”",
-        "url": "https://byline.network/2026/09/0921-5/",
-        "source": "ByLine Network",
-        "published": "2026-09-21T08:01:00+00:00",
-        "summary": "디지털자산 과세에 앞서 디지털자산기본법을 마련하는 등 제도적 틀을 먼저 정비해야 한다는 주장이 나왔다. 최수진 국민의힘 원내수석대변인은 21일 국회에서 열린 ‘디지털자산 과세제도 개선 정책간담회’ 직후 백브리핑에서 디지털자산 과세에 대해 시기상조라는 당의 입장을 밝혔다. 디지털자산 관련 기본법과 개념 정의 등 제도적 기반이 마련되지 않은 상태에서 과세를 먼저 시행하는 것은 적절하지 않다는 취지다.",
+        "title": "Exclusive: Can You Trust That AI Agent? Baselayer Raises $35M To Help Companies Decide",
+        "url": "https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/",
+        "source": "Crunchbase News",
+        "published": "2026-09-22T12:00:06+00:00",
+        "summary": "Baselayer, an AI-powered startup that helps financial institutions verify businesses and assess fraud risk, has raised a $35 million M13-led Series A to expand its identity technology to AI agents.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "답을 말하는 대신, 보기마다 확률을 매기는 AI 모델 등장",
-        "url": "https://platum.kr/archives/294981?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2597%25eb%25b4%2587-%25ec%2595%2584%25eb%258b%258c-ai-%25eb%25aa%25a8%25eb%258d%25b8-%25eb%2593%25b1%25ec%259e%25a5-%25ed%2594%2584%25eb%25a1%259c%25ea%25b7%25b8%25eb%259e%25a8-%25ec%2595%2588%25ec%2597%2590%25ec%2584%259c-%25eb%25b6%2584%25eb%25a5%2598%25c2%25b7%25ec%2584%25a0%25ed%2583%259d%25c2%25b7",
+        "title": "As Software VCs Chase SpaceX Alumni, A Defense Tech Veteran Warns Of ‘Tourists And FOMO’",
+        "url": "https://news.crunchbase.com/venture/qa-defense-tech-warning-ai-venture-espahbodi-generational/",
+        "source": "Crunchbase News",
+        "published": "2026-09-22T11:00:42+00:00",
+        "summary": "In an interview with Crunchbase News, Van Espahbodi, general parter at Generational Partners, discusses how AI is changing hardware economics, why software investors are rushing into industrial technology, and what he believes many of them misunderstand about the sector.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "베스핀글로벌 “AI 에이전트 늘려도 성과 없는 이유는 ‘오정렬’”",
+        "url": "https://byline.network/2026/09/22-610/",
+        "source": "ByLine Network",
+        "published": "2026-09-22T08:29:40+00:00",
+        "summary": "“전 세계 생성 AI 투자가 이미 50조원에 육박한다고 한다. 이걸 가지고 정말 성과를 내고 있는지 다시 한번 짚어볼 때다. 지금까지는 어떤 모델을 도입하고 이를 잘 이용하는 데 집중했다. 더 중요한 건 어떤 비즈니스에 적용하고 검증할지, 결과를 어떻게 성과로 증명할지다.” 이세영 베스핀글로벌 전무는 22일 가 여의도 FKI타워 컨퍼런스센터에서 개최한 ‘금융 테크 컨퍼런스 2026’에서 이같이 말했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "신입은 직무 없이, 경력은 이틀 안에 통보… 스타트업 채용 방식 제각각",
+        "url": "https://platum.kr/archives/295087?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%25a0%25ec%259e%2585%25ec%259d%2580-%25ec%25a7%2581%25eb%25ac%25b4-%25ec%2597%2586%25ec%259d%25b4-%25ea%25b2%25bd%25eb%25a0%25a5%25ec%259d%2580-%25ec%259d%25b4%25ed%258b%2580-%25ec%2595%2588%25ec%2597%2590-%25ed%2586%25b5%25eb%25b3%25b4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585",
         "source": "Platum",
-        "published": "2026-09-21T07:25:53+00:00",
-        "summary": "챗GPT 같은 생성형 AI는 질문을 받으면 단어 조각(토큰)을 하나씩 이어 붙여 답을 문장으로 만든다. 미국 샌프란시스코의 AI 스타트업 타입세이프 AI(TypeSafe AI)가 9월 15일 공개한 모델 &#8216;제브(Jev)&#8217;는 문장을 만들지 않는다. 개발자가 미리 정해 둔 선택지 가운데 하나를 고르거나 점수를 매기고, 어떤 진술이 참일 확률을 계산해 돌려준다. 사람과 대화하는 용도가 아니라, 프로그램이 업무를 처리하는 중간에 불러 쓰는 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "제약・바이오 기업의 ‘품질・제조・자산’은 왜 통합돼야 하나",
-        "url": "https://byline.network/2026/09/21-602/",
-        "source": "ByLine Network",
-        "published": "2026-09-21T05:18:31+00:00",
-        "summary": "제약 및 바이오로 대표되는 생명과학 산업의 디지털화 흐름이 거세다. 모든 산업이 AI로 비즈니스를 전면 재설계하는 가운데, 생명과학 분야 산업도 AI 도입을 위한 길로 나아가고 있다. 특히 제약·바이오 산업이 글로벌화되는 가운데 ‘의약품 제조 및 품질관리 기준(GMP)에 대한 요구가 데이터·위험·생애주기관점에서 더 구체화되는 흐름이 뚜렷해졌다. 전산화 시스템뿐 아니라 제조설비와 시험·계측기의 상태·이력·성능 데이터까지 품질시스템의 일부로 보는 접근이 확대되고 있다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "치과위생사 대신 로봇이 석션을 잡는다, 덴탈로보틱스 시드 투자 유치",
-        "url": "https://platum.kr/archives/294978?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%2598%25ea%25b3%25bc%25ec%259c%2584%25ec%2583%259d%25ec%2582%25ac-%25eb%258c%2580%25ec%258b%25a0-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25ec%2584%259d%25ec%2585%2598%25ec%259d%2584-%25ec%259e%25a1%25eb%258a%2594%25eb%258b%25a4-%25eb%258d%25b4%25ed%2583%2588%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b1",
-        "source": "Platum",
-        "published": "2026-09-21T05:18:11+00:00",
-        "summary": "치과 진료 중 환자 입안의 침과 피를 빨아들이는 석션 작업을 로봇이 스스로 하도록 만드는 스타트업이 시드 투자를 받았다. 덴탈로보틱스가 AI엔젤클럽이 주도하고 씨엔티테크, 피플인베스트먼트, 디지털헬스케어파트너스(DHP)가 참여한 시드 라운드 투자를 유치했다. 투자 금액은 공개하지 않았다. 회사가 겨냥하는 문제는 치과 보조인력 부족이다. 회사가 분석한 진료 현장에서 치과위생사는 하루 평균 2.5시간을 석션에 쓰고, 그중 약 2시간은 혼자 진료 보조를 ... 더 읽기",
+        "published": "2026-09-22T07:43:07+00:00",
+        "summary": "직무를 정하지 않고 뽑는 신입 공채, 지원 결과를 영업일 이틀 안에 알려주는 경력직 채용, 병역특례를 앞세운 이공계 인력 확보. 스타트업들이 사업 확장과 상용화를 앞두고 저마다 다른 방식으로 인재 확보에 나섰다. 여행 플랫폼 마이리얼트립은 직무보다 문제 해결 경험을, 4050 커머스 기업 라포랩스는 전형 속도와 처우를, 대드론 개발사 에어빌리티는 기술 인력 확보를 앞세웠다. 마이리얼트립은 최근 시작한 신입 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,45 +276,120 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Naveen Rao: 4D Computing, AI&#39;s Energy Wall &amp; Beating Biology",
-        "url": "https://www.youtube.com/watch?v=yAsrMA_ADPc",
+        "title": "Steve Hilton &amp; Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud &amp; CA Republicans",
+        "url": "https://www.youtube.com/watch?v=VF90rBzl26E",
         "source": "All-In Podcast",
-        "published": "2026-09-21T21:04:44Z",
-        "summary": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) ...",
-        "thumbnail": "https://i.ytimg.com/vi/yAsrMA_ADPc/mqdefault.jpg",
+        "published": "2026-09-23T01:51:07Z",
+        "summary": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws ...",
+        "thumbnail": "https://i.ytimg.com/vi/VF90rBzl26E/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "yAsrMA_ADPc",
+          "videoId": "VF90rBzl26E",
           "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "“They Got a $50,000 Check”: Meta’s Data Center Windfall for Local Teachers",
-        "url": "https://www.youtube.com/watch?v=yLnJpR8H2kY",
-        "source": "All-In Podcast",
-        "published": "2026-09-21T20:47:35Z",
-        "summary": "Thanks to our partners for making this possible! IREN is a vertically integrated AI Cloud platform, delivering data centers, compute ...",
-        "thumbnail": "https://i.ytimg.com/vi/yLnJpR8H2kY/mqdefault.jpg",
+        "title": "Drone swarm defense",
+        "url": "https://www.youtube.com/watch?v=5_ZkERt5siI",
+        "source": "Y Combinator",
+        "published": "2026-09-22T23:17:02Z",
+        "summary": "Attack drones are reshaping modern warfare, but many countries still lack an effective way to defend their airspace. Earendil ...",
+        "thumbnail": "https://i.ytimg.com/vi/5_ZkERt5siI/mqdefault.jpg",
         "extras": {
-          "theme": "analysis",
-          "videoId": "yLnJpR8H2kY",
+          "theme": "innovation",
+          "videoId": "5_ZkERt5siI",
           "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "돈 없다고 드러누운 일본 아시안 게임",
-        "url": "https://www.youtube.com/watch?v=XT11yoScLBA",
+        "title": "Antarctica Is Bigger Than You Think",
+        "url": "https://www.youtube.com/shorts/3c0NxWhdn0c",
+        "source": "Cleo Abram",
+        "published": "2026-09-22T14:54:53+00:00",
+        "summary": "Guess how big Antarctica really is… \n\nAnd how thick the ice is…\n\nAround 91% of the world's total fresh water is frozen here and if it melted, it would raise global sea levels by nearly 60 meters, lots of populated cities around the world would be underwater\n\nBut there’s something hidden deep under t",
+        "thumbnail": "https://i4.ytimg.com/vi/3c0NxWhdn0c/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "3c0NxWhdn0c",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Education Has to Change",
+        "url": "https://www.youtube.com/watch?v=Z4x71naDx1Q",
+        "source": "a16z",
+        "published": "2026-09-22T12:04:09+00:00",
+        "summary": "Ben Horowitz and Erik Torenberg sit down with Gagan Biyani to introduce the Horowitz Andreessen Academy and discuss a bigger question: what should education look like when AI is rapidly changing the skills people need to build, work, and create?\n\nBen and Gagan explain why they believe learning shoul",
+        "thumbnail": "https://i3.ytimg.com/vi/Z4x71naDx1Q/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "Z4x71naDx1Q",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "이란 전쟁에 말려 들어가는 중동",
+        "url": "https://www.youtube.com/watch?v=VXtp9HEqrx0",
         "source": "슈카월드",
-        "published": "2026-09-21T10:19:32Z",
-        "summary": "0:00 돈쓰고 욕먹는 축제 4:19 역대 최악의 숙소 환경 13:33 주최측의 뻔뻔한 태도 31:08 광주-대구 2038 아시안게임 유치?",
-        "thumbnail": "https://i.ytimg.com/vi/XT11yoScLBA/mqdefault.jpg",
+        "published": "2026-09-22T10:18:36Z",
+        "summary": "0:00 심상치 않은 러시아 동향 9:07 후티와 사우디 20:58 두 스트롱맨이 만든 전쟁이 확전되고 있다.",
+        "thumbnail": "https://i.ytimg.com/vi/VXtp9HEqrx0/mqdefault.jpg",
         "extras": {
           "theme": "kr",
-          "videoId": "XT11yoScLBA",
+          "videoId": "VXtp9HEqrx0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "경험으로 만든 AX 7단계 공식 (박종천 지란지교소프트 CAIO)",
+        "url": "https://www.youtube.com/watch?v=LLIxpEHR89M",
+        "source": "티타임즈TV",
+        "published": "2026-09-22T09:00:13Z",
+        "summary": "30년 개발자 박종천 지란지교소프트 CAIO의 경험담입니다. PoC를 마치고 토큰 맥싱 시대를 거쳐 전사 AX를 달성하자 결국 보안과 ...",
+        "thumbnail": "https://i.ytimg.com/vi/LLIxpEHR89M/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "LLIxpEHR89M",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, &amp; Revolutionizing the Engine",
+        "url": "https://www.youtube.com/watch?v=Gnb-CfNPcPE",
+        "source": "All-In Podcast",
+        "published": "2026-09-22T09:00:09Z",
+        "summary": "(0:00) Welcome Blake Scholl! (5:11) Solving the sonic boom & legalizing supersonic flight (7:59) The pivot to powering data ...",
+        "thumbnail": "https://i.ytimg.com/vi/Gnb-CfNPcPE/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "Gnb-CfNPcPE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "&quot;역대 최악의 아시안게임 선수촌&quot;",
+        "url": "https://www.youtube.com/watch?v=amKJfvXQ6E4",
+        "source": "슈카월드",
+        "published": "2026-09-22T03:52:13Z",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/amKJfvXQ6E4/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "amKJfvXQ6E4",
           "via": "api"
         }
       },
@@ -345,81 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "R523yMcIeUw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why the People Who Built Hip-Hop Ended Up With Nothing",
-        "url": "https://www.youtube.com/watch?v=ZO6VyDvysxY",
-        "source": "a16z",
-        "published": "2026-09-20T14:30:23Z",
-        "summary": "Ben Horowitz and Erik Torenberg sit down with Nas, Grandmaster Caz, and Steve Stoute for a conversation about the Paid in Full ...",
-        "thumbnail": "https://i.ytimg.com/vi/ZO6VyDvysxY/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "ZO6VyDvysxY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“어떤 신이 될 것인가는 내 선택에 달렸다” (김서준 해시드 대표)",
-        "url": "https://www.youtube.com/watch?v=pkMGVeatSBA",
-        "source": "티타임즈TV",
-        "published": "2026-09-20T01:00:03Z",
-        "summary": "해시드 김서준 대표에게 AI가 본격화하면 지금의 자본주의와 어떻게 다른 사회가 펼쳐질지, 부의 분배와 재분배는 어떻게 바뀌어야 ...",
-        "thumbnail": "https://i.ytimg.com/vi/pkMGVeatSBA/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "pkMGVeatSBA",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "New Alien Host Planet Just Dropped",
-        "url": "https://www.youtube.com/watch?v=Wrps-lZQME8",
-        "source": "Cleo Abram",
-        "published": "2026-09-19T15:33:27Z",
-        "summary": "Nearly 50 light years away is a planet orbiting a red dwarf star that appears to be leaking helium. This is a huge deal. Most of the ...",
-        "thumbnail": "https://i.ytimg.com/vi/Wrps-lZQME8/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "Wrps-lZQME8",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "821조원, 역대 최대 국가 예산 발표",
-        "url": "https://www.youtube.com/watch?v=93iH1jbSiPw",
-        "source": "슈카월드",
-        "published": "2026-09-19T10:22:30Z",
-        "summary": "0:00 역대 최대 821조원, 2027년 국가 예산안 9:08 162조원 미래대응기금 신설 14:14 증가한 예산들은 어디에 쓰이는가? * 본 영상은 ...",
-        "thumbnail": "https://i.ytimg.com/vi/93iH1jbSiPw/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "93iH1jbSiPw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "박리다매의 함정, a16z 파트너가 말하는 당장 ‘월 130만원 플랜’을 만들어야 하는 이유",
-        "url": "https://www.youtube.com/watch?v=Imf1RaZ9M5k",
-        "source": "EO 이오",
-        "published": "2026-09-19T10:21:42Z",
-        "summary": "AI 기술로 누구나 쉽게 제품을 만드는 시대, 그럼에도 대중성을 버리고 월 1000달러(약130만 원)을 낼 극소수에 집중해야 한다고 ...",
-        "thumbnail": "https://i.ytimg.com/vi/Imf1RaZ9M5k/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "Imf1RaZ9M5k",
           "via": "api"
         }
       }
