@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-24T03:10:27.836948+00:00",
+  "generated_at": "2026-09-25T03:27:16.670084+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: NSW premier says OpenAI agent infiltrated crime data agency; unemployment at highest rate since pandemic",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+        "title": "Australia news live: Angus Taylor accuses PM of ‘swanning around’ at UN instead of making fuel cheaper; NSW renters to benefit from new laws",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-24T03:02:39+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastMore than 600 Qantas ground crew workers have begun a 24-hour strike this morning across the country over an escalating industrial dispute.Qantas said that it has contingency plans in place and any impacts would be felt primarily by the airline’s freight and regional QantasLink services.We remain focused on reachi",
+        "published": "2026-09-25T03:21:53+00:00",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastAI hack of Medicare exposes Australia’s vulnerabilitiesTechnology experts have warned revelations an artificial intelligence agent hacked Medicare’s internal systems will not be the only dangerous breach of government data and have called for Australia to boost its protections against the growing risk.Frontier AI ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia Says OpenAI ‘Infiltrated’ Public Health Care Portal",
-        "url": "https://www.nytimes.com/2026/09/23/world/asia/australia-openai-agent-infiltration.html",
+        "title": "France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites",
+        "url": "https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html",
         "source": "NYT World",
-        "published": "2026-09-24T02:42:32+00:00",
-        "summary": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system.",
+        "published": "2026-09-25T02:59:35+00:00",
+        "summary": "Attacks on Saudi cities on the Red Sea by the Iran-backed Houthi militia in Yemen have added to pressure on global oil supplies.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "U.N. Updates: Zelensky Warns of Growing Global Cost of Russia’s War in Ukraine",
-        "url": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
-        "source": "NYT World",
-        "published": "2026-09-24T02:41:28+00:00",
-        "summary": "Ukraine’s president said rising fuel prices and deadlier drone technology showed that the fighting have spilled beyond his country’s borders. He called for steps to end to the war before winter.",
+        "title": "NYC police arrest Susan Sarandon, other celebrities protesting Netanyahu",
+        "url": "https://www.aljazeera.com/news/2026/9/25/nyc-police-arrest-susan-sarandon-other-celebrities-protesting-netanyahu?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-25T02:35:53+00:00",
+        "summary": "Rights groups accuse UN of hosting a &#039;war criminal&#039; as delegations walk out during Israeli prime minister&#039;s speech.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Venezuela being ‘reborn’, Rodríguez tells UN; Trump greets Xi Jinping ahead of high-stakes US-China summit – live",
-        "url": "https://www.theguardian.com/world/live/2026/sep/23/united-nations-general-assembly-unga-zelenksyy-trump-xi-china-ukraine-russia-europe-latest-news-updates",
+        "title": "Contrasting treatment of Israel and Palestine on display at the UN",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-25T02:26:16+00:00",
+        "summary": "Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "More than 100 arrested as New Yorkers protest Netanyahu’s UN visit",
+        "url": "https://www.aljazeera.com/news/2026/9/25/more-than-100-arrested-as-new-yorkers-protest-netanyahus-un-visit?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-25T02:24:16+00:00",
+        "summary": "Demonstrators blocked streets and marched towards UN headquarters as the Israeli PM addressed world leaders at UNGA.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "One Nation admits using party funds to build $56,000 shed on James Ashby’s private property",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/25/one-nation-admits-to-using-party-funds-to-build-56000-shed-on-james-ashbys-private-property-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-24T02:36:55+00:00",
-        "summary": "Acting president says Venezuela returning strongly after ‘setbacks’; Chinese leader says Beijing and Washington should be partners not rivals after arriving in US for state visitTrump greets Xi Jinping at plane as Chinese leader arrives for state visitThese latest attacks come just hours before Volodymyr Zelenskyy’s address to the UN general assembly, so he is likely to reflect on them during his ",
+        "published": "2026-09-25T02:19:08+00:00",
+        "summary": "Email to members says money lent to a party-linked company to establish a micro distilleryFollow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastOne Nation has admitted using party funds to build a $56,000 shed on James Ashby’s private property.Guardian Australia revealed on Monday that a company linked to One Nation – Small Batch Brewing P",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia says OpenAI agent hacked Medicare portal",
-        "url": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-24T02:34:58+00:00",
-        "summary": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.",
+        "title": "Beau Lamarre-Condon used friend to help fake cancer diagnosis before alleged double murder, court told",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/25/beau-lamarre-condon-trial-cop-faked-cancer-sydney-murders-jesse-baird-luke-davies-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-09-25T02:18:03+00:00",
+        "summary": "Former NSW police officer, 31, has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington terrace in early 2024Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon “guilt-tripped” a friend into helping him fake a cancer diagnosis in the hope of explaining his erratic behaviour, months before the poli",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-09-24T02:23:54+00:00",
-        "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Venezuela’s Rodriguez pledges elections, path forward in UNGA speech",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/venezuelas-rodriguez-pledges-elections-path-forward-in-unga-speech?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-24T02:23:06+00:00",
-        "summary": "Venezuela’s Interim President Delcy Rodriguez says her country must abandon the ‘extremism’ of the past.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Iran’s president brings receipts of US strikes on civilians to the UNGA",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-24T02:17:36+00:00",
-        "summary": "Iran’s president delivered his UN General Assembly address after US President Trump threatened to ‘annihilate’ Iran.",
+        "title": "NSW police officer killed ‘instantly’ after car she was travelling in crashed into tree in Redfern",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/25/nsw-police-officer-killed-car-crash-redfern-sydney-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-09-25T02:17:17+00:00",
+        "summary": "The marked police car was travelling with its sirens on when it hit a tree in inner-city Sydney about 1.30am on FridayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA New South Wales police officer who was killed on duty when the car she was travelling in crashed into a tree in Sydney has been named as 20-year-old Mia Lay.NSW police",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Australia says OpenAI agent hacked into government website",
-        "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+        "title": "Jev and System One Models: Calibration Beats Accuracy",
+        "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
         "source": "Hacker News Front",
-        "published": "2026-09-24T01:24:00+00:00",
-        "summary": "Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411\nComments URL: https://news.ycombinator.com/item?id=49825024\nPoints: 28\n# Comments: 16",
+        "published": "2026-09-25T02:24:21+00:00",
+        "summary": "Article URL: https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions\nComments URL: https://news.ycombinator.com/item?id=49839510\nPoints: 10\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "FLAWED's Flaws and What This Means for Industry Research",
-        "url": "https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/",
-        "source": "Hacker News Front",
-        "published": "2026-09-24T01:16:33+00:00",
-        "summary": "Article URL: https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/\nComments URL: https://news.ycombinator.com/item?id=49824969\nPoints: 11\n# Comments: 1",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Everything new coming to Meta’s AI agent Muse",
-        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-        "source": "TechCrunch",
-        "published": "2026-09-24T01:13:32+00:00",
-        "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
-        "url": "https://github.com/nestrilabs/virtio-nvgpu",
-        "source": "Hacker News Front",
-        "published": "2026-09-24T01:02:23+00:00",
-        "summary": "Article URL: https://github.com/nestrilabs/virtio-nvgpu\nComments URL: https://news.ycombinator.com/item?id=49824864\nPoints: 17\n# Comments: 12",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-        "source": "TechCrunch",
-        "published": "2026-09-24T00:46:17+00:00",
-        "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: An open-source manufacturing ERP/MES/QMS",
-        "url": "https://carbon.ms/self-hosted",
-        "source": "Hacker News Front",
-        "published": "2026-09-24T00:45:17+00:00",
-        "summary": "Article URL: https://carbon.ms/self-hosted\nComments URL: https://news.ycombinator.com/item?id=49824715\nPoints: 10\n# Comments: 7",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Feds Target AI Critics as \"Foreign Agents\"",
-        "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-        "source": "Hacker News Front",
-        "published": "2026-09-24T00:41:31+00:00",
-        "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign\nComments URL: https://news.ycombinator.com/item?id=49824686\nPoints: 66\n# Comments: 43",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Meta is making a standalone Muse AI gadget",
-        "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+        "title": "Here’s the Tesla Semi… again",
+        "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
         "source": "The Verge",
-        "published": "2026-09-24T00:15:20+00:00",
-        "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
+        "published": "2026-09-25T02:12:57+00:00",
+        "summary": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+        "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+        "source": "The Verge",
+        "published": "2026-09-25T01:25:53+00:00",
+        "summary": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+        "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+        "source": "The Verge",
+        "published": "2026-09-24T23:50:55+00:00",
+        "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+        "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+        "source": "The Verge",
+        "published": "2026-09-24T23:42:39+00:00",
+        "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+        "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+        "source": "TechCrunch",
+        "published": "2026-09-24T23:24:33+00:00",
+        "summary": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+        "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+        "source": "Ars Technica",
+        "published": "2026-09-24T22:29:48+00:00",
+        "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Microsoft puts Brad Smith in charge of communications",
+        "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+        "source": "The Verge",
+        "published": "2026-09-24T22:08:22+00:00",
+        "summary": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief communications officer, who is departing later this year. Microsoft CEO Satya [&#8230;]",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,10 +186,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Revolut unveils facial recognition payments in UK",
-        "url": "https://sifted.eu/articles/revolut-facial-recognition-face-payments-pay-with-smile/",
+        "title": "Browse Sifted's company coverage",
+        "url": "https://sifted.eu/articles/browse-sifteds-company-coverage/",
         "source": "Sifted (EU startups)",
-        "published": "2026-09-24T00:01:57+00:00",
+        "published": "2026-09-24T14:41:38+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -197,10 +197,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Nscale helped ByteDance subsidiary access Nvidia chips, swerving US rules — reports",
-        "url": "https://sifted.eu/articles/nscale-nvidia-bytedance-tiktok/",
+        "title": "Is New York warming to European tech?",
+        "url": "https://sifted.eu/articles/new-york-podcast/",
         "source": "Sifted (EU startups)",
-        "published": "2026-09-23T16:59:33+00:00",
+        "published": "2026-09-24T13:05:14+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -208,54 +208,21 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Magic AI raises £8m to take its AI-powered fitness mirror to the US",
-        "url": "https://sifted.eu/articles/magic-ai-fitness-mirror-funding-round/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-23T15:01:35+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Anthropic and Nvidia back Basecamp Research in $140m round",
-        "url": "https://sifted.eu/articles/anthropic-nvidia-basecamp-research/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-23T14:00:30+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Jumbo-Sized Series A Rounds Are On The Rise",
-        "url": "https://news.crunchbase.com/venture/megaround-seriesa-ai-chips-robotics-2026/",
+        "title": "Exclusive: From Booking Calls To Late Check-Ins, Dextr AI Raises $6.7M For Hotel AI Agents",
+        "url": "https://news.crunchbase.com/venture/dextr-ai-hospitality-agents-raises-seed-funding/",
         "source": "Crunchbase News",
-        "published": "2026-09-23T11:00:38+00:00",
-        "summary": "So far this year, global startups have secured at least 114 Series A rounds of $100 million or more, per Crunchbase data. That’s the highest annual total in years and on track to top the all-time peak. We take a look at where the money is going.",
+        "published": "2026-09-24T13:00:44+00:00",
+        "summary": "Dextr AI is emerging from stealth with $6.7 million in seed funding to build agents that handle reservations, guest requests, staff coordination and other hotel tasks.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Emerging M&A Map For AI Agent Security",
-        "url": "https://news.crunchbase.com/ma/emerging-map-ai-agentic-security-sagie/",
-        "source": "Crunchbase News",
-        "published": "2026-09-23T11:00:22+00:00",
-        "summary": "As AI agents gain access to enterprise data, systems and tools, they are emerging as a new class of active identity requiring specialized permissions, monitoring and governance, writes guest author Itay Sagie. He believes the market, and its M&#038;A opportunities, will likely form around specific control points, making precise positioning crucial for startups.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "‘You cannot hide from AI’: Should we fear AI-led performance reviews?",
-        "url": "https://sifted.eu/articles/alan-chang-fuse-ai-reviews/",
+        "title": "Exclusive: Revolut customers hit by fresh security breach",
+        "url": "https://sifted.eu/articles/exclusive-revolut-customers-fresh-hack/",
         "source": "Sifted (EU startups)",
-        "published": "2026-09-23T10:40:28+00:00",
+        "published": "2026-09-24T11:25:39+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -263,10 +230,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "What if companies could finally use their most valuable data?",
-        "url": "https://sifted.eu/articles/companies-finally-use-their-most-valuable-data-brnd/",
+        "title": "Gaming Startup Funding Levels Up A Bit In 2026",
+        "url": "https://news.crunchbase.com/venture/2026-global-gaming-startup-funding-up-ai-meshy-decart/",
+        "source": "Crunchbase News",
+        "published": "2026-09-24T11:00:12+00:00",
+        "summary": "So far this year, companies in the gaming space have raised around $2 billion in seed- through growth-stage funding. That's already ahead of the 2025 full-year total, driven in large part by big rounds for companies at the intersection of AI and gaming.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Inside the UK startup building AI’s next enterprise category",
+        "url": "https://sifted.eu/articles/uk-startup-building-ais-next-enterprise-category-brnd/",
         "source": "Sifted (EU startups)",
-        "published": "2026-09-23T09:00:00+00:00",
+        "published": "2026-09-24T09:00:00+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "메타, AI 에이전트 ‘뮤즈’를 안경에 넣는다",
+        "url": "https://platum.kr/archives/295195?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25eb%25ae%25a4%25ec%25a6%2588%25eb%25a5%25bc-%25ec%2595%2588%25ea%25b2%25bd%25ec%2597%2590-%25eb%2584%25a3%25eb%258a%2594%25eb%258b%25a4",
+        "source": "Platum",
+        "published": "2026-09-24T08:25:42+00:00",
+        "summary": "메타가 이달 초 미국에서 내놓은 개인용 AI 에이전트 &#8216;뮤즈&#8217;를 앞으로는 스마트폰이나 PC뿐 아니라 AI 안경에서도 쓸 수 있게 된다. 메타는 미국 현지시간 23일 열린 연례 개발자 행사 &#8216;메타 커넥트 2026&#8217;에서 뮤즈의 AI 안경 지원 계획을 발표하고, 오디오 전용 안경과 차세대 AI 안경, 새 VR 안경을 함께 공개했다. 뮤즈는 사용자가 묻기 전에 목표 달성에 필요한 일을 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Growth investor DTCP raises €455m first close for defence fund, plots future funds",
+        "url": "https://sifted.eu/articles/dtcp-first-close-defence-fund-invest-europe-growth/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-24T07:00:36+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -276,16 +276,106 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Luca Ferrari, Bending Spoons CEO: The $40K Start, Buying Product-Market Fit & Beating Private Equity",
-        "url": "https://www.youtube.com/watch?v=6t5yF8ansoQ",
+        "title": "“지능이 희소성을 잃은 시대, 가치있는 건 테이스트“ (안상현 메타 AX팀 E7엔지니어)",
+        "url": "https://www.youtube.com/watch?v=XZciB96fdKM",
+        "source": "티타임즈TV",
+        "published": "2026-09-24T22:00:18Z",
+        "summary": "메타에서 8년동안 5번을 승진해 E7(시니어스태프) 엔지니어에 오른 안상현님이 엔지니어 후배들에게 전하는 말입니다. “오히려 ...",
+        "thumbnail": "https://i.ytimg.com/vi/XZciB96fdKM/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "XZciB96fdKM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Steve Hilton: California is Upside Down",
+        "url": "https://www.youtube.com/watch?v=KDcXfqm2cFM",
         "source": "All-In Podcast",
-        "published": "2026-09-23T23:00:16+00:00",
-        "summary": "(0:00) Luca Ferrari joins the Besties!\n(1:56) Crashing an AI startup, the $40,000 restart & buying product market fit\n(4:59) The in-house tech stack, shrinking the teams & the 10 out of 10 standard\n(9:55) Debt as an accelerant, what happens if rates rise & who else is bidding\n(14:58) Inside the deal",
-        "thumbnail": "https://i3.ytimg.com/vi/6t5yF8ansoQ/hqdefault.jpg",
+        "published": "2026-09-24T21:43:25Z",
+        "summary": "Thanks to our partners for making this possible! Google for Startups connects founders with the right people, products, and best ...",
+        "thumbnail": "https://i.ytimg.com/vi/KDcXfqm2cFM/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "6t5yF8ansoQ",
+          "videoId": "KDcXfqm2cFM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Autonomous construction on Earth and beyond",
+        "url": "https://www.youtube.com/watch?v=iGY7httJjQA",
+        "source": "Y Combinator",
+        "published": "2026-09-24T21:00:29Z",
+        "summary": "A lot of construction work is still done by hand simply because the machines to automate it don't exist. That's become a bottleneck ...",
+        "thumbnail": "https://i.ytimg.com/vi/iGY7httJjQA/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "iGY7httJjQA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Jensen Huang: America Needs Open Source to Win AI... Because Open Source Lets Every American Win",
+        "url": "https://www.youtube.com/watch?v=fd48V54nfbw",
+        "source": "All-In Podcast",
+        "published": "2026-09-24T15:01:59Z",
+        "summary": "Thanks to our partners for making this possible! Google for Startups connects founders with the right people, products, and best ...",
+        "thumbnail": "https://i.ytimg.com/vi/fd48V54nfbw/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "fd48V54nfbw",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Do All The Planes Fly This Line?",
+        "url": "https://www.youtube.com/shorts/8zegi6-ZyiM",
+        "source": "Cleo Abram",
+        "published": "2026-09-24T14:56:29+00:00",
+        "summary": "If the shortest path across the Atlantic is here, why do all the planes fly on a different path?\n\nAt the equator, the ground is moving about 1,600 kilometers per hour, but at the poles, it’s zero. So when the warm air flows from the equator to the poles, it starts to outrun the ground below it and c",
+        "thumbnail": "https://i1.ytimg.com/vi/8zegi6-ZyiM/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "8zegi6-ZyiM",
           "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Trump’s Midterm Prospects Are Getting Worse",
+        "url": "https://www.youtube.com/watch?v=TwMJDQtYh-Q",
+        "source": "TLDR News Global",
+        "published": "2026-09-24T08:30:26Z",
+        "summary": "Order a copy of Too Long: https://toolong.news/TL009 With just over a month to go until the US midterm elections, Trump and the ...",
+        "thumbnail": "https://i.ytimg.com/vi/TwMJDQtYh-Q/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "TwMJDQtYh-Q",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "트럼프 곁을 떠나지 않는다는 금발의 특별 보좌관 논란",
+        "url": "https://www.youtube.com/watch?v=s7cPzKqb65M",
+        "source": "슈카월드",
+        "published": "2026-09-24T08:00:11Z",
+        "summary": "0:00 대규모 숙청(?)을 벌이는 미 국방장관 5:41 또다른 충신, FBI 국장 10:15 럼프형 2기 핵심 참모로 등극한 그녀 20:48 떠오르는 ...",
+        "thumbnail": "https://i.ytimg.com/vi/s7cPzKqb65M/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "s7cPzKqb65M",
+          "via": "api"
         }
       },
       {
@@ -321,21 +411,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Jensen Huang Calls Out AI Doomers: “All of These Predictions Have Been Wrong”",
-        "url": "https://www.youtube.com/shorts/FvA0ssAS--E",
-        "source": "All-In Podcast",
-        "published": "2026-09-23T18:11:50+00:00",
-        "summary": "Thanks to our partners for making this possible!\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 ma",
-        "thumbnail": "https://i3.ytimg.com/vi/FvA0ssAS--E/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "FvA0ssAS--E",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "Replit CEO Amjad Masad on What Young People Should Learn in the AI Era",
         "url": "https://www.youtube.com/watch?v=Q8yFrGwIftE",
         "source": "a16z",
@@ -345,81 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "Q8yFrGwIftE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What If You Got Sucked Into A Black Hole?",
-        "url": "https://www.youtube.com/watch?v=DmfVLp51M58",
-        "source": "Cleo Abram",
-        "published": "2026-09-23T14:16:56Z",
-        "summary": "What if you got sucked into a black hole? First you'd be smashing into burning hot gas and dust. As you get closer, you'd notice ...",
-        "thumbnail": "https://i.ytimg.com/vi/DmfVLp51M58/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "DmfVLp51M58",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "10배 상승, 전 국민 투자 열풍에 빠진 나이지리아",
-        "url": "https://www.youtube.com/watch?v=92qTnyHoEnw",
-        "source": "슈카월드",
-        "published": "2026-09-23T10:58:58Z",
-        "summary": "0:00 미쳐 날뛰고 있는 글로벌 유가 4:43 아프리카 대륙을 뒤흔든 초대형 IPO 등장 8:45 단돈 4달라! 11:17 나이지리아의 신이 된 ...",
-        "thumbnail": "https://i.ytimg.com/vi/92qTnyHoEnw/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "92qTnyHoEnw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "시리, 제미나이, 클로드, 챗GPT 누가 AI의 관문이 될까? (박종천 지란지교소프트 CAIO)",
-        "url": "https://www.youtube.com/watch?v=T6xvPdwM1Js",
-        "source": "티타임즈TV",
-        "published": "2026-09-23T09:00:10Z",
-        "summary": "지난 편에서는 AX가 잘될수록 보안과 사용료가 발목을 잡기 때문에 결국 기업마다 자체 AI 서버가 필요해질 것이라는 분석을 전해 ...",
-        "thumbnail": "https://i.ytimg.com/vi/T6xvPdwM1Js/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "T6xvPdwM1Js",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Everything’s Gone Wrong for South Korea’s President",
-        "url": "https://www.youtube.com/watch?v=S3etq0Ym03o",
-        "source": "TLDR News Global",
-        "published": "2026-09-23T08:30:06Z",
-        "summary": "Order a copy of Too Long: https://toolong.news/TL009 Once-popular South Korean President Lee Jae Myung has seen his ...",
-        "thumbnail": "https://i.ytimg.com/vi/S3etq0Ym03o/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "S3etq0Ym03o",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ai 위험론이 사기인 이유",
-        "url": "https://www.youtube.com/watch?v=TqwwF2cJJgA",
-        "source": "슈카월드",
-        "published": "2026-09-23T06:04:50Z",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i.ytimg.com/vi/TqwwF2cJJgA/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "TqwwF2cJJgA",
           "via": "api"
         }
       }
