@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-28T03:40:30.266088+00:00",
+  "generated_at": "2026-09-29T04:15:38.885827+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia news live: Chalmers says ‘near universal expectation’ of global rate hikes; Australia to meet with OpenAI this week after breach",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
+        "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-09-29T04:06:43+00:00",
+        "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Prime Minister Andy Burnham’s Labour Conference Speech Will Aim to Reset UK Mood",
+        "url": "https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html",
+        "source": "NYT World",
+        "published": "2026-09-29T04:01:15+00:00",
+        "summary": "Prime Minister Andy Burnham is expected to lay out his policy plans in an address on Tuesday at the Labour Party’s annual conference.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
+        "url": "https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html",
+        "source": "NYT World",
+        "published": "2026-09-29T04:01:09+00:00",
+        "summary": "For one Istanbul confectioner, distributing fried dough balls as memorials is not just a job. It’s personal.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australia news live: Shoebridge doesn’t rule himself out of Greens leadership race; RBA interest rates decision expected",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-28T03:14:23+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastRBA expected to hike cash rate to 4.6%, its highest level since 2011Australia’s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than $100 to typical monthly mortgage repayments. Continue reading...",
+        "published": "2026-09-29T03:53:13+00:00",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastNew South Wales police say they are investigating the suspicious deaths of two men in the state’s north.Police said they found the first man – who has since been identified as a 79-year-old – dead at a property on Summerland Way at Gurranang, near Grafton, on 13 September.And that’s equally important in the Reserv",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
-        "url": "https://www.aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house?traffic_source=rss",
+        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-09-29T03:50:40+00:00",
+        "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
+        "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-09-28T02:57:28+00:00",
-        "summary": "Private dinner will be the first one-on-one meeting between the two men, according to reports.",
+        "published": "2026-09-29T03:38:16+00:00",
+        "summary": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Venezuelans rally for opposition leader’s return and presidential elections",
-        "url": "https://www.aljazeera.com/news/2026/9/28/venezuelans-rally-for-opposition-leaders-return-and-presidential-elections?traffic_source=rss",
+        "title": "Fighter jets escort Pope Leo on final day of his France tour",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-09-28T02:36:00+00:00",
-        "summary": "Nobel laureate Maria Corina Machado has been living in exile, with plans to return to Venezuela spoiled multiple times.",
+        "published": "2026-09-29T03:00:01+00:00",
+        "summary": "Pope Leo XIV was escorted by fighter jets to Metz, the final stop of his four-day France tour.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Palestine Action protesters arrested outside UK Labour Party conference",
-        "url": "https://www.aljazeera.com/news/2026/9/28/palestine-action-protesters-arrested-outside-uk-labour-party-conference?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-28T02:23:30+00:00",
-        "summary": "Demonstrators protest against UK government&#039;s proscription of Palestine Action as a &#039;terrorist&#039; organisation.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Ireland beats Israel 3-0 wearing black armbands to support Gaza",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/27-09-sv-ireland-beats-israel-ie?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-28T01:39:02+00:00",
-        "summary": "Ireland scored a 3-0 victory over Israel in a politically-charged UEFA Nations League match played in Hungary.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "UK Foreign Secretary confronted by activists over Palestine Action ban",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-foreign-secretary-confronted-by-activists-over-palestine-action-ban?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-28T01:37:27+00:00",
-        "summary": "UK Foreign Secretary Ed Miliband was confronted by activists at a restaurant over the proscription of Palestine Action.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-28T01:33:52+00:00",
-        "summary": "Israel’s security minister Itamar Ben-Gvir has released a video in which he is seen threatening to kill Hassan Salameh.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "France’s far-right National Rally surges in Senate elections",
-        "url": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
+        "title": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack",
+        "url": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
         "source": "The Guardian World",
-        "published": "2026-09-28T01:31:45+00:00",
-        "summary": "Marine Le Pen hails ‘historic victory’ as her party and allies win enough seats to form caucus just months ahead of presidential pollFrance’s far-right National Rally (RN) party and its allies have secured a record 14 seats in the rightwing-dominated Senate in elections, effectively quadrupling its number in the 348-seat chamber just months before a presidential poll.RN presidential candidate Mari",
+        "published": "2026-09-29T02:51:17+00:00",
+        "summary": "Chief strategy officer to fly to Australia to front joint committee on AI after breaches of government websitesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOpenAI has apologised to Australians for its agent attack on Medicare, and will front parliament next week, as the tech company revealed more details about its June hack of Aus",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Microsoft drops Copilot+ branding from its new laptops",
-        "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+        "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
         "source": "Hacker News Front",
-        "published": "2026-09-28T02:46:27+00:00",
-        "summary": "Article URL: https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding\nComments URL: https://news.ycombinator.com/item?id=49872980\nPoints: 11\n# Comments: 3",
+        "published": "2026-09-29T02:26:59+00:00",
+        "summary": "Article URL: https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html\nComments URL: https://news.ycombinator.com/item?id=49887337\nPoints: 96\n# Comments: 84",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Nissan's third generation e-POWER powertrain",
-        "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+        "title": "Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",
+        "url": "https://bluegraph.io/",
         "source": "Hacker News Front",
-        "published": "2026-09-28T02:31:23+00:00",
-        "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\nComments URL: https://news.ycombinator.com/item?id=49872883\nPoints: 9\n# Comments: 6",
+        "published": "2026-09-29T01:29:31+00:00",
+        "summary": "Article URL: https://bluegraph.io/\nComments URL: https://news.ycombinator.com/item?id=49886901\nPoints: 12\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
-        "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
-        "source": "Hacker News Front",
-        "published": "2026-09-28T02:27:40+00:00",
-        "summary": "Article URL: https://efraingaray.com/en/blog/tabpfn-vs-xgboost/\nComments URL: https://news.ycombinator.com/item?id=49872864\nPoints: 3\n# Comments: 0",
+        "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
+        "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+        "source": "The Verge",
+        "published": "2026-09-29T01:00:00+00:00",
+        "summary": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company's new $399 flagship over-ears [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Musk, the Movie",
-        "url": "https://bleeckerstreetmedia.com/musk",
-        "source": "Hacker News Front",
-        "published": "2026-09-28T02:12:17+00:00",
-        "summary": "Article URL: https://bleeckerstreetmedia.com/musk\nComments URL: https://news.ycombinator.com/item?id=49872766\nPoints: 65\n# Comments: 7",
+        "title": "Nothing’s New Headphone (1) Pro Are Made for the Studio",
+        "url": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/",
+        "source": "Wired",
+        "published": "2026-09-29T01:00:00+00:00",
+        "summary": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Owed a billion dollars in Nvidia stock",
-        "url": "https://colo.to/nvidia-stock-narrative.html",
+        "title": "Tank Body Problem",
+        "url": "http://www.jimsitu.com",
         "source": "Hacker News Front",
-        "published": "2026-09-28T02:05:13+00:00",
-        "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 156\n# Comments: 69",
+        "published": "2026-09-29T00:41:45+00:00",
+        "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 36\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-        "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-        "source": "Hacker News Front",
-        "published": "2026-09-28T01:30:17+00:00",
-        "summary": "Article URL: https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html\nComments URL: https://news.ycombinator.com/item?id=49872522\nPoints: 49\n# Comments: 22",
+        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+        "source": "TechCrunch",
+        "published": "2026-09-29T00:30:00+00:00",
+        "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
-        "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+        "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+        "url": "https://lolchat.rip/",
         "source": "Hacker News Front",
-        "published": "2026-09-28T01:27:21+00:00",
-        "summary": "Article URL: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products\nComments URL: https://news.ycombinator.com/item?id=49872497\nPoints: 56\n# Comments: 18",
+        "published": "2026-09-29T00:06:48+00:00",
+        "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 52\n# Comments: 31",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Self-parking car using genetic algorithm (2021)",
-        "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-        "source": "Hacker News Front",
-        "published": "2026-09-28T01:21:32+00:00",
-        "summary": "Article URL: https://trekhleb.dev/blog/2021/self-parking-car-evolution/\nComments URL: https://news.ycombinator.com/item?id=49872472\nPoints: 47\n# Comments: 5",
+        "title": "OpenAI reportedly ditches model over safety concerns",
+        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+        "source": "TechCrunch",
+        "published": "2026-09-28T23:39:20+00:00",
+        "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,88 +186,88 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "한국 생성형 AI 사용률 세계 12위, 주요국 중 상승 폭은 세 분기째 최대",
-        "url": "https://platum.kr/archives/295229?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ea%25b5%25ad-%25ec%2583%259d%25ec%2584%25b1%25ed%2598%2595-ai-%25ec%2582%25ac%25ec%259a%25a9%25eb%25a5%25a0-%25ec%2584%25b8%25ea%25b3%2584-12%25ec%259c%2584-%25ec%25a3%25bc%25ec%259a%2594%25ea%25b5%25ad-%25ec%25a4%2591-%25ec%2583%2581%25ec%258a%25b9-%25ed%258f%25ad%25ec%259d%2580-%25ec%2584%25b8",
-        "source": "Platum",
-        "published": "2026-09-28T01:53:04+00:00",
-        "summary": "한국의 15~64세 인구 가운데 생성형 AI를 쓰는 사람의 비중이 40.6%로 집계됐다. 3개월 전보다 3.5%포인트 오른 수치로, 세계 순위는 16위에서 12위로 올라섰다. 마이크로소프트의 연구조직 AI 이코노미 인스티튜트가 28일 발표한 &#8216;AI 확산 보고서: 2026년 2분기 트렌드와 인사이트&#8217;에 따르면, 한국은 이번까지 세 차례 연속으로 주요 경제권 가운데 가장 큰 폭으로 사용률이 올랐다. 지난 12개월 동안에는 약 15%포인트 늘었다. ... 더 읽기",
+        "title": "Manna boss Bobby Healy on moving to Oklahoma: ‘The US is open for business, Europe is not’",
+        "url": "https://sifted.eu/articles/bobby-healy-manna-trump-oklahoma/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-29T05:00:55+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "번아웃 예방 강의부터 레크리에이션까지, 경기북부 청년창업사관학교 입교생 네트워킹",
-        "url": "https://platum.kr/archives/295220?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%2588%25ec%2595%2584%25ec%259b%2583-%25ec%2598%2588%25eb%25b0%25a9-%25ea%25b0%2595%25ec%259d%2598%25eb%25b6%2580%25ed%2584%25b0-%25eb%25a0%2588%25ed%2581%25ac%25eb%25a6%25ac%25ec%2597%2590%25ec%259d%25b4%25ec%2585%2598%25ea%25b9%258c%25ec%25a7%2580-%25ea%25b2%25bd%25ea%25b8%25b0%25eb%25b6%2581%25eb%25b6%2580",
-        "source": "Platum",
-        "published": "2026-09-28T01:47:52+00:00",
-        "summary": "기술 개발과 투자 유치에 쫓겨 온 청년 창업가들이 하루 동안 일을 내려놓고 동기들과 시간을 보냈다. 경기북부 청년창업사관학교를 운영하는 씨엔티테크는 지난 22일 입교생을 대상으로 &#8216;청년주간 네트워킹&#8217; 행사를 열었다고 밝혔다. 9월 청년의 날을 맞아 마련한 행사다. 행사는 세 부분으로 진행됐다. 1부에서는 김승환 인카운터 경영연구소 대표가 &#8216;마음챙김&#8217;을 주제로 강의했다. 사업 초기의 압박감과 불확실성 속에서 흔들리는 마음가짐을 점검하고 번아웃을 ... 더 읽기",
+        "title": "Anthropic wants to eat my startup’s lunch. Here’s why I’m not worried",
+        "url": "https://sifted.eu/articles/anthropic-wants-to-eat-my-startups-lunch/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-29T05:00:38+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "스캐터랩 ‘제타’, 대화에 그림을 더한 비주얼 노벨 모드 추가",
-        "url": "https://platum.kr/archives/295221?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ec%25ba%2590%25ed%2584%25b0%25eb%259e%25a9-%25ec%25a0%259c%25ed%2583%2580-%25eb%258c%2580%25ed%2599%2594%25ec%2597%2590-%25ea%25b7%25b8%25eb%25a6%25bc%25ec%259d%2584-%25eb%258d%2594%25ed%2595%259c-%25eb%25b9%2584%25ec%25a3%25bc%25ec%2596%25bc-%25eb%2585%25b8%25eb%25b2%25a8-%25eb%25aa%25a8",
+        "title": "네이버, 멕시코 정부와 AI 생태계 구축 협력 논의",
+        "url": "https://platum.kr/archives/295282?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2584%25a4%25ec%259d%25b4%25eb%25b2%2584-%25eb%25a9%2595%25ec%258b%259c%25ec%25bd%2594-%25ec%25a0%2595%25eb%25b6%2580%25ec%2599%2580-ai-%25ec%2583%259d%25ed%2583%259c%25ea%25b3%2584-%25ea%25b5%25ac%25ec%25b6%2595-%25ed%2598%2591%25eb%25a0%25a5-%25eb%2585%25bc%25ec%259d%2598",
         "source": "Platum",
-        "published": "2026-09-28T01:44:34+00:00",
-        "summary": "AI 캐릭터와 글로 대화하며 이야기를 만들어 가는 서비스 &#8216;제타&#8217;에 캐릭터 그림과 배경이 함께 움직이는 플레이 방식이 더해졌다. 생성형 AI 스타트업 스캐터랩은 제타에 &#8216;비주얼 노벨 모드&#8217;를 정식 출시했다고 28일 밝혔다. 비주얼 노벨은 대사와 함께 인물 그림과 배경을 보여 주며 이야기를 진행하는 게임 장르를 말한다. 새 모드는 비공개 시범 운영을 거쳐 지난 23일 정식으로 열렸다. 제타는 사용자가 ... 더 읽기",
+        "published": "2026-09-29T01:20:21+00:00",
+        "summary": "네이버가 멕시코 정부와 국가 인공지능(AI) 인프라 구축, 공공·산업 분야의 AI 활용 방안을 논의했다. 케레타로주에서는 도시 2곳을 대상으로 디지털트윈 시범사업을 추진하는 방안도 검토한다. 최수연 네이버 대표와 김희철 CFO, 김광현 CDO 등 경영진은 24일(현지시간)부터 이틀간 대통령 경제사절단 자격으로 멕시코를 방문했다. 이 기간 동안 마르셀로 에브라르드 카사우본 멕시코 경제부 장관, 로사우라 루이스 구티에레스 과학인문기술혁신부(SECIHTI) 장관, 디지털전환·통신청(ATDT), Softtek 멕시코 CEO ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "개인정보 보호주간…공공·민간 763개 기관 참여",
-        "url": "https://byline.network/2026/09/28-653/",
+        "title": "경콘진, 광교 ‘경기XR센터’…가상 융합·AI 스타트업 모집",
+        "url": "https://platum.kr/archives/295278?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b2%25bd%25ec%25bd%2598%25ec%25a7%2584-%25ea%25b4%2591%25ea%25b5%2590-%25ea%25b2%25bd%25ea%25b8%25b0xr%25ec%2584%25bc%25ed%2584%25b0-%25ea%25b0%2580%25ec%2583%2581-%25ec%259c%25b5%25ed%2595%25a9%25c2%25b7ai-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8",
+        "source": "Platum",
+        "published": "2026-09-29T01:05:44+00:00",
+        "summary": "경기콘텐츠진흥원이 가상 융합(XR)·신기술(AI 등) 분야 스타트업과 예비 창업자를 대상으로 경기XR센터 입주 기업을 모집한다. 모집 마감은 오는 10월 23일 정오까지다. 경기XR센터는 수원 광교에 위치하며, 가상 융합 및 신기술과 문화콘텐츠 융복합을 지원하는 시설이다. 이번 모집은 독립 사무실을 제공하는 &#8216;공간 지원&#8217;과 사업자 등록 주소지를 제공하는 &#8216;가상 오피스 지원&#8217; 두 가지로 나뉜다. 공간 지원에 선정된 기업은 연간 사용료를 내고 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "코스포, 중국 상하이서 ‘컴업 2026’ 사전 홍보…한·중 스타트업 교류 확대",
+        "url": "https://platum.kr/archives/295275?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bd%2594%25ec%258a%25a4%25ed%258f%25ac-%25ec%25a4%2591%25ea%25b5%25ad-%25ec%2583%2581%25ed%2595%2598%25ec%259d%25b4%25ec%2584%259c-%25ec%25bb%25b4%25ec%2597%2585-2026-%25ec%2582%25ac%25ec%25a0%2584-%25ed%2599%258d%25eb%25b3%25b4%25ed%2595%259c%25c2%25b7%25ec%25a4%2591-%25ec%258a%25a4",
+        "source": "Platum",
+        "published": "2026-09-29T00:53:43+00:00",
+        "summary": "코리아스타트업포럼(코스포)이 오는 12월 개최되는 글로벌 스타트업 페스티벌 &#8216;컴업(COMEUP) 2026&#8217;을 앞두고 중국 상하이에서 현지 스타트업 생태계와의 교류 프로그램을 진행했다. 이번 프로그램은 지난 21일부터 23일까지 상하이에서 열린 &#8216;에스-트론(S-Tron) 상하이 2026&#8217;과 연계해 진행됐다. 에스-트론 상하이는 핀란드 스타트업 행사 &#8216;슬러시(SLUSH)&#8217;의 중국판 &#8216;슬러시 차이나&#8217;에서 출발한 행사로, 올해는 200여 명의 글로벌 연사와 120여 개 스타트업이 참여했다. AI·미래지능, 바이오·헬스케어, 그린테크, 첨단제조, 미래 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "KB데이타시스템, 금융권 AI 도입 핵심은 ‘접근 통제’",
+        "url": "https://byline.network/2026/09/0928-3/",
         "source": "ByLine Network",
-        "published": "2026-09-28T01:24:38+00:00",
-        "summary": "개인정보보호위원회(이하 개인정보위)는 28일부터 10월 2일까지 ‘2026 개인정보 보호주간’을 운영한다고 28일 밝혔다. 올해는 공공·민간 763개 기관이 개인정보 보호 교육과 캠페인 등 자체 프로그램을 진행한다.",
+        "published": "2026-09-28T23:52:26+00:00",
+        "summary": "금융권의 AI·MCP 도입 과정에서는 직원별 데이터 접근 권한과 도구 통제, 로그 관리 등 내부통체 체계를 갖추는 것이 중요하다는 지적이 나왔다. 이를 위해 금융회사는 하이브리드 클라우드, 비식별화, AI 게이트웨이, 폴백 라우팅, WORM 기반 로그 저장 등 보안·운영 체계를 구축하고, 혁신금융서비스 지정에 필요한 규제 요건도 충족해야 한다. 이진성 KB데이타시스템 수석은 AI 기능 확대에 앞서 데이터 접근 통제와 내부통제를 먼저 설계해야 한다고 설명했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "해외 투자자 앞에 서는 서울 기업들, 서울투자진흥재단 ‘서울투자서밋’",
-        "url": "https://platum.kr/archives/295216?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%25b4%25ec%2599%25b8-%25ed%2588%25ac%25ec%259e%2590%25ec%259e%2590-%25ec%2595%259e%25ec%2597%2590-%25ec%2584%259c%25eb%258a%2594-%25ec%2584%259c%25ec%259a%25b8-%25ea%25b8%25b0%25ec%2597%2585%25eb%2593%25a4-%25ec%2584%259c%25ec%259a%25b8%25ed%2588%25ac%25ec%259e%2590%25ec%25a7%2584%25ed%259d%25a5%25ec%259e%25ac",
-        "source": "Platum",
-        "published": "2026-09-27T05:35:06+00:00",
-        "summary": "해외 출자자(LP)와 벤처캐피털 등 국내외 투자자 100여 명 앞에서 서울 기업 45곳 안팎이 영어로 사업을 소개하고 투자 유치에 나선다. 서울시의 해외 투자 유치 전담 기관인 서울투자진흥재단은 다음 달 19일부터 이틀간 여의도 콘래드 서울에서 &#8216;2026 서울투자서밋&#8217;을 연다. 투자자와 기업, 유관기관 관계자를 합쳐 300여 명이 참석할 예정이다. 기업 발표는 산업 분야별로 나눠 진행된다. AI·로봇·반도체, 바이오·헬스케어, 라이프스타일, 딥테크·성장기업, ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "경기콘텐츠진흥원 밸류업 패키지, 참여 스타트업 투자 전략 중간 점검",
-        "url": "https://platum.kr/archives/295213?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b2%25bd%25ea%25b8%25b0%25ec%25bd%2598%25ed%2585%2590%25ec%25b8%25a0%25ec%25a7%2584%25ed%259d%25a5%25ec%259b%2590-%25eb%25b0%25b8%25eb%25a5%2598%25ec%2597%2585-%25ed%258c%25a8%25ed%2582%25a4%25ec%25a7%2580-%25ec%25b0%25b8%25ec%2597%25ac-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ed%2588%25ac",
-        "source": "Platum",
-        "published": "2026-09-27T05:32:27+00:00",
-        "summary": "경기도 AI·콘텐츠 분야 초기 스타트업들이 석 달 동안 다듬은 사업모델과 투자 유치 전략을 투자자 앞에서 점검했다. 경기콘텐츠진흥원은 지난 22일 경기창조경제혁신센터에서 &#8216;2026 판교허브 투자유치 밸류업 패키지 중간 성과 공유회&#8217;를 열었다고 밝혔다. 판교허브 투자유치 밸류업 패키지는 경기도 내 콘텐츠·AI 융합 분야 초기 창업기업의 투자 유치를 돕는 프로그램으로, 지난 6월 시작했다. 기업 진단을 거쳐 투자설명 자료(IR 피치덱) 컨설팅과 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "토스 “앱인토스 미니앱 1만3000개 돌파…AI로 안전성 검수”",
-        "url": "https://byline.network/2026/09/0923-5/",
+        "title": "토큰증권 제도화 시동…“유통·결제·세제 구체화해야”",
+        "url": "https://byline.network/2026/09/0928-2/",
         "source": "ByLine Network",
-        "published": "2026-09-27T02:29:15+00:00",
-        "summary": "권순우 토스 앱인토스팀 프로덕트 오너(PO)는 가 지난 22일 여의도 FKI타워 컨퍼런스센터에서 개최한 ‘금융 테크 컨퍼런스 2026’에서 금융 앱 안에서 인공지능(AI)이 생성한 외부 코드가 실행되는 만큼 보안과 안전을 중요하게 고려해야 한다고 밝혔다. 이에 미니앱 플랫폼 앱인토스에 맞는 안전장치를 마련하고 있다고 설명했다.",
+        "published": "2026-09-28T22:07:31+00:00",
+        "summary": "토큰증권(STO) 발행을 위한 제도적 기반이 마련되고 있지만, 실제 시장 활성화를 위해서는 유통과 결제에 더해 과세 기준 등 후속 제도가 구체화돼야 한다는 지적이 나왔다. 앞서 금융위원회는 지난 3일 조각투자 중심이던 토큰증권 발행 범위를 주식·채권·펀드 등 모든 증권으로 확대하고, 내년 2월 법 시행을 목표로 단계별 인프라를 구축하는 내용의 정책 방향을 발표했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI가 끌어올릴 노동생산성은 장기적으로 최대 3.8%, IMF 추정",
-        "url": "https://platum.kr/archives/295209?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25eb%2581%258c%25ec%2596%25b4%25ec%2598%25ac%25eb%25a6%25b4-%25eb%2585%25b8%25eb%258f%2599%25ec%2583%259d%25ec%2582%25b0%25ec%2584%25b1%25ec%259d%2580-%25ec%259e%25a5%25ea%25b8%25b0%25ec%25a0%2581%25ec%259c%25bc%25eb%25a1%259c-%25ec%25b5%259c%25eb%258c%2580-3-8-imf-%25ec%25b6%2594%25ec%25a0%2595",
-        "source": "Platum",
-        "published": "2026-09-26T12:24:10+00:00",
-        "summary": "인공지능(AI) 기술이 장기적으로 선진국의 총 노동생산성을 최대 3.8% 높일 수 있다는 분석이 나왔다. 국제통화기금(IMF)이 9월 25일(현지시간) 공개한 워킹페이퍼 &#8216;AI와 총 노동생산성: 특허 데이터로 본 근거(Artificial Intelligence and Aggregate Labor Productivity: Evidence from Patent Data)&#8217;가 제시한 추정치다. 연구진은 2000~2017년 경제협력개발기구(OECD) 회원국의 AI 관련 특허 데이터를 활용해 AI 기술이 노동생산성에 미친 영향을 분석했다. AI 특허 활동이 늘어난 ... 더 읽기",
+        "title": "VCs push for US-style rules to cut cost of launching UK funds",
+        "url": "https://sifted.eu/articles/vcs-push-for-us-style-rules-to-cut-cost-of-launching-uk-funds/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-28T14:48:06+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,15 +276,120 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Jason Calacanis: Dario Seems to Be Sabotaging His Own IPO",
-        "url": "https://www.youtube.com/watch?v=nI2vRlkSxiU",
+        "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early &amp; AI&#39;s Potential",
+        "url": "https://www.youtube.com/watch?v=JEUboZzZGM4",
         "source": "All-In Podcast",
-        "published": "2026-09-27T15:00:20Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/nI2vRlkSxiU/mqdefault.jpg",
+        "published": "2026-09-28T22:22:13Z",
+        "summary": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) ...",
+        "thumbnail": "https://i.ytimg.com/vi/JEUboZzZGM4/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "nI2vRlkSxiU",
+          "videoId": "JEUboZzZGM4",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Jason Calacanis: AI Is About to “Blow People’s Minds”",
+        "url": "https://www.youtube.com/watch?v=91d3fgcq3wo",
+        "source": "All-In Podcast",
+        "published": "2026-09-28T21:22:14Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/91d3fgcq3wo/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "91d3fgcq3wo",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Robotic factories that build robots",
+        "url": "https://www.youtube.com/watch?v=aNWKngrCrw4",
+        "source": "Y Combinator",
+        "published": "2026-09-28T20:56:45Z",
+        "summary": "Tensr is building robotic factories that build robots. Their 12000-square-foot factory is already making humanoids, end effectors, ...",
+        "thumbnail": "https://i.ytimg.com/vi/aNWKngrCrw4/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "aNWKngrCrw4",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "200 Venomous Snake Bites... For Science",
+        "url": "https://www.youtube.com/watch?v=09YIqwn5FMQ",
+        "source": "Cleo Abram",
+        "published": "2026-09-28T15:00:10Z",
+        "summary": "The world's most venomous snakes bit this man over 200 TIMES... and scientists are happy about it! Let me explain… Every year ...",
+        "thumbnail": "https://i.ytimg.com/vi/09YIqwn5FMQ/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "09YIqwn5FMQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Jev Turns AI Into Software That Gets Things Done",
+        "url": "https://www.youtube.com/watch?v=Ut3LOjKNJaE",
+        "source": "a16z",
+        "published": "2026-09-28T14:30:07Z",
+        "summary": "a16z's Ben Horowitz and Martin Casado sit down with TypeSafe AI founder Diogo Almeida to ask a simple question: AI has ...",
+        "thumbnail": "https://i.ytimg.com/vi/Ut3LOjKNJaE/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "Ut3LOjKNJaE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "그들이 사는 세상 (주식 버전)",
+        "url": "https://www.youtube.com/watch?v=Gy9zZfrYwUo",
+        "source": "슈카월드",
+        "published": "2026-09-28T13:18:09Z",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/Gy9zZfrYwUo/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "Gy9zZfrYwUo",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "미중 정상회담 결과 : 만족한 중국, 줘터진 일본",
+        "url": "https://www.youtube.com/watch?v=A1j-pOb-vYY",
+        "source": "슈카월드",
+        "published": "2026-09-28T09:47:37Z",
+        "summary": "0:00 도대체 무엇이 평화입니까? 4:42 중국 주석을 알현한(?) 미국 대통령 11:28 미중 정상회담 하이라이트 18:03 가만히 있다가 ...",
+        "thumbnail": "https://i.ytimg.com/vi/A1j-pOb-vYY/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "A1j-pOb-vYY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI가 하루 넘게 혼자 알아서 일했다!",
+        "url": "https://www.youtube.com/watch?v=JI9YoLVuiE4",
+        "source": "티타임즈TV",
+        "published": "2026-09-28T09:00:18Z",
+        "summary": "AGI 논쟁을 촉발한 오픈AI의 GPT-6 아스트라. 단순히 '더 똑똑한 AI'가 아닙니다. 화면을 읽고 프로그램을 조작하는 정확도가 92.7% ...",
+        "thumbnail": "https://i.ytimg.com/vi/JI9YoLVuiE4/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "JI9YoLVuiE4",
           "via": "api"
         }
       },
@@ -315,111 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "dsrACPT8sOE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Chamath on Obama’s AI Warning: Follow the Money",
-        "url": "https://www.youtube.com/watch?v=1fqXz8NOMuY",
-        "source": "All-In Podcast",
-        "published": "2026-09-26T21:30:04Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/1fqXz8NOMuY/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "1fqXz8NOMuY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "This Storm Is Twice the Size of Earth",
-        "url": "https://www.youtube.com/watch?v=mJJuJiQew68",
-        "source": "Cleo Abram",
-        "published": "2026-09-26T17:11:47Z",
-        "summary": "This storm has 6 sides. It's twice as wide as Earth. And it's been brewing for more than forty years. Why six sides? For more ...",
-        "thumbnail": "https://i.ytimg.com/vi/mJJuJiQew68/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "mJJuJiQew68",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why AI’s Next Breakthroughs Could Come from Outside the Big Labs",
-        "url": "https://www.youtube.com/watch?v=TLJNJDf2XGo",
-        "source": "a16z",
-        "published": "2026-09-26T14:30:10Z",
-        "summary": "Erik Torenberg sits down with Box CEO Aaron Levie, and a16z's Martin Casado, and Steven Sinofsky to debate how the AI ...",
-        "thumbnail": "https://i.ytimg.com/vi/TLJNJDf2XGo/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "TLJNJDf2XGo",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Robot-Use Agents: Why General-Purpose Models May Win in Robotics",
-        "url": "https://www.youtube.com/watch?v=Jv5B5CEaPJI",
-        "source": "Y Combinator",
-        "published": "2026-09-26T14:00:37Z",
-        "summary": "One of the biggest surprises in AI over the last few years has been how well coding agents generalize beyond software.",
-        "thumbnail": "https://i.ytimg.com/vi/Jv5B5CEaPJI/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "Jv5B5CEaPJI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Carney is More Right Wing Than You Think",
-        "url": "https://www.youtube.com/watch?v=Gy8TCvYpi7I",
-        "source": "TLDR News Global",
-        "published": "2026-09-26T09:30:00Z",
-        "summary": "Order a copy of Too Long: https://toolong.news/TL009 We examine how Carney has shifted to the right, why he still remains ...",
-        "thumbnail": "https://i.ytimg.com/vi/Gy8TCvYpi7I/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "Gy8TCvYpi7I",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "병목에 가서 기다려라! HBM 이후 병목의 순서는? (김지현 테크라이터)",
-        "url": "https://www.youtube.com/watch?v=-X0pmBy6gHg",
-        "source": "티타임즈TV",
-        "published": "2026-09-25T22:00:04Z",
-        "summary": "국내 최고의 IT 전문가 김지현 테크라이터는 어떻게 주식 투자를 할까요? 어떻게 병목을 예측하고, 어떻게 기업을 분석할까요? AI 병목 ...",
-        "thumbnail": "https://i.ytimg.com/vi/-X0pmBy6gHg/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "-X0pmBy6gHg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Rocket cargo delivery anywhere on Earth in minutes",
-        "url": "https://www.youtube.com/watch?v=j7Ee8hMme3c",
-        "source": "Y Combinator",
-        "published": "2026-09-25T18:36:54Z",
-        "summary": "Hop Aero is building rockets that can deliver cargo anywhere on Earth in minutes. They're starting with military logistics and other ...",
-        "thumbnail": "https://i.ytimg.com/vi/j7Ee8hMme3c/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "j7Ee8hMme3c",
           "via": "api"
         }
       }
