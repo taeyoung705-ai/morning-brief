@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-09-29T04:15:38.885827+00:00",
+  "generated_at": "2026-09-30T04:00:04.448604+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "New York Times executive fatally shot allegedly by elderly in-laws",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-09-29T04:06:43+00:00",
-        "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Prime Minister Andy Burnham’s Labour Conference Speech Will Aim to Reset UK Mood",
-        "url": "https://www.nytimes.com/2026/09/29/world/europe/andy-burnham-labour-conference-uk.html",
-        "source": "NYT World",
-        "published": "2026-09-29T04:01:15+00:00",
-        "summary": "Prime Minister Andy Burnham is expected to lay out his policy plans in an address on Tuesday at the Labour Party’s annual conference.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
-        "url": "https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html",
-        "source": "NYT World",
-        "published": "2026-09-29T04:01:09+00:00",
-        "summary": "For one Istanbul confectioner, distributing fried dough balls as memorials is not just a job. It’s personal.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: Shoebridge doesn’t rule himself out of Greens leadership race; RBA interest rates decision expected",
-        "url": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
+        "title": "Australia news live: Chalmers blames inflation on fuel costs and end of energy rebates; Faruqi ‘disappointed’ by ballot",
+        "url": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-09-29T03:53:13+00:00",
-        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastNew South Wales police say they are investigating the suspicious deaths of two men in the state’s north.Police said they found the first man – who has since been identified as a 79-year-old – dead at a property on Summerland Way at Gurranang, near Grafton, on 13 September.And that’s equally important in the Reserv",
+        "published": "2026-09-30T03:54:43+00:00",
+        "summary": "Follow the day’s news live Get our breaking news email, free app or daily news podcastWho is potential Greens deputy leader candidate Steph Hodgins-May?So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge?Get your dirty hands off our kids, that is our message to the fossil fuel industry, who have no place in early-learning centres, in schools, or in ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-09-29T03:50:40+00:00",
-        "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-        "url": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-29T03:38:16+00:00",
-        "summary": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Fighter jets escort Pope Leo on final day of his France tour",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-09-29T03:00:01+00:00",
-        "summary": "Pope Leo XIV was escorted by fighter jets to Metz, the final stop of his four-day France tour.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack",
-        "url": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+        "title": "Concern over Sydney airport as near misses and runway incursions at 20% above national average",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/30/sydney-airport-safety-investigation-plane-incidents-near-collisions-staffing",
         "source": "The Guardian World",
-        "published": "2026-09-29T02:51:17+00:00",
-        "summary": "Chief strategy officer to fly to Australia to front joint committee on AI after breaches of government websitesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOpenAI has apologised to Australians for its agent attack on Medicare, and will front parliament next week, as the tech company revealed more details about its June hack of Aus",
+        "published": "2026-09-30T03:39:25+00:00",
+        "summary": "Australian Transport Safety Bureau investigating staffing gaps as key factor in four incidents in July and AugustFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastModelling by Sydney airport’s air traffic control operators predicted elevated fatigue risks for staff at the time of a series of major safety incidents, with a review identi",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "ABC finance journalist Alan Kohler to retire after three decades as Jim Chalmers says he will be ‘really missed’",
+        "url": "https://www.theguardian.com/media/2026/sep/30/abc-finance-journalist-alan-kohler-to-retire-after-three-decades-as-jim-chalmers-says-he-will-be-really-missed",
+        "source": "The Guardian World",
+        "published": "2026-09-30T03:28:23+00:00",
+        "summary": "The 74-year-old says he is leaving to spend more time with his family, including his six grandchildrenFollow our Australia news live blog for latest updatesSign up for Guardian Australia’s free weekly media newsletter hereFinancial journalist Alan Kohler, a familiar face on the ABC’s 7pm news bulletin, will retire in December after three decades as the public broadcaster’s highly respected financi",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-09-30T03:23:17+00:00",
+        "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump backs AI self-regulation at tech summit but is it enough?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-30T03:00:59+00:00",
+        "summary": "US President Donald Trump and leading tech companies have signed a voluntary agreement to regulate AI development.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "David Shoebridge says ‘we’re here to replace Labor’ in first remarks after being elected new Greens leader",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/30/david-shoebridge-greens-leadership-steph-hodgins-may-retreat-larissa-waters",
+        "source": "The Guardian World",
+        "published": "2026-09-30T02:47:50+00:00",
+        "summary": "Shoebridge, a senator from New South Wales and former upper house state MP, won the role over Mehreen Faruqi and Sarah Hanson-Young Follow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastDavid Shoebridge has declared he wants the Greens to replace Labor and has accused the government of creating the circumstances for One Nation’s rise in hi",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Somali pirates killed five crew members on hijacked tanker, officials say",
+        "url": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-30T02:39:06+00:00",
+        "summary": "The deaths appear to be the first at the hands of Somali pirates in more than a decade.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+        "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-09-30T02:26:20+00:00",
+        "summary": "The resolution cites a &#039;lack of accountability&#039; by Israel&#039;s government and an &#039;inability to secure justice&#039; by the US.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
+        "title": "PSSA: A non-transformer language model written from scratch in Rust",
+        "url": "https://github.com/Sparticle62ops/pssa",
         "source": "Hacker News Front",
-        "published": "2026-09-29T02:26:59+00:00",
-        "summary": "Article URL: https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html\nComments URL: https://news.ycombinator.com/item?id=49887337\nPoints: 96\n# Comments: 84",
+        "published": "2026-09-30T03:19:54+00:00",
+        "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 12\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",
-        "url": "https://bluegraph.io/",
+        "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
+        "url": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
         "source": "Hacker News Front",
-        "published": "2026-09-29T01:29:31+00:00",
-        "summary": "Article URL: https://bluegraph.io/\nComments URL: https://news.ycombinator.com/item?id=49886901\nPoints: 12\n# Comments: 2",
+        "published": "2026-09-30T01:47:14+00:00",
+        "summary": "Article URL: https://mightygodking.com/2008/04/21/fun-from-yesterday/\nComments URL: https://news.ycombinator.com/item?id=49903383\nPoints: 13\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
-        "url": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
         "source": "The Verge",
-        "published": "2026-09-29T01:00:00+00:00",
-        "summary": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company's new $399 flagship over-ears [&#8230;]",
+        "published": "2026-09-30T00:19:13+00:00",
+        "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Nothing’s New Headphone (1) Pro Are Made for the Studio",
-        "url": "https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/",
+        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+        "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+        "source": "TechCrunch",
+        "published": "2026-09-29T23:30:55+00:00",
+        "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+        "url": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+        "source": "Hacker News Front",
+        "published": "2026-09-29T23:03:38+00:00",
+        "summary": "Article URL: https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river\nComments URL: https://news.ycombinator.com/item?id=49902019\nPoints: 11\n# Comments: 1",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Range Rover Sport Electric: Price, Specs, Availability",
+        "url": "https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/",
         "source": "Wired",
-        "published": "2026-09-29T01:00:00+00:00",
-        "summary": "With three drivers in each ear and tuning from Metropolis Studios, Nothing wants its new $399 cans to shine in the studio while also making your commute more musical.",
+        "published": "2026-09-29T23:01:00+00:00",
+        "summary": "By sharing the same platform, the Sport gets the same specs as the classier Range Rover Electric, but with added torque at a smaller outlay.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Tank Body Problem",
-        "url": "http://www.jimsitu.com",
+        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+        "url": "https://github.com/ninjahawk/livenerf",
         "source": "Hacker News Front",
-        "published": "2026-09-29T00:41:45+00:00",
-        "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 36\n# Comments: 8",
+        "published": "2026-09-29T22:36:14+00:00",
+        "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 343\n# Comments: 147",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-        "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-        "source": "TechCrunch",
-        "published": "2026-09-29T00:30:00+00:00",
-        "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-        "url": "https://lolchat.rip/",
-        "source": "Hacker News Front",
-        "published": "2026-09-29T00:06:48+00:00",
-        "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 52\n# Comments: 31",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "OpenAI reportedly ditches model over safety concerns",
-        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-        "source": "TechCrunch",
-        "published": "2026-09-28T23:39:20+00:00",
-        "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+        "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+        "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+        "source": "Ars Technica",
+        "published": "2026-09-29T22:30:37+00:00",
+        "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,10 +186,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Manna boss Bobby Healy on moving to Oklahoma: ‘The US is open for business, Europe is not’",
-        "url": "https://sifted.eu/articles/bobby-healy-manna-trump-oklahoma/",
+        "title": "‘피지컬AI부터 게임슬롭까지’ AI가 게임 업계에 미친 영향은",
+        "url": "https://byline.network/2026/09/29-566/",
+        "source": "ByLine Network",
+        "published": "2026-09-29T21:42:27+00:00",
+        "summary": "“AI를 통한 제작비 절감과 개발 효율화, 피지컬AI를 바탕으로 한 다른 산업과의 협업과 사업 다각화는 게임사에 기회입니다. 반면 저품질 게임으로 이용자가 게임 산업 밖의 다른 콘텐츠로 이탈할 수 있다는 우려도 공존합니다.” 강승미 삼정KPMG 상무는 29일 국회 의원회관 제5간담회실에서 열린 ‘AI 시대, 대한민국 콘텐츠 산업의 새로운 도약과 정책 과제’ 세미나에서 이같이 말했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "문페이 “한국을 아시아 거점으로…스테이블코인 시장 파이 키울 것”",
+        "url": "https://byline.network/2026/09/0929-9/",
+        "source": "ByLine Network",
+        "published": "2026-09-29T21:41:23+00:00",
+        "summary": "이부건 문페이 공동창업자 겸 아시아 대표는 29일 서울 여의도 콘래드서울에서 열린 문페이 한국 공식 론칭 미디어데이에서 한국 시장 진출 배경을 설명하며 한국은 지난해 기준 전 세계 온체인(블록체인상) 거래량 2위를 기록했고 그만큼 시장 수요가 크다고 밝혔다. 제조업을 기반으로 하고 있고 수출입 규모도 큰 만큼 동남아시아를 넘어 전 세계적으로 온체인 금융을 연결하는 역할이 필요하다고 판단해 한국을 아시아 사업의 거점으로 삼고 진출하게 됐다는 설명이다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions",
+        "url": "https://news.crunchbase.com/public/oura-pauses-ipo-anthropics-ai-openai/",
+        "source": "Crunchbase News",
+        "published": "2026-09-29T18:42:38+00:00",
+        "summary": "Although Oura has postponed its planned offering that could have raised as much as $2.2 billion, Anthropic is still making a move toward the public markets along with AI cloud provider Nscale and other companies lining up potential fourth-quarter listings.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Inside the ‘secondaries arms race’: How employee liquidity is becoming fundamental to private businesses",
+        "url": "https://sifted.eu/articles/how-employee-liquidity-is-becoming-fundamental-brnd/",
         "source": "Sifted (EU startups)",
-        "published": "2026-09-29T05:00:55+00:00",
+        "published": "2026-09-29T13:02:07+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -197,10 +230,21 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Anthropic wants to eat my startup’s lunch. Here’s why I’m not worried",
-        "url": "https://sifted.eu/articles/anthropic-wants-to-eat-my-startups-lunch/",
+        "title": "Tiny Health Raises $33M To Explore What Gut Data Can Reveal About Future Health",
+        "url": "https://news.crunchbase.com/venture/tiny-health-33m-microbiome-tests-sew-hoy/",
+        "source": "Crunchbase News",
+        "published": "2026-09-29T12:30:38+00:00",
+        "summary": "Austin-based Tiny Health has raised $33 million in a Series B funding round led by B Capital to help it meet growing demand for its at-home microbiome tests.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "As FlatPay soars, the rest of Nordic fintech searches for its next act",
+        "url": "https://sifted.eu/articles/nordic-fintech-week-dispatch/",
         "source": "Sifted (EU startups)",
-        "published": "2026-09-29T05:00:38+00:00",
+        "published": "2026-09-29T11:00:48+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -208,71 +252,147 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "네이버, 멕시코 정부와 AI 생태계 구축 협력 논의",
-        "url": "https://platum.kr/archives/295282?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2584%25a4%25ec%259d%25b4%25eb%25b2%2584-%25eb%25a9%2595%25ec%258b%259c%25ec%25bd%2594-%25ec%25a0%2595%25eb%25b6%2580%25ec%2599%2580-ai-%25ec%2583%259d%25ed%2583%259c%25ea%25b3%2584-%25ea%25b5%25ac%25ec%25b6%2595-%25ed%2598%2591%25eb%25a0%25a5-%25eb%2585%25bc%25ec%259d%2598",
-        "source": "Platum",
-        "published": "2026-09-29T01:20:21+00:00",
-        "summary": "네이버가 멕시코 정부와 국가 인공지능(AI) 인프라 구축, 공공·산업 분야의 AI 활용 방안을 논의했다. 케레타로주에서는 도시 2곳을 대상으로 디지털트윈 시범사업을 추진하는 방안도 검토한다. 최수연 네이버 대표와 김희철 CFO, 김광현 CDO 등 경영진은 24일(현지시간)부터 이틀간 대통령 경제사절단 자격으로 멕시코를 방문했다. 이 기간 동안 마르셀로 에브라르드 카사우본 멕시코 경제부 장관, 로사우라 루이스 구티에레스 과학인문기술혁신부(SECIHTI) 장관, 디지털전환·통신청(ATDT), Softtek 멕시코 CEO ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "경콘진, 광교 ‘경기XR센터’…가상 융합·AI 스타트업 모집",
-        "url": "https://platum.kr/archives/295278?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b2%25bd%25ec%25bd%2598%25ec%25a7%2584-%25ea%25b4%2591%25ea%25b5%2590-%25ea%25b2%25bd%25ea%25b8%25b0xr%25ec%2584%25bc%25ed%2584%25b0-%25ea%25b0%2580%25ec%2583%2581-%25ec%259c%25b5%25ed%2595%25a9%25c2%25b7ai-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25eb%25aa%25a8",
-        "source": "Platum",
-        "published": "2026-09-29T01:05:44+00:00",
-        "summary": "경기콘텐츠진흥원이 가상 융합(XR)·신기술(AI 등) 분야 스타트업과 예비 창업자를 대상으로 경기XR센터 입주 기업을 모집한다. 모집 마감은 오는 10월 23일 정오까지다. 경기XR센터는 수원 광교에 위치하며, 가상 융합 및 신기술과 문화콘텐츠 융복합을 지원하는 시설이다. 이번 모집은 독립 사무실을 제공하는 &#8216;공간 지원&#8217;과 사업자 등록 주소지를 제공하는 &#8216;가상 오피스 지원&#8217; 두 가지로 나뉜다. 공간 지원에 선정된 기업은 연간 사용료를 내고 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "코스포, 중국 상하이서 ‘컴업 2026’ 사전 홍보…한·중 스타트업 교류 확대",
-        "url": "https://platum.kr/archives/295275?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25bd%2594%25ec%258a%25a4%25ed%258f%25ac-%25ec%25a4%2591%25ea%25b5%25ad-%25ec%2583%2581%25ed%2595%2598%25ec%259d%25b4%25ec%2584%259c-%25ec%25bb%25b4%25ec%2597%2585-2026-%25ec%2582%25ac%25ec%25a0%2584-%25ed%2599%258d%25eb%25b3%25b4%25ed%2595%259c%25c2%25b7%25ec%25a4%2591-%25ec%258a%25a4",
-        "source": "Platum",
-        "published": "2026-09-29T00:53:43+00:00",
-        "summary": "코리아스타트업포럼(코스포)이 오는 12월 개최되는 글로벌 스타트업 페스티벌 &#8216;컴업(COMEUP) 2026&#8217;을 앞두고 중국 상하이에서 현지 스타트업 생태계와의 교류 프로그램을 진행했다. 이번 프로그램은 지난 21일부터 23일까지 상하이에서 열린 &#8216;에스-트론(S-Tron) 상하이 2026&#8217;과 연계해 진행됐다. 에스-트론 상하이는 핀란드 스타트업 행사 &#8216;슬러시(SLUSH)&#8217;의 중국판 &#8216;슬러시 차이나&#8217;에서 출발한 행사로, 올해는 200여 명의 글로벌 연사와 120여 개 스타트업이 참여했다. AI·미래지능, 바이오·헬스케어, 그린테크, 첨단제조, 미래 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "KB데이타시스템, 금융권 AI 도입 핵심은 ‘접근 통제’",
-        "url": "https://byline.network/2026/09/0928-3/",
-        "source": "ByLine Network",
-        "published": "2026-09-28T23:52:26+00:00",
-        "summary": "금융권의 AI·MCP 도입 과정에서는 직원별 데이터 접근 권한과 도구 통제, 로그 관리 등 내부통체 체계를 갖추는 것이 중요하다는 지적이 나왔다. 이를 위해 금융회사는 하이브리드 클라우드, 비식별화, AI 게이트웨이, 폴백 라우팅, WORM 기반 로그 저장 등 보안·운영 체계를 구축하고, 혁신금융서비스 지정에 필요한 규제 요건도 충족해야 한다. 이진성 KB데이타시스템 수석은 AI 기능 확대에 앞서 데이터 접근 통제와 내부통제를 먼저 설계해야 한다고 설명했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "토큰증권 제도화 시동…“유통·결제·세제 구체화해야”",
-        "url": "https://byline.network/2026/09/0928-2/",
-        "source": "ByLine Network",
-        "published": "2026-09-28T22:07:31+00:00",
-        "summary": "토큰증권(STO) 발행을 위한 제도적 기반이 마련되고 있지만, 실제 시장 활성화를 위해서는 유통과 결제에 더해 과세 기준 등 후속 제도가 구체화돼야 한다는 지적이 나왔다. 앞서 금융위원회는 지난 3일 조각투자 중심이던 토큰증권 발행 범위를 주식·채권·펀드 등 모든 증권으로 확대하고, 내년 2월 법 시행을 목표로 단계별 인프라를 구축하는 내용의 정책 방향을 발표했다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "VCs push for US-style rules to cut cost of launching UK funds",
-        "url": "https://sifted.eu/articles/vcs-push-for-us-style-rules-to-cut-cost-of-launching-uk-funds/",
+        "title": "Ineffable, Recursive, Fractile call on UK to limit non-competes",
+        "url": "https://sifted.eu/articles/ineffable-recursive-fractile-non-competes/",
         "source": "Sifted (EU startups)",
-        "published": "2026-09-28T14:48:06+00:00",
+        "published": "2026-09-29T09:43:50+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "You have to still ‘keep taste and judgement’: How companies are actually putting agentic AI to work",
+        "url": "https://sifted.eu/articles/how-companies-are-putting-agentic-ai-to-work-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-09-29T09:17:53+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "They Found Something Hidden In The Amazon",
+        "url": "https://www.youtube.com/watch?v=TsUOyCsRaAE",
+        "source": "Cleo Abram",
+        "published": "2026-09-29T15:17:50Z",
+        "summary": "They just found something hidden in the Amazon… Researchers flew planes that shot lasers down into the forest. Some sneaks ...",
+        "thumbnail": "https://i.ytimg.com/vi/TsUOyCsRaAE/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "TsUOyCsRaAE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What Would Make an AI Assistant Worth Paying For?",
+        "url": "https://www.youtube.com/watch?v=3T5sij3spWw",
+        "source": "a16z",
+        "published": "2026-09-29T14:30:02Z",
+        "summary": "a16z General Partner Anish Acharya sits down with Assistant Benchmark creator David Pawlan to unpack the sudden explosion ...",
+        "thumbnail": "https://i.ytimg.com/vi/3T5sij3spWw/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "3T5sij3spWw",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "내 손안의 AI 기기 뮤즈는 AI 대중화를 이끌 수 있을까?",
+        "url": "https://www.youtube.com/watch?v=voqHsOP4m54",
+        "source": "슈카월드",
+        "published": "2026-09-29T11:59:46Z",
+        "summary": "0:00 귀찮은 일은 이제 그만? 5:18 개인정보와 보안 관련 우려의 목소리 11:07 메타의 야심작, 뮤즈 참 25:38 시장의 기대감.",
+        "thumbnail": "https://i.ytimg.com/vi/voqHsOP4m54/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "voqHsOP4m54",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Geopolitics Finally Buried Kurdistan",
+        "url": "https://www.youtube.com/watch?v=VImHEy2PXYM",
+        "source": "TLDR News Global",
+        "published": "2026-09-29T09:00:26Z",
+        "summary": "Take back your privacy - start using Proton Mail for free: http://proton.me/tldr Order a copy of Too Long: https://toolong.news/TL009 ...",
+        "thumbnail": "https://i.ytimg.com/vi/VImHEy2PXYM/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "VImHEy2PXYM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“추론의 강도를 바꿔야 토큰 아낀다” (강수진 박사)",
+        "url": "https://www.youtube.com/watch?v=8racUuvPHeQ",
+        "source": "티타임즈TV",
+        "published": "2026-09-29T09:00:22Z",
+        "summary": "오픈AI의 프론티어 모델인 아스트라. 아스트라 좋다고 찬양하는 사람은 많아도 정작 제대로 써본 사람은 잘 없다고 하죠? 왜 일까요?",
+        "thumbnail": "https://i.ytimg.com/vi/8racUuvPHeQ/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "8racUuvPHeQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "미국인이라고 실리콘밸리 창업이 쉬운 거 아닙니다. #실리콘밸리 #창업 #미국 #스타트업",
+        "url": "https://www.youtube.com/watch?v=nbBL2j3BFQ8",
+        "source": "EO 이오",
+        "published": "2026-09-29T04:54:20Z",
+        "summary": "미국 시장에 맨몸으로 부딪힌 창업가들의 이야기, 오프라인에서 직접 들어보세요. 아메리칸 드림 컨퍼런스 일시: 2026. 10. 2(금) 장소: ...",
+        "thumbnail": "https://i.ytimg.com/vi/nbBL2j3BFQ8/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "nbBL2j3BFQ8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "창업을 꿈꾼다면 환경부터 바꿔야 하는 이유 #미국 #창업 #스타트업 #ai",
+        "url": "https://www.youtube.com/watch?v=U6Fllx5v3q0",
+        "source": "EO 이오",
+        "published": "2026-09-29T04:54:11Z",
+        "summary": "미국 시장에 맨몸으로 부딪힌 창업가들의 이야기, 오프라인에서 직접 들어보세요. 아메리칸 드림 컨퍼런스 일시: 2026. 10. 2(금) 장소: ...",
+        "thumbnail": "https://i.ytimg.com/vi/U6Fllx5v3q0/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "U6Fllx5v3q0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "매수는 기술, 매도는 예술",
+        "url": "https://www.youtube.com/watch?v=5H1kX7kp2tc",
+        "source": "슈카월드",
+        "published": "2026-09-29T04:19:28Z",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/5H1kX7kp2tc/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "5H1kX7kp2tc",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -300,126 +420,6 @@
         "extras": {
           "theme": "analysis",
           "videoId": "91d3fgcq3wo",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Robotic factories that build robots",
-        "url": "https://www.youtube.com/watch?v=aNWKngrCrw4",
-        "source": "Y Combinator",
-        "published": "2026-09-28T20:56:45Z",
-        "summary": "Tensr is building robotic factories that build robots. Their 12000-square-foot factory is already making humanoids, end effectors, ...",
-        "thumbnail": "https://i.ytimg.com/vi/aNWKngrCrw4/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "aNWKngrCrw4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "200 Venomous Snake Bites... For Science",
-        "url": "https://www.youtube.com/watch?v=09YIqwn5FMQ",
-        "source": "Cleo Abram",
-        "published": "2026-09-28T15:00:10Z",
-        "summary": "The world's most venomous snakes bit this man over 200 TIMES... and scientists are happy about it! Let me explain… Every year ...",
-        "thumbnail": "https://i.ytimg.com/vi/09YIqwn5FMQ/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "09YIqwn5FMQ",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Jev Turns AI Into Software That Gets Things Done",
-        "url": "https://www.youtube.com/watch?v=Ut3LOjKNJaE",
-        "source": "a16z",
-        "published": "2026-09-28T14:30:07Z",
-        "summary": "a16z's Ben Horowitz and Martin Casado sit down with TypeSafe AI founder Diogo Almeida to ask a simple question: AI has ...",
-        "thumbnail": "https://i.ytimg.com/vi/Ut3LOjKNJaE/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "Ut3LOjKNJaE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "그들이 사는 세상 (주식 버전)",
-        "url": "https://www.youtube.com/watch?v=Gy9zZfrYwUo",
-        "source": "슈카월드",
-        "published": "2026-09-28T13:18:09Z",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i.ytimg.com/vi/Gy9zZfrYwUo/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "Gy9zZfrYwUo",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "미중 정상회담 결과 : 만족한 중국, 줘터진 일본",
-        "url": "https://www.youtube.com/watch?v=A1j-pOb-vYY",
-        "source": "슈카월드",
-        "published": "2026-09-28T09:47:37Z",
-        "summary": "0:00 도대체 무엇이 평화입니까? 4:42 중국 주석을 알현한(?) 미국 대통령 11:28 미중 정상회담 하이라이트 18:03 가만히 있다가 ...",
-        "thumbnail": "https://i.ytimg.com/vi/A1j-pOb-vYY/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "A1j-pOb-vYY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI가 하루 넘게 혼자 알아서 일했다!",
-        "url": "https://www.youtube.com/watch?v=JI9YoLVuiE4",
-        "source": "티타임즈TV",
-        "published": "2026-09-28T09:00:18Z",
-        "summary": "AGI 논쟁을 촉발한 오픈AI의 GPT-6 아스트라. 단순히 '더 똑똑한 AI'가 아닙니다. 화면을 읽고 프로그램을 조작하는 정확도가 92.7% ...",
-        "thumbnail": "https://i.ytimg.com/vi/JI9YoLVuiE4/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "JI9YoLVuiE4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Egypt and Ethiopia are Fighting Over the Nile (Again)",
-        "url": "https://www.youtube.com/watch?v=AQUsZ8SJ4qA",
-        "source": "TLDR News Global",
-        "published": "2026-09-27T09:30:07Z",
-        "summary": "Order a copy of Too Long: https://toolong.news/TL009 With their massive dam on the Nile now complete and in operation, the ...",
-        "thumbnail": "https://i.ytimg.com/vi/AQUsZ8SJ4qA/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "AQUsZ8SJ4qA",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "병목의 순서는 알겠는데 유망 기업은? 투자 타이밍은? (김지현 테크라이터)",
-        "url": "https://www.youtube.com/watch?v=dsrACPT8sOE",
-        "source": "티타임즈TV",
-        "published": "2026-09-26T22:00:18Z",
-        "summary": "GPU → 메모리 → 전력 → 냉각 → 네트워크 → 데이터, 이렇게 AI 병목의 순서에 맞게 조금씩 먼저 가서 기다리는 식으로 주식투자해서 ...",
-        "thumbnail": "https://i.ytimg.com/vi/dsrACPT8sOE/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "dsrACPT8sOE",
           "via": "api"
         }
       }
