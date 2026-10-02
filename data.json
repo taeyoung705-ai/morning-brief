@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-10-01T04:11:01.363876+00:00",
+  "generated_at": "2026-10-02T04:04:49.932910+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "title": "Australia news live: Israeli embassy condemns flydubai ‘false flag’ conspiracies; Melbourne soaked by wettest day since 2024",
+        "url": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-10-02T03:51:57+00:00",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastA Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports.A 23-year-old woman was walking from Flemington Station through Airey Park in Homebush, in Sydney’s west, around 11.15pm on Friday 18 September when she was stoppe",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-02T03:14:47+00:00",
+        "summary": "Massive US military deployment to the Middle East includes 50,000 troops, F-35s and Marines to pressure Tehran.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-01T04:01:32+00:00",
-        "summary": "One of her attorneys told the BBC that Pike, 50, was in hospital after two syringes of pentobarbital had been administered.",
+        "published": "2026-10-02T03:09:13+00:00",
+        "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
-        "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
-        "source": "The Guardian World",
-        "published": "2026-10-01T04:00:27+00:00",
-        "summary": "Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollutionSwitzerland has lost almost one-fifth of its ice in just five years, research has found, in a dramatic reshaping of the Alpine country whose big white glaciers have been reduced to moonlike rock deserts, scientists say.Swiss glaciers shrank by 5.5% in the first eight months of 2026, ",
+        "title": "Row between Ukraine, South Korea mounts over North Korean POWs",
+        "url": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-02T02:54:13+00:00",
+        "summary": "South Korea’s ⁠President accused Ukraine of ⁠undermining him by disclosing POW transfer deal",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Kyiv Independent editor: ‘Our readers want Russia to suffer but we can’t be propagandists’",
-        "url": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
-        "source": "The Guardian World",
-        "published": "2026-10-01T04:00:26+00:00",
-        "summary": "Olga Rudenko says news site has duty to report on Russian military gains and Ukrainian corruption even if subjects are not so well readReaders of Ukraine’s leading English news site “really want Russia to suffer” but that should not lead the title to downplay the military and political problems facing Kyiv, its editor has said.Speaking to the Guardian before an event to London, Olga Rudenko said m",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia news live: Anika Wells named in Time’s ‘influential rising stars’; no negative equity crisis despite property slump",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-01T04:00:25+00:00",
-        "summary": "Follow the day’s news live.Get our breaking news email, free app or daily news podcastQueensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today.Under the program, state governments will provide supports to children up to 8 years old with mild to moderate autism or developmental delays. They will be made ineligib",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Jesse Baird’s housemate did not know surfboard bags contained bodies when she took photo, court hears",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/01/beau-lamarre-condon-murder-trial-jesse-baird-housemate-sufboard-bags-photo-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-01T03:52:35+00:00",
-        "summary": "Housemate tells court she saw the bags oozing red liquid she assumed was furniture rustJesse Baird’s housemate didn’t know she was looking at bags with Baird and his partner’s dead bodies, when she took a photo of oozing surfboard covers the night of their alleged murders, a court has heard.Beau Lamarre-Condon, 31, has been accused of fatally shooting Baird and Luke Davies with his police service ",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+        "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-01T03:43:06+00:00",
-        "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+        "published": "2026-10-02T02:49:44+00:00",
+        "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australia at risk from major global financial shock, Reserve Bank warns",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
+        "title": "Women hospitalised and three men charged with assault and choking after separate home invasions in Sydney",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/02/sydney-home-invasions-arncliffe-bankstown-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-10-01T03:32:38+00:00",
-        "summary": "Warning comes as central bank estimates fewer than one in 100 borrowers owe more on their home than its worthFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Reserve Bank says households are well placed to weather the twin storm of rising interest rates and plunging property prices, but warned that Australia would not be immune to",
+        "published": "2026-10-02T02:34:56+00:00",
+        "summary": "NSW police allege the men, aged 18, 19 and 20, broke into homes in Arncliffe and Bankstown this week before assaulting the women aged 31 and 32Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThree men have been detained after two women were allegedly assaulted during separate home invasions in Sydney’s south-west.New South Wales poli",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Parts of Victoria could see three months’ worth of rain as storms forecast for Australia’s south-east",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/01/melbourne-sydney-canberra-rain-forecast-australia-weather-this-week",
-        "source": "The Guardian World",
-        "published": "2026-10-01T03:17:26+00:00",
-        "summary": "BoM expects 30 to 50mm of rain to fall in Melbourne over coming days, with showers and storms also likely for Canberra and Sydney on SaturdayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWidespread rain and thunderstorms are forecast to drench south-eastern Australia from Thursday, with the heaviest falls expected across Victoria.A",
+        "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+        "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-02T02:29:41+00:00",
+        "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "What happened in the failed execution of Christa Pike - and what next?",
+        "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-02T02:11:34+00:00",
+        "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-        "url": "https://github.com/TantrixAuto/yantra",
+        "title": "How Singapore's government-run dating service works",
+        "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
         "source": "Hacker News Front",
-        "published": "2026-10-01T02:30:48+00:00",
-        "summary": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.Most LALR parser generators (Yacc, Bison, Lemon) run your semantic actions during parsing, as each rule reduces, bottom-up.That means at the time a rule's action runs, you don't yet know what its parent looks like. This pushes a lot of grammars toward hand-built",
+        "published": "2026-10-02T01:56:52+00:00",
+        "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 14\n# Comments: 7",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program",
-        "url": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
-        "source": "Hacker News Front",
-        "published": "2026-10-01T02:26:17+00:00",
-        "summary": "Article URL: https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/\nComments URL: https://news.ycombinator.com/item?id=49916955\nPoints: 40\n# Comments: 7",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Jevotron: Multiple Jev integrations from the command line",
-        "url": "https://cmungall.github.io/jevotron/",
-        "source": "Hacker News Front",
-        "published": "2026-10-01T02:12:38+00:00",
-        "summary": "Article URL: https://cmungall.github.io/jevotron/\nComments URL: https://news.ycombinator.com/item?id=49916865\nPoints: 4\n# Comments: 0",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
-        "url": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
-        "source": "The Verge",
-        "published": "2026-10-01T02:00:00+00:00",
-        "summary": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-        "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-        "source": "The Verge",
-        "published": "2026-10-01T00:23:45+00:00",
-        "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "title": "Robotaxi operators will face fines for blocking first responders",
+        "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
         "source": "TechCrunch",
-        "published": "2026-09-30T23:43:07+00:00",
-        "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+        "published": "2026-10-02T00:57:57+00:00",
+        "summary": "A new California law places new rules on autonomous vehicles operators",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The new and huger Paramount has a new co-CEO",
-        "url": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
-        "source": "The Verge",
-        "published": "2026-09-30T23:08:49+00:00",
-        "summary": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to Paramount, \"Ellison will focus on the company's long-term strategy, creative vision and direction, including its [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-        "url": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
         "source": "TechCrunch",
-        "published": "2026-09-30T23:08:00+00:00",
-        "summary": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey's companies already sell the kinds of technology the study is likely to recommend.",
+        "published": "2026-10-02T00:03:23+00:00",
+        "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Butterflies use optical illusions to dodge predators",
+        "url": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+        "source": "Hacker News Front",
+        "published": "2026-10-01T23:15:24+00:00",
+        "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=49928152\nPoints: 21\n# Comments: 3",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Several vulnerabilities have been discovered in the Linux kernel",
+        "url": "https://lwn.net/Articles/1097401/",
+        "source": "Hacker News Front",
+        "published": "2026-10-01T23:10:44+00:00",
+        "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 160\n# Comments: 88",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+        "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+        "source": "The Verge",
+        "published": "2026-10-01T22:51:36+00:00",
+        "summary": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of \"a new Apple smart home ecosystem,\" alongside Apple's rumored smart home [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "2026 International Utility Locate Rodeo",
+        "url": "https://locaterodeo.net/",
+        "source": "Hacker News Front",
+        "published": "2026-10-01T22:33:23+00:00",
+        "summary": "Article URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 19\n# Comments: 3",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Venus' mysterious haze is actually cosmic dust",
+        "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+        "source": "Ars Technica",
+        "published": "2026-10-01T22:27:04+00:00",
+        "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,198 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Exclusive: Dig Ventures raises $120m to back Europe’s AI infrastructure startups",
-        "url": "https://sifted.eu/articles/dig-ventures-fund-europe-ai-infrastructure/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-10-01T05:00:40+00:00",
-        "summary": "",
+        "title": "Vivian Midha Shen and Raphael Schaad Join YC as General Partners",
+        "url": "https://www.ycombinator.com/blog/welcome-vivian-and-raphael/",
+        "source": "Y Combinator Blog",
+        "published": "2026-10-01T16:52:00+00:00",
+        "summary": "We’re thrilled to announce that Vivian Midha Shen and Raphael Schaad are joining Y Combinator as our newest General Partners.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Wellness marketplace Healf tops Sifted ranking of 250 fastest-growing startups in Europe",
-        "url": "https://sifted.eu/articles/healf-sifted-250-2026/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-10-01T05:00:06+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "금융권의 AI 추격, 어떻게 격차를 좁힐 것인가",
-        "url": "https://byline.network/2026/10/1-1485/",
+        "title": "스트리머 방송 타고 뜨는 인디게임…광고비 0원인데 1500만장 판매",
+        "url": "https://byline.network/2026/10/1-1497/",
         "source": "ByLine Network",
-        "published": "2026-10-01T02:27:35+00:00",
-        "summary": "전 세계적인 AI 열풍 속, 국내 금융권은 엄격한 규제와 보안 수준을 유지하면서 생성형 AI로 혁신을 추구해야 하는 어려운 과제를 안고 있다. 최신 AI 기술을 발빠르게 도입한 ‘프런티어 펌’과 격차를 줄이려는 금융회사들의 분전은 AI 에이전트 시대일수록 더 격렬해진다.",
+        "published": "2026-10-01T15:17:02+00:00",
+        "summary": "인터넷 방송이 인디게임을 알리는 무대로 활용되고 있다. 세계 최대 게임 스트리밍 플랫폼 트위치에서는 인디게임 콘텐츠 시청 시간이 늘었다. 국내에서도 비슷한 여러 작품이 스트리머 합동 방송 콘텐츠로 소비되고 있다. 이러한 창구를 통해 출시 초기 크게 흥행한 작품도 존재한다. 게임사 역시 마케팅 수단으로 이를 주목하고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "오픈AI “AI 에이전트가 업무 수행, 엔지니어 역할은 지휘·검증으로”",
-        "url": "https://byline.network/2026/10/0930-10/",
+        "title": "배달앱 수수료 상한제, 소비자·라이더에 부담 전가될 수도…",
+        "url": "https://byline.network/2026/10/fee/",
         "source": "ByLine Network",
-        "published": "2026-10-01T01:39:08+00:00",
-        "summary": "리처드 호 오픈AI 하드웨어 총괄 부사장이 삼성 AI 포럼 2026에서 AI 에이전트의 업무 활용 성과와 발전 방향을 공개했다. 에이전트는 수학 난제 해결부터 소프트웨어 개발, 반도체 설계까지 수행하며 업무 효율을 높이고 있으며, 인간 엔지니어의 역할은 목표 설정과 결과 검증, 에이전트 관리로 이동하고 있다. 호 부사장은 기업의 성공적인 에이전트 도입을 위해 90일 파일럿 프로그램을 통한 성과 측정과 산출물 특성에 맞는 검증 체계 마련을 강조했다.",
+        "published": "2026-10-01T15:00:55+00:00",
+        "summary": "플랫폼 수수료 부담을 완화하기 위해 일률적인 수수료 상한제보다 매출에 따른 차등 수수료를 대안으로 검토할 필요가 있다는 주장이 나왔다. 차등 수수료가 매출이 적은 입점업체의 참여를 늘리고 소비자와 플랫폼의 후생도 높일 수 있다는 분석이다. 다만 실제 효과는 아직 검증되지 않은 만큼, 플랫폼 기업도 도입 전후 데이터를 제시해 효과 검증에 참여해야 한다는 주문이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "“플리토는 데이터 회사입니다”",
-        "url": "https://byline.network/2026/10/898908080892242442/",
-        "source": "ByLine Network",
-        "published": "2026-10-01T01:01:46+00:00",
-        "summary": "이정수 플리토 대표(CEO)는 30일 서울 강남구 그랜드인터컨티넨탈 서울 파르나스에서 열린 미디어 인사이트데이에서 ‘데이터 회사’라는 정체성을 여러 차례 반복했다. 플리토의 비즈니스 핵심은 통·번역 솔루션에 한정되지 않고, ‘데이터’에 있다는 것을 강조하는 말이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "ElevenLabs doubles valuation to $22bn with tender offer",
-        "url": "https://sifted.eu/articles/elevenlabs-doubles-valuation-to-22bn-with-tender-offer/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-30T17:09:24+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Smart ring maker Oura delays IPO amid 'market uncertainty'",
-        "url": "https://sifted.eu/articles/oura-ipo-delay-market-uncertainty/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-09-30T16:44:56+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The Crunchbase Tech Layoffs Tracker",
-        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+        "title": "Exclusive: Homeward Raises $120M To Help Homeowners Buy And Sell More Quickly As Housing Market Stalls",
+        "url": "https://news.crunchbase.com/real-estate-property-tech/startup-homeward-raises-120m-buy-sell-homes-ai-financing/",
         "source": "Crunchbase News",
-        "published": "2026-09-30T16:27:30+00:00",
-        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
+        "published": "2026-10-01T13:55:55+00:00",
+        "summary": "Homeward, a startup that helps homeowners buy before selling their existing homes or get cash offers for their properties, has raised a $120 million Series D round, Crunchbase News reports exclusively.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Nubank halts Monzo acquisition talks after shares plunge",
+        "url": "https://sifted.eu/articles/nubank-halts-monzo-acquisition-talks-after-sales-plunge/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-01T13:37:31+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Harry Stebbings: ‘I regret 996 in many ways’",
+        "url": "https://sifted.eu/articles/harry-stebbings-996-20vc-sifted-summit/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-01T12:28:55+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The IPO Window Is Opening Selectively; Readiness Will Decide Who Gets Through",
+        "url": "https://news.crunchbase.com/public/ipo-window-opening-readiness-required-williams-datasite/",
+        "source": "Crunchbase News",
+        "published": "2026-10-01T11:00:42+00:00",
+        "summary": "The 2026 IPO market is reopening selectively, favoring large companies that spent the slowdown strengthening their financial reporting, governance and operations, writes guest author Mark Williams, chief revenue officer, enterprise, at Datasite, who explains why that readiness gives businesses options: list, raise private capital or sell.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Nuclear Startup Funding Is Up, But The Sector’s Public Markets Take A Bearish Turn",
+        "url": "https://news.crunchbase.com/clean-tech-and-energy/nuclear-startup-funding-up-public-markets-bearish/",
+        "source": "Crunchbase News",
+        "published": "2026-10-01T11:00:20+00:00",
+        "summary": "So far in 2026, investors have poured more than $6 billion into companies focused on developing both fission and fusion nuclear energy technology and infrastructure, per Crunchbase data. That’s far ahead of any comparable period, including last year, the prior record-setter.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Good Product, Less Features.",
+        "url": "https://www.youtube.com/watch?v=nCjCIR9TRAM",
+        "source": "a16z",
+        "published": "2026-10-01T19:30:31Z",
+        "summary": "Tom Preston-Werner co-founded GitHub in 2008, while still working at Powerset, the search startup Microsoft bought that year.",
+        "thumbnail": "https://i.ytimg.com/vi/nCjCIR9TRAM/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "nCjCIR9TRAM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The US spends 18% of its GDP on preventable chronic disease!",
+        "url": "https://www.youtube.com/watch?v=6lhApDfz5DM",
+        "source": "All-In Podcast",
+        "published": "2026-10-01T18:02:15Z",
+        "summary": "Thanks to our partners! As wealth grows, complexity compounds. Between investments, tax strategy and estate planning, ...",
+        "thumbnail": "https://i.ytimg.com/vi/6lhApDfz5DM/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "6lhApDfz5DM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why One Internet Pioneer Thinks the Original Model Broke",
+        "url": "https://www.youtube.com/watch?v=bmDrbHOh7Bo",
+        "source": "a16z",
+        "published": "2026-10-01T16:00:34Z",
+        "summary": "a16z's Joel de la Garza sits down with DoxxNet founder Barrett Lyon to discuss what it would take to rebuild the internet around ...",
+        "thumbnail": "https://i.ytimg.com/vi/bmDrbHOh7Bo/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "bmDrbHOh7Bo",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "틈새시장이 가장 큰 시장이 되는 순간 &quot;매스니치&quot; | 이오서재 어피닛 1부",
+        "url": "https://www.youtube.com/watch?v=2cgwDw01kqU",
+        "source": "EO 이오",
+        "published": "2026-10-01T10:40:00Z",
+        "summary": "이오서재 2.0으로 돌아왔습니다. 매일매일 전쟁 같은 비즈니스 현장에 서 있는 창업가분들을 모시고, 마치 편안한 내 서재에서 대화 ...",
+        "thumbnail": "https://i.ytimg.com/vi/2cgwDw01kqU/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "2cgwDw01kqU",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "신종 투자리딩방 사기가 판을 치고 있습니다. 천하의 나쁜 놈들!",
+        "url": "https://www.youtube.com/watch?v=vbDEHKhogXU",
+        "source": "슈카월드",
+        "published": "2026-10-01T09:44:51Z",
+        "summary": "0:00 작년 보이스피싱 피해금액 1조원 돌파 9:28 우리나라만의 문제가 아니다. 갈수록 정교해지는 피싱 사기 15:47 전기통신금융사기 ...",
+        "thumbnail": "https://i.ytimg.com/vi/vbDEHKhogXU/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "vbDEHKhogXU",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "America Withdraws: Can Iraq Become a “Normal” Country?",
+        "url": "https://www.youtube.com/watch?v=38xDUPfMaJs",
+        "source": "TLDR News Global",
+        "published": "2026-10-01T09:30:07Z",
+        "summary": "Take back your privacy - start using Proton Mail for free: http://proton.me/tldr For over three decades, Iraq has been under a foreign ...",
+        "thumbnail": "https://i.ytimg.com/vi/38xDUPfMaJs/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "38xDUPfMaJs",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI가 자기보다 뛰어난 AI를 만드는 위험한 질주가 시작됐다",
+        "url": "https://www.youtube.com/watch?v=_mVNIzbAeug",
+        "source": "티타임즈TV",
+        "published": "2026-10-01T09:00:29Z",
+        "summary": "AI가 자기보다 더 뛰어난 AI를 계속해서 만드는 순환. 이를 재귀적 자기개선(RSI)이라고 합니다. 아직 AI가 사람 없이 다음 세대 모델을 ...",
+        "thumbnail": "https://i.ytimg.com/vi/_mVNIzbAeug/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "_mVNIzbAeug",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -285,36 +390,6 @@
         "extras": {
           "theme": "analysis",
           "videoId": "uzV45QvPKtU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ben Horowitz on a Great Product",
-        "url": "https://www.youtube.com/watch?v=BAILrDM2wUI",
-        "source": "a16z",
-        "published": "2026-09-30T18:00:21Z",
-        "summary": "In The Hard Thing About Hard Things (2014), Ben Horowitz writes that the primary thing a technology startup must do is build a ...",
-        "thumbnail": "https://i.ytimg.com/vi/BAILrDM2wUI/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "BAILrDM2wUI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI, Infrastructure, and the Next Investment Cycle",
-        "url": "https://www.youtube.com/watch?v=lr3hNhA0IfQ",
-        "source": "a16z",
-        "published": "2026-09-30T14:30:38Z",
-        "summary": "a16z's David George, Sarah Wang, Alex Immerman, and Santiago Rodriguez unpack 25 key charts from the latest State of ...",
-        "thumbnail": "https://i.ytimg.com/vi/lr3hNhA0IfQ/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "lr3hNhA0IfQ",
           "via": "api"
         }
       },
@@ -345,81 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "l8kRYkK8ptc",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "토큰 까먹는 나쁜 프롬프트 예시, 좋은 프롬프트 예시 (강수진 박사)",
-        "url": "https://www.youtube.com/watch?v=teFGN3ABuPM",
-        "source": "티타임즈TV",
-        "published": "2026-09-30T09:13:21Z",
-        "summary": "수정하기 전에 매번 ~~ 확인해줘.” 얼핏 보면 꼼꼼한 프롬프트 같지만 아스트라에는 토큰을 계속 태우게 만드는 나쁜 지시라고 합니다.",
-        "thumbnail": "https://i.ytimg.com/vi/teFGN3ABuPM/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "teFGN3ABuPM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why 5.25% is the Bond Market’s Tipping Point",
-        "url": "https://www.youtube.com/watch?v=JFTeh7lZ9Cw",
-        "source": "TLDR News Global",
-        "published": "2026-09-30T08:30:12Z",
-        "summary": "Take back your privacy - start using Proton Mail for free: http://proton.me/tldr The US bond market continues to be having a terrible ...",
-        "thumbnail": "https://i.ytimg.com/vi/JFTeh7lZ9Cw/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "JFTeh7lZ9Cw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "They Found Something Hidden In The Amazon",
-        "url": "https://www.youtube.com/watch?v=TsUOyCsRaAE",
-        "source": "Cleo Abram",
-        "published": "2026-09-29T15:17:50Z",
-        "summary": "They just found something hidden in the Amazon… Researchers flew planes that shot lasers down into the forest. Some sneaks ...",
-        "thumbnail": "https://i.ytimg.com/vi/TsUOyCsRaAE/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "TsUOyCsRaAE",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "내 손안의 AI 기기 뮤즈는 AI 대중화를 이끌 수 있을까?",
-        "url": "https://www.youtube.com/watch?v=voqHsOP4m54",
-        "source": "슈카월드",
-        "published": "2026-09-29T11:59:46Z",
-        "summary": "0:00 귀찮은 일은 이제 그만? 5:18 개인정보와 보안 관련 우려의 목소리 11:07 메타의 야심작, 뮤즈 참 25:38 시장의 기대감.",
-        "thumbnail": "https://i.ytimg.com/vi/voqHsOP4m54/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "voqHsOP4m54",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Geopolitics Finally Buried Kurdistan",
-        "url": "https://www.youtube.com/watch?v=VImHEy2PXYM",
-        "source": "TLDR News Global",
-        "published": "2026-09-29T09:00:26Z",
-        "summary": "Take back your privacy - start using Proton Mail for free: http://proton.me/tldr Order a copy of Too Long: https://toolong.news/TL009 ...",
-        "thumbnail": "https://i.ytimg.com/vi/VImHEy2PXYM/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "VImHEy2PXYM",
           "via": "api"
         }
       }
