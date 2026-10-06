@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-10-05T04:04:32.837215+00:00",
+  "generated_at": "2026-10-06T04:53:43.189758+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "How Congo’s Ebola Epidemic Got So Bad So Quickly",
-        "url": "https://www.nytimes.com/2026/10/05/world/africa/ebola-congo-slow-response.html",
-        "source": "NYT World",
-        "published": "2026-10-05T04:01:26+00:00",
-        "summary": "What happened in Mangala, where residents were left with little outside support, helps explain how this outbreak became the worst seen in the Democratic Republic of Congo.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Pay Phone, a Lifeline During 2019 Australia Wildfires, Gains Heritage Status",
-        "url": "https://www.nytimes.com/2026/10/05/world/australia/narooma-pay-phone-heritage-listing.html",
-        "source": "NYT World",
-        "published": "2026-10-05T04:01:15+00:00",
-        "summary": "Hundreds lined up to call loved ones as the internet went down and the flames closed in on the Australian town of Narooma in 2019.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "U.S. Sanctions Aim to ‘Shut Down’ Iran’s Airlines, but This Boeing Plane Is Still Flying",
-        "url": "https://www.nytimes.com/2026/10/05/world/asia/boeing-777-plane-iran-us-sanctions-flights.html",
-        "source": "NYT World",
-        "published": "2026-10-05T04:01:07+00:00",
-        "summary": "The Trump administration says all Iranian airlines are being “shut down.” So why is this jumbo jet still flying from Tehran to Southeast Asia?",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Bosnian Serb nationalist claims party victory in Bosnia elections",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bosnian-serb-nationalist-claims-party-victory-in-bosnia-elections?traffic_source=rss",
+        "title": "Violent clashes erupt after mass housing protest in Barcelona",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-barcelona-protests-clip-mp4?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-05T03:36:13+00:00",
-        "summary": "Bosnian Serb nationalist Milorad Dodik claimed victory for his party in Bosnia’s elections.",
+        "published": "2026-10-06T04:34:51+00:00",
+        "summary": "Protesters in Barcelona set fires, built barricades and hurled projectiles as violence erupted at a housing protest.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US coastguard suspends search for six on board crashed medical jet",
-        "url": "https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet?traffic_source=rss",
+        "title": "Quebec separatists win election reviving push for independence",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/quebec-separatists-win-election-reviving-push-for-independence?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-05T03:22:32+00:00",
-        "summary": "Debris found off Nantucket island after the air ambulance disappeared while flying from Bermuda to Boston.",
+        "published": "2026-10-06T04:34:16+00:00",
+        "summary": "Parti Quebecois leader Paul St-Pierre Plamondon vows a future referendum on independence from Canada.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Former Bachelor star Sam Wood charged with domestic violence",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/05/sam-wood-charged-domestic-violence-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-05T03:17:31+00:00",
-        "summary": "Police arrested 46-year-old in Noosa and charged him with assault occasioning bodily harm and strangulation in a domestic settingGet our breaking news email, free app or daily news podcastThe fitness influencer and reality TV star Sam Wood has been charged in Queensland with domestic violence offences.The personal trainer and star of the third season of the Australian version of the reality TV sho",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "title": "Yemeni military says it has 'secured' Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-05T03:16:16+00:00",
-        "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+        "published": "2026-10-06T04:29:53+00:00",
+        "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Yemen gov’t forces commence major combat operation against Houthis",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
+        "title": "RSPCA NSW director quits over welfare standards for RSPCA-branded chicken",
+        "url": "https://www.theguardian.com/food/2026/oct/06/rspca-vice-president-quits-chicken-welfare-standards",
+        "source": "The Guardian World",
+        "published": "2026-10-06T04:26:53+00:00",
+        "summary": "Mark Steele says he is ‘ashamed to be associated’ with the RSPCA Certified scheme, which badges 97% of chicken sold in AustraliaGet our breaking news email, free app or daily news podcastRSPCA New South Wales’s vice-president has left the animal welfare group, saying he is “sincerely ashamed” of the standards for RSPCA-certified chicken.Mark Steele, a senior counsel who was a volunteer member of t",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-06T04:25:22+00:00",
+        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
+        "url": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
+        "source": "NYT World",
+        "published": "2026-10-06T04:11:58+00:00",
+        "summary": "The separatist party’s victory fell short of clinching a majority that would have all but guaranteed a potential showdown with Ottawa over Canada’s future.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-05T03:11:03+00:00",
-        "summary": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
+        "published": "2026-10-06T04:07:48+00:00",
+        "summary": "Members of Mexican and Colombian cartels are reportedly joining Ukraine’s International Legion to learn drone warfare.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
+        "url": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
+        "source": "NYT World",
+        "published": "2026-10-06T04:01:14+00:00",
+        "summary": "Chaos in schools, on the streets and in the markets is rooted in France’s struggles to fund its social welfare state, with a presidential election approaching.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
-        "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+        "title": "Resurrecting iChat Audio and Video Conferencing",
+        "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
         "source": "Hacker News Front",
-        "published": "2026-10-05T02:31:45+00:00",
-        "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857\nComments URL: https://news.ycombinator.com/item?id=49960084\nPoints: 60\n# Comments: 24",
+        "published": "2026-10-06T03:39:01+00:00",
+        "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\nComments URL: https://news.ycombinator.com/item?id=49973878\nPoints: 8\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-        "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+        "title": "Why Common Lisp is now the best programming language",
+        "url": "https://www.vivienhenz.com/common-lisp",
         "source": "Hacker News Front",
-        "published": "2026-10-05T01:54:08+00:00",
-        "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments URL: https://news.ycombinator.com/item?id=49959869\nPoints: 102\n# Comments: 47",
+        "published": "2026-10-06T02:51:51+00:00",
+        "summary": "Article URL: https://www.vivienhenz.com/common-lisp\nComments URL: https://news.ycombinator.com/item?id=49973598\nPoints: 41\n# Comments: 41",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "A tribute to one of the best games on the Atari 2600",
-        "url": "https://plicerin.github.io/riverraid-rom-port/",
+        "title": "Photopea creator weighs in on Photosuite project",
+        "url": "https://github.com/eolix/photosuite/issues/77",
         "source": "Hacker News Front",
-        "published": "2026-10-05T01:54:00+00:00",
-        "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/\nComments URL: https://news.ycombinator.com/item?id=49959865\nPoints: 16\n# Comments: 5",
+        "published": "2026-10-06T00:41:44+00:00",
+        "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 79\n# Comments: 41",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "A 40ms Go garbage collector pause caused by swap",
-        "url": "https://frn.sh/go-gc/",
+        "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+        "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
         "source": "Hacker News Front",
-        "published": "2026-10-05T01:11:56+00:00",
-        "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 7\n# Comments: 0",
+        "published": "2026-10-06T00:24:57+00:00",
+        "summary": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days\nComments URL: https://news.ycombinator.com/item?id=49972607\nPoints: 82\n# Comments: 55",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-        "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+        "title": "AI tutoring with Khanmigo in a two-year school experiment",
+        "url": "https://edworkingpapers.com/ai26-1551",
         "source": "Hacker News Front",
-        "published": "2026-10-04T22:25:10+00:00",
-        "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 90\n# Comments: 23",
+        "published": "2026-10-06T00:00:45+00:00",
+        "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 54\n# Comments: 38",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The new Fitbit Edge leaks",
-        "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "title": "Samon: Designing a Zen Garden Raking Puzzle",
+        "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+        "source": "Hacker News Front",
+        "published": "2026-10-05T23:35:35+00:00",
+        "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 29\n# Comments: 11",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
         "source": "The Verge",
-        "published": "2026-10-04T21:02:09+00:00",
-        "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [&#8230;]",
+        "published": "2026-10-05T23:09:55+00:00",
+        "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "In the wake of closure, a digital archive of animated materials appears online",
-        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+        "title": "Ephemeral Testing",
+        "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
         "source": "Hacker News Front",
-        "published": "2026-10-04T21:01:28+00:00",
-        "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 58\n# Comments: 5",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-        "source": "TechCrunch",
-        "published": "2026-10-04T20:31:07+00:00",
-        "summary": "AI slop seems to be overwhelming bug bounty programs.",
+        "published": "2026-10-05T23:06:36+00:00",
+        "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 40\n# Comments: 13",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,27 +186,183 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[인터뷰] 빌딩관리를 AI가 대신한다…엑스와이지의 ‘로봇빌딩솔루션’",
-        "url": "https://byline.network/2026/10/84953840538/",
-        "source": "ByLine Network",
-        "published": "2026-10-04T09:28:05+00:00",
-        "summary": "갑자기 누군가 커피를 쏟았다. 커피가 쏟아진 뒤 1분 동안 아무도 커피를 치우지 않는다. 건물의 CCTV를 보던 인공지능(AI)은 이를 인지하고 로봇 청소기를 그곳으로 보낸다. 로봇 청소기는 사람이 시키지 않아도 말끔하게 청소하고 제자리로 돌아온다. 이는 피지컬 AI가 적용된 공간의 모습이다.",
+        "title": "What eight years at Sifted taught me about tech's bubble",
+        "url": "https://sifted.eu/articles/what-eight-years-at-sifted-taught-me-about-techs-bubble/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-06T05:00:55+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[플레이BN] 경쟁형 MMO에 부담 덜었다, 스마일게이트 ‘이클립스’",
-        "url": "https://byline.network/2026/10/2-480/",
-        "source": "ByLine Network",
-        "published": "2026-10-04T08:32:49+00:00",
-        "summary": "성장도, 타인과 관계 발전도 마찬가지죠. 특히 경쟁형 MMORPG에서는 성장에 대한 압박이 더욱 크게 느껴집니다. 스마일게이트가 선보인 ‘이클립스: 더 어웨이크닝’은 부담을 낮추기 위해 노력한 흔적이 보이는 작품입니다. 장르의 본질은 유지하면서 이용자의 수고를 줄이는 방향을 택했습니다.",
+        "title": "12 Nordic fintech startups to watch, according to VCs",
+        "url": "https://sifted.eu/articles/nordic-fintech-startups/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-06T05:00:18+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Exclusive: Hadrian raises $40m as AI cyberattacks accelerate",
+        "url": "https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-06T05:00:14+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Is it illegal to train frontier AI in the UK?",
+        "url": "https://sifted.eu/articles/is-it-illegal-to-train-frontier-ai-in-the-uk/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-06T05:00:05+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "RobCo hits unicorn valuation in employee share sale",
+        "url": "https://sifted.eu/articles/robco-hits-unicorn-valuation-in-employee-share-sale/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-05T14:14:27+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "The best AI opportunities for investors may not look like AI companies",
+        "url": "https://sifted.eu/articles/the-best-ai-opportunities-may-not-look-like-ai-companies-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-05T13:36:55+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
+        "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/",
+        "source": "Crunchbase News",
+        "published": "2026-10-05T11:00:13+00:00",
+        "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022. We take a look at where the funding went.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "8 pre-seed rounds led by Tier 1 US investors in AI-native companies",
+        "url": "https://sifted.eu/articles/8-pre-seed-rounds-led-by-tier-1-us-investors-in-ai-native-companies/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-05T05:00:58+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "David Friedberg: Rising Rates Could Trigger a Banking Shock Right Before the Midterms",
+        "url": "https://www.youtube.com/watch?v=XUPMdaFYe1s",
+        "source": "All-In Podcast",
+        "published": "2026-10-05T19:44:56Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/XUPMdaFYe1s/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "XUPMdaFYe1s",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Brazilian Election: Can Lula Hold On?",
+        "url": "https://www.youtube.com/watch?v=HUy_Fvhyv_A",
+        "source": "TLDR News Global",
+        "published": "2026-10-05T15:34:41Z",
+        "summary": "Want to restore the planet's ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my ...",
+        "thumbnail": "https://i.ytimg.com/vi/HUy_Fvhyv_A/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "HUy_Fvhyv_A",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How Did Dinosaurs Actually Go Extinct?",
+        "url": "https://www.youtube.com/watch?v=Mx7peaQnoGw",
+        "source": "Cleo Abram",
+        "published": "2026-10-05T14:20:40Z",
+        "summary": "How exactly did the dinosaurs* go extinct? I know a rock hit Earth… but then what? Here's what happened on the day that a rock ...",
+        "thumbnail": "https://i.ytimg.com/vi/Mx7peaQnoGw/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "Mx7peaQnoGw",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Current State of Consumer AI",
+        "url": "https://www.youtube.com/watch?v=aCvrzhwUxg0",
+        "source": "a16z",
+        "published": "2026-10-05T10:55:10Z",
+        "summary": "a16z Editorial Partner Elena Burger sits down with investing partners Olivia Moore and Josh Elman to unpack the seventh edition ...",
+        "thumbnail": "https://i.ytimg.com/vi/aCvrzhwUxg0/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "aCvrzhwUxg0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "한국이 안내면 2배로 청구하면 그만입니다!",
+        "url": "https://www.youtube.com/watch?v=EtNDC9293MA",
+        "source": "슈카월드",
+        "published": "2026-10-05T10:01:07Z",
+        "summary": "0:00 트럼프 \"한국이 알래스카에 67조원 투자를 결정했습니다!\" 9:39 제가요..? 왜요..? 17:04 이 모든 사태의 가장 큰 원인이 된 민주당 ...",
+        "thumbnail": "https://i.ytimg.com/vi/EtNDC9293MA/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "EtNDC9293MA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why China Can Tax its Rich But We Can’t",
+        "url": "https://www.youtube.com/watch?v=QNktdY9qBDg",
+        "source": "TLDR News Global",
+        "published": "2026-10-05T09:38:59Z",
+        "summary": "Take back your privacy - start using Proton Mail for free: http://proton.me/tldr Sign Up for TLDR Party: https://toolong.news/party ...",
+        "thumbnail": "https://i.ytimg.com/vi/QNktdY9qBDg/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "QNktdY9qBDg",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -255,21 +411,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "How This Giant Animal Could FLY",
-        "url": "https://www.youtube.com/watch?v=93dvIjHJ_es",
-        "source": "Cleo Abram",
-        "published": "2026-10-03T15:33:08Z",
-        "summary": "How could this giant animal fly?? Pterosaurs were enormous flying animals that died out around 66 million years ago. They're the ...",
-        "thumbnail": "https://i.ytimg.com/vi/93dvIjHJ_es/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "93dvIjHJ_es",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "Why Specialized AI Could Beat The God Model",
         "url": "https://www.youtube.com/watch?v=ekK8urKHPMQ",
         "source": "a16z",
@@ -279,81 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "ekK8urKHPMQ",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "인도 옵션 투자 광풍, 50조 털린 인도 개미들",
-        "url": "https://www.youtube.com/watch?v=0K52Ex714NU",
-        "source": "슈카월드",
-        "published": "2026-10-03T10:22:25Z",
-        "summary": "0:00 인도 증권거래소 상장 4:45 인도 정부는 왜 파생상품 시장을 규제하는가? 13:41 옵션을 주의해야하는 이유 19:22 썰물 빠지듯 ...",
-        "thumbnail": "https://i.ytimg.com/vi/0K52Ex714NU/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "0K52Ex714NU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What Can Democrats Actually Do if They Win the Midterms?",
-        "url": "https://www.youtube.com/watch?v=yp7hJDwwPSA",
-        "source": "TLDR News Global",
-        "published": "2026-10-03T09:44:06Z",
-        "summary": "Take back your privacy - start using Proton Mail for free: http://proton.me/tldr Pick up a copy of Assembly Required: ...",
-        "thumbnail": "https://i.ytimg.com/vi/yp7hJDwwPSA/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "yp7hJDwwPSA",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "방송인이자 사업가 럭키가 알려주는 인도 시장의 진짜 모습",
-        "url": "https://www.youtube.com/watch?v=fOUhgXlVqOA",
-        "source": "EO 이오",
-        "published": "2026-10-03T06:05:54Z",
-        "summary": "평균 나이 27세의 젊은 나라, 인도. 경제는 매년 5~7%씩 성장하고 있습니다. 지금이 한국 기업에게 기회라는데, 그 이유는 무엇일까요 ...",
-        "thumbnail": "https://i.ytimg.com/vi/fOUhgXlVqOA/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "fOUhgXlVqOA",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Trump’s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
-        "url": "https://www.youtube.com/watch?v=ZJKs08oU1zg",
-        "source": "All-In Podcast",
-        "published": "2026-10-02T22:51:14Z",
-        "summary": "(0:00) Bestie intros! (2:01) Trump's Super Intelligence Summit: Behind the scenes and how the accord was created and signed ...",
-        "thumbnail": "https://i.ytimg.com/vi/ZJKs08oU1zg/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "ZJKs08oU1zg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "&#39;뮤즈&#39; 열풍, 이전 AI들과 뭐가 다르길래?",
-        "url": "https://www.youtube.com/watch?v=irncTwI54ik",
-        "source": "티타임즈TV",
-        "published": "2026-10-02T22:00:19Z",
-        "summary": "메타가 내놓은 개인 AI 에이전트 '뮤즈'가 공개 2주 만에 미국 앱스토어 다운로드 1위에 오르며 챗GPT를 밀어냈습니다. 질문에 답하는 ...",
-        "thumbnail": "https://i.ytimg.com/vi/irncTwI54ik/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "irncTwI54ik",
           "via": "api"
         }
       }
