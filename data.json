@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-10-06T04:53:43.189758+00:00",
+  "generated_at": "2026-10-07T04:20:19.756249+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Violent clashes erupt after mass housing protest in Barcelona",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-barcelona-protests-clip-mp4?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-06T04:34:51+00:00",
-        "summary": "Protesters in Barcelona set fires, built barricades and hurled projectiles as violence erupted at a housing protest.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Quebec separatists win election reviving push for independence",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/quebec-separatists-win-election-reviving-push-for-independence?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-06T04:34:16+00:00",
-        "summary": "Parti Quebecois leader Paul St-Pierre Plamondon vows a future referendum on independence from Canada.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Yemeni military says it has 'secured' Red Sea waterway",
-        "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+        "title": "Former Australian bishop jailed for sexually abusing young men",
+        "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-06T04:29:53+00:00",
-        "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+        "published": "2026-10-07T04:04:13+00:00",
+        "summary": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "RSPCA NSW director quits over welfare standards for RSPCA-branded chicken",
-        "url": "https://www.theguardian.com/food/2026/oct/06/rspca-vice-president-quits-chicken-welfare-standards",
+        "title": "Malawians Struggle to Survive After Fleeing Anti-Immigrant Violence",
+        "url": "https://www.nytimes.com/2026/10/07/world/africa/malawi-returnees-south-africa.html",
+        "source": "NYT World",
+        "published": "2026-10-07T04:01:18+00:00",
+        "summary": "Anti-immigrant violence in South Africa has forced tens of thousands to return to Malawi, severing badly needed cash flows and leaving families hungry.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?",
+        "url": "https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html",
+        "source": "NYT World",
+        "published": "2026-10-07T04:01:05+00:00",
+        "summary": "Attendees at the party’s annual conference have been buoyed: both by leader Kemi Badenoch’s rising poll ratings and a mock Bayeux Tapestry. But the challenge from Reform U.K. remains.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
+        "url": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
         "source": "The Guardian World",
-        "published": "2026-10-06T04:26:53+00:00",
-        "summary": "Mark Steele says he is ‘ashamed to be associated’ with the RSPCA Certified scheme, which badges 97% of chicken sold in AustraliaGet our breaking news email, free app or daily news podcastRSPCA New South Wales’s vice-president has left the animal welfare group, saying he is “sincerely ashamed” of the standards for RSPCA-certified chicken.Mark Steele, a senior counsel who was a volunteer member of t",
+        "published": "2026-10-07T04:00:34+00:00",
+        "summary": "Mood in trade talks said to have changed as EU member states harden demands for protection against Chinese importsEU trade negotiators are heading to China for two days of crunch talks aimed at sealing a breakthrough deal tackling Beijing’s record £1bn-a-day trade surplus by curbing its exports of cheap hybrid electric cars into Europe.Trade commissioner Maroš Šefčovič and his team fly out on Wedn",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-06T04:25:22+00:00",
-        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "The Separatist Parti Québécois Wins Quebec Election, Reviving Sovereignty Push",
-        "url": "https://www.nytimes.com/2026/10/05/world/canada/quebec-election-parti-quebecois-separatism.html",
-        "source": "NYT World",
-        "published": "2026-10-06T04:11:58+00:00",
-        "summary": "The separatist party’s victory fell short of clinching a majority that would have all but guaranteed a potential showdown with Ottawa over Canada’s future.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss",
+        "title": "What Israeli schools teach",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-06T04:07:48+00:00",
-        "summary": "Members of Mexican and Colombian cartels are reportedly joining Ukraine’s International Legion to learn drone warfare.",
+        "published": "2026-10-07T04:00:00+00:00",
+        "summary": "What Israeli schools teach",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
-        "url": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
+        "title": "US stock market hits all-time high as investors bet big on AI",
+        "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-07T03:27:20+00:00",
+        "summary": "The benchmark S&amp;P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+        "url": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-07T03:16:32+00:00",
+        "summary": "India&#039;s Foreign Ministry says 11 out of 12 injured crew members on board the On Peace are Indian nationals.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Student Protests Expand to More Than 40 French Cities",
+        "url": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
         "source": "NYT World",
-        "published": "2026-10-06T04:01:14+00:00",
-        "summary": "Chaos in schools, on the streets and in the markets is rooted in France’s struggles to fund its social welfare state, with a presidential election approaching.",
+        "published": "2026-10-07T03:04:10+00:00",
+        "summary": "Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Resurrecting iChat Audio and Video Conferencing",
-        "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+        "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+        "url": "https://nanochess.org/la_cueva_bbs.html",
         "source": "Hacker News Front",
-        "published": "2026-10-06T03:39:01+00:00",
-        "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\nComments URL: https://news.ycombinator.com/item?id=49973878\nPoints: 8\n# Comments: 1",
+        "published": "2026-10-07T03:16:45+00:00",
+        "summary": "Article URL: https://nanochess.org/la_cueva_bbs.html\nComments URL: https://news.ycombinator.com/item?id=49987675\nPoints: 9\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Why Common Lisp is now the best programming language",
-        "url": "https://www.vivienhenz.com/common-lisp",
+        "title": "Xbox has secured exclusive GTA 6 streaming rights",
+        "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
         "source": "Hacker News Front",
-        "published": "2026-10-06T02:51:51+00:00",
-        "summary": "Article URL: https://www.vivienhenz.com/common-lisp\nComments URL: https://news.ycombinator.com/item?id=49973598\nPoints: 41\n# Comments: 41",
+        "published": "2026-10-07T02:22:42+00:00",
+        "summary": "Article URL: https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights\nComments URL: https://news.ycombinator.com/item?id=49987245\nPoints: 13\n# Comments: 11",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Photopea creator weighs in on Photosuite project",
-        "url": "https://github.com/eolix/photosuite/issues/77",
+        "title": "Strands Decider 2B: a small, open-source, decision model",
+        "url": "https://strandsagents.com/blog/introducing-strands-decider/",
         "source": "Hacker News Front",
-        "published": "2026-10-06T00:41:44+00:00",
-        "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 79\n# Comments: 41",
+        "published": "2026-10-07T02:02:11+00:00",
+        "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/\nComments URL: https://news.ycombinator.com/item?id=49987076\nPoints: 57\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
-        "url": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+        "title": "ESP32-C3 Adblock",
+        "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
         "source": "Hacker News Front",
-        "published": "2026-10-06T00:24:57+00:00",
-        "summary": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days\nComments URL: https://news.ycombinator.com/item?id=49972607\nPoints: 82\n# Comments: 55",
+        "published": "2026-10-07T01:39:21+00:00",
+        "summary": "Article URL: https://github.com/M-Abozaid/esp32-c3-adblock\nComments URL: https://news.ycombinator.com/item?id=49986862\nPoints: 20\n# Comments: 5",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "AI tutoring with Khanmigo in a two-year school experiment",
-        "url": "https://edworkingpapers.com/ai26-1551",
+        "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+        "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
         "source": "Hacker News Front",
-        "published": "2026-10-06T00:00:45+00:00",
-        "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 54\n# Comments: 38",
+        "published": "2026-10-07T01:27:49+00:00",
+        "summary": "Article URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis\nComments URL: https://news.ycombinator.com/item?id=49986765\nPoints: 10\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Samon: Designing a Zen Garden Raking Puzzle",
-        "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-        "source": "Hacker News Front",
-        "published": "2026-10-05T23:35:35+00:00",
-        "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 29\n# Comments: 11",
+        "title": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)",
+        "url": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+        "source": "Wired",
+        "published": "2026-10-07T00:34:56+00:00",
+        "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-        "source": "The Verge",
-        "published": "2026-10-05T23:09:55+00:00",
-        "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
+        "title": "113 Best Prime Day Deals We’re Shopping This October (2026)",
+        "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+        "source": "Wired",
+        "published": "2026-10-07T00:32:13+00:00",
+        "summary": "Amazon Prime Big Deal Days are here, and we’ve tracked down the best discounts on all the gear our team recommends.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Ephemeral Testing",
-        "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+        "title": "Account bans on Reddit",
+        "url": "https://orchidfiles.com/account-bans-on-reddit/",
         "source": "Hacker News Front",
-        "published": "2026-10-05T23:06:36+00:00",
-        "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 40\n# Comments: 13",
+        "published": "2026-10-07T00:28:29+00:00",
+        "summary": "Article URL: https://orchidfiles.com/account-bans-on-reddit/\nComments URL: https://news.ycombinator.com/item?id=49986223\nPoints: 30\n# Comments: 22",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,10 +186,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "What eight years at Sifted taught me about tech's bubble",
-        "url": "https://sifted.eu/articles/what-eight-years-at-sifted-taught-me-about-techs-bubble/",
+        "title": "The top 10 investors backing Europe’s fastest-growing startups and scaleups",
+        "url": "https://sifted.eu/articles/the-top-10-investors-backing-europes-fastest-growing-startups-and-scaleups/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-06T05:00:55+00:00",
+        "published": "2026-10-07T05:00:46+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -197,10 +197,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "12 Nordic fintech startups to watch, according to VCs",
-        "url": "https://sifted.eu/articles/nordic-fintech-startups/",
+        "title": "Slush names Europe’s 20 tech talents under 20",
+        "url": "https://sifted.eu/articles/slush-names-europes-20-tech-talents-under-20/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-06T05:00:18+00:00",
+        "published": "2026-10-07T05:00:44+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -208,10 +208,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Exclusive: Hadrian raises $40m as AI cyberattacks accelerate",
-        "url": "https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/",
+        "title": "European defence tech gets a reality check",
+        "url": "https://sifted.eu/articles/european-defence-tech-resilience-conference-london/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-06T05:00:14+00:00",
+        "published": "2026-10-07T05:00:31+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -219,10 +219,21 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Is it illegal to train frontier AI in the UK?",
-        "url": "https://sifted.eu/articles/is-it-illegal-to-train-frontier-ai-in-the-uk/",
+        "title": "슈나이더일렉트릭, 캐드 소프트웨어 기업 PTC 인수",
+        "url": "https://byline.network/2026/10/7-504/",
+        "source": "ByLine Network",
+        "published": "2026-10-07T02:04:25+00:00",
+        "summary": "슈나이더일렉트릭이 설계 소프트웨어와 제품수명주기관리(PLM) 솔루션 업체 PTC를 인수했다. 슈나이더일렉트릭은 PTC 주식 100%를 주당 205달러에 전액 현금 인수한다. 평가된 PTC의 기업가치는 약 226억달러다. 인수가격은 2027년 예상 조정 영업이익(EBITA) 대비 21배에 해당한다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Spiko raises $90m in Series B backed by Index Ventures and Speedinvest",
+        "url": "https://sifted.eu/articles/spiko-series-b-fundraise-index-speedinvest/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-06T05:00:05+00:00",
+        "published": "2026-10-06T16:28:02+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -230,10 +241,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "RobCo hits unicorn valuation in employee share sale",
-        "url": "https://sifted.eu/articles/robco-hits-unicorn-valuation-in-employee-share-sale/",
+        "title": "SAP to acquire AI startup TechWolf for undisclosed sum",
+        "url": "https://sifted.eu/articles/sap-techwolf-acquisition-deal/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-05T14:14:27+00:00",
+        "published": "2026-10-06T15:23:05+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -241,38 +252,102 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "The best AI opportunities for investors may not look like AI companies",
-        "url": "https://sifted.eu/articles/the-best-ai-opportunities-may-not-look-like-ai-companies-brnd/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-10-05T13:36:55+00:00",
-        "summary": "",
+        "title": "금융권, 잇단 정보 유출에 비상…AI로 커지는 해킹 위협",
+        "url": "https://byline.network/2026/10/1006-7/",
+        "source": "ByLine Network",
+        "published": "2026-10-06T14:36:47+00:00",
+        "summary": "연이은 개인·신용정보 유출 사고로 금융권에 비상이 걸렸다. 금융당국은 최근 금융사 해킹에 사용된 것으로 확인된 인터넷주소(IP)를 전 금융권에 공유하고 자체 점검을 주문했다. 금융사들도 외부 침입 경로를 차단하는 데 그치지 않고 추가 취약점과 공격 가능성을 점검하는 등 대응 범위를 넓히고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI Race Heats Up",
-        "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/",
-        "source": "Crunchbase News",
-        "published": "2026-10-05T11:00:13+00:00",
-        "summary": "Global venture funding totaled $159 billion in Q3 2026 with close to 6,000 startups funded, Crunchbase data shows. And while the third quarter was the lowest for startup investment so far this year, it still exceeded every other quarter since Q2 2022. We take a look at where the funding went.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "8 pre-seed rounds led by Tier 1 US investors in AI-native companies",
-        "url": "https://sifted.eu/articles/8-pre-seed-rounds-led-by-tier-1-us-investors-in-ai-native-companies/",
+        "title": "Mistral releases new flagship model as it seeks to close the gap with competitors",
+        "url": "https://sifted.eu/articles/mistral-large-four-frontier-ai-models/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-05T05:00:58+00:00",
+        "published": "2026-10-06T14:00:08+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The only reason why Instagram worked early on",
+        "url": "https://www.youtube.com/watch?v=C8eNLnnCmZ0",
+        "source": "a16z",
+        "published": "2026-10-06T20:00:10Z",
+        "summary": "Instagram turns 16 today. Before Instagram, there was Burbn. Systrom named it after his taste for bourbon. It let you check in ...",
+        "thumbnail": "https://i.ytimg.com/vi/C8eNLnnCmZ0/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "C8eNLnnCmZ0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "David Friedberg: The AI Wars Are Already Here",
+        "url": "https://www.youtube.com/watch?v=FUAgCBG54pA",
+        "source": "All-In Podcast",
+        "published": "2026-10-06T15:46:04Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/FUAgCBG54pA/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "FUAgCBG54pA",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Building Cyber Defense for the Agentic Era",
+        "url": "https://www.youtube.com/watch?v=cJsHel27Z6M",
+        "source": "a16z",
+        "published": "2026-10-06T14:30:37Z",
+        "summary": "a16z General Partner David George sits down with Armadin founder and CEO Kevin Mandia to discuss what happens to ...",
+        "thumbnail": "https://i.ytimg.com/vi/cJsHel27Z6M/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "cJsHel27Z6M",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "실적이고 뭐고, 멈춰버린 국장 버스",
+        "url": "https://www.youtube.com/watch?v=izM605Qavok",
+        "source": "슈카월드",
+        "published": "2026-10-06T12:57:15Z",
+        "summary": "0:00 9월 수출액 1209 억 달러 12:30 마이크론 \"이제 시작입니다.\" 21:06 아픈 손가락 27:56 피지컬 AI 특이점은 온다..",
+        "thumbnail": "https://i.ytimg.com/vi/izM605Qavok/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "izM605Qavok",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "&quot;AI가 고객센터 통화해 통신비 깎았다&quot; 메타 뮤즈가 챗GPT보다 주목받는 이유",
+        "url": "https://www.youtube.com/watch?v=lhqG1jcFW3I",
+        "source": "티타임즈TV",
+        "published": "2026-10-06T09:00:38Z",
+        "summary": "메타가 출시한 AI 에이전트 '뮤즈'의 인기가 폭발적입니다. 출시 열흘 만에 챗GPT를 제치고 미국 앱스토어 1위에 올랐고, 일간 사용자 ...",
+        "thumbnail": "https://i.ytimg.com/vi/lhqG1jcFW3I/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "lhqG1jcFW3I",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -321,21 +396,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "The Current State of Consumer AI",
-        "url": "https://www.youtube.com/watch?v=aCvrzhwUxg0",
-        "source": "a16z",
-        "published": "2026-10-05T10:55:10Z",
-        "summary": "a16z Editorial Partner Elena Burger sits down with investing partners Olivia Moore and Josh Elman to unpack the seventh edition ...",
-        "thumbnail": "https://i.ytimg.com/vi/aCvrzhwUxg0/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "aCvrzhwUxg0",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "한국이 안내면 2배로 청구하면 그만입니다!",
         "url": "https://www.youtube.com/watch?v=EtNDC9293MA",
         "source": "슈카월드",
@@ -360,66 +420,6 @@
         "extras": {
           "theme": "news",
           "videoId": "QNktdY9qBDg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "This Microscope Is Insane",
-        "url": "https://www.youtube.com/watch?v=he7IKP8h41c",
-        "source": "Cleo Abram",
-        "published": "2026-10-04T15:13:51Z",
-        "summary": "This microscope is insane… Look at the difference between these two images! Both are of a cell's nucleus, but this one was taken ...",
-        "thumbnail": "https://i.ytimg.com/vi/he7IKP8h41c/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "he7IKP8h41c",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "신발 혁신하기 전에 조직부터 갈아엎었다",
-        "url": "https://www.youtube.com/watch?v=2v4ABQMfIPw",
-        "source": "티타임즈TV",
-        "published": "2026-10-03T21:00:29Z",
-        "summary": "전 세계적인 러닝 붐과 함께 갈수록 치열해지는 러닝화 시장의 경쟁. 이 경쟁에서 운명이 엇갈리는 두 기업이 있습니다. 바로 나이키와 ...",
-        "thumbnail": "https://i.ytimg.com/vi/2v4ABQMfIPw/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "2v4ABQMfIPw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Chamath: 3 Things Every Company Needs in the Age of Superintelligence",
-        "url": "https://www.youtube.com/watch?v=-YjBgywbkpM",
-        "source": "All-In Podcast",
-        "published": "2026-10-03T16:30:14Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/-YjBgywbkpM/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "-YjBgywbkpM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Specialized AI Could Beat The God Model",
-        "url": "https://www.youtube.com/watch?v=ekK8urKHPMQ",
-        "source": "a16z",
-        "published": "2026-10-03T14:30:34Z",
-        "summary": "A16z's Erik Torenberg sits down with OpenRouter's Alex Atallah and Replit founder and CEO Amjad Masad to discuss why the ...",
-        "thumbnail": "https://i.ytimg.com/vi/ekK8urKHPMQ/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "ekK8urKHPMQ",
           "via": "api"
         }
       }
