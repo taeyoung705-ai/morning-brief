@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-10-09T04:35:21.812681+00:00",
+  "generated_at": "2026-10-10T04:21:24.584426+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "A Rural Village Voted to Leave the U.K., Stirring Britain’s Migration Debate",
-        "url": "https://www.nytimes.com/2026/10/09/world/europe/piddington-village-uk-independence.html",
+        "title": "Here’s the latest.",
+        "url": "https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest",
         "source": "NYT World",
-        "published": "2026-10-09T04:01:06+00:00",
-        "summary": "A plan to house 1,250 asylum seekers on the outskirts of Piddington prompted a symbolic independence vote, highlighting a growing dilemma for the government.",
+        "published": "2026-10-10T04:15:07+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
-        "url": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
-        "source": "The Guardian World",
-        "published": "2026-10-09T04:00:38+00:00",
-        "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim BrotherhoodEgyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been tortured in police detention.Last week, Egyptian authorities arrested the journalists, from the independent factchecking and ",
+        "title": "What to Know About the Delhi Protests",
+        "url": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
+        "source": "NYT World",
+        "published": "2026-10-10T03:56:38+00:00",
+        "summary": "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi. The police have come out in force.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
-        "url": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
-        "source": "The Guardian World",
-        "published": "2026-10-09T04:00:37+00:00",
-        "summary": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect itA chance social media encounter has led to the race-against-time discovery of a new species of giant waterlily that has until now been hidden in the depths of Colombia’s jungle.But the plant, which is so huge it is visible from space, is already considered critically endangere",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
-        "url": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss",
+        "title": "CCTV footage shows ICE shooting in New York",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-09T03:47:41+00:00",
-        "summary": "The Democratic Unionist Party calls for the prosecution of Sinn Fein lawmakers who participated in the protest.",
+        "published": "2026-10-10T03:38:05+00:00",
+        "summary": "New footage shows the moment ICE agents opened fire on a man as he drove his car with his child in the backseat.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Adidas sues Australian label White Fox over four stripes design",
-        "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+        "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-09T03:36:41+00:00",
-        "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+        "published": "2026-10-10T03:29:50+00:00",
+        "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-09T03:36:12+00:00",
-        "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+        "title": "India Cancels Trains, Floods Capital with Police to Block Protests",
+        "url": "https://www.nytimes.com/2026/10/09/world/asia/india-cockroach-protests-delhi.html",
+        "source": "NYT World",
+        "published": "2026-10-10T03:14:33+00:00",
+        "summary": "A planned protest against a sweeping voter roll revision prompted police to order a virtual shutdown of New Delhi, the capital. The country’s highest court intervened.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
-        "url": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
+        "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-09T03:25:33+00:00",
-        "summary": "Mayor Zohran Mamdani says agents fired at a car with a child inside; DHS says it was conducting enforcement activity.",
+        "published": "2026-10-10T02:35:28+00:00",
+        "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of being India’s ‘real boss’ in over delays to Starlink&#039;s entry.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
-        "source": "The Guardian World",
-        "published": "2026-10-09T02:39:15+00:00",
-        "summary": "The $11-a-share offer would have been the biggest debut on the stock market since the telecommunication giant in 1997Get our breaking news email, free app or daily news podcastFirmus Technologies has scrapped what was set to be Australia’s biggest company listing in decades after investor demand for its much-hyped AI datacentre business failed to materialise.A Firmus spokesperson said the board de",
+        "title": "7.7-Magnitude Panama Earthquake Sets Off Series of Aftershocks",
+        "url": "https://www.nytimes.com/2026/10/09/world/americas/panama-earthquake-tsunami.html",
+        "source": "NYT World",
+        "published": "2026-10-10T02:09:50+00:00",
+        "summary": "The quake, which had a preliminary magnitude of 7.7, was centered in the country’s southern region.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-10T01:58:56+00:00",
+        "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
-        "url": "https://www.wired.com/story/come-see-uncanny-valley-live/",
-        "source": "Wired",
-        "published": "2026-10-09T03:30:00+00:00",
-        "summary": "Missed our latest WIRED@Night event? Enjoy an evening of podcasting in San Francisco right here.",
+        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+        "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+        "source": "TechCrunch",
+        "published": "2026-10-10T03:10:06+00:00",
+        "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Keyboard differences between Windows and Macs",
-        "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+        "title": "REA Reverse – Engineer Anything",
+        "url": "https://rea.tools/",
         "source": "Hacker News Front",
-        "published": "2026-10-09T03:08:05+00:00",
-        "summary": "Article URL: https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/\nComments URL: https://news.ycombinator.com/item?id=50015515\nPoints: 27\n# Comments: 20",
+        "published": "2026-10-10T00:37:07+00:00",
+        "summary": "Article URL: https://rea.tools/\nComments URL: https://news.ycombinator.com/item?id=50028275\nPoints: 187\n# Comments: 53",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "What should we tell our students?",
-        "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "source": "TechCrunch",
+        "published": "2026-10-10T00:18:32+00:00",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Has the Autonomous Trucking Revolution Arrived?",
+        "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
         "source": "Hacker News Front",
-        "published": "2026-10-09T02:27:45+00:00",
-        "summary": "Article URL: https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/\nComments URL: https://news.ycombinator.com/item?id=50015236\nPoints: 62\n# Comments: 54",
+        "published": "2026-10-09T23:57:12+00:00",
+        "summary": "Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/\nComments URL: https://news.ycombinator.com/item?id=50028062\nPoints: 14\n# Comments: 17",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Reducing undefined behavior in the C language",
-        "url": "https://lwn.net/Articles/1095811/",
+        "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+        "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
         "source": "Hacker News Front",
-        "published": "2026-10-09T02:02:53+00:00",
-        "summary": "Article URL: https://lwn.net/Articles/1095811/\nComments URL: https://news.ycombinator.com/item?id=50015074\nPoints: 44\n# Comments: 22",
+        "published": "2026-10-09T23:53:08+00:00",
+        "summary": "Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants\nComments URL: https://news.ycombinator.com/item?id=50028027\nPoints: 12\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-09T00:08:24+00:00",
-        "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-        "url": "https://github.com/edrisranjbar/lifeos",
+        "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
+        "url": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
         "source": "Hacker News Front",
-        "published": "2026-10-09T00:02:19+00:00",
-        "summary": "Article URL: https://github.com/edrisranjbar/lifeos\nComments URL: https://news.ycombinator.com/item?id=50014150\nPoints: 28\n# Comments: 6",
+        "published": "2026-10-09T23:32:04+00:00",
+        "summary": "Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf\nComments URL: https://news.ycombinator.com/item?id=50027884\nPoints: 13\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Bevy 0.20",
-        "url": "https://bevy.org/news/bevy-0-20/",
+        "title": "Compiling Rust to readable C with Eurydice",
+        "url": "https://lwn.net/Articles/1055211/",
         "source": "Hacker News Front",
-        "published": "2026-10-08T22:57:50+00:00",
-        "summary": "Article URL: https://bevy.org/news/bevy-0-20/\nComments URL: https://news.ycombinator.com/item?id=50013610\nPoints: 95\n# Comments: 17",
+        "published": "2026-10-09T23:28:36+00:00",
+        "summary": "Article URL: https://lwn.net/Articles/1055211/\nComments URL: https://news.ycombinator.com/item?id=50027853\nPoints: 38\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
-        "url": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
-        "source": "Wired",
-        "published": "2026-10-08T22:40:11+00:00",
-        "summary": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
+        "title": "Rewriting Prime Agent in Rust",
+        "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+        "source": "Hacker News Front",
+        "published": "2026-10-09T23:06:25+00:00",
+        "summary": "Article URL: https://www.primeintellect.ai/blog/prime-agent-rust\nComments URL: https://news.ycombinator.com/item?id=50027694\nPoints: 31\n# Comments: 10",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,198 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Inside the London startup turning veterans, Amazon alumni and an ex-VC into factory owners",
-        "url": "https://sifted.eu/articles/london-startup-vcs-veterans-amazon-alumni-factory-owners/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-10-09T05:00:42+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The breakout European startups tripling revenue every year",
-        "url": "https://sifted.eu/articles/the-breakout-european-startups-tripling-revenue-every-year/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-10-09T05:00:16+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Europe’s fintechs changed banking. But did they change the world?",
-        "url": "https://sifted.eu/articles/did-europes-fintechs-change-the-world/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-10-09T05:00:07+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The most capital-efficient startups in Europe",
-        "url": "https://sifted.eu/articles/the-most-capital-efficient-startups-in-europe/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-10-09T05:00:02+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Leonardo DiCaprio backs Swedish energy firm Elvy",
-        "url": "https://sifted.eu/articles/leonardo-dicaprio-elvy/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-10-08T15:02:09+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: Gudea Lands $7M To Predict Which Online Narratives Will Go Viral",
-        "url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+        "title": "The Week’s 10 Biggest Funding Rounds: AI And Energy Top A Busy Lineup Of Large Rounds",
+        "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
         "source": "Crunchbase News",
-        "published": "2026-10-08T13:00:02+00:00",
-        "summary": "Gudea has raised $7 million in seed funding, co-led by Mudita Venture Partners and Silicon Road Ventures, to help companies anticipate which online narratives will go viral and understand who is driving them, the startup tells Crunchbase News exclusively.",
+        "published": "2026-10-09T18:28:35+00:00",
+        "summary": "As the AI startup boom progresses, investors appear to be leaving few niches unfunded. That was apparent in this week’s lineup of large funding rounds, which featured AI infrastructure providers, a foundational model developer, a content protection platform for the AI age, and other AI-focused startups among the top investment recipients.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Europe Posted Its Strongest Quarter In Q3 In 4 Years, As Its Venture Ecosystem Expands Beyond The UK",
-        "url": "https://news.crunchbase.com/venture/q3-2026-europe-strong-quarter-ai-uk-germany-france/",
+        "title": "Report: Mistral and others increasingly at risk of open model ‘abliteration’",
+        "url": "https://sifted.eu/articles/report-open-model-abliteration-ai-safety/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-09T16:48:02+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "LPs’ red flags",
+        "url": "https://sifted.eu/articles/lps-red-flags/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-09T15:31:38+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Revolut to roll out agentic shopping as AI commerce takes off",
+        "url": "https://sifted.eu/articles/revolut-agentic-shopping/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-09T15:15:36+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "UK looks to ban non-competes to stop ‘drag on innovation’",
+        "url": "https://sifted.eu/articles/uk-to-ban-non-competes-to-stop-drag-on-innovation/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-09T12:22:33+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Active Investors Kept Up The Deal Pace In Q3, Even As Funding Fell",
+        "url": "https://news.crunchbase.com/venture/q3-2026-active-investors-kept-deal-pace-a16z-insight-sequoia/",
         "source": "Crunchbase News",
-        "published": "2026-10-08T11:00:56+00:00",
-        "summary": "European startup funding reached $25 billion last quarter, well above the $14 billion invested in Q3 2025 and up slightly from the $24 billion invested in Q2. Quarterly funding was up 77% year over year, per Crunchbase data.",
+        "published": "2026-10-09T11:00:56+00:00",
+        "summary": "Active startup investors largely kept up or increased their dealmaking pace in the third quarter, even as overall venture funding declined with the absence of new record megarounds for AI leaders.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "테러맨’ 작가가 세운 액션판타지 웹툰 스튜디오 몬스터라이엇, 시리즈A 첫 투자 유치",
-        "url": "https://platum.kr/archives/295948?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2585%258c%25eb%259f%25ac%25eb%25a7%25a8-%25ec%259e%2591%25ea%25b0%2580%25ea%25b0%2580-%25ec%2584%25b8%25ec%259a%25b4-%25ec%2595%25a1%25ec%2585%2598%25ed%258c%2590%25ed%2583%2580%25ec%25a7%2580-%25ec%259b%25b9%25ed%2588%25b0-%25ec%258a%25a4%25ed%258a%259c%25eb%2594%2594%25ec%2598%25a4-%25eb%25aa%25ac%25ec%258a%25a4",
-        "source": "Platum",
-        "published": "2026-10-08T07:54:15+00:00",
-        "summary": "네이버웹툰 &#8216;테러맨&#8217;의 원작자가 이끄는 액션판타지 웹툰 제작사가 시리즈A 라운드의 첫 투자를 받았다. 웹툰 IP 스튜디오 몬스터라이엇이 유니온투자파트너스로부터 약 7억원의 투자 유치를 했다. 현재 진행 중인 시리즈A 라운드의 첫 투자다. 몬스터라이엇은 부산에 본사를, 일본 도쿄에 지사를 둔 웹툰 제작사로, 보유 작품의 90% 이상이 액션·판타지·스릴러 장르다. 스토리와 콘티, 작화, 검수까지 제작 전 과정을 회사 안에서 처리한다. 현재 ... 더 읽기",
+        "title": "Why Customer Workflows Are Becoming The Moat In The AI Era",
+        "url": "https://news.crunchbase.com/ma/customer-workflows-moat-ai-era-sagie/",
+        "source": "Crunchbase News",
+        "published": "2026-10-09T11:00:36+00:00",
+        "summary": "AI companies can build durable moats by embedding their products in essential customer workflows, explains tech adviser Itay Sagie, who shares why founders should prioritize measurable customer dependence, while investors and acquirers should assess how integrations, trusted relationships and workflow access can strengthen retention and drive growth.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Ex-OpenAI robotics lead’s factory startup in insolvency proceedings",
+        "url": "https://sifted.eu/articles/ex-openai-robotics-leads-factory-startup-in-insolvency-proceedings/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-09T09:52:42+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI&#39;s Math Backlash, France Riots",
+        "url": "https://www.youtube.com/watch?v=TBLHdXABwAg",
+        "source": "All-In Podcast",
+        "published": "2026-10-10T02:28:10Z",
+        "summary": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, ...",
+        "thumbnail": "https://i.ytimg.com/vi/TBLHdXABwAg/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "TBLHdXABwAg",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "아마존은 뮤즈 차단, 월마트와 쇼피파이 허용, 연말 승자는? (강정수 블루닷AI 연구소장)",
+        "url": "https://www.youtube.com/watch?v=5WDw_kX8MZ8",
+        "source": "티타임즈TV",
+        "published": "2026-10-09T22:00:37Z",
+        "summary": "편집 : 이소민 영상디자이너 촬영 : 강기훈 PD 자료 : 박성수 PD 진행 : 이재원 기자 섬네일 : 이소민 영상디자이너 ▷티타임즈 공식 ...",
+        "thumbnail": "https://i.ytimg.com/vi/5WDw_kX8MZ8/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "5WDw_kX8MZ8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "These 722 Papers Just Broke The Math World",
+        "url": "https://www.youtube.com/watch?v=Y0xrSNVeEHc",
+        "source": "Cleo Abram",
+        "published": "2026-10-09T15:38:33Z",
+        "summary": "These 722 new math papers claim to solve problems that have stumped the world's best mathematicians and computers for ...",
+        "thumbnail": "https://i.ytimg.com/vi/Y0xrSNVeEHc/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "Y0xrSNVeEHc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Former Intel CEO: Why This is the Best Time to Build Hardware",
+        "url": "https://www.youtube.com/watch?v=1Q_7yU7FZ1k",
+        "source": "a16z",
+        "published": "2026-10-09T14:30:19Z",
+        "summary": "a16z's Raghu Raghuram and Guido Appenzeller sit down with Playground Global General Partner and former Intel CEO Pat ...",
+        "thumbnail": "https://i.ytimg.com/vi/1Q_7yU7FZ1k/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "1Q_7yU7FZ1k",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "David Sacks: The Economy Is Stronger Than You Think",
+        "url": "https://www.youtube.com/watch?v=oF8aDmU_8nE",
+        "source": "All-In Podcast",
+        "published": "2026-10-09T14:00:36Z",
+        "summary": "Show Notes: Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow ...",
+        "thumbnail": "https://i.ytimg.com/vi/oF8aDmU_8nE/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "oF8aDmU_8nE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "취임 2달만에 사퇴 위기? 영국 총리는 임시직인가?",
+        "url": "https://www.youtube.com/watch?v=zHRkl6Kg_oQ",
+        "source": "슈카월드",
+        "published": "2026-10-09T09:01:45Z",
+        "summary": "0:00 유럽 축구계가 뒤집어진 맨시티 스캔들 4:50 영국 총리가 취임 2달 만에 찾아온 위기 14:41 스코틀랜드, 북아일랜드, 웨일즈 독립 ...",
+        "thumbnail": "https://i.ytimg.com/vi/zHRkl6Kg_oQ/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "zHRkl6Kg_oQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Is the Treasury Market Stuck in a Doom Loop?",
+        "url": "https://www.youtube.com/watch?v=X8SnmUyzYqg",
+        "source": "TLDR News Global",
+        "published": "2026-10-09T08:30:12Z",
+        "summary": "Want to restore the planet's ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my ...",
+        "thumbnail": "https://i.ytimg.com/vi/X8SnmUyzYqg/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "X8SnmUyzYqg",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -309,118 +414,13 @@
         "title": "금융, 커머스, 여행의 B2C AI에이전트 시장 막 올랐다 (강정수 블루닷AI 연구소장)",
         "url": "https://www.youtube.com/watch?v=iwTmjiMTx1k",
         "source": "티타임즈TV",
-        "published": "2026-10-08T22:00:23+00:00",
-        "summary": "아직 한국에서는 메타의 뮤즈가 출시가 되진 않았습니다만 강정수 블루닷AI 연구소장이 미리 사용보았습니다. 한마디로 “놀랍다”는 반응입니다. 유료 구독료를 월 40달러 줄였고, 보험료도 줄일 수 있게 됐다고 합니다. 아침뉴스 브리핑은 물론 깜빡하게 예매하지 않았던 기차표 예매까지, 강 박사의 사용후기를 들어보시죠. 무엇보다 뮤즈의 시사점은 최상위 AI 모델이 아니라도 사람들이 환호할만한 서비스를 만들 수 있음을 증명한 것입니다. AI의 B2C 시장이 본격적으로 열리게 됐다는 것입니다.    \n\n편집 : 박수형 영상디자이너\n촬영 : 강",
-        "thumbnail": "https://i2.ytimg.com/vi/iwTmjiMTx1k/hqdefault.jpg",
+        "published": "2026-10-08T22:00:23Z",
+        "summary": "아직 한국에서는 메타의 뮤즈가 출시가 되진 않았습니다만 강정수 블루닷AI 연구소장이 미리 사용보았습니다. 한마디로 “놀랍다”는 ...",
+        "thumbnail": "https://i.ytimg.com/vi/iwTmjiMTx1k/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "iwTmjiMTx1k",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What is the story of your company?",
-        "url": "https://www.youtube.com/shorts/Mjz8Z2I0w_g",
-        "source": "a16z",
-        "published": "2026-10-08T19:00:39+00:00",
-        "summary": "Ben Horowitz, co-founder of Andreessen Horowitz, on why a company's story and its strategy are the same thing.\n\nBefore a16z, he was co-founder and CEO of Loudcloud, later renamed Opsware, which Hewlett-Packard acquired for $1.6 billion in 2007.\n\nWatch the full episode on The a16z Show.",
-        "thumbnail": "https://i2.ytimg.com/vi/Mjz8Z2I0w_g/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "Mjz8Z2I0w_g",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Daniel Ek: How AI Can Catch What Your Doctor Misses",
-        "url": "https://www.youtube.com/shorts/LVxAKXnyPQw",
-        "source": "All-In Podcast",
-        "published": "2026-10-08T17:00:07+00:00",
-        "summary": "Thanks to our partners!\n\nAs wealth grows, complexity compounds. Between investments, tax strategy and estate planning, coordinating it all can feel like a full-time job. Creative Planning can help with the heavy lifting. http://CreativePlanning.com/AllIn \n\nStarting a business? Northwest Registered A",
-        "thumbnail": "https://i1.ytimg.com/vi/LVxAKXnyPQw/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "LVxAKXnyPQw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How Jeetu Patel Runs Cisco Like the World’s Largest Startup",
-        "url": "https://www.youtube.com/watch?v=ofxAtQhV-xA",
-        "source": "Y Combinator",
-        "published": "2026-10-08T14:30:33+00:00",
-        "summary": "Cisco is building AI infrastructure, from networking GPU clusters to securing agents, with its hyperscaler AI business reaching $9.3 billion in orders in two years. Cisco President and Chief Product Officer Jeetu Patel joins Y Combinator Managing Partner Jared Friedman to discuss bringing startup sp",
-        "thumbnail": "https://i4.ytimg.com/vi/ofxAtQhV-xA/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "ofxAtQhV-xA",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Building the Cloud for AI Agents | AWS CEO Matt Garman",
-        "url": "https://www.youtube.com/watch?v=rn_afJaPldg",
-        "source": "a16z",
-        "published": "2026-10-08T14:30:17+00:00",
-        "summary": "a16z’s Raghu Raghuram sits down with AWS CEO Matt Garman to discuss how AI is reshaping the cloud, from the needs of AI-native startups to infrastructure increasingly designed for agents.\n\nMatt explains how AWS is adapting as agents write code and manage infrastructure, why it’s reserving scarce GPU",
-        "thumbnail": "https://i3.ytimg.com/vi/rn_afJaPldg/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "rn_afJaPldg",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Jason Calacanis: Everyday Americans Need to Benefit From the AI Boom",
-        "url": "https://www.youtube.com/shorts/tQgc985d9uw",
-        "source": "All-In Podcast",
-        "published": "2026-10-08T14:24:57+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i1.ytimg.com/vi/tQgc985d9uw/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "tQgc985d9uw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "임대료 폭등에 분노한 국민들에게, 정치인들이 말하는 신박한 해법",
-        "url": "https://www.youtube.com/watch?v=WmTcNn597FA",
-        "source": "슈카월드",
-        "published": "2026-10-08T12:04:14Z",
-        "summary": "0:00 임대료 4배 상승, 분노한 스페인 국민들 7:42 정부에서 대규모 주택 공급 하면 되는거 아닌가요? 13:16 \"집은 상품이 아닙니다!\"",
-        "thumbnail": "https://i.ytimg.com/vi/WmTcNn597FA/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "WmTcNn597FA",
           "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI가 직원의 이직, 퇴직을 예측할 수 있을까? (송지훈 엔씨소프트 마케팅분석팀장)",
-        "url": "https://www.youtube.com/watch?v=UQJfvERLT_s",
-        "source": "티타임즈TV",
-        "published": "2026-10-08T09:00:09+00:00",
-        "summary": "AI 때문에 소위 ‘삽질’로 표현되는 시행착오를 거치면서 일을 배울 수 있는 기회가 사라지고 있습니다. 실행은 AI가 해주니까요. 그렇다면 신입들은 어디서, 어떻게 일을 배워야 할까요? 또한, HR분야에서 AI가 직원의 이직, 퇴직을 예측할 수 있을까요? 송지훈 엔씨소프트 마케팅분석팀장에게 들어봅니다.\n\n편집 : 박수형 영상디자이너 \n촬영 : 강기훈 PD\n자료 : 박성수 PD \n진행 : 이중학 동국대 교수\n섬네일 : 박수형 영상디자이너 \n\n▶티타임즈 공식 홈페이지\nhttp://www.ttimes.co.kr/index.html\n▶비즈",
-        "thumbnail": "https://i2.ytimg.com/vi/UQJfvERLT_s/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "UQJfvERLT_s",
-          "via": "rss"
         }
       }
     ]
