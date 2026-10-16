@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-10-15T03:13:09.839163+00:00",
+  "generated_at": "2026-10-16T03:09:08.396008+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australian politics live: Wells rejects claims from Coalition that eSafety ‘sock puppets’ will spread disinformation",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-15T03:00:53+00:00",
-        "summary": "Follow the day’s news live.Get our breaking news email, free app or daily news podcastPrivate health insurance changes ‘recalibrating precious taxpayer dollars’, says WellsThe health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health insurance rebates for over-65s, after it was thrown out of the Senate by the crossbench and Coalition.It’s really important we r",
+        "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-16T03:01:38+00:00",
+        "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
-        "url": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-15T02:45:49+00:00",
-        "summary": "The scare exposed gaps in how far outbreak readiness reaches Kenya’s remote communities.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-        "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
-        "source": "The Guardian World",
-        "published": "2026-10-15T02:45:42+00:00",
-        "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could effect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could affect 30 million workers and that will hand a political victory to the leftist president Luiz Inácio Lula da Silva ahead of the presidential runoff in under two ",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Tunisia: What has Kais Saied achieved economically in seven years?",
-        "url": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-15T02:42:21+00:00",
-        "summary": "Rising prices, unemployment and public debt test Saied’s economic promises.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-15T02:39:06+00:00",
-        "summary": "Whistleblowers applauded as Ibac finds ‘decisions were made to withhold information about the magnitude of the loss’Senior public servants in one state covered up losses suspected to be worth hundreds of millions of dollars arising from flawed Covid-19 business support payments, an investigation has found.During the pandemic, the Victorian government spent an estimated $257m on support grants to 9",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-        "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+        "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+        "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
         "source": "NYT World",
-        "published": "2026-10-15T02:27:52+00:00",
-        "summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+        "published": "2026-10-16T02:48:41+00:00",
+        "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Mexico Bans Violent Content on Social Media for Children",
-        "url": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
-        "source": "NYT World",
-        "published": "2026-10-15T02:03:03+00:00",
-        "summary": "Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospect of tougher measures.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
-        "url": "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss",
+        "title": "Residents douse workers with flaming gasoline during eviction in Peru",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/residents-douse-workers-with-flaming-gasoline-during-eviction-in-peru?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-15T01:35:40+00:00",
-        "summary": "Katie Zacharia has repeatedly claimed to be a lawyer, but critics question whether she was ever licensed.",
+        "published": "2026-10-16T02:35:57+00:00",
+        "summary": "A bystander has filmed residents of a condemned building in Peru throwing flaming gasoline on eviction workers.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Argentine students protest on campus over Milei’s austerity",
+        "url": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-16T02:11:33+00:00",
+        "summary": "Judge fines the government for failing to fund universities as protests over Milei&#039;s cuts turn violent.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Peshawar mourns children killed in school roof collapse",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-16T02:01:43+00:00",
+        "summary": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Progressives, AIPAC and the future of the Democratic Party",
+        "url": "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-16T02:01:15+00:00",
+        "summary": "Mehdi Hasan goes Head to Head with ex-Biden official Neera Tanden on the Democratic Party’s chances in the US midterms.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+        "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-16T01:36:45+00:00",
+        "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+        "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-16T01:34:47+00:00",
+        "summary": "ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Double Headed Stack Allocator",
-        "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+        "title": "Woman arrested after blocking delivery robot in Center City Philadelphia",
+        "url": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
         "source": "Hacker News Front",
-        "published": "2026-10-15T02:06:36+00:00",
-        "summary": "Article URL: https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/\nComments URL: https://news.ycombinator.com/item?id=50098274\nPoints: 15\n# Comments: 0",
+        "published": "2026-10-16T02:04:26+00:00",
+        "summary": "Article URL: https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/\nComments URL: https://news.ycombinator.com/item?id=50112963\nPoints: 23\n# Comments: 15",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-        "source": "TechCrunch",
-        "published": "2026-10-15T01:01:32+00:00",
-        "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
-        "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-        "source": "TechCrunch",
-        "published": "2026-10-15T00:49:31+00:00",
-        "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-        "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-        "source": "TechCrunch",
-        "published": "2026-10-15T00:30:00+00:00",
-        "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-        "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-        "source": "TechCrunch",
-        "published": "2026-10-15T00:00:00+00:00",
-        "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-        "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+        "title": "Comparing Chromium Development at Google and Igalia",
+        "url": "https://lwn.net/Articles/1094721/",
         "source": "Hacker News Front",
-        "published": "2026-10-14T23:59:37+00:00",
-        "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b\nComments URL: https://news.ycombinator.com/item?id=50097369\nPoints: 89\n# Comments: 21",
+        "published": "2026-10-16T01:56:37+00:00",
+        "summary": "Article URL: https://lwn.net/Articles/1094721/\nComments URL: https://news.ycombinator.com/item?id=50112887\nPoints: 5\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-        "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-        "source": "TechCrunch",
-        "published": "2026-10-14T23:00:00+00:00",
-        "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+        "title": "Any window from your Mac, on your iPhone and iPad",
+        "url": "https://github.com/Saffsanity/sill",
+        "source": "Hacker News Front",
+        "published": "2026-10-16T01:43:17+00:00",
+        "summary": "Article URL: https://github.com/Saffsanity/sill\nComments URL: https://news.ycombinator.com/item?id=50112739\nPoints: 11\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "title": "Tesla Roadster",
+        "url": "https://www.tesla.com/roadster",
+        "source": "Hacker News Front",
+        "published": "2026-10-16T01:32:45+00:00",
+        "summary": "Article URL: https://www.tesla.com/roadster\nComments URL: https://news.ycombinator.com/item?id=50112657\nPoints: 212\n# Comments: 222",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+        "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
         "source": "The Verge",
-        "published": "2026-10-14T22:53:31+00:00",
-        "summary": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the [&#8230;]",
+        "published": "2026-10-16T01:28:27+00:00",
+        "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The Tesla Roadster 2 Is Here—and It Flies",
+        "url": "https://www.wired.com/story/tesla-roadster-2-launch/",
+        "source": "Wired",
+        "published": "2026-10-16T01:22:51+00:00",
+        "summary": "The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+        "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+        "source": "TechCrunch",
+        "published": "2026-10-16T01:17:43+00:00",
+        "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Thank You, Deno",
+        "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+        "source": "Hacker News Front",
+        "published": "2026-10-16T00:52:40+00:00",
+        "summary": "Article URL: https://www.vlt.io/blog/competition-keeps-javascript-moving\nComments URL: https://news.ycombinator.com/item?id=50112331\nPoints: 8\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,54 +186,43 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "카카오 ‘모두의 AI’, 외부 기업·개발자 연결해 개방형 AI 생태계 구축",
-        "url": "https://byline.network/2026/10/1014-6/",
+        "title": "“AI 시대 창업, 중간은 없다”…난제 도전 vs 소규모 틈새",
+        "url": "https://byline.network/2026/10/287871387193/",
         "source": "ByLine Network",
-        "published": "2026-10-14T23:10:41+00:00",
-        "summary": "카카오가 카카오톡을 기반으로 외부 기업과 개발자가 전문 에이전트와 도구를 제공하는 개방형 AI 플랫폼 ‘모두의 AI’를 개발하고 있다. 총 34개 기업·기관이 참여하며, 카카오는 에이전트 간 연동 규격과 수익 배분 모델을 마련해 이용자 요청 처리부터 실제 거래까지 연결한다는 계획이다. 올해 말 정식 출시를 앞두고 베타 테스트를 진행하며, 출시 직후 월간 활성 이용자(MAU) 500만명을 목표로 하고 2027년부터는 개인 맞춤형 ‘1인 1에이전트’를 단계적으로 도입한다.",
+        "published": "2026-10-16T02:42:19+00:00",
+        "summary": "지난 14일 수원에서 열린 경기스타트업서밋에서는 스타트업의 성장을 지원하는 두 전문가가 국내 창업자들에게 비슷한 방향성을 제시했다. 혁신의숲을 운영하는 홍경표 마크앤컴퍼니 대표는 데이터 분석을 바탕으로 딥테크 AI와 린 AI라는 두 갈래의 성장 전략을 제시했다. 김영덕 카카오임팩트 재단 카카오 AI 돛 센터장은 그간의 경험과 통찰을 바탕으로 바벨 전략을 소개했다. 전문성을 바탕으로 거대한 난제에 도전하거나, 소규모 팀의 민첩성을 살려 작은 시장의 구체적인 문제를 해결하라는 것이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "카카오, 현업 부서 찾아가는 ‘FDE’ 운영하는 이유",
-        "url": "https://byline.network/2026/10/14_291827733/",
+        "title": "패션서 리빙으로 넓어지는 29CM…, DDP디자인페어서 ‘취향이 가득한 시장’ 열었다",
+        "url": "https://byline.network/2026/10/15_2817273/",
         "source": "ByLine Network",
-        "published": "2026-10-14T15:26:56+00:00",
-        "summary": "기업들이 인공지능(AI)을 도입하면서 직원 개인의 업무 생산성은 높아지고 있지만, 조직 전체의 생산성이 같은 속도로 개선되는 건 아니다. 직원들이 AI를 활용해 문서를 빠르게 작성하고 자료를 분석하더라도, 여러 부서가 협업하는 과정에서 발생하는 업무 지연까지 해결되지는 않기 때문이다.\n\n카카오는 이 문제를 FDE 조직을 통해 풀고 있다. AI를 통해 조직 전반의 업무 흐름을 근본적으로 개선하기 위해서다. 중장기적으로는 개별 조직 내 문제 해결 경험을 회사 전반으로 확장할 수 있는 플랫폼도 구상하고 있다.",
+        "published": "2026-10-16T02:36:06+00:00",
+        "summary": "온라인을 중심으로 상품을 판매해 온 국내 리빙 브랜드들이 소비자를 직접 만날 자리가 마련됐다.\n\n29CM가 서울디자인재단과 함께 지난 14일 서울 동대문디자인플라자(DDP)에서 개막한 ‘2026 DDP디자인페어 with 29CM’에는 국내 리빙 브랜드 약 100곳이 참여했다. 가구·조명·그릇을 종류별로 나누지 않고, ‘쉼·식사·정돈·교감’이라는 일상의 네 가지 관심사에 따라 공간을 나눈 것이 특징이다.\n\n패션 플랫폼에서 리빙 플랫폼으로 영역을 넓혀 온 29CM가, 온라인에서 브랜드를 골라 소개해 온 방식(큐레이션)을 오프라인 전시장에 옮긴 것이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "보안사고 계속되는 금융권, 망분리 완화 딜레마",
-        "url": "https://byline.network/2026/10/1014-4/",
+        "title": "캐릭터.AI 파산보호 신청…국내 ‘제타’·‘크랙’은 괜찮을까",
+        "url": "https://byline.network/2026/10/15-662/",
         "source": "ByLine Network",
-        "published": "2026-10-14T14:40:47+00:00",
-        "summary": "연이은 금융권 침해사고로 망분리 규제 완화를 둘러싼 금융권의 고민이 깊어지고 있다. 신기술 활용을 확대하려면 외부 네트워크와의 연결을 넓혀야 하지만, 그만큼 사이버 공격과 정보 유출 위험도 커질 수 있기 때문이다. 금융당국은 규제 완화 기조를 유지하고 있어, 금융사의 신기술 활용을 보장하면서 보안 수준을 어떻게 유지할지가 과제로 떠오르고 있다.",
+        "published": "2026-10-16T02:19:46+00:00",
+        "summary": "AI 캐릭터와 대화하는 서비스 ‘캐릭터.AI’가 미국에서 파산보호를 신청했다. 지난해 매출은 2360만달러였지만, AI를 돌리는 서버 비용(컴퓨팅 비용)으로만 매달 약 1000만달러를 썼다. 연간으로 따지면 매출의 5배가 넘는다. 소송과 규제 부담까지 겹쳐 투자 유치에도 어려움을 겪었다.\n\n캐릭터챗은 최근 국내에서 각광을 받고 있는 콘텐츠 분야다. 국정감사 자료에 따르면 스캐터랩 ‘제타’의 올해 2월 이용시간은 1억1000만시간으로 챗GPT의 2배를 넘었다. 글로벌 대표 업체가 무너진 상황에서 국내 시장은 어떨까. 같은 서비스를 하는 국내 업체 스캐터랩 ‘제타’와 뤼튼테크놀로지스 ‘크랙’은 어떻게 수익을 내는지 살펴봤다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Exclusive: Stella & Dot Founder Raises $5M For Her Next Act, AI Marketing Startup Marklo",
-        "url": "https://news.crunchbase.com/venture/founder-raises-5m-next-act-ai-marketing-startup-marklo-herrin/",
-        "source": "Crunchbase News",
-        "published": "2026-10-14T12:00:38+00:00",
-        "summary": "In this Crunchbase News exclusive, we spoke to Marklo AI founder Jessica Herrin about her solution to the marketing problems she encountered when building earlier startups, and how a group of investors, led by Forerunner, are backing that early experience with a $5 million seed funding round.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "AI is turning finance from reactive to proactive",
-        "url": "https://sifted.eu/articles/ai-finance-reactive-to-proactive-brnd/",
+        "title": "Exclusive: Accel set to lead DeepMind alum’s $60m round",
+        "url": "https://sifted.eu/articles/accel-deepmind-researcher-60m/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-14T11:05:46+00:00",
+        "published": "2026-10-15T16:48:11+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -241,38 +230,139 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "How I Learned That Some Startup Problems Are Too Big For A Minimum Viable Product",
-        "url": "https://news.crunchbase.com/startups/minimum-viable-product-problems-ai-fintech-kjellen-freda/",
+        "title": "The Crunchbase Tech Layoffs Tracker",
+        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
         "source": "Crunchbase News",
-        "published": "2026-10-14T11:00:33+00:00",
-        "summary": "Complex, interconnected problems like compliance require a comprehensive product from the outset, argues guest columnist Daniel Kjellén, CEO and co-founder of Freda. Drawing on his experience selling Tink, he explains how repeat founders can combine capital, credibility and hard-earned lessons with AI’s development speed to pursue bigger ambitions without shrinking their vision.",
+        "published": "2026-10-15T16:20:30+00:00",
+        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "38 Companies Join The Crunchbase Unicorn Board In Blockbuster September, Led By Semiconductor, Fintech And Space Tech Companies",
-        "url": "https://news.crunchbase.com/venture/september-2026-new-unicorns-semiconductors-ai-fintech-space/",
-        "source": "Crunchbase News",
-        "published": "2026-10-14T11:00:04+00:00",
-        "summary": "Semiconductors, financial services and space technology led for new Unicorn Board counts with the remainder hailing from a broad swath of industries including biotech, AI infrastructure, AI training, security and frontier labs.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "How I became a community manager at Lovable",
-        "url": "https://sifted.eu/articles/how-i-got-hired-by-lovable/",
+        "title": "Jensen Huang wants Europe to dream bigger — with Nvidia’s help",
+        "url": "https://sifted.eu/articles/jensen-huang-london-2026/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-14T10:40:56+00:00",
+        "published": "2026-10-15T16:16:43+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Nvidia unveils investments in five more UK startups",
+        "url": "https://sifted.eu/articles/nvidia-unveils-investments-in-five-more-uk-startups/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-15T11:50:03+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Nick Clegg on Europe, AI and big tech",
+        "url": "https://sifted.eu/articles/nick-clegg-on-europe-ai-and-big-tech/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-15T11:20:10+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Go back to basics.",
+        "url": "https://www.youtube.com/shorts/jYAwiy14Jl4",
+        "source": "a16z",
+        "published": "2026-10-15T21:36:31+00:00",
+        "summary": "Adam Neumann, co-founder of WeWork and Flow, on thinking big while staying grounded in the work.\n\nSource: The Diary of a CEO with Steven Bartlett, 2026.",
+        "thumbnail": "https://i3.ytimg.com/vi/jYAwiy14Jl4/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "jYAwiy14Jl4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What Happens When AI Agents Can Spend Your Money?",
+        "url": "https://www.youtube.com/watch?v=q8cb1XL9sXA",
+        "source": "a16z",
+        "published": "2026-10-15T13:55:19+00:00",
+        "summary": "What happens when AI agents start spending your money? VGS' Terry Angelos argues that agentic commerce will need new payment infrastructure that gives AI the ability to transact without sacrificing the protections consumers expect.\n\nTerry joins a16z General Partner Alex Rampell to discuss the emergi",
+        "thumbnail": "https://i2.ytimg.com/vi/q8cb1XL9sXA/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "q8cb1XL9sXA",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "1년 만에 매출 20배 뛴 핀테크 회사, 비결은 투자? | 이오서재 고위드 김항기",
+        "url": "https://www.youtube.com/watch?v=qfR3MGGaIUo",
+        "source": "EO 이오",
+        "published": "2026-10-15T12:21:54Z",
+        "summary": "1년 만에 매출 70억에서 1400억. 미친듯이 성장하고 있는 고위드의 김항기 대표님을 모셨습니다. 아마 스타트업 씬에 계신 분들은 ...",
+        "thumbnail": "https://i.ytimg.com/vi/qfR3MGGaIUo/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "qfR3MGGaIUo",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "매물로 나온 JTBC, 중앙일보, 뜻밖에 물 들어온 굿즈시장",
+        "url": "https://www.youtube.com/watch?v=Z0yj8Q3-A7E",
+        "source": "슈카월드",
+        "published": "2026-10-15T10:20:12Z",
+        "summary": "0:00 중앙일보, JTBC 인수전 10:42 쇠퇴하는 전통 매체 광고 16:13 TV광고의 약세로 수혜를 보는 시장 23:01 흥행하는 판촉물 시장 ...",
+        "thumbnail": "https://i.ytimg.com/vi/Z0yj8Q3-A7E/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "Z0yj8Q3-A7E",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "내 능력이 퇴보하지 않고 AI 쓰려면 이렇게 하세요 (이제현 KIST AIX 전략실장)",
+        "url": "https://www.youtube.com/watch?v=o7WlANaRKL4",
+        "source": "티타임즈TV",
+        "published": "2026-10-15T09:00:14+00:00",
+        "summary": "금요일부터 일요일 점심까지 이틀 반 동안 쉬지 않고 토큰을 태운 AI 에이전트. 너무나 일을 열심히 하길래 잔뜩 기대를 하며 결과를 열어보니, 작동이 되기는 커녕 처리해달라고 부탁했던 데이터베이스를 이미 다 날려 먹은 뒤였습니다. 이제현 KIST AIX 전략실장이 GPT-5.6 솔에게 기존 DB를 주고 아무 생각 없이 '허락' 버튼만을 눌렀다가 겪게 된 일입니다.\n\nAI에이전트가 알아서 일을 척척해내면서 사람은 권한을 점차 내어주고, 생각하는 일 조차 AI에게 미루는 일이 잦아지고 있습니다. 결국 사람도 능력이 퇴보하고, 그런 사람",
+        "thumbnail": "https://i4.ytimg.com/vi/o7WlANaRKL4/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "o7WlANaRKL4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Hasn’t Iran’s Economy Collapsed?",
+        "url": "https://www.youtube.com/watch?v=lKbWxKUW3-M",
+        "source": "TLDR News Global",
+        "published": "2026-10-15T08:45:11+00:00",
+        "summary": "Go to https://hensonshaving.com/TLDR and enter \"TLDR\" at checkout to get 100 free blades with your purchase.\n\nDespite pressure, the Iranian regime has shown little interest in making further concessions to the US. So, in this video, we explain why Trump’s new strategy of economic coercion isn’t real",
+        "thumbnail": "https://i1.ytimg.com/vi/lKbWxKUW3-M/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "lKbWxKUW3-M",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -307,45 +397,15 @@
         "category": "videos",
         "kind": "video",
         "title": "Alexandr Wang on what matters in an age of abundant intelligence",
-        "url": "https://www.youtube.com/watch?v=Klcl8qEdMaw",
+        "url": "https://www.youtube.com/shorts/Klcl8qEdMaw",
         "source": "Y Combinator",
-        "published": "2026-10-14T18:44:27Z",
+        "published": "2026-10-14T18:44:27+00:00",
         "summary": "",
-        "thumbnail": "https://i.ytimg.com/vi/Klcl8qEdMaw/mqdefault.jpg",
+        "thumbnail": "https://i4.ytimg.com/vi/Klcl8qEdMaw/hqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "Klcl8qEdMaw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Can Open Models Keep Up With OpenAI and Anthropic? | Nathan Lambert",
-        "url": "https://www.youtube.com/watch?v=BKuK0M6oDTI",
-        "source": "a16z",
-        "published": "2026-10-14T14:30:08+00:00",
-        "summary": "a16z Partner Lisha Li sits down with AI researcher and Trillium founder Nathan Lambert to ask how durable the gap really is between frontier AI labs and open models.\n\nNathan argues that OpenAI and Anthropic have structural advantages in compute, capital, and the ability to pioneer new training parad",
-        "thumbnail": "https://i3.ytimg.com/vi/BKuK0M6oDTI/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "BKuK0M6oDTI",
           "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "신세계, 워너브라더스 인수에 1조4천억 투자",
-        "url": "https://www.youtube.com/watch?v=zXtseb96cmc",
-        "source": "슈카월드",
-        "published": "2026-10-14T09:19:08Z",
-        "summary": "0:00 신세계 그룹, 워너브라더스 인수 참여 6:09 넷플릭스는 실패했는데 파라마운트는 성공한 이유 15:28 삽시간에 미디어 제국을 ...",
-        "thumbnail": "https://i.ytimg.com/vi/zXtseb96cmc/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "zXtseb96cmc",
-          "via": "api"
         }
       },
       {
@@ -360,66 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "W7wmnIIN8I4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why India’s Gen Z Protests Are Heating Up",
-        "url": "https://www.youtube.com/watch?v=7ybCcUmSCiA",
-        "source": "TLDR News Global",
-        "published": "2026-10-14T08:30:10Z",
-        "summary": "Go to https://hensonshaving.com/TLDR and enter \"TLDR\" at checkout to get 100 free blades with your purchase. The Indian ...",
-        "thumbnail": "https://i.ytimg.com/vi/7ybCcUmSCiA/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "7ybCcUmSCiA",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
-        "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-        "source": "Lex Fridman",
-        "published": "2026-10-13T21:26:16+00:00",
-        "summary": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang. It was wild 🤯 Huge crowds, insanely good street food at night markets, and of course a lot of good conversations across many days. I caught some of it on video, this is it.\nThan",
-        "thumbnail": "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-        "extras": {
-          "theme": "interview",
-          "videoId": "FGCP2F_7rQk",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "You just have to get started.",
-        "url": "https://www.youtube.com/shorts/_KhlazpW9d8",
-        "source": "a16z",
-        "published": "2026-10-13T20:00:33+00:00",
-        "summary": "In 2017, Mark Zuckerberg returned to Harvard, the university he left in 2004 to build Facebook, to deliver the commencement address.\n\nThis is his case against the single eureka moment.\n\nSource: Harvard University",
-        "thumbnail": "https://i4.ytimg.com/vi/_KhlazpW9d8/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "_KhlazpW9d8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "David Sacks Calls Out the \"Rotating Hoaxes\" Around AI",
-        "url": "https://www.youtube.com/shorts/_7Lw3kh8wPc",
-        "source": "All-In Podcast",
-        "published": "2026-10-13T19:30:20+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i4.ytimg.com/vi/_7Lw3kh8wPc/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "_7Lw3kh8wPc",
           "via": "rss"
         }
       }
