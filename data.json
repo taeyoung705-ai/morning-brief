@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-10-20T03:25:04.190468+00:00",
+  "generated_at": "2026-10-21T03:19:41.952984+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-20T03:10:43+00:00",
-        "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injuredHelen Haines, the principled MP respected across parliament‘It’s very clear that this was a deliberate act’, PM saysThe prime minister, Anthony Albanese, said Haines’ alleged attacker “did a ",
+        "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+        "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+        "source": "NYT World",
+        "published": "2026-10-21T03:15:01+00:00",
+        "summary": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Oil-Rich Alberta Votes on Its Future in Canada",
+        "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
         "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
         "source": "NYT World",
-        "published": "2026-10-20T03:08:02+00:00",
-        "summary": "Electors have been asked if they wish to remain in Canada or to hold another vote on breaking away in a referendum that left both sides unhappy.",
+        "published": "2026-10-21T02:51:17+00:00",
+        "summary": "Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-        "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-10-20T02:54:05+00:00",
-        "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "PSG vs Barcelona: UEFA Champions League – Yamal, Torres, predictions, teams",
-        "url": "https://www.aljazeera.com/sports/2026/10/20/psg-vs-barcelona-uefa-champions-league-yamal-torres-predictions?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-20T02:52:50+00:00",
-        "summary": "Lamine Yamal faces ex-teammate Ferran Torres as in-form Barcelona take on holders PSG in a spicy encounter in Paris.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Man claims arm broken in violent ICE arrest",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/man-claims-arm-broken-in-violent-ice-arrest?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-20T02:41:05+00:00",
-        "summary": "Video shows a man screaming in pain as ICE agents pin him down during an arrest in Long Beach, California.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Four dead as torrential rain batters eastern Spain",
-        "url": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-20T02:36:34+00:00",
-        "summary": "Cars swept away, roads submerged and residents isolated in parts of Spain&#039;s Mediterranean coast.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Deaths at Danjiri Float Festival Prompt Questions in Japan",
-        "url": "https://www.nytimes.com/2026/10/19/world/asia/danjiri-festival-deaths-osaka-japan.html",
-        "source": "NYT World",
-        "published": "2026-10-20T02:20:07+00:00",
-        "summary": "The vibrant danjiri tradition dates back three centuries, but two recent fatalities have prompted anxiety over whether participants can remain safe.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
-        "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
+        "title": "Helen Haines live updates: police charge accused Brendan Nugent with additional offences; lawyer says he has rare neurological condition",
+        "url": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-10-20T02:01:22+00:00",
-        "summary": "President at Kansas rally tries to turn protests into cautionary tale for US as Republicans face midterm lossesExplainer: why are people protesting across Europe?As Republicans confront mounting political headwinds ahead of November’s midterm elections, Donald Trump is attempting to turn unrest in France into a cautionary tale for American voters, recasting the demonstrations that began as student",
+        "published": "2026-10-21T02:49:21+00:00",
+        "summary": "Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injuredHelen Haines, the principled MP respected across parliamentAnthony Albanese has described the police interview on Tuesday with Brendan Nugent as “extensive” but that the motivation of the alleged “violent” attack ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-21T02:37:13+00:00",
+        "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Fast-fashion giant Shein outperforms several Australian retailers on ethics, report says",
+        "url": "https://www.theguardian.com/fashion/2026/oct/21/fast-fashion-giant-shein-outperforms-several-australian-retailers-on-ethics",
+        "source": "The Guardian World",
+        "published": "2026-10-21T02:36:15+00:00",
+        "summary": "Ghanda and Windsor Smith are among lowest-rated in Baptist World Aid ethical fashion report based on metrics such as wages and sustainabilityGet our breaking news email, free app or daily news podcastOnline fast-fashion giant Shein is outperforming many Australian high street retailers on ethical standards, according to an industry review.The 11th Baptist World Aid ethical fashion report, released",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-10-21T02:32:12+00:00",
+        "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidationFollow our live blog for latest updatesGet our breaking news email, free app or daily news podcastThe head of the Australian federal police has condemned a “febrile” political environment that has seen one person charged every week over the alleged threatening of MPs, as Victoria announces new steps to ",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
+        "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-21T02:19:06+00:00",
+        "summary": "Police arrested 55 people while clearing protest camps in Lisbon and Porto.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-21T02:18:10+00:00",
+        "summary": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "OpenBSD 8.0",
-        "url": "https://www.openbsd.org/80.html",
+        "title": "In Hilbert space, all things are quantumly possible",
+        "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
         "source": "Hacker News Front",
-        "published": "2026-10-20T02:06:40+00:00",
-        "summary": "Article URL: https://www.openbsd.org/80.html\nComments URL: https://news.ycombinator.com/item?id=50160494\nPoints: 8\n# Comments: 1",
+        "published": "2026-10-21T02:04:15+00:00",
+        "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/\nComments URL: https://news.ycombinator.com/item?id=50175185\nPoints: 18\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-        "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+        "title": "The Future of CSS",
+        "url": "https://www.joshwcomeau.com/css/interop-2027/",
+        "source": "Hacker News Front",
+        "published": "2026-10-21T01:47:28+00:00",
+        "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/\nComments URL: https://news.ycombinator.com/item?id=50175070\nPoints: 35\n# Comments: 2",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Good type against all odds",
+        "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+        "source": "Hacker News Front",
+        "published": "2026-10-21T01:45:07+00:00",
+        "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/\nComments URL: https://news.ycombinator.com/item?id=50175059\nPoints: 30\n# Comments: 4",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Learning to live with Waymos",
+        "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+        "source": "Hacker News Front",
+        "published": "2026-10-21T01:44:34+00:00",
+        "summary": "https://web.archive.org/web/20261015123002/https://www.newyo..., https://archive.li/fj7oR\n\nComments URL: https://news.ycombinator.com/item?id=50175057\nPoints: 26\n# Comments: 50",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "YouTube might be testing hiding the dislike button",
+        "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+        "source": "The Verge",
+        "published": "2026-10-21T00:00:56+00:00",
+        "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+        "source": "The Verge",
+        "published": "2026-10-20T23:04:19+00:00",
+        "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The Other Epidemic: Trying to get off benzodiazepines",
+        "url": "https://www.thebeliever.net/the-other-epidemic/",
+        "source": "Hacker News Front",
+        "published": "2026-10-20T23:04:09+00:00",
+        "summary": "https://web.archive.org/web/20261020230542/https://www.thebe...https://archive.ph/Tb1SZ\n\nComments URL: https://news.ycombinator.com/item?id=50173891\nPoints: 88\n# Comments: 60",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
         "source": "TechCrunch",
-        "published": "2026-10-20T02:00:00+00:00",
-        "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
-        "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
-        "source": "Hacker News Front",
-        "published": "2026-10-20T01:34:58+00:00",
-        "summary": "Article URL: https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd\nComments URL: https://news.ycombinator.com/item?id=50160289\nPoints: 24\n# Comments: 9",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-        "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-        "source": "TechCrunch",
-        "published": "2026-10-20T01:27:03+00:00",
-        "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Developing Taste",
-        "url": "https://emilkowal.ski/ui/developing-taste",
-        "source": "Hacker News Front",
-        "published": "2026-10-20T01:12:03+00:00",
-        "summary": "Article URL: https://emilkowal.ski/ui/developing-taste\nComments URL: https://news.ycombinator.com/item?id=50160135\nPoints: 8\n# Comments: 7",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-        "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-        "source": "Hacker News Front",
-        "published": "2026-10-20T00:53:52+00:00",
-        "summary": "Article URL: https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/\nComments URL: https://news.ycombinator.com/item?id=50159993\nPoints: 186\n# Comments: 89",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "France's supermarket fridges were vulnerable online for months",
-        "url": "https://ipinfo.io/blog/france-fridges-hack",
-        "source": "Hacker News Front",
-        "published": "2026-10-20T00:00:49+00:00",
-        "summary": "Article URL: https://ipinfo.io/blog/france-fridges-hack\nComments URL: https://news.ycombinator.com/item?id=50159616\nPoints: 67\n# Comments: 65",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-        "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-        "source": "TechCrunch",
-        "published": "2026-10-19T23:39:38+00:00",
-        "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+        "published": "2026-10-20T23:01:23+00:00",
+        "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,65 +186,32 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[인터뷰] 엑셀 함수에 지친 노무사가 만든  HR 솔루션 ‘휴램’",
-        "url": "https://byline.network/2026/10/783478239742439/",
+        "title": "대규모 업데이트 통했나, 넥슨 ‘아크레이더스’ 이용자 수 반등",
+        "url": "https://byline.network/2026/10/20-669/",
         "source": "ByLine Network",
-        "published": "2026-10-20T01:57:29+00:00",
-        "summary": "주 5일 근무하는 직장인의 월 급여 산정 기준시간은 유급 주휴시간을 포함해 통상 209시간이다. 하지만 병원처럼 연장근무가 필요한 직장에서는 기본급 외에 연장근로수당을 지급해야 한다. 이에 대비해 월 20시간분의 고정 OT 수당(Fixed Overtime)을 책정해 근로계약을 맺는 경우도 있다. 예상되는 초과근무에 대한 수당을 매달 지급하는 월급에 미리 반영하는 것이다.\n그러나 이 경우에도 월 20시간을 초과해 연장근무를 했다면 초과분에 대한 수당을 추가로 지급해야 한다. 근무 시간이 불규칙한 직장일수록 급여 계산이 어려워지는 이유다. 예전에는 인사 담당자가 엑셀에 데이터를 직접 입력해 급여를 계산했다. 사람이 하다 보니 실수가 발생할 수밖에 없는 방식이다. 이런 오류는 이후 노동 분쟁이 발생했을 때도 불리",
+        "published": "2026-10-20T22:05:09+00:00",
+        "summary": "넥슨 엠바크스튜디오의 흥행작 ‘아크레이더스’가 출시 1주년을 앞두고 반등에 성공했다. 패키지 게임 특성상 출시 초반 큰 성과를 거두고 이후 이용자 수가 감소하는 경향이 있다. 아크레이더스 역시 비슷한 흐름을 보였으나 최근 선보인 대규모 업데이트와 무료체험, 할인판매를 연계한 판매 전략으로 많은 이용자를 불러들였다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "앤트로픽이 검증한 ‘AI 웜’ 자가복제 실험",
-        "url": "https://byline.network/2026/10/19-673/",
+        "title": "NH투자증권, 전사 AI 플랫폼 연내 구축…내년 에이전트 확대",
+        "url": "https://byline.network/2026/10/1016-9/",
         "source": "ByLine Network",
-        "published": "2026-10-20T00:41:42+00:00",
-        "summary": "인공지능(AI)이 해킹 도구에서 더 발전해 다른 기기로 옮겨가며 스스로 복제하는 ‘AI 웜(AI Worm)’으로 발전할 수 있다는 연구 결과가 나왔다. 앤트로픽은 지난 12일 인터넷에 연결된 저사양 기기에서도 AI 모델을 실행하고 제한된 환경에서 복제 절차를 수행할 수 있다는 연구 결과를 발표했다. 실제 인터넷에서 AI 웜이 확산한 것은 아니지만, AI가 사람의 개입 없이 공격을 이어갈 가능성을 보여줬다는 설명이다.",
+        "published": "2026-10-20T22:04:30+00:00",
+        "summary": "NH투자증권의 인공지능(AI) 관련 업무는 경영전략본부 산하 AX추진부가 전담하고 있다. 조직 규모는 10명 이하다. AI를 실제 업무에 활용하는 대표적인 사례로는 업무 매뉴얼과 사내 정보를 지식베이스로 활용하는 검색증강생성(RAG) 기반 챗봇이 꼽힌다. 해당 챗봇은 임직원들이 업무 관련 문의에 신속하게 답변을 얻을 수 있도록 지원한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[플레이BN] 2.5D로 구현한 K-판타지, 카카오게임즈 ‘도깨비의세계’",
-        "url": "https://byline.network/2026/10/19-676/",
-        "source": "ByLine Network",
-        "published": "2026-10-19T22:47:46+00:00",
-        "summary": "도깨비의세계는 사전 다운로드 기간 애플 앱스토어 인기 순위 1위를 기록한 데 이어 출시 당일 구글 플레이에서 정상을 차지했습니다. 이후 양대 앱마켓 매출 순위 2위에 올랐고, 지난 13일에는 구글 플레이 매출 1위까지 달성했습니다. 이용자 증가에 따른 신규 서버 증설도 이어졌죠. 도깨비의세계는 도대체 어떤 작품일까요.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "폰지사기 연루자가 가상자산 기업에? 국감서 비토즈 의혹 제기",
-        "url": "https://byline.network/2026/10/1020-8/",
-        "source": "ByLine Network",
-        "published": "2026-10-19T22:37:18+00:00",
-        "summary": "디지털금융 인프라 기업 비토즈에 재직 중인 KOK코인 사건 관련 인물들이 과거 미디움에서 대표이사와 사업개발실 이사 등 주요 직책을 맡았던 것으로 확인됐다. 미디움은 2021년 KOK코인 발행사를 인수해 사기 행각을 이어간 혐의를 받고 있는 기업이다. KOK코인 사건은 검찰 추산 국내외 약 57만명에게 2조5759억원의 피해를 입힌 다단계 사기 사건이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco",
-        "url": "https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco/",
-        "source": "Y Combinator Blog",
-        "published": "2026-10-19T18:58:11+00:00",
-        "summary": "Ryder flew to SF for a work trial, moved furniture in a Mystery Machine bus, and decided to stay. Here's what building from day one looks like.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "As France reels from days of violence, founders brace for more uncertainty",
-        "url": "https://sifted.eu/articles/french-protests-startup-nation/",
+        "title": "Starling founder Anne Boden sold final stake at cut-price £1.7bn valuation, reports say",
+        "url": "https://sifted.eu/articles/starling-founder-anne-boden-sold-final-stake-at-cut-price-1-7bn-valuation-reports-say/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-19T17:10:34+00:00",
+        "published": "2026-10-20T21:02:11+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -252,22 +219,55 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "LatAm Startup Funding Jumps 26% In Q3 As VCs Begin ‘Rediscovering’ The Region",
-        "url": "https://news.crunchbase.com/venture/q3-2026-latam-startup-funding-jumps-ai-fintech-mexico/",
-        "source": "Crunchbase News",
-        "published": "2026-10-19T11:00:46+00:00",
-        "summary": "A continued boom in late-stage and growth funding combined with a surge in seed-stage funding helped buoy venture investment in Latin America for the third quarter of 2026, Crunchbase data shows.",
+        "title": "How Vin Bui became engineer #1 at Nowadays — and started treating it like his own company",
+        "url": "https://www.ycombinator.com/blog/how-vin-bui-became-engineer-1-at-nowadays-and-started-treating-it-like-his-own-company/",
+        "source": "Y Combinator Blog",
+        "published": "2026-10-20T15:30:50+00:00",
+        "summary": "Vin found Nowadays on Work at a Startup, saw a codebase he could fix, and joined as the first engineer. Now he builds AI voice tools and mentors the team.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "The FDE Bubble: Silicon Valley’s Most Expensive Game Of Pretend",
-        "url": "https://news.crunchbase.com/venture/fde-bubble-enterprise-agentic-ai-gurtu-airrived/",
+        "title": "Nvidia backs four German startups as European spending spree continues",
+        "url": "https://sifted.eu/articles/nvidia-germany-europe-uk-france-jensen-huang-invests/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-20T14:28:27+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "시스코 “소스코드 외부 유출 없이 AI로 보안 취약점 잡는다”",
+        "url": "https://byline.network/2026/10/1020-15/",
+        "source": "ByLine Network",
+        "published": "2026-10-20T14:17:03+00:00",
+        "summary": "최근 인공지능(AI) 코딩 도구 확산으로 기업이 관리해야 하는 소프트웨어 코드가 늘면서 보안 취약점 점검에 AI를 활용하는 방안이 주목받고 있다. 챗지피티 등 범용 대형언어모델(LLM)을 활용하면 코드 검증을 자동화할 수 있지만, 외부 클라우드 서버로 소스코드를 전송해야 해 정보 유출 우려가 있고 모델 운영 비용과 오탐지 문제도 발생한다. 이에 시스코는 기업 핵심 자산인 소스코드를 외부로 전송하지 않고 사내 폐쇄망에서 보안 취약점을 식별할 수 있는 사내 구축형(온프레미스) 소형언어모델(sLLM)을 대안으로 제시했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "‘The true barrier to entry is scale’: Inside the new frontier of European fintech’s AI arms race",
+        "url": "https://sifted.eu/articles/transactional-foundation-models/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-20T11:00:53+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "How To Build A Billion-Dollar Company Without Venture Capital",
+        "url": "https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/",
         "source": "Crunchbase News",
-        "published": "2026-10-19T11:00:19+00:00",
-        "summary": "Enterprise AI companies relying on armies of forward deployed engineers are disguising labor-intensive services as scalable software, inflating recurring revenue and valuations while falling short of autonomy claims, argues Anurag Gurtu, co-founder and CEO of Airrived. In this guest commentary he urges buyers and investors to examine deployment costs and gross margins to distinguish sustainable so",
+        "published": "2026-10-20T11:00:46+00:00",
+        "summary": "Founders can build billion-dollar businesses without venture capital by prioritizing customer revenue, pricing for quality, hiring exceptional talent and automating processes to scale efficiently, argues Nacho De Marco, who draws on his experience bootstrapping BairesDev, to emphasize financial discipline and a lasting commitment to solving customer problems as the foundations of sustainable growt",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,15 +276,105 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code &amp; Democratizing Creativity",
-        "url": "https://www.youtube.com/watch?v=2Zj6uMv3kTA",
+        "title": "Figma CEO Dylan Field: AI Is Creating a Trust Problem at Work",
+        "url": "https://www.youtube.com/watch?v=FiD_3GKKdUc",
         "source": "All-In Podcast",
-        "published": "2026-10-19T22:06:05Z",
-        "summary": "(0:00) Dylan Field joins the show: Figma's origin story and mission (3:16) Adobe's $20B deal blocked: inside the antitrust fight ...",
-        "thumbnail": "https://i.ytimg.com/vi/2Zj6uMv3kTA/mqdefault.jpg",
+        "published": "2026-10-20T22:00:16Z",
+        "summary": "Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and ...",
+        "thumbnail": "https://i.ytimg.com/vi/FiD_3GKKdUc/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
-          "videoId": "2Zj6uMv3kTA",
+          "videoId": "FiD_3GKKdUc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Figma CEO speaks out on Claude Design: “It&#39;s easy to mistake model progress for product progress.”",
+        "url": "https://www.youtube.com/watch?v=j6WZE9Q5u3Y",
+        "source": "All-In Podcast",
+        "published": "2026-10-20T19:36:08Z",
+        "summary": "Thanks to our partners for making this possible! As wealth grows, complexity compounds. Between investments, tax strategy and ...",
+        "thumbnail": "https://i.ytimg.com/vi/j6WZE9Q5u3Y/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "j6WZE9Q5u3Y",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Should You Trust ChatGPT With Your Health?",
+        "url": "https://www.youtube.com/watch?v=9n0MI4D7TCM",
+        "source": "a16z",
+        "published": "2026-10-20T14:30:31Z",
+        "summary": "More than 300 million people use ChatGPT for health and wellness questions each week. OpenAI's Karan Singhal thinks that's ...",
+        "thumbnail": "https://i.ytimg.com/vi/9n0MI4D7TCM/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "9n0MI4D7TCM",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "테슬라 플라잉카에 숨겨진 비밀",
+        "url": "https://www.youtube.com/watch?v=-oFBRrYBD9I",
+        "source": "슈카월드",
+        "published": "2026-10-20T10:32:20Z",
+        "summary": "0:00 세계를 놀라게 한 테슬라 '로드스터' 25:45 머스크는 왜 이악물고 비행하는 차를 만들었나.",
+        "thumbnail": "https://i.ytimg.com/vi/-oFBRrYBD9I/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "-oFBRrYBD9I",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Turkey’s Economic Crisis is Still Getting Worse",
+        "url": "https://www.youtube.com/watch?v=kS-O3IX88s8",
+        "source": "TLDR News Global",
+        "published": "2026-10-20T09:30:00Z",
+        "summary": "Take back your privacy - start using Proton Mail for free: http://proton.me/tldr Three years on, with rising inflation and high interest ...",
+        "thumbnail": "https://i.ytimg.com/vi/kS-O3IX88s8/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "kS-O3IX88s8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI 종말론은 현실이 될까? 과장일까? (이건복 마이크로소프트 상무)",
+        "url": "https://www.youtube.com/watch?v=13CKX1KX6z8",
+        "source": "티타임즈TV",
+        "published": "2026-10-20T09:00:20Z",
+        "summary": "에이전트 하나는 위험하지 않을 수 있으나 에이전트들이 협업하면 어떤 일이 벌어질지 모른다. AI는 군집화할수록 위험하다. 편하다고 ...",
+        "thumbnail": "https://i.ytimg.com/vi/13CKX1KX6z8/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "13CKX1KX6z8",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "적금 깨고 주식 사도 되나요?",
+        "url": "https://www.youtube.com/watch?v=zOt7Z_v8AXE",
+        "source": "슈카월드",
+        "published": "2026-10-20T04:24:51Z",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/zOt7Z_v8AXE/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "zOt7Z_v8AXE",
           "via": "api"
         }
       },
@@ -306,21 +396,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "코스피 고점 대비 -40%, 한여름 밤의 꿈",
-        "url": "https://www.youtube.com/watch?v=UfwnDQNYiLI",
-        "source": "슈카월드",
-        "published": "2026-10-19T14:14:17Z",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i.ytimg.com/vi/UfwnDQNYiLI/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "UfwnDQNYiLI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "Clouds Are Way Heavier Than You Think",
         "url": "https://www.youtube.com/watch?v=poXYqJ5cb4Q",
         "source": "Cleo Abram",
@@ -336,21 +411,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "외국인 순매도 200조, 털린건 개미인가",
-        "url": "https://www.youtube.com/watch?v=GMC_8EaaD4Q",
-        "source": "슈카월드",
-        "published": "2026-10-19T09:59:02Z",
-        "summary": "0:00 검은 목요일, 코스피 6000 붕괴 15:54 분명 반도체 실적은 아직도 좋은데..? 18:18 코어위브 회사채 금리 15%까지 급등 34:32 ...",
-        "thumbnail": "https://i.ytimg.com/vi/GMC_8EaaD4Q/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "GMC_8EaaD4Q",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "“리더는 지휘자가 아니라 청소부가 돼야 한다” (정도희 전 SKT 부사장)",
         "url": "https://www.youtube.com/watch?v=Npk6nTDdlwY",
         "source": "티타임즈TV",
@@ -360,66 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "Npk6nTDdlwY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Is This the Beginning of the End for MBS?",
-        "url": "https://www.youtube.com/watch?v=fZCHAY2eF4k",
-        "source": "TLDR News Global",
-        "published": "2026-10-19T08:50:06Z",
-        "summary": "Go to https://hensonshaving.com/TLDR and enter \"TLDR\" at checkout to get 100 free blades with your purchase. Recent events ...",
-        "thumbnail": "https://i.ytimg.com/vi/fZCHAY2eF4k/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "fZCHAY2eF4k",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Mark Zuckerberg&#39;s take on risk.",
-        "url": "https://www.youtube.com/watch?v=ALbuCR4uH2E",
-        "source": "a16z",
-        "published": "2026-10-19T07:00:08Z",
-        "summary": "Mark Zuckerberg, founder and CEO of Meta, on why staying stagnant is the riskiest choice. Source: How to Build the Future, ...",
-        "thumbnail": "https://i.ytimg.com/vi/ALbuCR4uH2E/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "ALbuCR4uH2E",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Seinfeld - Full Episode (Audio)",
-        "url": "https://www.youtube.com/watch?v=Wm53dMsn5dk",
-        "source": "Acquired",
-        "published": "2026-10-19T04:22:04Z",
-        "summary": "As you know, most of the time, Acquired episodes are audio-only. But this episode, there's a full video version! And it was only ...",
-        "thumbnail": "https://i.ytimg.com/vi/Wm53dMsn5dk/mqdefault.jpg",
-        "extras": {
-          "theme": "deep_dive",
-          "videoId": "Wm53dMsn5dk",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ben Horowitz: “The most dangerous thing in AI is Anthropic and Bill Gates”",
-        "url": "https://www.youtube.com/watch?v=Xl0aXY0Uwk4",
-        "source": "All-In Podcast",
-        "published": "2026-10-18T16:30:05Z",
-        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
-        "thumbnail": "https://i.ytimg.com/vi/Xl0aXY0Uwk4/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "Xl0aXY0Uwk4",
           "via": "api"
         }
       }
