@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-10-26T03:14:08.542984+00:00",
+  "generated_at": "2026-10-27T03:43:37.430448+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Brazil Live Updates: Lula Wins Re-Election as Bolsonaro Rejects Result",
-        "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+        "title": "Australian politics live: Coalition demands ‘straight answer’ from Albanese on $6m golf grant as question time starts; Labor promises ‘swift response’ on MP safety",
+        "url": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-10-27T03:29:54+00:00",
+        "summary": "Follow the day’s news liveGet our breaking news email, free app or daily news podcastPolitical debate should be ‘robust but respectful’, Anne Ruston saysA day after MPs addressed the House of Representatives paying tribute to the independent Helen Haines, who was injured after an alleged attack in her electorate, the Liberal senator Anne Ruston maintains that respect is necessary in political deba",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+        "url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
         "source": "NYT World",
-        "published": "2026-10-26T03:06:40+00:00",
-        "summary": "President Luiz Inácio Lula da Silva’s win ended a string of conservative victories in Latin America. His opponent, Flávio Bolsonaro, called for the election to be annulled.",
+        "published": "2026-10-27T03:29:47+00:00",
+        "summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "title": "Ex-FBI chief Comey defiant in the face of third prosecution",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-27T03:17:40+00:00",
+        "summary": "Ex-FBI Director James Comey denies US Justice Department&#039;s new charges.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Bolsonaro’s Party Recognizes Lula’s Victory in Brazil: What to Know",
+        "url": "https://www.nytimes.com/2026/10/26/world/americas/brazil-election-lula-win-what-to-know.html",
+        "source": "NYT World",
+        "published": "2026-10-27T03:12:54+00:00",
+        "summary": "Flávio Bolsonaro himself has not accepted defeat, but his Liberal Party has recognized the re-election of President Luis Inácio Lula da Silva.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Jay-Z to perform at Super Bowl half-time show",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-26T03:05:22+00:00",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+        "published": "2026-10-27T03:10:55+00:00",
+        "summary": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
-        "url": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+        "title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk",
+        "url": "https://www.theguardian.com/world/2026/oct/27/us-bans-byd-electric-vehicles-kadena-military-base",
+        "source": "The Guardian World",
+        "published": "2026-10-27T02:50:31+00:00",
+        "summary": "US military says the restrictions on the electric vehicles at Kadena airbase also apply to delivery drivers and taxisOne of America’s biggest overseas military bases has banned vehicles made by the Chinese electric vehicle maker BYD over security concerns, the US military in Japan said on Tuesday.The ban, which went into effect this week at Kadena airbase on the southern Japanese island of Okinawa",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-10-27T02:40:17+00:00",
+        "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Moroccan police intercept migrant swimming back towards Ceuta",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/moroccan-police-intercept-migrant-swimming-back-towards-ceuta?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-26T02:59:50+00:00",
-        "summary": "Lula wins a fourth term after a dramatic run-off marked by voting confusion and allegations of interference.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Seoul ‘fabricated” landmine blast, North Korea tells UN in letter",
-        "url": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-26T02:55:15+00:00",
-        "summary": "South Korea blames Pyongyang for September landmine blast, but North Korea says incident a &#039;sinister obstructive move&#039;.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
-        "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-        "source": "The Guardian World",
-        "published": "2026-10-26T02:51:14+00:00",
-        "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president over Flávio BolsonaroLive second round resultsThe local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo S",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-26T02:38:37+00:00",
-        "summary": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen HainesGet our breaking news email, free app or daily news podcastVictoria’s emergency services minister believes he is being followed and fears for his family’s safety after a bullet, etched with the word “RAT” and his former firefighter number, was left on his car on Saturday.The Herald ",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "There’s no human right to Vegemite, court tells Australian prisoner who wanted ban overturned",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/26/no-human-right-to-vegemite-court-tells-prisoner-australia-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-26T02:34:11+00:00",
-        "summary": "Prohibition of salty, yeast-based condiment in Victoria’s prisons remains after convicted murderer claimed it denied him right to ‘enjoy his culture’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastA murderer who claimed a refusal to allow him Vegemite in prison is a breach of his human rights as an Australian has failed to overtu",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; parliament hears emotional tributes to MP",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-10-26T02:26:46+00:00",
-        "summary": "Follow live updatesGet our daily political email, free app or daily news podcastSteggall calls for civility and respectIndependent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter.We absolutely need to make sure there is more civility and respect.Social media is a platform where they can send abuse and threats through direct messag",
+        "published": "2026-10-27T02:38:48+00:00",
+        "summary": "Moroccan police intercepted a migrant swimming towards Spain’s North African enclave of Ceuta",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-        "source": "Hacker News Front",
-        "published": "2026-10-26T01:47:46+00:00",
-        "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640\nComments URL: https://news.ycombinator.com/item?id=50238088\nPoints: 31\n# Comments: 1",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "iPhone Duo Teardown",
-        "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
-        "source": "Hacker News Front",
-        "published": "2026-10-26T01:23:24+00:00",
-        "summary": "Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown\nComments URL: https://news.ycombinator.com/item?id=50237896\nPoints: 42\n# Comments: 13",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The best apps for tracking your reading and discovering new books",
-        "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
         "source": "TechCrunch",
-        "published": "2026-10-26T01:10:00+00:00",
-        "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+        "published": "2026-10-27T02:00:00+00:00",
+        "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-        "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+        "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+        "url": "https://github.com/otya128/winevdm",
         "source": "Hacker News Front",
-        "published": "2026-10-26T01:03:39+00:00",
-        "summary": "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category\nComments URL: https://news.ycombinator.com/item?id=50237712\nPoints: 23\n# Comments: 3",
+        "published": "2026-10-27T01:15:04+00:00",
+        "summary": "Article URL: https://github.com/otya128/winevdm\nComments URL: https://news.ycombinator.com/item?id=50253529\nPoints: 34\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Steal My Bitcoin CTF PoC",
-        "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-        "source": "Hacker News Front",
-        "published": "2026-10-26T00:15:17+00:00",
-        "summary": "Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC\nComments URL: https://news.ycombinator.com/item?id=50237379\nPoints: 19\n# Comments: 4",
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "source": "TechCrunch",
+        "published": "2026-10-27T01:12:21+00:00",
+        "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Attention Is Not What You Need (2025)",
-        "url": "https://arxiv.org/abs/2512.19428",
-        "source": "Hacker News Front",
-        "published": "2026-10-25T23:52:05+00:00",
-        "summary": "Article URL: https://arxiv.org/abs/2512.19428\nComments URL: https://news.ycombinator.com/item?id=50237224\nPoints: 34\n# Comments: 15",
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "source": "The Verge",
+        "published": "2026-10-26T23:34:58+00:00",
+        "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "F-Zero X on Nintendo 3DS",
-        "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
         "source": "Hacker News Front",
-        "published": "2026-10-25T23:27:30+00:00",
-        "summary": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html\nComments URL: https://news.ycombinator.com/item?id=50237078\nPoints: 69\n# Comments: 34",
+        "published": "2026-10-26T22:41:48+00:00",
+        "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 90\n# Comments: 28",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Proton Flock Camera Map",
-        "url": "https://proton.me/flock-camera-map",
+        "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+        "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+        "source": "Wired",
+        "published": "2026-10-26T22:40:37+00:00",
+        "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Microsoft offers to buy out a quarter of its workforce",
+        "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+        "source": "Ars Technica",
+        "published": "2026-10-26T22:36:06+00:00",
+        "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+        "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
         "source": "Hacker News Front",
-        "published": "2026-10-25T22:39:42+00:00",
-        "summary": "Article URL: https://proton.me/flock-camera-map\nComments URL: https://news.ycombinator.com/item?id=50236748\nPoints: 77\n# Comments: 14",
+        "published": "2026-10-26T22:27:17+00:00",
+        "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\nComments URL: https://news.ycombinator.com/item?id=50252008\nPoints: 34\n# Comments: 22",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,21 +186,54 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI 버블론 속에서 이익 내는 학습 데이터 공급사, 플리토의 수익 구조",
-        "url": "https://platum.kr/archives/296795?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25eb%25b2%2584%25eb%25b8%2594%25eb%25a1%25a0-%25ec%2586%258d%25ec%2597%2590%25ec%2584%259c-%25ec%259d%25b4%25ec%259d%25b5-%25eb%2582%25b4%25eb%258a%2594-%25ed%2595%2599%25ec%258a%25b5-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0-%25ea%25b3%25b5%25ea%25b8%2589%25ec%2582%25ac-%25ed%2594%258c%25eb%25a6%25ac%25ed%2586%25a0",
-        "source": "Platum",
-        "published": "2026-10-25T23:01:00+00:00",
-        "summary": "AI 데이터·통번역 솔루션 기업 플리토가 올해 3분기까지 누적 매출 약 311억원, 영업이익 약 103억원을 기록했다. 20일 공시한 연결 기준 잠정 실적으로, 창사 이래 최대치다. 전년 동기 대비 누적 매출은 20.7%, 영업이익은 89.7% 늘었고, 영업이익은 3개 분기 만에 지난해 연간 영업이익(약 62억원)의 167.5%에 달해 연간 기준 역대 최대 기록을 이미 넘어섰다. 빅테크의 대규모 AI 투자에 비해 ... 더 읽기",
+        "title": "오라클, DB를 거버넌스 최종 결정권자로 임명하다",
+        "url": "https://byline.network/2026/10/26-648/",
+        "source": "ByLine Network",
+        "published": "2026-10-27T00:54:06+00:00",
+        "summary": "오라클이 데이터베이스에 거버넌스를 내장시키며, AI 에이전트의 비즈니스 규칙 준수를 데이터베이스 차원에서 통제하려 하고 있다. AI의 신뢰성을 높이려면, 천방지축 AI에게 단순히 가이드라인을 따르라고 지시하는 것으로 부족하고, 데이터베이스 인프라 계층에 거버넌스 체계를 구축해 AI의 우회를 원천 차단해야 한다는 것이다. 데이터베이스 외부에 있던 데이터 품질, 데이터 카탈로그보다 더 견고한 내벽을 쌓아 AI 에이전트의 데이터 오남용을 방어한다는 구상이다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Alex Depledge steps down from UK treasury job over 'sideshow' treatment of scaleups",
-        "url": "https://sifted.eu/articles/alex-depledge-quits-uk-startups-scaleups-sideshow/",
+        "title": "[중국 비즈니스 트렌드&동향] AI 비서가 장 보는 솽스이, 화웨이·CATL 배터리 교환 동맹, 메이투안의 AI 스킬 장터",
+        "url": "https://platum.kr/archives/296966?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-ai-%25eb%25b9%2584%25ec%2584%259c%25ea%25b0%2580-%25ec%259e%25a5-%25eb%25b3%25b4%25eb%258a%2594-%25ec%2586%25bd%25ec%258a%25a4%25ec%259d%25b4",
+        "source": "Platum",
+        "published": "2026-10-26T22:55:00+00:00",
+        "summary": "솽스이 18년, 올해는 AI 에이전트가 대신 장을 본다 2009년 27개 브랜드의 재고 떨이 행사로 출발한 솽스이(双十一)가 18년 차를 맞았다. 과거 모바일 결제 경쟁이 솽스이를 거치며 인프라로 자리 잡았듯, 올해 솽스이는 AI 에이전트가 실제 상거래 생태계에 얼마나 깊이 들어올 수 있는지를 가리는 시험 무대가 되고 있다. 알리바바(Alibaba·阿里巴巴)는 소비자와 입점 상인을 아우르는 자체 생태계 풀스택 전략을 앞세웠다. ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Some Observations About Anthropic’s IPO Filing",
+        "url": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/",
+        "source": "Crunchbase News",
+        "published": "2026-10-26T20:10:57+00:00",
+        "summary": "In an S-1 filing today preceding what could be the largest IPO ever, Anthropic laid out extensive new details about its earnings, growth, key stakeholders and the risks it faces going forward. Clocking in at 335 pages, the document wasn’t exactly light reading. However, in a preliminary once-over, we highlight some of the more intriguing disclosures.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "“오라클 속 AI는 성과 창출 속도를 높인다”",
+        "url": "https://byline.network/2026/10/26-647/",
+        "source": "ByLine Network",
+        "published": "2026-10-26T18:39:06+00:00",
+        "summary": "“AI는 오라클을 통해 더 많은 걸 이룰 수 있다. 오라클 속에서 AI는 조직의 운영 방식을 개선하고, 업무 처리를 더 쉽게 하며, 성과를 창출하게 돕는다. 오라클은 비즈니스 현장에서 AI를 빠르게 가동할 수 있게 지원한다. 우리의 목표는 고객이 소프트웨어를 준비에 소요하는 시간을 줄이고, 실제 활용에 더 많은 시간을 할애하게 하는 것이다.” - 마이크 시실리아 오라클 CEO.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Revolut's UK lending push is a ‘watershed’ moment. Can it take on the big banks?",
+        "url": "https://sifted.eu/articles/revolut-lending-personal-watershed-challenge-banks/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-25T18:43:50+00:00",
+        "published": "2026-10-26T17:03:39+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -208,55 +241,33 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "다작보다 잘될 게임, 국내 게임사 퍼블리싱 전략은",
-        "url": "https://byline.network/2026/10/23-644/",
+        "title": "EQT Ventures and QuantumLight back wealthtech platform Nevis in $70m raise",
+        "url": "https://sifted.eu/articles/revolut-alumni-nevis-wealth-tech-management-funding-round/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-26T16:57:44+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Revolut CEO slams ‘dangerous’ VCs, says he removed them from board",
+        "url": "https://sifted.eu/articles/revolut-ceo-slams-dangerous-vcs/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-26T14:37:13+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "한물갔다더니, MMORPG 신작 줄을 잇는 이유는",
+        "url": "https://byline.network/2026/10/26-646/",
         "source": "ByLine Network",
-        "published": "2026-10-25T13:31:57+00:00",
-        "summary": "국내 주요 게임사들이 퍼블리싱 사업에 힘을 싣고 있다. 자체 개발 작품과 함께 퍼블리싱 작품을 통해 신작 라인업을 확대하는 모습이다. 과거 다작을 위해 다양한 외부 게임을 퍼블리싱했던 것과 다르다. 검증된 지식재산권(IP)을 활용했거나 개발 수준이 검증된 개발진이 포진한 개발사 작품을 선별하는 등 ‘좋은 작품’ 확보하기에 열중이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "10년 묵은 PHP 결함, AI가 공격 가능성 입증",
-        "url": "https://platum.kr/archives/296965?utm_source=rss&utm_medium=rss&utm_campaign=10%25eb%2585%2584-%25eb%25ac%25b5%25ec%259d%2580-php-%25ea%25b2%25b0%25ed%2595%25a8-ai%25ea%25b0%2580-%25ea%25b3%25b5%25ea%25b2%25a9-%25ea%25b0%2580%25eb%258a%25a5%25ec%2584%25b1-%25ec%259e%2585%25ec%25a6%259d",
-        "source": "Platum",
-        "published": "2026-10-25T10:55:39+00:00",
-        "summary": "전 세계 웹사이트에 널리 쓰이는 프로그래밍 언어 PHP에서 로그인 없이 서버의 코드를 실행할 수 있는 치명적 결함 2건이 발견돼 PHP 개발팀이 21일 긴급 패치를 배포했다. 문제의 코드는 10년 넘게 PHP 안에 있었다. PHP 재단은 두 취약점 중 하나의 근본 원인이 되는 문제를 2024년 외부 감사 과정에서 이미 발견했으나, 공격 경로를 확인하지 못한 데다 수정안마다 호환성 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "홍대 지하 공연장에 모인 애니 팬들, 크런치롤 한국 서비스 기념 무대",
-        "url": "https://platum.kr/archives/296961?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%258d%25eb%258c%2580-%25ec%25a7%2580%25ed%2595%2598-%25ea%25b3%25b5%25ec%2597%25b0%25ec%259e%25a5%25ec%2597%2590-%25eb%25aa%25a8%25ec%259d%25b8-%25ec%2595%25a0%25eb%258b%2588-%25ed%258c%25ac%25eb%2593%25a4-%25ed%2581%25ac%25eb%259f%25b0%25ec%25b9%2598%25eb%25a1%25a4-%25ed%2595%259c%25ea%25b5%25ad-%25ec%2584%259c",
-        "source": "Platum",
-        "published": "2026-10-25T07:14:07+00:00",
-        "summary": "25일 오후 서울 마포구 무신사 개러지. 검은 벽돌벽에 &#8216;크런치롤 페스티벌 라이브 스테이지&#8217;라고 적힌 주황색 대형 현수막이 걸렸고, 그 앞으로 입장 대기줄을 가르는 차단봉이 늘어섰다. 접수대에서는 주황색 크런치롤 티셔츠를 입은 스태프가 입장객을 맞았고, 책상 위에는 크런치롤 로고가 찍힌 생수병이 줄지어 쌓였다. 글로벌 애니메이션 스트리밍 서비스 크런치롤(Crunchyroll)이 한국 공식 서비스를 시작하며 홍대 일대에서 여는 페스티벌의 공연 행사다. ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "액셀러레이터 지분 50% 넘어도 창업기업 인정, 정부 창업 규제 10건 개선",
-        "url": "https://platum.kr/archives/296958?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a1%25ec%2585%2580%25eb%259f%25ac%25eb%25a0%2588%25ec%259d%25b4%25ed%2584%25b0-%25ec%25a7%2580%25eb%25b6%2584-50-%25eb%2584%2598%25ec%2596%25b4%25eb%258f%2584-%25ec%25b0%25bd%25ec%2597%2585%25ea%25b8%25b0%25ec%2597%2585-%25ec%259d%25b8%25ec%25a0%2595-%25ec%25a0%2595%25eb%25b6%2580-%25ec%25b0%25bd%25ec%2597%2585",
-        "source": "Platum",
-        "published": "2026-10-25T04:24:48+00:00",
-        "summary": "군 복무나 출산으로 사업을 멈췄던 기간 때문에 창업기업 지원 대상에서 밀려나던 일이 줄어든다. 액셀러레이터가 지분 절반 이상을 갖고 함께 세운 회사도 창업기업으로 인정받는다. 중소벤처기업부는 이런 내용을 담은 &#8216;창업기업 규제합리화 방안&#8217;을 23일 열린 정부 규제합리화위원회 제2차 전체회의에 올려 논의했다고 밝혔다. 국무조정실과 금융위원회, 고용노동부 등 관계 부처와 협의해 창업부터 성장, 재도전까지 10개 과제를 정리했다. 먼저 창업 지원 ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "젠슨 황 무대에 오른 오리 로봇, 선주문 2만 대 돌파",
-        "url": "https://platum.kr/archives/296953?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%25a0%25ec%258a%25a8-%25ed%2599%25a9-%25eb%25ac%25b4%25eb%258c%2580%25ec%2597%2590-%25ec%2598%25a4%25eb%25a5%25b8-%25ec%2598%25a4%25eb%25a6%25ac-%25eb%25a1%259c%25eb%25b4%2587-%25ec%2584%25a0%25ec%25a3%25bc%25eb%25ac%25b8-2%25eb%25a7%258c-%25eb%258c%2580-%25eb%258f%258c%25ed%258c%258c",
-        "source": "Platum",
-        "published": "2026-10-24T08:29:51+00:00",
-        "summary": "무대 위에 오리 모양 로봇 네 마리가 종종걸음으로 걸어 나왔다. 젠슨 황 엔비디아 최고경영자(CEO)가 &#8220;앉아&#8221;, &#8220;일어나&#8221;, &#8220;낮잠 자&#8221;라고 말하자 로봇들은 앉고, 일어서고, 바닥에 벌렁 드러누웠다. 한 마리는 무리에서 떨어져 있다가 넘어졌고, 황 CEO가 &#8220;집중해, 이리 와&#8221;라고 부르자 일어나 다가와 앉았다. 21일(현지시간) 독일 베를린 템포드롬에서 열린 &#8216;엔비디아 GTC 베를린 2026&#8217; 기조연설 막바지에 펼쳐진 장면이다. 이 로봇은 ... 더 읽기",
+        "published": "2026-10-26T13:51:16+00:00",
+        "summary": "국내 게임 시장에서 다중접속역할수행게임(MMORPG)이 다시 한번 존재감을 키우고 있다. 올해 6월 넷마블을 시작으로 하반기에는 컴투스, 스마일게이트, 카카오게임즈 등 게임사가 연달아 해당 장르 신작을 출시했다. 남은 기간에는 더 많은 작품이 모습을 드러낼 예정이다. 업체들이 장르·플랫폼 다각화를 추진하고 있지만 MMORPG 입지는 여전한 모습이다.",
         "thumbnail": "",
         "extras": {}
       }
@@ -265,150 +276,150 @@
       {
         "category": "videos",
         "kind": "video",
+        "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503",
+        "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+        "source": "Lex Fridman",
+        "published": "2026-10-26T22:51:51Z",
+        "summary": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the ...",
+        "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/mqdefault.jpg",
+        "extras": {
+          "theme": "interview",
+          "videoId": "ZAzWPE9CItg",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Lula’s Extraordinary Comeback Explained",
+        "url": "https://www.youtube.com/watch?v=Meyw1_fKeps",
+        "source": "TLDR News Global",
+        "published": "2026-10-26T16:52:47Z",
+        "summary": "Pre-order a copy of Too Long: https://toolong.news/TL010 After a disastrous first round, Lula has managed to hold onto the ...",
+        "thumbnail": "https://i.ytimg.com/vi/Meyw1_fKeps/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "Meyw1_fKeps",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "DoorDash&#39;s first version of the company",
+        "url": "https://www.youtube.com/watch?v=c7bH0PVMEZs",
+        "source": "a16z",
+        "published": "2026-10-26T15:49:04Z",
+        "summary": "DoorDash was originally called PaloAltoDelivery.com and grew out of a business school project Xu started at Stanford in 2013.",
+        "thumbnail": "https://i.ytimg.com/vi/c7bH0PVMEZs/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "c7bH0PVMEZs",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why OpenAI Is Racing to Make Computer Use Superhuman",
+        "url": "https://www.youtube.com/watch?v=9v42ZOdiBJY",
+        "source": "a16z",
+        "published": "2026-10-26T14:30:19Z",
+        "summary": "AI agents are approaching a point where they can use computers faster than expert humans, turning the user interface itself into a ...",
+        "thumbnail": "https://i.ytimg.com/vi/9v42ZOdiBJY/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "9v42ZOdiBJY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The New Full-Stack Designer",
+        "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+        "source": "Y Combinator",
+        "published": "2026-10-26T14:00:10Z",
+        "summary": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to ...",
+        "thumbnail": "https://i.ytimg.com/vi/eojywvxqoLc/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "eojywvxqoLc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "This Plane Is Bringing Supersonic BACK",
+        "url": "https://www.youtube.com/watch?v=sY4SaeDwM_Y",
+        "source": "Cleo Abram",
+        "published": "2026-10-26T13:54:23Z",
+        "summary": "This plane can go faster than sound, apparently with no audible sonic boom! And it's a big deal for bringing back supersonic ...",
+        "thumbnail": "https://i.ytimg.com/vi/sY4SaeDwM_Y/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "sY4SaeDwM_Y",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "끝나지 않는 프랑스 시위, 그들은 무엇을 원하는가?",
+        "url": "https://www.youtube.com/watch?v=Ov1jBaoHxgs",
+        "source": "슈카월드",
+        "published": "2026-10-26T10:07:03Z",
+        "summary": "0:00 큰 충격에 빠진 프랑스 7:55 끝나지 않는 시위, 그들은 무엇을 원하는가? 18:20 유럽 전역으로 퍼지는 프랑스 시위 21:07 유럽의 ...",
+        "thumbnail": "https://i.ytimg.com/vi/Ov1jBaoHxgs/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "Ov1jBaoHxgs",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "돈 달라는 말이 제일 어려운 사람들을 위해 만든 회사 | 청구스 이장규",
+        "url": "https://www.youtube.com/watch?v=stclopafXHg",
+        "source": "EO 이오",
+        "published": "2026-10-26T09:53:59Z",
+        "summary": "여기 두 번의 실패를 겪고도 창업을 멈추지 못한 한 금융회사 신입사원이 있습니다. 오늘 영상의 주인공은 기업의 미수금 문제를 해결 ...",
+        "thumbnail": "https://i.ytimg.com/vi/stclopafXHg/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "stclopafXHg",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "GPU 담보대출, 대출 유동화 증권, 보험… GPU 기반 증권 쏟아진다",
+        "url": "https://www.youtube.com/watch?v=tra5T1OGGEs",
+        "source": "티타임즈TV",
+        "published": "2026-10-26T09:00:27Z",
+        "summary": "엔비디아가 블랙록, 골드만삭스 등 금융회사 6곳과 MOU를 맺고 추진 중인 AI 인프라 금융 플랫폼은 최대 5000억달러 규모의 새로운 ...",
+        "thumbnail": "https://i.ytimg.com/vi/tra5T1OGGEs/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "tra5T1OGGEs",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
         "title": "Chamath: France Won’t Fix Itself. The Bond Market Must Force Its Hand.",
-        "url": "https://www.youtube.com/shorts/nIN6zuLgxVs",
+        "url": "https://www.youtube.com/watch?v=nIN6zuLgxVs",
         "source": "All-In Podcast",
-        "published": "2026-10-25T16:15:27+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i3.ytimg.com/vi/nIN6zuLgxVs/hqdefault.jpg",
+        "published": "2026-10-25T16:15:27Z",
+        "summary": "Follow the besties: https://x.com/chamath https://x.com/Jason https://x.com/DavidSacks https://x.com/friedberg Follow on X: ...",
+        "thumbnail": "https://i.ytimg.com/vi/nIN6zuLgxVs/mqdefault.jpg",
         "extras": {
           "theme": "analysis",
           "videoId": "nIN6zuLgxVs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "David Friedberg: France’s Crisis Is a Warning for America",
-        "url": "https://www.youtube.com/shorts/wO4BLBzNEFs",
-        "source": "All-In Podcast",
-        "published": "2026-10-25T00:00:35+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i4.ytimg.com/vi/wO4BLBzNEFs/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "wO4BLBzNEFs",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "데이터센터 더 안 짓고도 GPU를 더 돌리는 방법",
-        "url": "https://www.youtube.com/watch?v=unOa1sbDNRU",
-        "source": "티타임즈TV",
-        "published": "2026-10-24T22:00:11Z",
-        "summary": "AI 경쟁은 결국 누가 더 많이 계산하느냐의 싸움입니다. 더 많은 데이터센터를 지어 더 많이 계산하면 되죠. 하지만 현실적으로 데이터 ...",
-        "thumbnail": "https://i.ytimg.com/vi/unOa1sbDNRU/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "unOa1sbDNRU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "We’re Missing the Best Place to Find Aliens",
-        "url": "https://www.youtube.com/watch?v=rHmxAXO9w_s",
-        "source": "Cleo Abram",
-        "published": "2026-10-24T15:27:43Z",
-        "summary": "We might be missing the best place to find aliens. Because we're looking wrong. When we talk about the habitable zone of a solar ...",
-        "thumbnail": "https://i.ytimg.com/vi/rHmxAXO9w_s/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "rHmxAXO9w_s",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Inference Matters 12x More Than Training | YC Paper Club",
-        "url": "https://www.youtube.com/watch?v=mHNKuH-9OxU",
-        "source": "Y Combinator",
-        "published": "2026-10-24T14:00:08Z",
-        "summary": "This week's Paper Club is all about inference. For every FLOP spent training a model, roughly six go to serving it each year — and ...",
-        "thumbnail": "https://i.ytimg.com/vi/mHNKuH-9OxU/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "mHNKuH-9OxU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "추락하는 일본 GDP, 원인은 무엇인가",
-        "url": "https://www.youtube.com/watch?v=t-IIGGFe80U",
-        "source": "슈카월드",
-        "published": "2026-10-24T11:02:14Z",
-        "summary": "0:00 IMF 세계 경제전망 10:15 환율 정책에 실패해서 도움을 요청하는 나라 15:17 일본 경제는 왜 성장을 못하는가? 21:54 낮아진 ...",
-        "thumbnail": "https://i.ytimg.com/vi/t-IIGGFe80U/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "t-IIGGFe80U",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "죄다 거꾸로 따라 만든다. 소프트웨어 회사는 살아남을 수 있나? (최지웅 유캔랩스 대표)",
-        "url": "https://www.youtube.com/watch?v=Cjj0X-d15oY",
-        "source": "티타임즈TV",
-        "published": "2026-10-23T22:00:04Z",
-        "summary": "최근 개발자들 사이에서 '리버스 엔지니어링 에이전트'가 화제입니다. 최지웅 유캔랩스 대표가 구글의 새 모델 제미나이4 아르곤으로 ...",
-        "thumbnail": "https://i.ytimg.com/vi/Cjj0X-d15oY/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "Cjj0X-d15oY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Amazon CEO Andy Jassy on the $220 Billion AI Buildout",
-        "url": "https://www.youtube.com/watch?v=-YMMRQ1qscI",
-        "source": "a16z",
-        "published": "2026-10-23T15:40:03Z",
-        "summary": "Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving ...",
-        "thumbnail": "https://i.ytimg.com/vi/-YMMRQ1qscI/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "-YMMRQ1qscI",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "This Is How You Should Actually Make Launch Videos",
-        "url": "https://www.youtube.com/watch?v=v12aSIZIXUs",
-        "source": "Y Combinator",
-        "published": "2026-10-23T15:00:24Z",
-        "summary": "There's a misconception that a successful launch video needs to cost tens of thousands of dollars and feel like a high production ...",
-        "thumbnail": "https://i.ytimg.com/vi/v12aSIZIXUs/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "v12aSIZIXUs",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "What Is That Red Dot?",
-        "url": "https://www.youtube.com/watch?v=PBPLhvsR9V8",
-        "source": "Cleo Abram",
-        "published": "2026-10-23T13:45:36Z",
-        "summary": "What is that red dot? It's not a galaxy and it's not a star. Scientists think it's something entirely new and they're finding a bunch of ...",
-        "thumbnail": "https://i.ytimg.com/vi/PBPLhvsR9V8/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "PBPLhvsR9V8",
           "via": "api"
         }
       }
