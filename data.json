@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-10-29T04:23:47.776981+00:00",
+  "generated_at": "2026-10-30T04:24:16.025789+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australian politics live: PM grilled over golf club grant again as five ejected from question time; Bowen says he’s ‘triggered’ opposition",
-        "url": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+        "title": "An Arab Town in Israel Celebrates the Election but Wonders What Will Change",
+        "url": "https://www.nytimes.com/2026/10/30/world/middleeast/arab-voters-israel-election-taibe.html",
+        "source": "NYT World",
+        "published": "2026-10-30T04:01:20+00:00",
+        "summary": "Gains for Arab-led parties have electrified Taibe, in central Israel, even as voters elsewhere in Israel say they have no place in any future government.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "In China, the War on Mosquitoes Has Entered the A.I. Era",
+        "url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+        "source": "NYT World",
+        "published": "2026-10-30T04:01:12+00:00",
+        "summary": "Using sensors developed for self-driving cars, a Chinese start-up claims it can track and destroy tiny flying targets while avoiding people, pets and reflective surfaces.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Why are Detroit gas stations selling discounted fuel in Trump’s name?",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-10-30T03:31:30+00:00",
+        "summary": "Gas stations promoted by President Trump are selling discounted fuel in Detroit as Americans grapple with rising prices.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Feral deer will become Australia’s next feral pig problem without prompt action, report warns",
+        "url": "https://www.theguardian.com/environment/2026/oct/30/australia-feral-deer-problem-report-national-action-plan",
         "source": "The Guardian World",
-        "published": "2026-10-29T04:17:51+00:00",
-        "summary": "Get our breaking news email, free app or daily news podcastGas reservation policy set for lower house vote todayAustralia’s domestic gas reservation is set to be debated and voted on in the lower house today.Rather than international base companies, determining through algorithms what Australians receive, it empowers people themselves to determine what you receive on your devices, so that you shou",
+        "published": "2026-10-30T03:30:42+00:00",
+        "summary": "The invasive species has increased in spread and numbers and is costing farmers millions of dollarsGet our breaking news email, free app or daily news podcastAn unpublished government report on feral deer shows Australia is failing in its efforts to stop the spread of what one advocate warns could become “Australia’s next feral pig”.The five years from 2020-2025 over which the national feral deer ",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
-        "url": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
-        "source": "NYT World",
-        "published": "2026-10-29T04:08:43+00:00",
-        "summary": "Mr. Cárdenas, the only son of a Mexican president, never won the office but became a leading figure in the country’s democratic transformation.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "What we know so far about deadly Spain train crash",
-        "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+        "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-10-29T04:08:28+00:00",
-        "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+        "published": "2026-10-30T03:24:12+00:00",
+        "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "A Ukrainian City in the Kill Zone Relishes a Moment of Peace",
-        "url": "https://www.nytimes.com/2026/10/29/world/europe/a-ukrainian-city-in-the-kill-zone-relishes-a-moment-of-peace.html",
-        "source": "NYT World",
-        "published": "2026-10-29T04:01:08+00:00",
-        "summary": "A rare localized peace deal announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Incredible celebrations as last patient leaves a DRC Ebola centre",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/incredible-celebrations-as-last-patient-leaves-a-drc-ebola-centre?traffic_source=rss",
+        "title": "Flash floods kill five in Syria",
+        "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-10-29T03:39:02+00:00",
-        "summary": "Footage shows healthcare workers celebrating at an Ebola treatment centre in DR Congo after the last patient left.",
+        "published": "2026-10-30T03:11:55+00:00",
+        "summary": "Four children drowned while a man died after his car was caught in floodwaters.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.",
-        "url": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html",
-        "source": "NYT World",
-        "published": "2026-10-29T03:16:41+00:00",
-        "summary": "After a high-speed collision near Toledo, Spain, killed at least 68 people, rail safety experts said the rough consensus that it is best to sit in the middle of a train has its limits.",
+        "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
+        "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+        "source": "The Guardian World",
+        "published": "2026-10-30T02:56:46+00:00",
+        "summary": "The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi JinpingChina expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a major political gathering, which saw an unprecedented number of empty seats indicating the scale of the purges under Xi Jinping.A record 33 members we",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
-        "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-29T03:12:47+00:00",
-        "summary": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "30-year sentence in Minnesota fraud that drew Trump backlash",
-        "url": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-10-29T03:00:57+00:00",
-        "summary": "Government says Salim Said hit the jackpot in a scheme claiming to feed needy children during the COVID-19 pandemic.",
+        "title": "Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-10-30T02:47:58+00:00",
+        "summary": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in QueenslandGet our breaking news email, free app or daily news podcastA Queensland court has heard claims that former Bachelor star Sam Wood used drugs and alcohol, engaged in a “party lifestyle” and that he “struggles with anger”, as Wood makes a second bid for bail on domestic violence charges.\n",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Milwaukee Brewers win the first World Series title in franchise history",
-        "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+        "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+        "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
         "source": "Hacker News Front",
-        "published": "2026-10-29T03:44:12+00:00",
-        "summary": "Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series\nComments URL: https://news.ycombinator.com/item?id=50284329\nPoints: 13\n# Comments: 2",
+        "published": "2026-10-30T02:33:04+00:00",
+        "summary": "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/\nComments URL: https://news.ycombinator.com/item?id=50299182\nPoints: 18\n# Comments: 12",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
-        "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-        "source": "Wired",
-        "published": "2026-10-29T03:34:46+00:00",
-        "summary": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
-        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+        "url": "https://github.com/Millillion/lasm",
         "source": "Hacker News Front",
-        "published": "2026-10-29T03:33:42+00:00",
-        "summary": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\nComments URL: https://news.ycombinator.com/item?id=50284255\nPoints: 73\n# Comments: 1",
+        "published": "2026-10-30T02:05:41+00:00",
+        "summary": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages.Lean is one of the most popular languages that allow for formal verification, and to me is incred",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
-        "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+        "title": "Pico CSS is no longer maintained",
+        "url": "https://github.com/picocss/pico/discussions/754",
         "source": "Hacker News Front",
-        "published": "2026-10-29T03:01:57+00:00",
-        "summary": "Article URL: https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing\nComments URL: https://news.ycombinator.com/item?id=50284089\nPoints: 73\n# Comments: 20",
+        "published": "2026-10-30T01:58:44+00:00",
+        "summary": "Article URL: https://github.com/picocss/pico/discussions/754\nComments URL: https://news.ycombinator.com/item?id=50298964\nPoints: 66\n# Comments: 20",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-        "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "source": "TechCrunch",
+        "published": "2026-10-30T01:20:48+00:00",
+        "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Herdr has released native app",
+        "url": "https://github.com/herdrdev/herdr-app",
+        "source": "Hacker News Front",
+        "published": "2026-10-30T00:42:41+00:00",
+        "summary": "Article URL: https://github.com/herdrdev/herdr-app\nComments URL: https://news.ycombinator.com/item?id=50298436\nPoints: 62\n# Comments: 50",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Cormac McCarthy's Library",
+        "url": "https://cormacmccarthy.lib.utk.edu/",
+        "source": "Hacker News Front",
+        "published": "2026-10-30T00:31:00+00:00",
+        "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/\nComments URL: https://news.ycombinator.com/item?id=50298318\nPoints: 27\n# Comments: 12",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The director of Obsession put a new horror short on YouTube",
+        "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
         "source": "The Verge",
-        "published": "2026-10-29T02:22:46+00:00",
-        "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no [&#8230;]",
+        "published": "2026-10-29T23:57:18+00:00",
+        "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
-        "url": "https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/",
-        "source": "Hacker News Front",
-        "published": "2026-10-29T01:40:52+00:00",
-        "summary": "Article URL: https://www.designboom.com/technology/electronic-fibers-touchscreen-sleeve-machine-washing-national-university-singapore-nus-tural-khudiyev/\nComments URL: https://news.ycombinator.com/item?id=50283488\nPoints: 23\n# Comments: 3",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-        "url": "https://divagr.com/blog/qwenputer",
-        "source": "Hacker News Front",
-        "published": "2026-10-29T00:25:45+00:00",
-        "summary": "Article URL: https://divagr.com/blog/qwenputer\nComments URL: https://news.ycombinator.com/item?id=50282838\nPoints: 205\n# Comments: 46",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-        "source": "Hacker News Front",
-        "published": "2026-10-28T23:45:46+00:00",
-        "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\nComments URL: https://news.ycombinator.com/item?id=50282544\nPoints: 118\n# Comments: 45",
+        "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+        "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+        "source": "TechCrunch",
+        "published": "2026-10-29T23:44:56+00:00",
+        "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,43 +186,32 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "이상중 KISA 원장 해임…류재철 충남대 교수 직무대행 체제로",
-        "url": "https://byline.network/2026/10/29-567/",
+        "title": "[플레이BN] 손안으로 들어온 ‘데이브 더 다이버’, 재미는 그대로",
+        "url": "https://byline.network/2026/10/29-581/",
         "source": "ByLine Network",
-        "published": "2026-10-29T02:05:29+00:00",
-        "summary": "이상중 한국인터넷진흥원(KISA) 원장이 28일자로 해임됐다. KISA는 류재철 비상임이사가 원장 직무대행을 맡아 29일부터 업무를 시작했다고 밝혔다. 후임 원장이 선임될 때까지 류 직무대행 체제가 이어진다. 29일 KISA에 따르면 이 전 원장에 대한 해임은 전날 최종 확정됐다. 이에 따라 KISA는 기관장 공석에 따른 업무 공백을 최소화하기 위해 류 비상임이사를 직무대행으로 선임했다.",
+        "published": "2026-10-30T01:42:25+00:00",
+        "summary": "데이브 더 다이버는 그렇게 좋은 인상을 남긴 게임으로 남아 있었는데요. 최근 이 게임을 다시 접할 기회가 생겼습니다. 지난 9월 모바일 버전으로 출시된 겁니다. 직접 해본 데이브 더 다이버 모바일은 원작의 게임성을 그대로 담아낸 작품입니다. 플랫폼은 달라졌지만 게임성은 변함없었습니다. 다만 모바일 특성상 장단점이 선명한 작품이었습니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "배민이 라이더를 ‘명’이 아니라 ‘시간’으로 세는 이유",
-        "url": "https://byline.network/2026/10/28_29182737-2/",
+        "title": "토스 온투업 진출, 시장 확대냐 기존 사업자 잠식이냐",
+        "url": "https://byline.network/2026/10/1029-6/",
         "source": "ByLine Network",
-        "published": "2026-10-29T01:00:26+00:00",
-        "summary": "바쁜 저녁 시간, 이 많은 주문이 다 배달되기 위해서는 라이더 10명이 더 필요하다. 그런데 이 10명이 2시간을 달리느냐, 6시간을 달리느냐에 따라 배달 현장은 완전히 달라진다. 배달의민족(배민)이 라이더 수급 기준을 ‘몇 명’에서 ‘몇 시간’으로 바꾼 이유다. 이제 배민은 지역마다 몇 시간이 모자란지 먼저 계산하고, 그 시간을 채울 라이더를 찾아 나선다. 이 일을 맡은 플랫폼이 ‘카이로스(KAIROS)’다.",
+        "published": "2026-10-30T01:39:32+00:00",
+        "summary": "온투업 종사자 A씨는 온라인투자연계금융업 시장이 금융당국의 규제로 작게 형성된 연못과 같은 구조라고 설명했다. 시장이 바다처럼 넓지 않은 상황에서 빅테크인 토스가 진출하면 기존 업체들이 경쟁에서 밀릴 수 있다는 우려다. A씨는 시장이 충분히 커진 뒤 빅테크가 진입하는 것이 바람직하다고 봤다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Crunchbase Tech Layoffs Tracker",
-        "url": "https://news.crunchbase.com/startups/tech-layoffs/",
-        "source": "Crunchbase News",
-        "published": "2026-10-28T16:25:30+00:00",
-        "summary": "Over 127,000 workers at U.S.-based tech companies were laid off in mass job cuts in 2025, per a Crunchbase News tally, and the layoffs have continued into 2026. See the latest companies to cut roles.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "The executive talent market is divided in two",
-        "url": "https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/",
+        "title": "‘There’s no magic money tree’: Alex Depledge on the Budget, startup lobbying and why she left the UK government",
+        "url": "https://sifted.eu/articles/uk-budget-alex-depledge-advisor-startups/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-28T14:32:29+00:00",
+        "published": "2026-10-29T15:52:47+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -230,10 +219,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "UK Budget: Capital gains, work visas and young entrepreneur allowances",
-        "url": "https://sifted.eu/articles/uk-autumn-budget-2026-startups/",
+        "title": "Exclusive: Fractile raises £540m in new Series C funding, filings show",
+        "url": "https://sifted.eu/articles/exclusive-fractile-series-c/",
         "source": "Sifted (EU startups)",
-        "published": "2026-10-28T13:51:26+00:00",
+        "published": "2026-10-29T13:51:26+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -241,33 +230,44 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "인앱결제 강제한 대가, 구글·애플 과징금 637억원",
-        "url": "https://byline.network/2026/10/28-684/",
-        "source": "ByLine Network",
-        "published": "2026-10-28T12:05:46+00:00",
-        "summary": "방송미디어통신위원회가 구글과 애플의 인앱결제 강제 행위에 대해 총 637억1000만원의 과징금을 부과하기로 했다. 방미통위는 두 회사가 거래상 지위를 이용해 앱 개발사에 특정 결제방식을 강제하고, 앱 심사를 부당하게 지연했다고 판단했다. 애플이 국내 앱 개발사에 추가 수수료를 부과하는 차별 행위도 인정됐다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: Numeracle Raises $28M To Keep Legitimate Business Calls From Spam Label",
-        "url": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
+        "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
+        "url": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
         "source": "Crunchbase News",
-        "published": "2026-10-28T12:00:48+00:00",
-        "summary": "Numeracle, a McLean, Virginia-based company that verifies businesses and links their identities to the phone numbers they use to contact customers, has raised $28 million from Edison Partners to help businesses whose calls are incorrectly labeled as spam or blocked by phone carriers.",
+        "published": "2026-10-29T11:00:35+00:00",
+        "summary": "Crunchbase data shows that so far this year, investors have poured around $48 billion into financings around the Series B stage, the highest tally in years. Yet round counts are below year-ago levels and are on track for a multiyear low. We take a look at the data.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "비토즈 정 대표, KOK코인 의혹에 대표·사내이사직 사임",
-        "url": "https://byline.network/2026/10/1028-18/",
+        "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
+        "url": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
+        "source": "Crunchbase News",
+        "published": "2026-10-29T11:00:12+00:00",
+        "summary": "AI megarounds are masking a shrinking Series A market, leaving seed founders facing higher revenue expectations and longer timelines despite larger seed checks. To improve their chances, MGV's Marc Schröder says, founders should size their seed funding around Series A milestones.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[바스리] 로봇이 담아주는 도시락, 로닉 ‘큐브’가 식품 공장에 간다",
+        "url": "https://byline.network/2026/10/8923480238402/",
         "source": "ByLine Network",
-        "published": "2026-10-28T11:39:53+00:00",
-        "summary": "KOK코인 사건 관련 인물들이 디지털자산 기업 비토즈(BEATOZ)에서 활동하고 있다는 의혹이 제기된 가운데 정모 대표가 대표이사와 사내이사직에서 물러났다. 정 대표 명의의 해외 디지털자산거래소 지갑으로 KOK 운영 자금이 이동했다는 의혹이 제기된 데 따른 조치다.",
+        "published": "2026-10-29T09:31:32+00:00",
+        "summary": "도시락 공장 생산라인에 노동자들이 일렬로 서 있다. 컨베이어를 따라 도시락 용기가 움직일 때마다 각자 맡은 음식을 하나씩 담는다. 단순한 일이지만 요즘은 이마저도 외국인 노동자로 대체해야할 정도로 사람을 구하기 어렵다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Are Europe's fastest-growing startups hiring wrong?",
+        "url": "https://sifted.eu/articles/are-europes-fastest-growing-startups-hiring-wrong-brnd/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-10-29T09:03:26+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,30 +276,135 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Wall Street for the Physical Buildout",
-        "url": "https://www.youtube.com/watch?v=KlHzPbZ6PNI",
+        "title": "AI for City Hall",
+        "url": "https://www.youtube.com/watch?v=VoSVN7H07-Q",
         "source": "Y Combinator",
-        "published": "2026-10-28T21:44:28Z",
-        "summary": "Software is cheap to start. Robots, GPU clusters, and data centers are not. The physical AI buildout will need new ways to finance ...",
-        "thumbnail": "https://i.ytimg.com/vi/KlHzPbZ6PNI/mqdefault.jpg",
+        "published": "2026-10-29T22:23:19Z",
+        "summary": "In some cities, getting a building permit takes longer than building the house. AI can help with plan reviews, zoning checks, ...",
+        "thumbnail": "https://i.ytimg.com/vi/VoSVN7H07-Q/mqdefault.jpg",
         "extras": {
           "theme": "innovation",
-          "videoId": "KlHzPbZ6PNI",
+          "videoId": "VoSVN7H07-Q",
           "via": "api"
         }
       },
       {
         "category": "videos",
         "kind": "video",
-        "title": "Own Your Intelligence",
-        "url": "https://www.youtube.com/watch?v=DzblM1Mc-J8",
+        "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, &amp; the FDA Fight",
+        "url": "https://www.youtube.com/watch?v=Uc6xXNBWjfc",
+        "source": "All-In Podcast",
+        "published": "2026-10-29T21:26:56Z",
+        "summary": "(0:00) Welcome Will Ahmed, CEO of WHOOP (0:59) WHOOP's $500 Hardware Problem & the Subscription Pivot (6:59) Inside 50 ...",
+        "thumbnail": "https://i.ytimg.com/vi/Uc6xXNBWjfc/mqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "Uc6xXNBWjfc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "LLMs That Write Well",
+        "url": "https://www.youtube.com/watch?v=674Efd5Scfg",
         "source": "Y Combinator",
-        "published": "2026-10-28T20:15:52Z",
-        "summary": "Most companies building with AI still rent their intelligence from frontier labs. As open models improve, more companies will want ...",
-        "thumbnail": "https://i.ytimg.com/vi/DzblM1Mc-J8/mqdefault.jpg",
+        "published": "2026-10-29T18:48:01Z",
+        "summary": "LLMs have gotten much better at coding and math, but their writing increasingly sounds flat and robotic. The same reward signals ...",
+        "thumbnail": "https://i.ytimg.com/vi/674Efd5Scfg/mqdefault.jpg",
         "extras": {
           "theme": "innovation",
-          "videoId": "DzblM1Mc-J8",
+          "videoId": "674Efd5Scfg",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why Are Zombies Green?",
+        "url": "https://www.youtube.com/watch?v=GBMZAl8C7ig",
+        "source": "Cleo Abram",
+        "published": "2026-10-29T14:58:05Z",
+        "summary": "Why are zombies almost always green? Well, some real science can explain… For more, subscribe! #biology #halloween ...",
+        "thumbnail": "https://i.ytimg.com/vi/GBMZAl8C7ig/mqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "GBMZAl8C7ig",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How to Build the Next SpaceX or Tesla",
+        "url": "https://www.youtube.com/watch?v=cRJ7CfaK1Vc",
+        "source": "a16z",
+        "published": "2026-10-29T13:50:32Z",
+        "summary": "America's defense, energy, manufacturing, and robotics booms are increasingly becoming one story: the rebuilding of the ...",
+        "thumbnail": "https://i.ytimg.com/vi/cRJ7CfaK1Vc/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "cRJ7CfaK1Vc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "등록금 못 내던 중학생에서 전 세계를 사로잡기까지 | 정샘물",
+        "url": "https://www.youtube.com/watch?v=pijy2LxvyKs",
+        "source": "EO 이오",
+        "published": "2026-10-29T12:11:18Z",
+        "summary": "K-뷰티의 원조격, 정샘물 뷰티가 미국 시장에서 다시 '신인'이 되었습니다. K-뷰티 수출이 역대 최고치를 기록하고 있는 지금, 가장 큰 ...",
+        "thumbnail": "https://i.ytimg.com/vi/pijy2LxvyKs/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "pijy2LxvyKs",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why El Salvador is Invading Haiti",
+        "url": "https://www.youtube.com/watch?v=OEOslw7p_gY",
+        "source": "TLDR News Global",
+        "published": "2026-10-29T10:30:05Z",
+        "summary": "Pre-order a copy of Too Long: toolong.news/TL010 In this video, we're going to explain why El Salvador is (sort of) invading Haiti; ...",
+        "thumbnail": "https://i.ytimg.com/vi/OEOslw7p_gY/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "OEOslw7p_gY",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "뼈를 깎는 체질개선에 들어간 협동조합들",
+        "url": "https://www.youtube.com/watch?v=k6CDRTmyAHo",
+        "source": "슈카월드",
+        "published": "2026-10-29T10:07:50Z",
+        "summary": "0:08 일본 농촌 현황 및 일본의 농협(JA) 8:32 국내 금융업권 현황 및 상호금융 특수성 11:46 농협의 구조 및 장점 16:48 경기침체에 ...",
+        "thumbnail": "https://i.ytimg.com/vi/k6CDRTmyAHo/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "k6CDRTmyAHo",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI 잘 쓰는 직원에게 일 몰아주면 생기는 일  (김지현 테크라이터)",
+        "url": "https://www.youtube.com/watch?v=hEDTrwiTCx0",
+        "source": "티타임즈TV",
+        "published": "2026-10-29T09:00:36Z",
+        "summary": "직원 세 명이 퇴사했는데 새로 뽑는 대신 그들이 쓰던 컴퓨터에 AI 에이전트를 설치해 일을 시킵니다. 김지현 테크라이터가 소개한 ...",
+        "thumbnail": "https://i.ytimg.com/vi/hEDTrwiTCx0/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "hEDTrwiTCx0",
           "via": "api"
         }
       },
@@ -315,111 +420,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "ASEdkRI7YEM",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
-        "url": "https://www.youtube.com/watch?v=5UWDUD6qaM4",
-        "source": "a16z",
-        "published": "2026-10-28T14:30:15Z",
-        "summary": "Mark Cuban thinks AI could transform healthcare, but it won't fix opaque prices and broken incentives on its own. His starting point ...",
-        "thumbnail": "https://i.ytimg.com/vi/5UWDUD6qaM4/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "5UWDUD6qaM4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "We Just Need ONE More Subscriber for 9M!",
-        "url": "https://www.youtube.com/watch?v=eOGwx5QM1x4",
-        "source": "Cleo Abram",
-        "published": "2026-10-28T14:03:33Z",
-        "summary": "We are about to hit 9 million subscribers! We just need 50 more people… At 9 million, we'd wrap ALL the way around THIS ...",
-        "thumbnail": "https://i.ytimg.com/vi/eOGwx5QM1x4/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "eOGwx5QM1x4",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Israel’s Election Results Explained",
-        "url": "https://www.youtube.com/watch?v=Rousymf8Iqo",
-        "source": "TLDR News Global",
-        "published": "2026-10-28T11:25:46Z",
-        "summary": "Pre-order a copy of Too Long: toolong.news/TL010 Yesterday, Israel went to the polls to elect members of it's parliament with the ...",
-        "thumbnail": "https://i.ytimg.com/vi/Rousymf8Iqo/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "Rousymf8Iqo",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "막장 저격 광고 냈다가, 나락가게 생긴 미국 주지사 후보",
-        "url": "https://www.youtube.com/watch?v=xEKKi3MTz2I",
-        "source": "슈카월드",
-        "published": "2026-10-28T10:01:32Z",
-        "summary": "0:00 주목 받는 오하이오 주지사 선거 후보 6:32 미국 중간선거를 뒤흔든 초유의 저격 광고 12:34 내가 누구인지는 중요하지 않다.",
-        "thumbnail": "https://i.ytimg.com/vi/xEKKi3MTz2I/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "xEKKi3MTz2I",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "사기 문자 10건 판단, Jev와 클로드·GPT·제미나이 붙여 봤더니 (최지웅 유캔랩스 대표)",
-        "url": "https://www.youtube.com/watch?v=xXn0JDvpAVw",
-        "source": "티타임즈TV",
-        "published": "2026-10-28T09:33:05Z",
-        "summary": "글을 쓰지도, 코드를 짜지도 못하는 AI가 실리콘밸리의 주목을 받고 있습니다. 챗GPT가 사람 말을 알아듣게 만든 연구자 중 한 명인 디 ...",
-        "thumbnail": "https://i.ytimg.com/vi/xXn0JDvpAVw/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "xXn0JDvpAVw",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Guess How Far The Sun Is",
-        "url": "https://www.youtube.com/watch?v=DcAjv8YRKN8",
-        "source": "Cleo Abram",
-        "published": "2026-10-27T14:44:43Z",
-        "summary": "Most people don't understand how far away the Sun really is… If you lined up all the planets in the solar system side by side, ...",
-        "thumbnail": "https://i.ytimg.com/vi/DcAjv8YRKN8/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "DcAjv8YRKN8",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "개미들이여 힘을 모아다오!",
-        "url": "https://www.youtube.com/watch?v=x4nCIjbauVg",
-        "source": "슈카월드",
-        "published": "2026-10-27T10:09:24Z",
-        "summary": "0:00 전세계 하락률 1위의 증시는? 3:36 원자재 가격은 우리가 직접 결정한다. 9:53 사상 초유 MSCI와 싸우는 국가.",
-        "thumbnail": "https://i.ytimg.com/vi/x4nCIjbauVg/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "x4nCIjbauVg",
           "via": "api"
         }
       }
