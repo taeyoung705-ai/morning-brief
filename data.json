@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-11-11T04:43:46.044993+00:00",
+  "generated_at": "2026-11-12T05:46:03.828461+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Netanyahu heckled by Bennett at Knesset opening session",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/netanyahu-heckled-by-bennett-at-knesset-opening-session?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-11T04:04:56+00:00",
-        "summary": "Former Israeli Prime Minister Naftali Bennett repeatedly heckled caretaker PM Benjamin Netanyahu.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "David Jones to close half its stores triggering mass job losses under ‘urgent restructure’",
-        "url": "https://www.theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure",
-        "source": "The Guardian World",
-        "published": "2026-11-11T03:59:03+00:00",
-        "summary": "Australia’s oldest department store collapsed into voluntary administration last week after years of steep losses David Jones is set to shutter half its department store network, triggering mass job losses under a sweeping restructure, receivers FTI Consulting said on Wednesday.David Jones employs more than 6,000 staff across 38 stores. Continue reading...",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "ICE Deportation Flight Carrying Iranians Turns Back and Lands in Arizona",
-        "url": "https://www.nytimes.com/2026/11/10/world/asia/ice-deportation-flight-iran-mesa.html",
+        "title": "A.I. and Market Whiplash",
+        "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
         "source": "NYT World",
-        "published": "2026-11-11T03:57:10+00:00",
-        "summary": "The Iranian immigrants in the plane were scheduled to be flown to Pakistan and then transferred to Iran, lawyers for the group said.",
+        "published": "2026-11-12T05:30:46+00:00",
+        "summary": "A Times reporter who covers financial markets helps us make sense of tech turbulence.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Section 219: the future of US-Israeli defence partnership",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-11T03:48:58+00:00",
-        "summary": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+        "title": "New York building collapse kills at least two, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-11-11T03:44:06+00:00",
-        "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+        "published": "2026-11-12T05:12:56+00:00",
+        "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
-        "url": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+        "title": "French guard collapses as Macron rushes to help",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-12T05:11:15+00:00",
+        "summary": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-12T05:06:27+00:00",
+        "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "More than 300 migrants rescued off Spain’s Canary Islands",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-12T05:04:25+00:00",
+        "summary": "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+        "url": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
         "source": "NYT World",
-        "published": "2026-11-11T03:33:32+00:00",
-        "summary": "Dozens of first-time lawmakers were sworn into the Knesset, where the opposition, led by Gadi Eisenkot, now has a majority.",
+        "published": "2026-11-12T05:01:15+00:00",
+        "summary": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-11-11T03:26:42+00:00",
-        "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+        "title": "ALT: She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
+        "url": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
+        "source": "NYT World",
+        "published": "2026-11-12T05:01:11+00:00",
+        "summary": "Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
-        "url": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
+        "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
+        "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-11T03:21:40+00:00",
-        "summary": "Kennedy dynasty has filed a motion to stop Trump&#039;s arch from obscuring JFK Eternal Flame and family gravesites.",
+        "published": "2026-11-12T04:41:17+00:00",
+        "summary": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-        "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+        "title": "Darling Development Update – Q4 2026",
+        "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
         "source": "Hacker News Front",
-        "published": "2026-11-11T02:57:08+00:00",
-        "summary": "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna\nComments URL: https://news.ycombinator.com/item?id=50449275\nPoints: 22\n# Comments: 9",
+        "published": "2026-11-12T04:32:31+00:00",
+        "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/\nComments URL: https://news.ycombinator.com/item?id=50463103\nPoints: 6\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Hooked on Tuna",
-        "url": "https://blue-continuum.com/hooked-on-tuna",
-        "source": "Hacker News Front",
-        "published": "2026-11-11T02:23:25+00:00",
-        "summary": "Article URL: https://blue-continuum.com/hooked-on-tuna\nComments URL: https://news.ycombinator.com/item?id=50449080\nPoints: 16\n# Comments: 0",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "A great old-timey game-programming hack (2013)",
-        "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-        "source": "Hacker News Front",
-        "published": "2026-11-11T01:56:31+00:00",
-        "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html\nComments URL: https://news.ycombinator.com/item?id=50448921\nPoints: 65\n# Comments: 9",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "X launches its own clipping feature to spur influencer engagement",
-        "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
         "source": "TechCrunch",
-        "published": "2026-11-11T01:02:13+00:00",
-        "summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+        "published": "2026-11-12T03:13:10+00:00",
+        "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "LLMs Play Zachtronics' TIS-100",
-        "url": "https://tis-100.wincon.dev/",
+        "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+        "url": "https://github.com/DaleFranks/ramasite",
         "source": "Hacker News Front",
-        "published": "2026-11-11T00:37:05+00:00",
-        "summary": "Article URL: https://tis-100.wincon.dev/\nComments URL: https://news.ycombinator.com/item?id=50448340\nPoints: 24\n# Comments: 3",
+        "published": "2026-11-12T02:53:22+00:00",
+        "summary": "I'm new here, and little nervous about posting, but here goes.I'm not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9-year stint as active duty military, I've spent 46 years either personally or professionally working in tech. I've programmed in RPG using punch cards for an IBM /System360, and COBOL on a DEC pdp 11/34. I've w",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-        "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-        "source": "The Verge",
-        "published": "2026-11-11T00:34:24+00:00",
-        "summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR [&#8230;]",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
-        "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+        "title": "Lean Grimoire",
+        "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
         "source": "Hacker News Front",
-        "published": "2026-11-11T00:15:33+00:00",
-        "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/\nComments URL: https://news.ycombinator.com/item?id=50448174\nPoints: 26\n# Comments: 11",
+        "published": "2026-11-12T02:36:48+00:00",
+        "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/\nComments URL: https://news.ycombinator.com/item?id=50462375\nPoints: 21\n# Comments: 4",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Seagate's new hybrid drive raises some old questions",
-        "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-        "source": "Ars Technica",
-        "published": "2026-11-10T23:30:56+00:00",
-        "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+        "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
+        "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
+        "source": "Wired",
+        "published": "2026-11-12T02:33:02+00:00",
+        "summary": "The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Critical RCE Vulnerability in Apache HTTP Server",
+        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+        "source": "Hacker News Front",
+        "published": "2026-11-12T02:11:11+00:00",
+        "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50462177\nPoints: 76\n# Comments: 30",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
+        "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
+        "source": "Wired",
+        "published": "2026-11-12T01:53:24+00:00",
+        "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "source": "TechCrunch",
+        "published": "2026-11-11T23:50:00+00:00",
+        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,43 +186,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "카카오벤처스 ‘KV 인사이트풀데이 2026’ 개최…AI가 바꿀 관계·삶·일의 미래 짚다",
-        "url": "https://platum.kr/archives/298270?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25ec%25b9%25b4%25ec%2598%25a4%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-kv-%25ec%259d%25b8%25ec%2582%25ac%25ec%259d%25b4%25ed%258a%25b8%25ed%2592%2580%25eb%258d%25b0%25ec%259d%25b4-2026-%25ea%25b0%259c%25ec%25b5%259cai%25ea%25b0%2580-%25eb%25b0%2594",
-        "source": "Platum",
-        "published": "2026-11-11T00:37:40+00:00",
-        "summary": "카카오벤처스가 지난 10일 서울 강남구 디캠프 선릉에서 &#8216;KV 인사이트풀데이 2026&#8217;을 개최했다. 스타트업 관계자, 투자자, 예비 창업자, 학계, 미디어 등 150여 명이 참석한 가운데 &#8216;The New Native: 새로운 존재 방식의 탄생&#8217;을 주제로 진행됐다. KV 인사이트풀데이는 카카오벤처스 투자 심사역과 각 분야 전문가들이 산업 변화와 새로운 시장에 대한 관점을 나누는 지식 공유 행사다. 올해는 AI 컴패니언, 롱제비티, AI ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "패스트캠퍼스·엔비디아, ‘Agentic AI 해커톤’ 개최…플라이게이트 우승",
-        "url": "https://platum.kr/archives/298267?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%25a8%25ec%258a%25a4%25ed%258a%25b8%25ec%25ba%25a0%25ed%258d%25bc%25ec%258a%25a4%25c2%25b7%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594%25ec%2595%2584-agentic-ai-%25ed%2595%25b4%25ec%25bb%25a4%25ed%2586%25a4-%25ea%25b0%259c%25ec%25b5%259c%25ed%2594%258c%25eb%259d%25bc%25ec%259d%25b4",
-        "source": "Platum",
-        "published": "2026-11-11T00:23:09+00:00",
-        "summary": "패스트캠퍼스와 엔비디아(NVIDIA)가 공동 개최한 &#8216;Agentic AI 해커톤&#8217;이 마무리됐다. 의료 AI 연구자와 현직 약사로 구성된 &#8216;FlyGate&#8217; 팀이 최종 우승을 차지하며 11월 10일 서울 코엑스에서 열린 &#8216;NVIDIA AI Day Seoul 2026&#8217;에서 그 성과가 공개됐다. 이번 해커톤은 생성형 AI가 스스로 작업을 계획하고 실행하는 에이전틱 AI(Agentic AI)로 발전하는 흐름에 맞춰 AI 에이전트 개발 역량을 갖춘 인재를 발굴하기 위해 마련됐다. ... 더 읽기",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
-        "url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
-        "source": "Crunchbase News",
-        "published": "2026-11-10T18:51:25+00:00",
-        "summary": "Anthropic is seeking to secure up to $88.5 billion in its planned IPO and a concurrent private placement, potentially making it the largest-ever fundraise tied to a public market debut. On Tuesday, the AI giant submitted an updated S-1 filing for its upcoming public offering, unveiling new details including a proposed share price range offering size.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Mistral pushes back on new AI copyright proposals, sparking outcry from creatives",
-        "url": "https://sifted.eu/articles/mistral-copyright-law-proposal/",
+        "title": "15 German startups to watch in 2026, according to VCs",
+        "url": "https://sifted.eu/articles/15-german-startups-to-watch-2026-vc/",
         "source": "Sifted (EU startups)",
-        "published": "2026-11-10T17:04:26+00:00",
+        "published": "2026-11-12T05:00:50+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -230,32 +197,65 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "공정위 “네이버파이낸셜·두나무 결합, 경쟁제한 우려”",
-        "url": "https://byline.network/2026/11/10_2918273-8/",
+        "title": "Exclusive: Orakl Oncology raises $34m to test cancer drugs on ‘virtual patients’",
+        "url": "https://sifted.eu/articles/exclusive-orakl-oncology-fundraise/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-12T05:00:39+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "European chips funding almost quadruples as investors back Nvidia’s inference challengers",
+        "url": "https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-12T05:00:38+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Six European scientists building startups in stealth",
+        "url": "https://sifted.eu/articles/six-european-scientists-building-startups-in-stealth/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-12T05:00:08+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "박상원 금융보안원장 “해킹 사고 송구, 전 시스템 점검”",
+        "url": "https://byline.network/2026/11/12-667/",
         "source": "ByLine Network",
-        "published": "2026-11-10T16:35:47+00:00",
-        "summary": "공정거래위원회가 네이버파이낸셜과 두나무 기업결합으로 다수 시장에 경쟁이 제한될 우려가 있다고 판단했다. 이에 경쟁제한 우려를 해소하기 위한 시정조치 의견을 제시하고, 기업결합 승인 여부를 결정하는 심의 절차에 착수했다. 공정위는 연내 심의를 마무리하는 것을 목표로 하고 있다.",
+        "published": "2026-11-12T03:28:24+00:00",
+        "summary": "박상원 금융보안원장이 최근 상시평가 시스템에서 발생한 해킹 사고에 대해 사과했다. 박 원장은 12일 서울 여의도 콘래드호텔에서 열린 ‘금융정보보호 콘퍼런스 피스콘(FISCON) 2026’에서 모든 시스템을 점검하고 재발 방지 대책을 마련하겠다고 밝혔다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "기술은 다 있는데 시장이 없다, 에너지 스타트업이 마주한 데스밸리",
-        "url": "https://platum.kr/archives/298259?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%2580-%25eb%258b%25a4-%25ec%259e%2588%25eb%258a%2594%25eb%258d%25b0-%25ec%258b%259c%25ec%259e%25a5%25ec%259d%25b4-%25ec%2597%2586%25eb%258b%25a4-%25ec%2597%2590%25eb%2584%2588%25ec%25a7%2580-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%259d%25b4-%25eb%25a7%2588",
-        "source": "Platum",
-        "published": "2026-11-10T12:19:31+00:00",
-        "summary": "에너지 분야 스타트업 창업자와 투자자들은 지금 가장 넘기 어려운 고비로 기술 개발이 아닌 시장 진입과 스케일업 단계를 꼽았다. 10일 서울 그랜드 하얏트에서 열린 중소벤처기업부 딥테크 포럼 ‘DEEP DIVE INTO 2026(DETO 2026)’ 에너지 세션의 패널토크 &#8216;스타트업 데스밸리 극복 방안&#8217;에서다. 진행은 조상래 플래텀 대표가 맡았다. 패널로는 이종민 한전기술지주 대표, 한상엽 소풍벤처스 대표파트너, 장권영 시너지 대표, 김종규 식스티헤르츠 ... 더 읽기",
+        "title": "국가보안기술연구소 신임 소장에 임정석 책임연구원 선임",
+        "url": "https://byline.network/2026/11/12-662/",
+        "source": "ByLine Network",
+        "published": "2026-11-12T01:53:02+00:00",
+        "summary": "한국전자통신연구원(ETRI)은 부설 국가보안기술연구소 소장에 임정석 현 국가보안기술연구소 책임연구원을 선임했다고 12일 밝혔다. 임정석 신임 소장 임기는 3년으로, 15일부터 업무에 돌입한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Jensen Huang pulls out of ElevenLabs Summit amid controversy",
-        "url": "https://sifted.eu/articles/jensen-huang-pulls-out-of-elevenlabs-summit-amid-controversy/",
+        "title": "Fractile confirms £540m raise first revealed by Sifted",
+        "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
         "source": "Sifted (EU startups)",
-        "published": "2026-11-10T12:12:02+00:00",
+        "published": "2026-11-11T16:09:13+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -263,16 +263,121 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Crunchbase Unicorn Board Tops 1,900 Companies In October, With 34 Companies Joining — Half Under 4 Years Old",
-        "url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
-        "source": "Crunchbase News",
-        "published": "2026-11-10T12:00:34+00:00",
-        "summary": "A total of 34 companies joined The Crunchbase Unicorn Board in October, adding more than $96 billion in value and $14.8 billion in total funding to the board. The board also reached a new record of 1,900 private companies last month, along with a new record for the U.S. with more than 1,000 private unicorn companies.",
+        "title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장",
+        "url": "https://byline.network/2026/11/1111-9/",
+        "source": "ByLine Network",
+        "published": "2026-11-11T14:34:54+00:00",
+        "summary": "피지컬 AI의 제조 현장 도입이 확대되고 있지만, 카메라 인식 오류와 기계 부품 고장, 통신 표준화 미비, 현장 데이터 부족 등이 양산의 걸림돌로 작용하고 있다. 성민수 아이벡스 대표는 센서·AI 모델·로봇 장비·제어 소프트웨어·유지관리 체계가 유기적으로 결합해야 한다고 강조했다. 아이벡스는 핵심 기술 내재화와 단일 책임 체계, 현장 데이터를 활용한 폐쇄형 루프 운영을 통해 제조 현장의 문제를 해결한다는 계획이다.",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "3 Ways to Improve Cognitive Performance",
+        "url": "https://www.youtube.com/watch?v=5beqvCwiO_Y",
+        "source": "a16z",
+        "published": "2026-11-11T21:30:11Z",
+        "summary": "Andrew Huberman, Stanford neuroscientist and host of the Huberman Lab podcast, on the first habit he'd give founders for ...",
+        "thumbnail": "https://i.ytimg.com/vi/5beqvCwiO_Y/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "5beqvCwiO_Y",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Inside Theranos with ex-Employee Tyler Shultz",
+        "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+        "source": "Y Combinator",
+        "published": "2026-11-11T19:44:03Z",
+        "summary": "With Theranos and Elizabeth Holmes back in the conversation, we're revisiting one of the most remarkable firsthand accounts of ...",
+        "thumbnail": "https://i.ytimg.com/vi/iXWSYlAX5Lg/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "iXWSYlAX5Lg",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle",
+        "url": "https://www.youtube.com/watch?v=LI3lxzHfRrU",
+        "source": "a16z",
+        "published": "2026-11-11T15:30:22Z",
+        "summary": "The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco's strategy during the ...",
+        "thumbnail": "https://i.ytimg.com/vi/LI3lxzHfRrU/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "LI3lxzHfRrU",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "코스피 5,000 붕괴, AI 서사는 무너졌는가",
+        "url": "https://www.youtube.com/watch?v=QBSm6BJko4A",
+        "source": "슈카월드",
+        "published": "2026-11-11T11:22:17Z",
+        "summary": "0:00 한여름 밤의 꿈 18:53 미국 민주당의 주요 승리 요인 28:35 이번 공화당 패배의 최대 피해자는? 40:21 이 시점, 大현자의 말.",
+        "thumbnail": "https://i.ytimg.com/vi/QBSm6BJko4A/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "QBSm6BJko4A",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Why El Salvador&#39;s Haiti Intervention is Going Surprisingly Well",
+        "url": "https://www.youtube.com/watch?v=MJE_e9GXFMc",
+        "source": "TLDR News Global",
+        "published": "2026-11-11T10:45:18Z",
+        "summary": "Take back control of your online experience with ProtonVPN, and get 75% off VPN plans using our link: https://protonvpn.com/tldr ...",
+        "thumbnail": "https://i.ytimg.com/vi/MJE_e9GXFMc/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "MJE_e9GXFMc",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "15명이서 연 매출 350억, 알토스도 투자한 폭풍 성장 스타트업 | 와이텐플러스 임형균",
+        "url": "https://www.youtube.com/watch?v=mBvUoStZU2k",
+        "source": "EO 이오",
+        "published": "2026-11-11T10:10:48Z",
+        "summary": "신제품 월 10개 내는 1000억 규모의 식품 회사들 vs 15명이서 월에 신제품 15개 만드는 스타트업 와이텐플러스는 빠르게 바뀌는 식품 ...",
+        "thumbnail": "https://i.ytimg.com/vi/mBvUoStZU2k/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "mBvUoStZU2k",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "엔비디아는 왜 한국 스타트업과 ‘로봇 손재주 동맹’ 맺었나? (류중희 리얼월드 대표)",
+        "url": "https://www.youtube.com/watch?v=MNJANd25Tp0",
+        "source": "티타임즈TV",
+        "published": "2026-11-11T09:00:11Z",
+        "summary": "한국의 피지컬AI 회사 리얼월드가 최근 엔비디아와 로봇 손동작을 평가하는 벤치마크 '덱스벤치'를 공개했죠. 모든 로봇에 적용 가능한 ...",
+        "thumbnail": "https://i.ytimg.com/vi/MNJANd25Tp0/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "MNJANd25Tp0",
+          "via": "api"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -285,21 +390,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "5mSF8npmm9A",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "걱정 노노",
-        "url": "https://www.youtube.com/watch?v=5LEMniVcweU",
-        "source": "슈카월드",
-        "published": "2026-11-11T04:34:54Z",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i.ytimg.com/vi/5LEMniVcweU/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "5LEMniVcweU",
           "via": "api"
         }
       },
@@ -330,96 +420,6 @@
         "extras": {
           "theme": "analysis",
           "videoId": "8h-gfrVYyAU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "They Found Something In King Tut’s Tomb",
-        "url": "https://www.youtube.com/watch?v=kCD532ylVGc",
-        "source": "Cleo Abram",
-        "published": "2026-11-10T17:05:16Z",
-        "summary": "They might drill into King Tut's tomb… The Tomb of Tutankhamen has puzzled archaeologists for decades. Compared to other ...",
-        "thumbnail": "https://i.ytimg.com/vi/kCD532ylVGc/mqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "kCD532ylVGc",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse",
-        "url": "https://www.youtube.com/watch?v=s4lXP9IuHjk",
-        "source": "a16z",
-        "published": "2026-11-10T15:30:23Z",
-        "summary": "As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-founder and ...",
-        "thumbnail": "https://i.ytimg.com/vi/s4lXP9IuHjk/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "s4lXP9IuHjk",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why Syria is Trying to Join the Mecca Pact",
-        "url": "https://www.youtube.com/watch?v=oiP4ed8EDco",
-        "source": "TLDR News Global",
-        "published": "2026-11-10T09:30:32Z",
-        "summary": "Take back control of your online experience with ProtonVPN, and get 75% off VPN plans using our link: https://protonvpn.com/tldr ...",
-        "thumbnail": "https://i.ytimg.com/vi/oiP4ed8EDco/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "oiP4ed8EDco",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "“AI가 준 선물은 생산성이 아니라 진짜 비즈니스를 시작할 수 있는 것” (송인혁 유니크굿컴퍼니 대표)",
-        "url": "https://www.youtube.com/watch?v=6Omv_KD9l98",
-        "source": "티타임즈TV",
-        "published": "2026-11-10T09:00:14Z",
-        "summary": "1천명 규모 유통회사를 이끌다 번아웃으로 그만둔 한 CEO는 컨테이너 수출을 시작했습니다. 수출에 필요한 복잡한 과정을 AI로 ...",
-        "thumbnail": "https://i.ytimg.com/vi/6Omv_KD9l98/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "6Omv_KD9l98",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "How the GOP Civil War is Shaking Out",
-        "url": "https://www.youtube.com/watch?v=qONW427lagA",
-        "source": "TLDR News Global",
-        "published": "2026-11-09T09:30:02Z",
-        "summary": "Pre-order a copy of Too Long: toolong.news/TL010 Dividing lines have been drawn within the GOP following their staggering ...",
-        "thumbnail": "https://i.ytimg.com/vi/qONW427lagA/mqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "qONW427lagA",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "벼랑 끝 간절함으로 만든 에이전트 조직이 회사 살렸다 (송인혁 유니크굿컴퍼니 대표)",
-        "url": "https://www.youtube.com/watch?v=6RVgHIAmx9Y",
-        "source": "티타임즈TV",
-        "published": "2026-11-09T09:00:06Z",
-        "summary": "한때 58명이 일하던 체험 콘텐츠 회사 유니크굿컴퍼니는 직원이 늘어날 수록 오히려 적자가 증가하는 굴레 속에서 20억원의 적자를 ...",
-        "thumbnail": "https://i.ytimg.com/vi/6RVgHIAmx9Y/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "6RVgHIAmx9Y",
           "via": "api"
         }
       }
