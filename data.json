@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-11-12T05:46:03.828461+00:00",
+  "generated_at": "2026-11-13T05:05:08.804066+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "A.I. and Market Whiplash",
-        "url": "https://www.nytimes.com/2026/11/11/world/tech-stocks-ai-nvidia-china.html",
+        "title": "In French Election, Centrists Eye a Judo Star and a Central Banker",
+        "url": "https://www.nytimes.com/2026/11/13/world/europe/france-riner-judo-lagarde-election.html",
         "source": "NYT World",
-        "published": "2026-11-12T05:30:46+00:00",
-        "summary": "A Times reporter who covers financial markets helps us make sense of tech turbulence.",
+        "published": "2026-11-13T05:01:06+00:00",
+        "summary": "Centrists want alternatives to a matchup between the far right and far left in the 2027 presidential election. Teddy Riner, the judo champion, is in, while Christine Lagarde is less likely.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "New York building collapse kills at least two, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-11-12T05:12:56+00:00",
-        "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+        "title": "More than 60% of Germany’s female soldiers report harassment or abuse",
+        "url": "https://www.theguardian.com/world/2026/nov/13/more-than-60-of-germanys-female-soldiers-report-harassment-or-abuse",
+        "source": "The Guardian World",
+        "published": "2026-11-13T05:00:09+00:00",
+        "summary": "Defence minister says extent of sexual misconduct found by study is ‘unacceptable’, as military tries to attract more recruits Germany’s defence minister has promised a “zero tolerance” approach to sexual abuse in the armed forces after a study found soldiers, particularly women, faced extensive harassment within the ranks.The first comprehensive study of its kind into the Bundeswehr, conducted by",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "French guard collapses as Macron rushes to help",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
+        "title": "Minister’s office said contractor should handle CFMEU or lose work in Victoria, Big Build inquiry hears",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/13/big-build-royal-commission-vida-construction-workers-fearful-cfmeu-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-11-13T04:51:17+00:00",
+        "summary": "Royal commission also hears from construction company employee who says workers were ‘fearful’ of unionGet our breaking news email, free app or daily news podcastA major contractor on a troubled Victorian rail project shut down by union officials was warned that the minister’s office felt it would not “have any more work” in the state if it did not resolve the industrial dispute, a royal commissio",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "‘Looks like we’ll have to talk to people’: Australia sent back to time before email with major Microsoft outage",
+        "url": "https://www.theguardian.com/technology/2026/nov/13/major-microsoft-outage-impacts-australian-government-services-and-schools",
+        "source": "The Guardian World",
+        "published": "2026-11-13T04:40:14+00:00",
+        "summary": "Government services and schools impacted by Outlook and Teams issue as company says fix not ‘taking as expected’Microsoft outage – live updatesMicrosoft struggles to fix huge outage affecting Outlook and TeamsAustralian schools, courts and government services have been hurled back in time to how business used to be done after a global Microsoft outage caused emails and online meetings to go dark.A",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Talarico appeals to Trump’s legacy in bid for bipartisan reforms",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/talarico-appeals-to-trumps-legacy-in-bid-for-bipartisan-reforms?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-12T05:11:15+00:00",
-        "summary": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
+        "published": "2026-11-13T04:36:45+00:00",
+        "summary": "Texas Democrat Senator-elect James Talarico has urged his party to work with President Trump.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-11-12T05:06:27+00:00",
-        "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "More than 300 migrants rescued off Spain’s Canary Islands",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
+        "title": "Who is US Senator Chris Van Hollen?",
+        "url": "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-12T05:04:25+00:00",
-        "summary": "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings.",
+        "published": "2026-11-13T04:28:45+00:00",
+        "summary": "Van Hollen is known for his anti-war positions and championing progressive causes.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-        "url": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
-        "source": "NYT World",
-        "published": "2026-11-12T05:01:15+00:00",
-        "summary": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
+        "title": "Microsoft struggles to fix huge outage affecting Outlook and Teams",
+        "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+        "source": "The Guardian World",
+        "published": "2026-11-13T04:24:26+00:00",
+        "summary": "Company has ruled out a cyber attack but says fixes to help thousands of affected users have not been successfulMicrosoft outage – live updatesMicrosoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than nine hours on Thursday and Friday, with Microsoft scrambling to find a solution after initial fixes failed to bring services back online.A Microsoft spokesperso",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "ALT: She Is Rewriting Mexico’s Ballads, One Woman’s Story at a Time",
-        "url": "https://www.nytimes.com/2026/11/12/world/americas/grammys-women-vivir-quintana.html",
-        "source": "NYT World",
-        "published": "2026-11-12T05:01:11+00:00",
-        "summary": "Grammy-nominated songwriter Vivir Quintana is known throughout Latin America for giving voice to women who fought back against domestic violence.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-        "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
+        "title": "US envoys shuttle between Putin and Zelenskyy",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-12T04:41:17+00:00",
-        "summary": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
+        "published": "2026-11-13T04:12:01+00:00",
+        "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Darling Development Update – Q4 2026",
-        "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+        "title": "Show HN: I built a Rick and Morty explainer video generator",
+        "url": "https://usediorama.com/rick-and-morty",
         "source": "Hacker News Front",
-        "published": "2026-11-12T04:32:31+00:00",
-        "summary": "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/\nComments URL: https://news.ycombinator.com/item?id=50463103\nPoints: 6\n# Comments: 2",
+        "published": "2026-11-13T03:47:15+00:00",
+        "summary": "> paste any site or article or a script\n> we turn it into a Rick and Morty sketch with dialogues, scenes, action and Rick and Morty of course\n> click generate to turn the script into a storyboard you can review\n> click generate to get a final video (this part is paid as it uses AI video under the hood)\n\nComments URL: https://news.ycombinator.com/item?id=50477993\nPoints: 9\n# Comments: 11",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-        "source": "TechCrunch",
-        "published": "2026-11-12T03:13:10+00:00",
-        "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
-        "url": "https://github.com/DaleFranks/ramasite",
+        "title": "Switcher (2004)",
+        "url": "https://folklore.org/Switcher.html",
         "source": "Hacker News Front",
-        "published": "2026-11-12T02:53:22+00:00",
-        "summary": "I'm new here, and little nervous about posting, but here goes.I'm not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9-year stint as active duty military, I've spent 46 years either personally or professionally working in tech. I've programmed in RPG using punch cards for an IBM /System360, and COBOL on a DEC pdp 11/34. I've w",
+        "published": "2026-11-13T03:14:59+00:00",
+        "summary": "Article URL: https://folklore.org/Switcher.html\nComments URL: https://news.ycombinator.com/item?id=50477714\nPoints: 48\n# Comments: 8",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Lean Grimoire",
-        "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+        "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+        "url": "https://brave.com/blog/search-api-agentic-payments/",
         "source": "Hacker News Front",
-        "published": "2026-11-12T02:36:48+00:00",
-        "summary": "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/\nComments URL: https://news.ycombinator.com/item?id=50462375\nPoints: 21\n# Comments: 4",
+        "published": "2026-11-13T03:08:08+00:00",
+        "summary": "Article URL: https://brave.com/blog/search-api-agentic-payments/\nComments URL: https://news.ycombinator.com/item?id=50477649\nPoints: 9\n# Comments: 1",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Best Early Black Friday MacBook Air Deal: $200 Off",
-        "url": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
+        "title": "Nvidia employees petition to bring back Jensen Huang",
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+        "source": "Hacker News Front",
+        "published": "2026-11-13T02:16:24+00:00",
+        "summary": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/\nComments URL: https://news.ycombinator.com/item?id=50477231\nPoints: 260\n# Comments: 210",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+        "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
         "source": "Wired",
-        "published": "2026-11-12T02:33:02+00:00",
-        "summary": "The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.",
+        "published": "2026-11-13T01:17:49+00:00",
+        "summary": "An internal post urging the board to consider employee sentiment about Nvidia’s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Critical RCE Vulnerability in Apache HTTP Server",
-        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-        "source": "Hacker News Front",
-        "published": "2026-11-12T02:11:11+00:00",
-        "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50462177\nPoints: 76\n# Comments: 30",
+        "title": "Donald Trump really wants Tim Cook to run Nvidia",
+        "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+        "source": "The Verge",
+        "published": "2026-11-13T00:46:07+00:00",
+        "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
-        "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
+        "title": "Xbox announces Wolfenstein 3",
+        "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+        "source": "The Verge",
+        "published": "2026-11-13T00:11:44+00:00",
+        "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirmed that the next Elder Scrolls game will be called The Elder Scrolls VI: Sentinel. In [&#8230;]",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+        "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
         "source": "Wired",
-        "published": "2026-11-12T01:53:24+00:00",
-        "summary": "Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "source": "TechCrunch",
-        "published": "2026-11-11T23:50:00+00:00",
-        "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "published": "2026-11-12T23:54:58+00:00",
+        "summary": "The brand’s official Black Friday sales start next week, but some of its best vacuums are already discounted.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,76 +186,65 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "15 German startups to watch in 2026, according to VCs",
-        "url": "https://sifted.eu/articles/15-german-startups-to-watch-2026-vc/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-12T05:00:50+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: Orakl Oncology raises $34m to test cancer drugs on ‘virtual patients’",
-        "url": "https://sifted.eu/articles/exclusive-orakl-oncology-fundraise/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-12T05:00:39+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "European chips funding almost quadruples as investors back Nvidia’s inference challengers",
-        "url": "https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-12T05:00:38+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Six European scientists building startups in stealth",
-        "url": "https://sifted.eu/articles/six-european-scientists-building-startups-in-stealth/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-12T05:00:08+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "박상원 금융보안원장 “해킹 사고 송구, 전 시스템 점검”",
-        "url": "https://byline.network/2026/11/12-667/",
+        "title": "코난테크놀로지 “전장을 이해하고 스스로 행동하는 국방 AI”",
+        "url": "https://byline.network/2026/11/13-729/",
         "source": "ByLine Network",
-        "published": "2026-11-12T03:28:24+00:00",
-        "summary": "박상원 금융보안원장이 최근 상시평가 시스템에서 발생한 해킹 사고에 대해 사과했다. 박 원장은 12일 서울 여의도 콘래드호텔에서 열린 ‘금융정보보호 콘퍼런스 피스콘(FISCON) 2026’에서 모든 시스템을 점검하고 재발 방지 대책을 마련하겠다고 밝혔다.",
+        "published": "2026-11-13T04:49:55+00:00",
+        "summary": "무인 체계와 드론이 전쟁의 모습을 바꾸고 있다. 판단의 속도가 곧 전력인 시대다. 이런 변화 앞에서 우리의 질문은 기술이 정말 현장에서 작동하는가, 장병에게 실제로 도움이 되는 것인가로 쏠린다. 김영섬 코난테크놀로지 대표는 13일 서울 용산 나이트리 로카우스에서 개최된 ‘제5회 코난테크놀로지 국방 AI 서밋 2026’에서 이렇게 말했다. 코난테크놀로지는 이날 행사에서 차세대 국방 AI 사업 비전을 발표했다. 전출처 정보융합분석 플랫폼 ‘코난 아르고엑스(Konan ARGO-X)’을 처음으로 공개했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "국가보안기술연구소 신임 소장에 임정석 책임연구원 선임",
-        "url": "https://byline.network/2026/11/12-662/",
+        "title": "AI 에이전트만 모인 부서 만든 신한투자증권",
+        "url": "https://byline.network/2026/11/1111-10/",
         "source": "ByLine Network",
-        "published": "2026-11-12T01:53:02+00:00",
-        "summary": "한국전자통신연구원(ETRI)은 부설 국가보안기술연구소 소장에 임정석 현 국가보안기술연구소 책임연구원을 선임했다고 12일 밝혔다. 임정석 신임 소장 임기는 3년으로, 15일부터 업무에 돌입한다.",
+        "published": "2026-11-13T02:47:30+00:00",
+        "summary": "신한투자증권이 직원 업무 지원부터 투자자 대상 서비스까지 인공지능(AI) 활용 범위를 넓히고 있다. AI 에이전트만으로 구성된 부서를 운영하며 홀세일(기관 영업) 업무를 지원하고 있으며, 모바일트레이딩시스템(MTS)에는 고객의 투자 아이디어를 구체적인 검색 조건으로 바꿔주는 AI 서비스를 도입한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Fractile confirms £540m raise first revealed by Sifted",
-        "url": "https://sifted.eu/articles/fractile-confirms-540m-raise-first-revealed-by-sifted/",
+        "title": "AI가 만든 새로운 경험, 어떻게 사업으로 만들 수 있을까",
+        "url": "https://byline.network/2026/11/284983429340248240203/",
+        "source": "ByLine Network",
+        "published": "2026-11-13T01:37:44+00:00",
+        "summary": "“올해의 화두는 결국 AI입니다. 오늘 저희가 준비한 세션들은 결국 한 가지 질문으로 모이게 됩니다. 지금 저희가 당연하게 보는 것들 중 무엇이 가장 먼저 바뀔 것이냐는 겁니다.”\n김치원 카카오벤처스 부대표는 10일 서울 강남구 디캠프 선릉에서 열린 ‘KV 인사이트풀데이 2026’에서 이같이 말했다. 카카오벤처스 투자 심사역과 분야별 전문가들이 산업의 주요 현황과 사업 기회를 공유하는 자리다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "구글, 플래시 후속 ‘제미나이 4 하이드로젠’ 출시",
+        "url": "https://byline.network/2026/11/13-726/",
+        "source": "ByLine Network",
+        "published": "2026-11-13T00:22:34+00:00",
+        "summary": "구글이 효율형 AI 모델인 플래시 시리즈의 최신 버전 ‘제미나이 4 하이드로젠(Hydrogen)’을 공개했다. 프런티어급 에디션인 카본과 아르곤 공개에 이어 하이드로젠을 출시하면서 제미나이 모델 포트폴리오를 최신 버전으로 재정비하고 있다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[커머스BN] 네이버가 물류센터를 가지면 무슨 일이 벌어질까",
+        "url": "https://byline.network/2026/11/13_2918273-6/",
+        "source": "ByLine Network",
+        "published": "2026-11-12T22:53:33+00:00",
+        "summary": "올해 초부터 물류 사업 강화를 준비해 온 네이버가 물류 전문 자회사를 설립하기로 결정했습니다. 2030년까지 1조원 가까이 투자해 물류센터를 직접 임차하고 배송 인프라를 확충하겠다는 계획입니다. \n\n네이버가 물류센터를 직접 임차하고 설비와 시스템까지 구축한다면 기존 협력관계였던 물류업체에는 어떤 역할이 남을까요? 투자 부담을 덜고 운영에 집중할 수 있게 되는 걸까요, 아니면 물류 인프라의 주도권을 네이버에 넘겨주게 되는 걸까요?",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Jensen Huang’s Nvidia exit shakes European tech",
+        "url": "https://sifted.eu/articles/jensen-huangs-nvidia-exit-shakes-european-tech/",
         "source": "Sifted (EU startups)",
-        "published": "2026-11-11T16:09:13+00:00",
+        "published": "2026-11-12T17:19:55+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -263,11 +252,22 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장",
-        "url": "https://byline.network/2026/11/1111-9/",
+        "title": "Why is Northzone betting on scouts as Sequoia walks away?",
+        "url": "https://sifted.eu/articles/sifted-podcast-northzone-northstars/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-12T15:18:29+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "젠슨 황, 엔비디아 CEO 사임…33년 만에 경영 일선서 퇴진",
+        "url": "https://byline.network/2026/11/huang/",
         "source": "ByLine Network",
-        "published": "2026-11-11T14:34:54+00:00",
-        "summary": "피지컬 AI의 제조 현장 도입이 확대되고 있지만, 카메라 인식 오류와 기계 부품 고장, 통신 표준화 미비, 현장 데이터 부족 등이 양산의 걸림돌로 작용하고 있다. 성민수 아이벡스 대표는 센서·AI 모델·로봇 장비·제어 소프트웨어·유지관리 체계가 유기적으로 결합해야 한다고 강조했다. 아이벡스는 핵심 기술 내재화와 단일 책임 체계, 현장 데이터를 활용한 폐쇄형 루프 운영을 통해 제조 현장의 문제를 해결한다는 계획이다.",
+        "published": "2026-11-12T14:46:55+00:00",
+        "summary": "젠슨 황 엔비디아 창업자가 12일(현지시간) 최고경영자(CEO)에서 물러났다. 중국 정보기관과 연계됐다는 의혹을 받는 중국 국적 기업인과의 불륜에 이어, 직속 여성 임원과도 관계를 맺었다는 보도가 나오면서 이사회가 해임을 논의한 지 하루 만이다.",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,15 +276,105 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "3 Ways to Improve Cognitive Performance",
-        "url": "https://www.youtube.com/watch?v=5beqvCwiO_Y",
+        "title": "How to find the next billion-dollar game.",
+        "url": "https://www.youtube.com/watch?v=Xk96rASVKh0",
         "source": "a16z",
-        "published": "2026-11-11T21:30:11Z",
-        "summary": "Andrew Huberman, Stanford neuroscientist and host of the Huberman Lab podcast, on the first habit he'd give founders for ...",
-        "thumbnail": "https://i.ytimg.com/vi/5beqvCwiO_Y/mqdefault.jpg",
+        "published": "2026-11-12T20:00:23Z",
+        "summary": "Jonathan Lai, General Partner at a16z, on why some of the biggest games in the industry started as mods of other games.",
+        "thumbnail": "https://i.ytimg.com/vi/Xk96rASVKh0/mqdefault.jpg",
         "extras": {
           "theme": "innovation",
-          "videoId": "5beqvCwiO_Y",
+          "videoId": "Xk96rASVKh0",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How AI Could Bring Halo and Other Classic Games Back to Life",
+        "url": "https://www.youtube.com/watch?v=HDRy6XmE2RQ",
+        "source": "a16z",
+        "published": "2026-11-12T14:50:20Z",
+        "summary": "AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one?",
+        "thumbnail": "https://i.ytimg.com/vi/HDRy6XmE2RQ/mqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "HDRy6XmE2RQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The Democrats’ Legislative Priorities Explained",
+        "url": "https://www.youtube.com/watch?v=cVkDYTdYz2c",
+        "source": "TLDR News Global",
+        "published": "2026-11-12T11:00:04Z",
+        "summary": "Take back control of your online experience with ProtonVPN, and get 75% off VPN plans using our link: https://protonvpn.com/tldr ...",
+        "thumbnail": "https://i.ytimg.com/vi/cVkDYTdYz2c/mqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "cVkDYTdYz2c",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "외국인 관광객 3천만 목표를 위한 신박한 묘수",
+        "url": "https://www.youtube.com/watch?v=-4vtbZjNJ4M",
+        "source": "슈카월드",
+        "published": "2026-11-12T09:58:51Z",
+        "summary": "0:00 외국인 관광객 2천만 명 돌파한 대한민국 9:04 외국인은 한국에 여행오면 얼마를 쓸까? 15:28 도심에 집중된 관광 소비 19:22 ...",
+        "thumbnail": "https://i.ytimg.com/vi/-4vtbZjNJ4M/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "-4vtbZjNJ4M",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "구독의 시대는 끝났다? 다시 SaaS로 돌아오는 기업들 | SAP코리아 강지훈",
+        "url": "https://www.youtube.com/watch?v=4WfYlaK-oKs",
+        "source": "EO 이오",
+        "published": "2026-11-12T09:32:25Z",
+        "summary": "SaaS의 시대는 정말로 끝일까요? 실리콘밸리에서도 수많은 스타트업들이 'Next SAP'를 외치며 기업의 운영 시스템(ERP)을 자체적 ...",
+        "thumbnail": "https://i.ytimg.com/vi/4WfYlaK-oKs/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "4WfYlaK-oKs",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“우리가 어떤 민족입니까? 피지컬의 민족입니다.” (류중희 리얼월드 대표)",
+        "url": "https://www.youtube.com/watch?v=He9623x-WEQ",
+        "source": "티타임즈TV",
+        "published": "2026-11-12T09:30:06Z",
+        "summary": "우리가 어떤 민족입니까? 오프라인의 민족입니다. 몸을 바친 민족입니다.” 류중희 리얼월드 대표가 얘기하는 피지컬AI 천하삼분지계를 ...",
+        "thumbnail": "https://i.ytimg.com/vi/He9623x-WEQ/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "He9623x-WEQ",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "교황님 말씀 &quot;젊은이들이여, 돈과 SNS에 사로잡히지 말라&quot;",
+        "url": "https://www.youtube.com/watch?v=PPIMOKvuSDY",
+        "source": "슈카월드",
+        "published": "2026-11-12T06:15:43Z",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i.ytimg.com/vi/PPIMOKvuSDY/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "PPIMOKvuSDY",
           "via": "api"
         }
       },
@@ -300,36 +390,6 @@
         "extras": {
           "theme": "innovation",
           "videoId": "iXWSYlAX5Lg",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle",
-        "url": "https://www.youtube.com/watch?v=LI3lxzHfRrU",
-        "source": "a16z",
-        "published": "2026-11-11T15:30:22Z",
-        "summary": "The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco's strategy during the ...",
-        "thumbnail": "https://i.ytimg.com/vi/LI3lxzHfRrU/mqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "LI3lxzHfRrU",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "코스피 5,000 붕괴, AI 서사는 무너졌는가",
-        "url": "https://www.youtube.com/watch?v=QBSm6BJko4A",
-        "source": "슈카월드",
-        "published": "2026-11-11T11:22:17Z",
-        "summary": "0:00 한여름 밤의 꿈 18:53 미국 민주당의 주요 승리 요인 28:35 이번 공화당 패배의 최대 피해자는? 40:21 이 시점, 大현자의 말.",
-        "thumbnail": "https://i.ytimg.com/vi/QBSm6BJko4A/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "QBSm6BJko4A",
           "via": "api"
         }
       },
@@ -360,66 +420,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "mBvUoStZU2k",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "엔비디아는 왜 한국 스타트업과 ‘로봇 손재주 동맹’ 맺었나? (류중희 리얼월드 대표)",
-        "url": "https://www.youtube.com/watch?v=MNJANd25Tp0",
-        "source": "티타임즈TV",
-        "published": "2026-11-11T09:00:11Z",
-        "summary": "한국의 피지컬AI 회사 리얼월드가 최근 엔비디아와 로봇 손동작을 평가하는 벤치마크 '덱스벤치'를 공개했죠. 모든 로봇에 적용 가능한 ...",
-        "thumbnail": "https://i.ytimg.com/vi/MNJANd25Tp0/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "MNJANd25Tp0",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "이거 진짜에요?",
-        "url": "https://www.youtube.com/watch?v=5mSF8npmm9A",
-        "source": "슈카월드",
-        "published": "2026-11-11T04:35:14Z",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i.ytimg.com/vi/5mSF8npmm9A/mqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "5mSF8npmm9A",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504",
-        "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
-        "source": "Lex Fridman",
-        "published": "2026-11-10T23:52:20Z",
-        "summary": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube ...",
-        "thumbnail": "https://i.ytimg.com/vi/2hJkprFnzhY/mqdefault.jpg",
-        "extras": {
-          "theme": "interview",
-          "videoId": "2hJkprFnzhY",
-          "via": "api"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
-        "url": "https://www.youtube.com/watch?v=8h-gfrVYyAU",
-        "source": "All-In Podcast",
-        "published": "2026-11-10T23:13:29Z",
-        "summary": "(0:00) Axon CEO Rick Smith joins David Friedberg (2:39) History of TASER/Axon: brink of bankruptcy to IPO (9:05) Going public ...",
-        "thumbnail": "https://i.ytimg.com/vi/8h-gfrVYyAU/mqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "8h-gfrVYyAU",
           "via": "api"
         }
       }
