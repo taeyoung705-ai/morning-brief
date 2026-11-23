@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-11-22T05:05:27.025362+00:00",
+  "generated_at": "2026-11-23T05:47:04.169146+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "American vs. Chinese Mahjong: Why the Rivalry Is Stirring Controversy",
-        "url": "https://www.nytimes.com/2026/11/22/world/asia/mahjong-american-chinese-controversy.html",
+        "title": "A Landmark Genocide Ruling",
+        "url": "https://www.nytimes.com/2026/11/22/world/genocide-myanmar-un-climate-talks.html",
         "source": "NYT World",
-        "published": "2026-11-22T05:01:13+00:00",
-        "summary": "American mahjong, with its own tiles and rules, has overshadowed the traditional Chinese game. The rivalry has fueled anger and cultural misunderstanding.",
+        "published": "2026-11-23T05:40:35+00:00",
+        "summary": "A U.N. court’s decision against Myanmar sets a precedent in international law with important implications for a similar case over Israel’s actions in Gaza.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-        "url": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
+        "title": "Australian politics live: NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community",
+        "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+        "source": "The Guardian World",
+        "published": "2026-11-23T05:36:36+00:00",
+        "summary": "Get our breaking news email, free app or daily news podcast‘Very difficult to bridge that divide’: Murray WattCabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement.It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nation",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-23T05:34:39+00:00",
+        "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "How Homeowners Are Powering Vietnam’s E-Bike Surge",
+        "url": "https://www.nytimes.com/video/world/asia/100000011212632/vietnam-electric-bike-ebikes-charging-stations.html",
         "source": "NYT World",
-        "published": "2026-11-22T05:01:09+00:00",
-        "summary": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a staged car crash meant to silence him and says he has no hatred for his attacker.",
+        "published": "2026-11-23T05:33:31+00:00",
+        "summary": "The war in Iran has brought on a rapid switch from motorbikes to electric two-wheelers in Vietnam, creating an informal charging economy led by entrepreneurial homeowners.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Fossil fuel impasse pushes COP31 climate talks into second day of overtime",
-        "url": "https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-22T04:51:35+00:00",
-        "summary": "COP31 President ​Murat Kurum asks negotiators to consider a last-minute proposal in attempt to reach an agreement.",
+        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-23T05:33:17+00:00",
+        "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/first-images-of-mexican-cartel-boss-el-chapo-isidro-after-arrest?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-22T04:42:02+00:00",
-        "summary": "First images of Mexican cartel boss ‘El Chapo Isidro’ after arrest",
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-23T05:15:06+00:00",
+        "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-        "url": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
+        "title": "China Fears A.I. Could Give the U.S. an Edge in Nuclear Rivalry",
+        "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
         "source": "NYT World",
-        "published": "2026-11-22T04:28:43+00:00",
-        "summary": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
+        "published": "2026-11-23T05:00:07+00:00",
+        "summary": "Chinese military researchers are studying how to harness A.I., but they worry the technology makes their country’s nuclear forces more vulnerable to attack.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
-        "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
-        "source": "NYT World",
-        "published": "2026-11-22T03:44:19+00:00",
-        "summary": "Supporters of the deposed prime minister, Sheikh Hasina, who was sentenced to death in absentia, have waged a small-scale insurgency to destabilize the current government.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
-        "url": "https://www.aljazeera.com/news/2026/11/22/eleven-killed-in-burst-of-violence-during-mexican-cartel-leaders-capture?traffic_source=rss",
+        "title": "Child rescued in Ukraine after Russian drone attack kills 10",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-22T03:34:02+00:00",
-        "summary": "Seven alleged cartel gunmen and four soldiers were killed in operation to arrest cartel boss Fausto Isidro Meza Flores.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
-        "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-22T02:45:36+00:00",
-        "summary": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
+        "published": "2026-11-23T04:38:14+00:00",
+        "summary": "A seven-year-old boy called David was rescued after spending 14 hours trapped in the rubble of a Russian drone attack.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Toyota, Nissan, and Honda to Standardize Parts to Lower Costs",
-        "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "title": "A Partial Evaluator for C",
+        "url": "https://phoenix.labri.fr/software/tempo/",
         "source": "Hacker News Front",
-        "published": "2026-11-22T04:04:56+00:00",
-        "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\nComments URL: https://news.ycombinator.com/item?id=50596133\nPoints: 72\n# Comments: 32",
+        "published": "2026-11-23T04:51:48+00:00",
+        "summary": "Article URL: https://phoenix.labri.fr/software/tempo/\nComments URL: https://news.ycombinator.com/item?id=50607627\nPoints: 6\n# Comments: 0",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Together.ai: Prompt Leakage for Requests",
-        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+        "title": "Mass destruction of weapons",
+        "url": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
         "source": "Hacker News Front",
-        "published": "2026-11-22T03:07:27+00:00",
-        "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026\nComments URL: https://news.ycombinator.com/item?id=50595816\nPoints: 8\n# Comments: 4",
+        "published": "2026-11-23T04:47:35+00:00",
+        "summary": "Article URL: https://computer.rip/2026-11-22-mass-destruction-of-weapons.html\nComments URL: https://news.ycombinator.com/item?id=50607591\nPoints: 7\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+        "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
         "source": "Hacker News Front",
-        "published": "2026-11-22T03:06:35+00:00",
-        "summary": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI\nComments URL: https://news.ycombinator.com/item?id=50595812\nPoints: 19\n# Comments: 1",
+        "published": "2026-11-23T04:31:32+00:00",
+        "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/\nComments URL: https://news.ycombinator.com/item?id=50607498\nPoints: 18\n# Comments: 2",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "The Most Popular Car Colors in America",
-        "url": "https://www.iseecars.com/most-popular-car-colors-study",
+        "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+        "url": "https://github.com/AFK-surf/xnulinux",
         "source": "Hacker News Front",
-        "published": "2026-11-22T02:47:18+00:00",
-        "summary": "Article URL: https://www.iseecars.com/most-popular-car-colors-study\nComments URL: https://news.ycombinator.com/item?id=50595725\nPoints: 10\n# Comments: 14",
+        "published": "2026-11-23T03:49:24+00:00",
+        "summary": "Article URL: https://github.com/AFK-surf/xnulinux\nComments URL: https://news.ycombinator.com/item?id=50607261\nPoints: 81\n# Comments: 29",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Data Processing Incidents on Inference Providers",
-        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "title": "The New Docker: Built to Run on Trust",
+        "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
         "source": "Hacker News Front",
-        "published": "2026-11-22T02:14:14+00:00",
-        "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/\nComments URL: https://news.ycombinator.com/item?id=50595554\nPoints: 61\n# Comments: 24",
+        "published": "2026-11-23T03:34:29+00:00",
+        "summary": "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/\nComments URL: https://news.ycombinator.com/item?id=50607194\nPoints: 23\n# Comments: 31",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-        "url": "https://github.com/ItsNotRexed/Leonida",
-        "source": "Hacker News Front",
-        "published": "2026-11-22T00:57:26+00:00",
-        "summary": "Article URL: https://github.com/ItsNotRexed/Leonida\nComments URL: https://news.ycombinator.com/item?id=50595168\nPoints: 92\n# Comments: 56",
+        "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+        "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+        "source": "The Verge",
+        "published": "2026-11-23T03:00:00+00:00",
+        "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step [&#8230;]",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Sandwich Simulator",
-        "url": "https://stulle.app/",
+        "title": "Treemap of the Riemann Hypothesis Lean Proof",
+        "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
         "source": "Hacker News Front",
-        "published": "2026-11-22T00:07:59+00:00",
-        "summary": "Article URL: https://stulle.app/\nComments URL: https://news.ycombinator.com/item?id=50594911\nPoints: 100\n# Comments: 45",
+        "published": "2026-11-23T01:50:23+00:00",
+        "summary": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/\nComments URL: https://news.ycombinator.com/item?id=50606499\nPoints: 22\n# Comments: 3",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-        "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-        "source": "Ars Technica",
-        "published": "2026-11-21T22:12:41+00:00",
-        "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "source": "TechCrunch",
+        "published": "2026-11-23T01:25:53+00:00",
+        "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,138 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "167년 묵은 수학 난제 ‘리만 가설’, 수학자와 AI가 내놓은 증명의 의미",
-        "url": "https://platum.kr/archives/299187?utm_source=rss&utm_medium=rss&utm_campaign=167%25eb%2585%2584-%25eb%25ac%25b5%25ec%259d%2580-%25ec%2588%2598%25ed%2595%2599-%25eb%2582%259c%25ec%25a0%259c-%25eb%25a6%25ac%25eb%25a7%258c-%25ea%25b0%2580%25ec%2584%25a4-%25ec%2588%2598%25ed%2595%2599%25ec%259e%2590%25ec%2599%2580-ai%25ea%25b0%2580-%25eb%2582%25b4%25eb%2586%2593%25ec%259d%2580-%25ec%25a6%259d",
+        "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+        "url": "https://sifted.eu/articles/acorda-pre-seed/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-23T05:00:46+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+        "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-23T05:00:45+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "[최앤리의 스타트업×법] 공동창업자의 주식 처분 제한: 주주간계약으로 지분을 지키는 방법",
+        "url": "https://platum.kr/archives/299180?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b5%259c%25ec%2595%25a4%25eb%25a6%25ac%25ec%259d%2598-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585x%25eb%25b2%2595-%25ea%25b3%25b5%25eb%258f%2599%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590%25ec%259d%2598-%25ec%25a3%25bc%25ec%258b%259d-%25ec%25b2%2598%25eb%25b6%2584-%25ec%25a0%259c",
         "source": "Platum",
-        "published": "2026-11-21T15:47:50+00:00",
-        "summary": "수학계가 167년 동안 풀지 못한 &#8216;리만 가설&#8217;을 증명했다는 주장이 20일(현지시간) 공개돼 검증이 진행되고 있다. 주장을 내놓은 사람은 AI 기업 앤트로픽(Anthropic) 소속 수학자 레벤트 알푀게로, 자사 AI 모델 클로드와 함께 증명을 찾았다고 믿는다는 짧은 글을 개인 웹사이트에 올렸다. 증명은 논문이 아니라 &#8216;린(Lean)&#8217;이라는 증명 검증 프로그램용 코드로 나왔다. 린은 수학 증명을 프로그래밍 언어로 옮겨 적으면 컴퓨터가 논리의 ... 더 읽기",
+        "published": "2026-11-22T23:01:00+00:00",
+        "summary": "스타트업을 공동으로 창업했는데, 갑자기 공동창업자가 보유 지분을 외부에 팔겠다고 한다면 어떻게 될까요. 회사의 방향성을 함께 결정해온 핵심 인물이 떠나면서 낯선 제3자가 주주로 들어오는 상황은 경영상 리스크이자 투자자에게도 부정적 신호로 작용합니다. 이러한 상황을 미리 막기 위한 수단이 바로 주주간계약 내 주식 처분 제한 조항입니다. 이 글에서는 주식 처분 자유의 원칙이 왜 현실적인 문제를 낳는지, 그리고 어떤 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
-        "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
-        "source": "Crunchbase News",
-        "published": "2026-11-20T20:15:54+00:00",
-        "summary": "U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science securing a fresh $400 million.",
+        "title": "[지스타 2026] 웹젠 ‘디겜폭’, 탐사부터 방어전까지 ‘원작 재미’ 충실",
+        "url": "https://byline.network/2026/11/20-682/",
+        "source": "ByLine Network",
+        "published": "2026-11-22T15:40:28+00:00",
+        "summary": "“원작을 읽거나 보면서 인물의 선택을 따라가던 경험을 플레이어가 직접 판단하는 경험으로 옮기자고 했다.” 김동현 웹젠크레빅스 대표는 19일 부산 벡스코에서 열린 ‘지스타 2026’ 미디어 공동 인터뷰에서 이같이 말했다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Exclusive: Storonsky-backed Aikido seeks €4bn valuation",
-        "url": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-20T16:04:11+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "How a handful of European angels hit the Anthropic jackpot",
-        "url": "https://sifted.eu/articles/european-angels-anthropic-ipo/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-20T15:34:03+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Exclusive: Stripe founders and Paul Graham back AI agent swarm startup Hoplite with $5.5m",
-        "url": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-20T13:00:51+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "5 Interesting Startup Deals You May Have Missed: Reflecting Sunlight From Space, Better Breathing And Smarter Garbage Trucks",
-        "url": "https://news.crunchbase.com/venture/interesting-startup-deals-ai-solar-healthcare-space-tech/",
-        "source": "Crunchbase News",
-        "published": "2026-11-20T12:00:25+00:00",
-        "summary": "What if solar farms could keep generating electricity after sunset with a little help from mirrors orbiting Earth? Or researchers could send an experiment into space for less than the price of a car? Our latest roundup also includes a company bringing AI to the old-school business of garbage hauling, another rethinking how factories are programmed, and a consumer brand betting that better breathin",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
-        "url": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
-        "source": "Crunchbase News",
-        "published": "2026-11-20T12:00:01+00:00",
-        "summary": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if AI fulfills its technological promise, borrowers’ survival will depend on realistic demand forecasts and debt tied to dependable cash flows, w",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "은행 두 곳과 연구개발특구가 함께 고른 서남권 스타트업, 광주서 투자 상담",
-        "url": "https://platum.kr/archives/299177?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%2580%25ed%2596%2589-%25eb%2591%2590-%25ea%25b3%25b3%25ea%25b3%25bc-%25ec%2597%25b0%25ea%25b5%25ac%25ea%25b0%259c%25eb%25b0%259c%25ed%258a%25b9%25ea%25b5%25ac%25ea%25b0%2580-%25ed%2595%25a8%25ea%25bb%2598-%25ea%25b3%25a0%25eb%25a5%25b8-%25ec%2584%259c%25eb%2582%25a8%25ea%25b6%258c-%25ec%258a%25a4%25ed%2583%2580",
+        "title": "확장 속도를 가른 사업 구조, 복제하는 스테이션과 5년 걸리는 인재 양성",
+        "url": "https://platum.kr/archives/299221?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2599%2595%25ec%259e%25a5-%25ec%2586%258d%25eb%258f%2584%25eb%25a5%25bc-%25ea%25b0%2580%25eb%25a5%25b8-%25ec%2582%25ac%25ec%2597%2585-%25ea%25b5%25ac%25ec%25a1%25b0-%25eb%25b3%25b5%25ec%25a0%259c%25ed%2595%2598%25eb%258a%2594-%25ec%258a%25a4%25ed%2585%258c%25ec%259d%25b4%25ec%2585%2598%25ea%25b3%25bc-5%25eb%2585%2584",
         "source": "Platum",
-        "published": "2026-11-20T09:40:17+00:00",
-        "summary": "광주·전남 등 서남권 스타트업을 따로 육성해 온 기관 세 곳이 각자 키운 기업을 한자리에 모아 투자사와 연결했다. 산업은행과 기업은행의 스타트업 육성 프로그램, 광주연구개발특구가 공동으로 추천한 스타트업 10곳이 투자사 10곳을 상대로 사업을 소개하고 1:1 상담을 진행했다. 이 행사는 &#8216;서남권 지역도약 IR&#8217;이다. KDB산업은행의 스타트업 육성 프로그램 ‘KDB 넥스트원(NextONE) 광주&#8217;와 IBK기업은행의 ‘IBK창공 광주&#8217;, 광주연구개발특구가 공동으로 주관했다. KDB 넥스트원 ... 더 읽기",
+        "published": "2026-11-22T07:25:57+00:00",
+        "summary": "전국에서 택시가 가장 많은 곳은 서울이지만 피트인은 첫 배터리 교체 스테이션을 경기도 안양에 지었다. 갭텍은 창업 첫해부터 대형 프로젝트를 수주하고도 가파른 성장 대신 완만한 곡선을 택했다. 김세권 피트인 대표와 김은학 갭텍 대표는 지난달 29일 서울 마포구 프론트원에서 열린 디캠프 배치 4기 &#8216;디데이(d.day)&#8217;에서 회사를 키우는 속도를 그렇게 정한 이유를 설명했다. 두 회사의 답은 사업 구조에서 갈렸다. ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "“좋은 기술”이라는 평가와 구매 사이, 딥테크 창업자 세 명이 계획을 바꾼 지점",
+        "url": "https://platum.kr/archives/299218?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a2%258b%25ec%259d%2580-%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%25b4%25eb%259d%25bc%25eb%258a%2594-%25ed%258f%2589%25ea%25b0%2580%25ec%2599%2580-%25ea%25b5%25ac%25eb%25a7%25a4-%25ec%2582%25ac%25ec%259d%25b4-%25eb%2594%25a5%25ed%2585%258c%25ed%2581%25ac-%25ec%25b0%25bd%25ec%2597%2585%25ec%259e%2590",
+        "source": "Platum",
+        "published": "2026-11-22T07:24:07+00:00",
+        "summary": "테스트를 지켜본 고객은 &#8220;정말 되네&#8221;라고 했지만 장비를 사지는 않았다. 이름난 대기업이 먼저 개발을 맡기겠다고 연락해 왔지만 회사는 거절했다. 2년 만에 받은 첫 투자금은 장치 하나를 우주로 올리는 데 대부분 들어갔다. 초음파 장비를 만드는 퍼스트랩, 로봇 AI를 개발하는 테파로보틱스, 우주에서 의약품을 연구하는 스페이스린텍이 각각 겪은 일이다. 황보민성 퍼스트랩 대표와 박정혁 테파로보틱스 대표, 윤학순 스페이스린텍 대표는 지난달 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "제품·매출 없던 딥테크 스타트업의 시장 설득, 설명보다 실물 증거",
+        "url": "https://platum.kr/archives/299217?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%259c%25ed%2592%2588%25c2%25b7%25eb%25a7%25a4%25ec%25b6%259c-%25ec%2597%2586%25eb%258d%2598-%25eb%2594%25a5%25ed%2585%258c%25ed%2581%25ac-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%259d%2598-%25ec%258b%259c%25ec%259e%25a5-%25ec%2584%25a4%25eb%2593%259d-%25ec%2584%25a4%25eb%25aa%2585",
+        "source": "Platum",
+        "published": "2026-11-22T07:22:21+00:00",
+        "summary": "&#8220;그게 뭔데&#8221;, &#8220;너희가 할 수 있어&#8221;, &#8220;이게 되겠냐&#8221;. 제품도 매출도 없는 딥테크 스타트업이 투자자 앞에서 반복해 듣는 질문이다. 위성용 전기추진 시스템을 만드는 코스모비의 박동하 대표와 AI 기계 설계 소프트웨어를 만드는 아이디어오션의 김중호 대표도 창업 초기에 같은 질문을 받았다. 지난달 29일 서울 마포구 프론트원에서 열린 디캠프 배치 4기 &#8216;디데이(d.day)&#8217;에서 두 사람은 설명을 되풀이하기보다 눈에 보이는 결과물을 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "배민의 ‘구조적 상생’, 무료배달 다음 전장은 ‘사장님 마음’",
+        "url": "https://byline.network/2026/11/20_29182737-2/",
+        "source": "ByLine Network",
+        "published": "2026-11-22T07:00:05+00:00",
+        "summary": "배달앱이 경쟁하는 방식은 꽤 단순했습니다. 소비자에게 얼마나 많은 할인을 제공하고, 배달비를 얼마나 줄여줄 수 있느냐가 중요했습니다. 쿠팡이츠가 무료배달을 시작하자 배달의민족(배민)도 무료배달로 맞섰습니다.\n\n그런데 최근 배민이 소비자에 더해 배달앱에 입점한 음식점 사장님을 향해 움직이고 있습니다. 할인에 붙던 수수료를 줄이고, 가게 평가 방식도 바꿉니다. 치열한 배달앱 시장에서 또 하나의 중요한 고객인 업주의 마음을 사로잡기 위해서로 풀이됩니다. 그렇다면 경쟁사인 쿠팡이츠도 이 흐름에 따라올까요?",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Chamath: The Market is BAD for Stocks Right Now",
+        "url": "https://www.youtube.com/shorts/jHOvCD1nGEQ",
+        "source": "All-In Podcast",
+        "published": "2026-11-22T19:30:19+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+        "thumbnail": "https://i3.ytimg.com/vi/jHOvCD1nGEQ/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "jHOvCD1nGEQ",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "When Did the FIRST Animals Appear?",
+        "url": "https://www.youtube.com/shorts/1IpZG78mmCw",
+        "source": "Cleo Abram",
+        "published": "2026-11-22T15:13:03+00:00",
+        "summary": "When did the FIRST animals appear on Earth? Not bacteria and viruses, but multi-celled creatures!\n\nWe know animals were around at least twice as long ago as dinosaurs because that’s how old the oldest fossils we have of any animal are.\n\nBut to find out when animals really started, scientists looked ",
+        "thumbnail": "https://i2.ytimg.com/vi/1IpZG78mmCw/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "1IpZG78mmCw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Chamath Predicts the Rise of AI’s Magnificent 10: “Dirt to Application”",
+        "url": "https://www.youtube.com/shorts/QjDMSL4PpPE",
+        "source": "All-In Podcast",
+        "published": "2026-11-22T15:00:18+00:00",
+        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
+        "thumbnail": "https://i2.ytimg.com/vi/QjDMSL4PpPE/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "QjDMSL4PpPE",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -285,36 +330,6 @@
         "extras": {
           "theme": "kr",
           "videoId": "UB1e9uzumd4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "David Friedberg: The AI Job Loss Narrative is Bullsh*t",
-        "url": "https://www.youtube.com/shorts/QNCd8UHCpFQ",
-        "source": "All-In Podcast",
-        "published": "2026-11-21T21:00:39+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i2.ytimg.com/vi/QNCd8UHCpFQ/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "QNCd8UHCpFQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
-        "url": "https://www.youtube.com/shorts/QgN2bwiUh_U",
-        "source": "All-In Podcast",
-        "published": "2026-11-21T16:00:04+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i2.ytimg.com/vi/QgN2bwiUh_U/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "QgN2bwiUh_U",
           "via": "rss"
         }
       },
@@ -405,21 +420,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "UlBFeDhGzx0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why is the US Dollar Surging?",
-        "url": "https://www.youtube.com/watch?v=Zdj_aRsQws0",
-        "source": "TLDR News Global",
-        "published": "2026-11-20T10:30:38+00:00",
-        "summary": "Take back your privacy - start using Proton Mail for free: https://proton.me/tldr\n\nPre-order a copy of Too Long: toolong.news/TL010\n\nDespite the dollar plummeting earlier last year, it now appears to be back on the rise, hitting an 18-month high. In this video, we're taking a look at why the dollar ",
-        "thumbnail": "https://i3.ytimg.com/vi/Zdj_aRsQws0/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "Zdj_aRsQws0",
           "via": "rss"
         }
       }
