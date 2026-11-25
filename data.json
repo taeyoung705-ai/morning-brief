@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-11-24T08:25:03.291269+00:00",
+  "generated_at": "2026-11-25T07:00:07.143268+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
-        "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-24T07:55:18+00:00",
-        "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
-        "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-24T07:52:44+00:00",
-        "summary": "WFP Executive Director Luke Lindberg decries ‘political problem’ as grain is &#039;not reaching the people who need it&#039;.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+        "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
+        "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-11-24T07:42:57+00:00",
-        "summary": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burnedSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereClimate campaigners are urging the Albanese government to heed a “line in the sand” warning on fossil fuels issued by dozens of countries at a UN climate summit and refuse a massive coalmine",
+        "published": "2026-11-25T06:37:35+00:00",
+        "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a ‘zero-sum game’Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game.I reject this sort of zero-sum game where building Australian sovereig",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
-        "url": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-24T07:36:07+00:00",
-        "summary": "Government forces made early gains in September, but Houthi fighting on multiple fronts has slowed the offensive.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
-        "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-24T07:35:02+00:00",
-        "summary": "Hasina urges Dhaka to arrange her return on the national airline, as government says she can only be extradited.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
-        "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+        "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
+        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "2026-11-24T07:26:27+00:00",
-        "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+        "published": "2026-11-25T06:36:00+00:00",
+        "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping – as it happened",
-        "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-        "source": "The Guardian World",
-        "published": "2026-11-24T07:21:53+00:00",
-        "summary": "Get our breaking news email, free app or daily news podcastThe government will save more than it spends, says Jim Chalmers, but it won’t be a “slash and burn” budget update.Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo).There’s still a fair bit ",
+        "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-25T06:00:36+00:00",
+        "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Member states must not betray the ICC",
-        "url": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
+        "title": "National Security vs. the Stock Market",
+        "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+        "source": "NYT World",
+        "published": "2026-11-25T05:45:35+00:00",
+        "summary": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
+        "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-24T07:13:18+00:00",
-        "summary": "Succumbing to US pressure to change the Rome Statute would be devastating for international justice.",
+        "published": "2026-11-25T05:27:32+00:00",
+        "summary": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+        "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
+        "source": "NYT World",
+        "published": "2026-11-25T05:24:35+00:00",
+        "summary": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "The Gambia election: Can the next president deliver on a decade of promise",
+        "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-25T05:03:04+00:00",
+        "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
+        "url": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
+        "source": "NYT World",
+        "published": "2026-11-25T05:01:14+00:00",
+        "summary": "The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "2035 Came Early",
-        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "title": "NordVPN Coupons: 75% Off + 3 Months Free",
+        "url": "https://www.wired.com/story/nordvpn-coupon/",
+        "source": "Wired",
+        "published": "2026-11-25T06:00:00+00:00",
+        "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Wayfair Coupons: Up to 80% Off November 2026",
+        "url": "https://www.wired.com/story/wayfair-promo-code/",
+        "source": "Wired",
+        "published": "2026-11-25T06:00:00+00:00",
+        "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
+        "url": "https://www.wired.com/story/noom-promo-code/",
+        "source": "Wired",
+        "published": "2026-11-25T06:00:00+00:00",
+        "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Klook Promo Code: 20% Off November 2026",
+        "url": "https://www.wired.com/story/klook-promo-code/",
+        "source": "Wired",
+        "published": "2026-11-25T06:00:00+00:00",
+        "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Adidas Promo Code | 60% Off | November 2026",
+        "url": "https://www.wired.com/story/adidas-promo-code/",
+        "source": "Wired",
+        "published": "2026-11-25T06:00:00+00:00",
+        "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Uplift Promo Codes: $300 Off",
+        "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
+        "source": "Wired",
+        "published": "2026-11-25T06:00:00+00:00",
+        "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "tech",
+        "kind": "article",
+        "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
+        "url": "https://github.com/samcorcos/legatum/issues/147",
         "source": "Hacker News Front",
-        "published": "2026-11-24T06:30:33+00:00",
-        "summary": "Article URL: https://fzakaria.com/2026/11/23/2035-came-early\nComments URL: https://news.ycombinator.com/item?id=50624497\nPoints: 8\n# Comments: 0",
+        "published": "2026-11-25T04:56:36+00:00",
+        "summary": "Article URL: https://github.com/samcorcos/legatum/issues/147\nComments URL: https://news.ycombinator.com/item?id=50638647\nPoints: 106\n# Comments: 13",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
-        "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "url": "https://gpu-demo-gallery.pages.dev/",
         "source": "Hacker News Front",
-        "published": "2026-11-24T06:28:04+00:00",
-        "summary": "Article URL: https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html\nComments URL: https://news.ycombinator.com/item?id=50624487\nPoints: 189\n# Comments: 67",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
-        "url": "https://www.wired.com/story/nomad-discount-code/",
-        "source": "Wired",
-        "published": "2026-11-24T06:00:00+00:00",
-        "summary": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Hoka Coupon Codes: 30% Off in November 2026",
-        "url": "https://www.wired.com/story/hoka-coupon-code/",
-        "source": "Wired",
-        "published": "2026-11-24T06:00:00+00:00",
-        "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for November 2026.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Layla Sleep Coupon: Save Up to $600 in November 2026",
-        "url": "https://www.wired.com/story/layla-sleep-coupon/",
-        "source": "Wired",
-        "published": "2026-11-24T06:00:00+00:00",
-        "summary": "Upgrade your sleep setup with the latest Layla promo codes. Save on flippable mattresses, copper-infused pillows, and adjustable bases in November 2026.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Chegg Coupon Codes November 2026: Save on Study, Textbooks, & More",
-        "url": "https://www.wired.com/story/chegg-coupon-code/",
-        "source": "Wired",
-        "published": "2026-11-24T06:00:00+00:00",
-        "summary": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "Mattress Firm Coupons: Save up to $700",
-        "url": "https://www.wired.com/story/mattress-firm-coupon/",
-        "source": "Wired",
-        "published": "2026-11-24T06:00:00+00:00",
-        "summary": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "tech",
-        "kind": "article",
-        "title": "B&H Photo Promo Codes and Deals This November 2026",
-        "url": "https://www.wired.com/story/bh-photo-coupon/",
-        "source": "Wired",
-        "published": "2026-11-24T06:00:00+00:00",
-        "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.",
+        "published": "2026-11-25T04:31:48+00:00",
+        "summary": "Article URL: https://gpu-demo-gallery.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50638503\nPoints: 41\n# Comments: 6",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,93 +186,198 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[요즘 채용] 스타트업 취직, 어떤 직군을 노리는 게 유리할까",
-        "url": "https://byline.network/2026/11/849852093482048230/",
+        "title": "AI 회사도 ‘통제 불능’ 공포, 오픈AI 수석 과학자의 제안",
+        "url": "https://byline.network/2026/11/25-597/",
         "source": "ByLine Network",
-        "published": "2026-11-24T07:37:44+00:00",
-        "summary": "올해 스타트업 채용 공고에서 개발·디자인 직무의 비중은 줄고 마케팅·영업 비중은 커졌다. 개발은 여전히 공고가 가장 많은 직무지만, 지난해 4개 직무 공고의 절반에 가까웠던 비중이 올해는 40% 수준으로 낮아졌다. 채용 현장에서는 AI 도구의 확산으로 개발·디자인 업무를 한 사람이 함께 맡는 사례가 생기고, 제품 출시가 빨라지면서 이를 알리고 판매할 인력의 수요가 커졌다는 해석이 나온다.",
+        "published": "2026-11-25T06:27:52+00:00",
+        "summary": "AI가 스스로를 개선해 인간의 통제를 벗어나 군림할 수 있다는 공포감이 커지고 있다. AI 기술의 최전선에 선 개발 기업 내부적으로 급격한 지능 발전을 경계하는 목소리가 커지고 있다. 이런 가운데 AI 모델의 개발 속도를 인위적으로 제한하고 인간의 통제력을 유지하기 위한 방안이 제시돼 주목받고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "엔키화이트햇 “해커의 공격 전 과정 자동화, 국내선 우리가 앞서 있다”",
-        "url": "https://byline.network/2026/11/24-654/",
-        "source": "ByLine Network",
-        "published": "2026-11-24T06:32:37+00:00",
-        "summary": "“해커가 실제로 공격하는 순서를 그대로 따라가는 플랫폼입니다. 공격의 전 과정을 모두 갖춘 것은 현재 국내에서 저희가 유일하다고 말씀드릴 수 있습니다.” 이성권 엔키화이트햇 대표는 24일 서울 여의도에서 열린 기업공개(IPO) 기자간담회에서 이렇게 강조했다. 내달 코스닥 상장을 앞둔 엔키화이트햇은 인공지능(AI)을 활용해 공격표면 식별부터 취약점 진단, 침투 검증, 조치 결과 확인까지 오펜시브 보안의 전 과정을 자동화하는 플랫폼을 앞세워 국내 시장을 선점하겠다는 전략을 공개했다.",
+        "title": "How Steven Basart forced his way into Beacon Health and became its first engineer",
+        "url": "https://www.ycombinator.com/blog/how-steven-basart-forced-his-way-into-beacon-health-and-became-its-first-engineer/",
+        "source": "Y Combinator Blog",
+        "published": "2026-11-25T06:21:58+00:00",
+        "summary": "From dropping out of a YC batch to building an internal programming language at a healthcare startup, Steven does whatever it takes.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "자바 취약점, 인증·개발 서버부터 점검해야 하는 이유",
-        "url": "https://byline.network/2026/11/24-653/",
+        "title": "[인터뷰] “‘딸깍’으로 되는 게 아니다”…AI로 만든 영화 ‘라파엘’",
+        "url": "https://byline.network/2026/11/843924802840239/",
         "source": "ByLine Network",
-        "published": "2026-11-24T05:29:23+00:00",
-        "summary": "프로그래밍 언어 자바에서 발견된 취약점 ‘자바포셸(Java4Shell·CVE-2026-114938)’에 대응하려면 로그인 전에 외부 데이터를 처리하는 인증 서버와 개발·협업 도구부터 점검해야 한다는 보안업계 전문가들의 조언이 나왔다. 서버를 장악하는 공격은 구현하기 까다롭더라도 인증이나 개발 서비스를 중단시키는 데 악용될 수 있기 때문이다.",
+        "published": "2026-11-25T06:21:12+00:00",
+        "summary": "“나 같은 존재도 신의 길을 걷는다면, 내 죄를 용서받을 수 있을까?”\n2050년, 기후 재난과 전쟁으로 황폐해진 세계. 폐쇄 구역 ‘델모르’에서 허가 없이 태어난 아이들은 ‘미등록자’로 분류돼 사살 대상이 된다. 부모들은 아이들을 지키기 위해 반군이 된다. 주인공 알렉세이는 이들을 처리하기 위해 탄생한 살인 병기 안드로이드지만, 사실은 죄책감을 느낄 줄 아는 ‘불량품’이다. 알렉세이는 상부의 명령을 어기고 고해성사를 통해 속죄하고 싶어 한다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "PHP 8.6 출시, 늘어난 위협에 보안 설정 조인다",
-        "url": "https://byline.network/2026/11/24-648/",
-        "source": "ByLine Network",
-        "published": "2026-11-24T01:17:11+00:00",
-        "summary": "PHP재단은 지난 19일 ‘PHP 8.6’ 버전을 출시했다. 최근 심각한 보안취약점을 노출한 PHP의 최신 버전은 그동안 느슨하게 적용해온 보안 설정을 디폴트 활성화로 변경해 보안성을 강화했다.",
+        "title": "How Daniel Zeltser cold-emailed his way to employee #2 at Beacon Health",
+        "url": "https://www.ycombinator.com/blog/how-daniel-zeltser-cold-emailed-his-way-to-employee-2-at-beacon-health/",
+        "source": "Y Combinator Blog",
+        "published": "2026-11-25T06:20:57+00:00",
+        "summary": "Daniel Zeltser left Duke to join Beacon Health as its first engineer hire, building AI agents that keep patient care from falling through the cracks.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "[중국 비즈니스 트렌드&동향] AI에 현금 쏟은 텐센트와 알리바바, 검색 광고 줄어든 바이두의 3분기",
-        "url": "https://platum.kr/archives/299192?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-%25eb%25b9%2584%25ec%25a6%2588%25eb%258b%2588%25ec%258a%25a4-%25ed%258a%25b8%25eb%25a0%258c%25eb%2593%259c%25eb%258f%2599%25ed%2596%25a5-ai%25ec%2597%2590-%25ed%2598%2584%25ea%25b8%2588-%25ec%258f%259f%25ec%259d%2580-%25ed%2585%2590%25ec%2584%25bc%25ed%258a%25b8%25ec%2599%2580",
+        "title": "25 biotech startups to watch, according to VCs",
+        "url": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-25T05:00:47+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "크래프톤, 자체 개발 LLM ‘라온-1 미니’ 정식 출시… 상업적 무료 공개",
+        "url": "https://platum.kr/archives/299455?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2581%25ac%25eb%259e%2598%25ed%2594%2584%25ed%2586%25a4-%25ec%259e%2590%25ec%25b2%25b4-%25ea%25b0%259c%25eb%25b0%259c-llm-%25eb%259d%25bc%25ec%2598%25a8-1-%25eb%25af%25b8%25eb%258b%2588-%25ec%25a0%2595%25ec%258b%259d-%25ec%25b6%259c%25ec%258b%259c-%25ec%2583%2581%25ec%2597%2585%25ec%25a0%2581",
         "source": "Platum",
-        "published": "2026-11-23T23:02:00+00:00",
-        "summary": "바이두, 2026년 3분기 실적 발표 16일, 바이두(百度)는 2026년 3분기 실적을 발표했다. 바이두의 3분기 매출은 전년동기 대비 1%, 전분기 대비 2% 감소한 308억 위안(약 6조 2,093억원)이며 바이두 귀속 순이익은 14억 위안(약 2,822억원), 비GAAP 기준 순이익은 24억 위안(약 4,838억원)이다. 영업이익은 6억 2,600만 위안(약 1,262억원)으로 영업이익률이 2%에 머물렀고, 비GAAP 기준 영업이익은 17억 위안(약 3,427억원), 이익률 6%다. 매출이 제자리인데 ... 더 읽기",
+        "published": "2026-11-25T04:59:18+00:00",
+        "summary": "크래프톤이 자체 개발한 거대언어모델(LLM) &#8216;라온-1 미니(Raon-1 mini)&#8217;의 정식 버전을 공개했다. 프리뷰 버전을 낸 뒤 추론 능력과 복잡한 작업 수행 성능을 끌어올리고, 작업에 따라 생각하는 깊이를 고를 수 있는 기능을 더했다. 라온-1 미니는 크래프톤이 모델 구조 설계부터 처음부터 학습시키는 &#8216;프롬 스크래치&#8217; 학습까지 전 과정을 직접 수행한 30B급 모델이다. 30B는 모델의 규모를 나타내는 파라미터가 약 300억 개라는 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "쏟아지는 서브컬처, 넥슨 ‘아주르 프로밀리아’는 뭐가 다를까",
-        "url": "https://byline.network/2026/11/23-657/",
-        "source": "ByLine Network",
-        "published": "2026-11-23T16:36:03+00:00",
-        "summary": "다양한 동료와 신비로운 생물 ‘키보’와 함께 판타지 속 대륙을 탐험한다. 적을 만나면 동료들과 힘을 합쳐 맞서 싸우고, 모험 중 발견한 새로운 키보와 인연을 맺기도 한다. 자신만의 생활 공간을 꾸미고 키보와 함께 또다른 일상을 만들어갈 수도 있다. 넥슨이 국내 서비스를 맡아 오는 26일 출시하는 신작 판타지 월드 RPG ‘아주르 프로밀리아’ 얘기다.",
+        "title": "간장부터 수소 압축기까지, 세대 이어 온 중소·중견기업 12곳 명문장수기업으로",
+        "url": "https://platum.kr/archives/299450?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b0%2584%25ec%259e%25a5%25eb%25b6%2580%25ed%2584%25b0-%25ec%2588%2598%25ec%2586%258c-%25ec%2595%2595%25ec%25b6%2595%25ea%25b8%25b0%25ea%25b9%258c%25ec%25a7%2580-%25ec%2584%25b8%25eb%258c%2580-%25ec%259d%25b4%25ec%2596%25b4-%25ec%2598%25a8-%25ec%25a4%2591%25ec%2586%258c%25c2%25b7%25ec%25a4%2591%25ea%25b2%25ac",
+        "source": "Platum",
+        "published": "2026-11-25T03:06:57+00:00",
+        "summary": "간장·고추장을 81년째 만드는 순천의 식품회사와 50년 넘게 산업용 압축기를 만들어 수소 압축기까지 개발한 함안의 기계회사가 올해 명문장수기업 명단에 이름을 올렸다. 중소벤처기업부는 25일 서울 중소기업 DMC타워에서 ‘2026년 명문장수기업 수여식&#8217;을 열고 중소기업 10곳과 중견기업 2곳에 확인서를 줬다. 명문장수기업은 업력 45년 이상인 중소·중견기업 가운데 경제적·사회적 기여와 혁신 활동을 종합 평가해 정부가 확인하는 제도다. 2016년 중소기업진흥법에 근거가 마련돼 2017년 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "카카오페이 송금봉투·선물하기도 신용평가에 반영된다",
-        "url": "https://byline.network/2026/11/1123-8/",
-        "source": "ByLine Network",
-        "published": "2026-11-23T16:34:54+00:00",
-        "summary": "이민수 카카오페이 크레딧사업부문장은 23일 카카오페이가 개최한 미디어 세미나 ‘페이톡(Paytalk)’에서 대출 시장이 좁아질수록 금융사들이 동일한 고객군을 대상으로 경쟁하는 상황이 심화한다고 설명했다. 이에 금융사들은 기존 심사 모형에서 활용하던 데이터만으로 차별화된 평가 결과를 내기 어려워지면서, 신용평가의 변별력을 높일 새로운 데이터와 평가 요소를 찾고 있다는 것이다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "젠슨 황, 엔비디아 복귀한다…이사회, 만장일치 복귀 결정",
-        "url": "https://byline.network/2026/11/huang-2/",
-        "source": "ByLine Network",
-        "published": "2026-11-23T15:18:52+00:00",
-        "summary": "엔비디아 이사회가 23일(현지 시각) 젠슨 황 창업자를 CEO로 즉시 복귀시켰다고 발표했다. 엔비디아 이사회는 만장일치로 복귀를 의결했다. \n\n황 CEO가 불륜 스캔들로 물러난 지 11일 만이다. 이사회는 지난 17일 실적 발표 콘퍼런스콜에서 황 CEO를 복귀시킬 계획이 없다고 밝혔지만, 일주일도 지나지 않아 그 결정을 번복했다.",
+        "title": "바이오 스타트업에 고가 연구장비 개방, 송도 K-바이오 랩허브 실험실 먼저 가동",
+        "url": "https://platum.kr/archives/299447?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%2597%2590-%25ea%25b3%25a0%25ea%25b0%2580-%25ec%2597%25b0%25ea%25b5%25ac%25ec%259e%25a5%25eb%25b9%2584-%25ea%25b0%259c%25eb%25b0%25a9-%25ec%2586%25a1%25eb%258f%2584-k-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4",
+        "source": "Platum",
+        "published": "2026-11-25T03:04:19+00:00",
+        "summary": "신약 후보물질을 찾고 세포를 분석하는 데 쓰는 고가 연구장비를 제약바이오 스타트업이 시중보다 싼 사용료로 쓸 수 있는 실험실이 인천 송도에 문을 열었다. 중소벤처기업부는 인천경제자유구역청, 연세대학교와 함께 추진하는 ‘K-바이오 랩허브 구축사업&#8217;의 하나로 25일 연세대 국제캠퍼스에서 연구장비 실험실 개소식을 열었다. K-바이오 랩허브는 제약바이오 스타트업이 연구개발에 집중할 수 있도록 공간과 장비, 전문인력, 네트워크를 한곳에서 지원하는 국가사업으로, 2023년부터 2031년까지 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "How To Build A Jet Engine From Scratch",
+        "url": "https://www.youtube.com/watch?v=-ieJwYq4j-o",
+        "source": "Y Combinator",
+        "published": "2026-11-24T15:00:08+00:00",
+        "summary": "On November 21, 2026, Boom Supersonic (YC W16) fired its prototype engine core for the first time. In this episode of Hard Tech, YC’s Jared Friedman goes inside Boom’s Colorado Superpower Superfactory with founder and CEO Blake Scholl to see how they are building a jet engine from scratch.\n\nThe comp",
+        "thumbnail": "https://i2.ytimg.com/vi/-ieJwYq4j-o/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "-ieJwYq4j-o",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "미친 선구안. 피클 초기 투자자의 인사이트를 더 듣고 싶다면? #피클 #ai에이전트 #스타트업 #투자",
+        "url": "https://www.youtube.com/shorts/vqXKk36Caj8",
+        "source": "EO 이오",
+        "published": "2026-11-24T14:37:29+00:00",
+        "summary": "⚡️ 피클, Aside, 오픈그래프랩스, 드림랩스.\n요즘 가장 핫한 스타트업들, 공통점이 하나 있습니다.\n모두 베이스벤처스가 먼저 알아보고 투자했다는 것.\n\n“미친 꿈을 꾸는 창업가에게 베팅합니다”\n\n베이스벤처스 이태양 대표의 인사이트, BOLD에서 만나보세요!\n\n✅ 프로필 링크에서 2차 얼리버드 신청 중(17% 할인가)",
+        "thumbnail": "https://i3.ytimg.com/vi/vqXKk36Caj8/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "vqXKk36Caj8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "감히 황제 자리를 탐한 자",
+        "url": "https://www.youtube.com/shorts/F67XTSCwwQE",
+        "source": "슈카월드",
+        "published": "2026-11-24T13:45:59+00:00",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i3.ytimg.com/vi/F67XTSCwwQE/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "F67XTSCwwQE",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "주식이 장난이야?",
+        "url": "https://www.youtube.com/shorts/7RK0-KngzOo",
+        "source": "슈카월드",
+        "published": "2026-11-24T13:35:42+00:00",
+        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
+        "thumbnail": "https://i4.ytimg.com/vi/7RK0-KngzOo/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "7RK0-KngzOo",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+        "url": "https://www.youtube.com/watch?v=o6KIjtkRdOI",
+        "source": "All-In Podcast",
+        "published": "2026-11-24T12:16:21+00:00",
+        "summary": "(0:00) CrowdStrike CEO, George Kurtz joins the show!\n(1:38) Are the Outages Cyberattacks?\n(10:36) How AI Lets Anyone Hack Like a Nation-State Level Threat\n(16:33) Patching, Technical Debt, and Outages\n(33:40) Open-Weight and Local AI: Risk and Defense\n(42:38) Hackers Don't Break In, They Log In\n\nTha",
+        "thumbnail": "https://i4.ytimg.com/vi/o6KIjtkRdOI/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "o6KIjtkRdOI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Argentina Slips Into Recession: Is Milei Finished?",
+        "url": "https://www.youtube.com/watch?v=MN5yzyMkfOI",
+        "source": "TLDR News Global",
+        "published": "2026-11-24T09:30:34+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nPick up a copy of Assembly Required: https://toolong.news/products/assembly-required\nLearn more about the book: https://youtu.be/fuaXoNkzCtY\n\nMilei'",
+        "thumbnail": "https://i2.ytimg.com/vi/MN5yzyMkfOI/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "MN5yzyMkfOI",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI 만드는 앤트로픽과 앤트로픽의 손·발을 만드는 회사만 결국엔 남는다 (박종천 지란지교소프트 CAIO)",
+        "url": "https://www.youtube.com/watch?v=aCaEjft7vVk",
+        "source": "티타임즈TV",
+        "published": "2026-11-24T09:00:28+00:00",
+        "summary": "박종천 지란지교소프트 CAIO는 앤트로픽이 향후 전 세계 대장주가 될 수 있다고 전망합니다. 앤트로픽은 AI 모델을 만드는 회사일 뿐 아니라 AI를 가장 잘 쓰는 회사로도 유명합니다. 앤트로픽이 사용하는 AI 토큰비용이 이미 직원들의 총 연봉에 육박한다고 하구요, 그들이 제품을 내놓는 주기도 점점 더 빨라지고 있습니다. 최근에는 엑셀을 닮은 '클로드 시트'를 발표해 마이크로소프트 주가가 흔들리기도 했죠. \n앤트로픽 시대에 살아남는 회사는 어디가 될까요? 박종천 CAIO는 토큰을 만들어 주는 데이터센터, 그리고 클로드가 쓸 수 있도록",
+        "thumbnail": "https://i2.ytimg.com/vi/aCaEjft7vVk/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "aCaEjft7vVk",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -291,7 +396,7 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "Why OpenAI Acquired a Biotech Startup",
+        "title": "OpenAI’s Plan to Reinvent Drug Discovery",
         "url": "https://www.youtube.com/watch?v=RwYz8XhZiu0",
         "source": "a16z",
         "published": "2026-11-23T15:30:33+00:00",
@@ -315,111 +420,6 @@
         "extras": {
           "theme": "trend",
           "videoId": "d4wwK7OsF9I",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "산(山)을 표현한 코스피, 그양반 갈 때도 예술로 가는구만",
-        "url": "https://www.youtube.com/watch?v=TF1VKLJW1YQ",
-        "source": "슈카월드",
-        "published": "2026-11-23T09:59:34+00:00",
-        "summary": "0:00 5개월만에 -50% 된 코스피\n5:01 젠슨 황 \"모두가 원하면 돌아가겠다.\"\n11:45 AMD는 엔비디아와 무엇이 다른가?\n20:41 이 모든 걱정을 불식시킬 앤트로픽 화려한 상장\n27:29 숏돌이 1인자 \"내가 다 경고 했잖아\"\n35:44 리만브라더스 금융위기 사태의 추억",
-        "thumbnail": "https://i1.ytimg.com/vi/TF1VKLJW1YQ/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "TF1VKLJW1YQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Why is China Importing So Much Gold?",
-        "url": "https://www.youtube.com/watch?v=SgDIhW7-ZZM",
-        "source": "TLDR News Global",
-        "published": "2026-11-23T09:30:22+00:00",
-        "summary": "Take back your privacy - start using Proton Mail for free: http://proton.me/tldr\n\nPre-order a copy of Too Long: https://toolong.news/TL010\n\nThis year, China has imported more gold than ever before with them due to spend over $200 billion if these trends continue. In this video, we're taking a look a",
-        "thumbnail": "https://i4.ytimg.com/vi/SgDIhW7-ZZM/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "SgDIhW7-ZZM",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "'고객과 경쟁하지 않는다'던 TSMC가 메모리회사 목줄을 잡게된 이유",
-        "url": "https://www.youtube.com/watch?v=eB7klZSrJQ4",
-        "source": "티타임즈TV",
-        "published": "2026-11-23T09:00:37+00:00",
-        "summary": "'고객과 경쟁하지 않는다'는 모토로 반도체 업계의 슈퍼 을이 된 TSMC. 그런데 이 TSMC가 메모리 반도체 업계의 목줄을 쥐고 흔들고 있습니다. 바로 HBM 때문이죠. \n\nHBM이 고도화하면서 HBM에 들어가는 부품 중 하나인 '베이스 다이'에 요구되는 성능도 점차 복잡해지고 있는데요. 지금까지는 이를 삼성전자, SK하이닉스, 마이크론 등 메모리 업체들이 직접 제작했지만, 이제는 기술의 한계로 TSMC에 맡겨야 하는 상황이 왔죠. 심지어 HBM을 납품받는 엔비디아까지 'TSMC 공정으로 된 제품만 받겠다'라고도 하면서 이런 현상",
-        "thumbnail": "https://i2.ytimg.com/vi/eB7klZSrJQ4/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "eB7klZSrJQ4",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Chamath: The Market is BAD for Stocks Right Now",
-        "url": "https://www.youtube.com/shorts/jHOvCD1nGEQ",
-        "source": "All-In Podcast",
-        "published": "2026-11-22T19:30:19+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i3.ytimg.com/vi/jHOvCD1nGEQ/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "jHOvCD1nGEQ",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "We Got The First Animals Wrong",
-        "url": "https://www.youtube.com/shorts/1IpZG78mmCw",
-        "source": "Cleo Abram",
-        "published": "2026-11-22T15:13:03+00:00",
-        "summary": "When did the FIRST animals appear on Earth? Not bacteria and viruses, but multi-celled creatures!\n\nWe know animals were around at least twice as long ago as dinosaurs because that’s how old the oldest fossils we have of any animal are.\n\nBut to find out when animals really started, scientists looked ",
-        "thumbnail": "https://i2.ytimg.com/vi/1IpZG78mmCw/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "1IpZG78mmCw",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Chamath Predicts the Rise of AI’s Magnificent 10: “Dirt to Application”",
-        "url": "https://www.youtube.com/shorts/QjDMSL4PpPE",
-        "source": "All-In Podcast",
-        "published": "2026-11-22T15:00:18+00:00",
-        "summary": "Follow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\nFollow on TikTok:\nhttps://www.tiktok.com/@allin\n\nFollow on LinkedIn: \nhttps://www.linke",
-        "thumbnail": "https://i2.ytimg.com/vi/QjDMSL4PpPE/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "QjDMSL4PpPE",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "스페이스X 우주데이터센터가 되면 삼전닉스도 간다 (이강수 컴퍼니케이 대표)",
-        "url": "https://www.youtube.com/watch?v=UB1e9uzumd4",
-        "source": "티타임즈TV",
-        "published": "2026-11-21T22:00:15+00:00",
-        "summary": "AI 데이터센터가 우주로 올라가면 우주에서도 전력을 안정적으로 공급하고 열을 빼내야 하며, 장비가 고장 나면 수리하거나 교체해야 합니다. 무엇보다 그 안에 들어갈 반도체는 누가 만들까요? 삼성전자와 SK하이닉스일 확률이 높습니다. 그래서 이강수 컴퍼니케이파트너스 대표는 우주 데이터센터는 우주 스타트업뿐만 아니라 한국 반도체 산업과도 연결해서 봐야 한다고 설명합니다. 우주에서 요구하는 성능과 안정성을 확보하는 과정이 새로운 사업 기회가 될 수 있다는 것이죠. 우리나라 스타트업들이 도전하고 있는 궤도 수송과 위성 정비 기술이 이 구상에",
-        "thumbnail": "https://i2.ytimg.com/vi/UB1e9uzumd4/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "UB1e9uzumd4",
           "via": "rss"
         }
       }
