@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-11-25T07:00:07.143268+00:00",
+  "generated_at": "2026-11-26T06:52:08.601671+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
-        "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+        "title": "Study Hard, Get Ahead?",
+        "url": "https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html",
+        "source": "NYT World",
+        "published": "2026-11-26T06:38:37+00:00",
+        "summary": "The broken promise of upward mobility through education is sparking youth protests around the world.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
+        "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-11-25T06:37:35+00:00",
-        "summary": "Get our daily political email, free app or daily news podcastWells says AI investment and creative protections not a ‘zero-sum game’Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game.I reject this sort of zero-sum game where building Australian sovereig",
+        "published": "2026-11-26T06:36:53+00:00",
+        "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce.Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within t",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-11-25T06:36:00+00:00",
-        "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "2026-11-25T06:00:36+00:00",
-        "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "National Security vs. the Stock Market",
-        "url": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+        "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
+        "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
         "source": "NYT World",
-        "published": "2026-11-25T05:45:35+00:00",
-        "summary": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
+        "published": "2026-11-26T06:30:00+00:00",
+        "summary": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
-        "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
+        "title": "How Silicon Valley became central to Israel’s war on Palestinians",
+        "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-25T05:27:32+00:00",
-        "summary": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
+        "published": "2026-11-26T06:12:53+00:00",
+        "summary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel&#039;s war machine.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-        "url": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html",
-        "source": "NYT World",
-        "published": "2026-11-25T05:24:35+00:00",
-        "summary": "A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island. The new accord precludes such bases.",
+        "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+        "source": "The Guardian World",
+        "published": "2026-11-26T06:10:56+00:00",
+        "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’Trump proposing new tariffs on 14 partners including China and EUBrazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners.Br",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "The Gambia election: Can the next president deliver on a decade of promise",
-        "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
+        "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
+        "url": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-25T05:03:04+00:00",
-        "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
+        "published": "2026-11-26T06:10:52+00:00",
+        "summary": "As Sri Lanka&#039;s Tamil separatists fought a deadly war with the army, they also killed hundreds of Muslims.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Hungary Threw Open Its Secret Police Files. Let the Finger Pointing Begin.",
-        "url": "https://www.nytimes.com/2026/11/25/world/europe/hungary-threw-open-its-secret-police-files-let-the-finger-pointing-begin.html",
-        "source": "NYT World",
-        "published": "2026-11-25T05:01:14+00:00",
-        "summary": "The communist-era files have exposed the vast network of informants that kept Hungary in the Soviet orbit. But how reliable are they?",
+        "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
+        "url": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-26T06:07:35+00:00",
+        "summary": "Apps not working. Bank transfers not going through. And a court fighting for international law must skirt US firms.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
+        "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-26T05:49:40+00:00",
+        "summary": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "NordVPN Coupons: 75% Off + 3 Months Free",
-        "url": "https://www.wired.com/story/nordvpn-coupon/",
+        "title": "Lenovo Coupon Codes: 15% Off in November 2026",
+        "url": "https://www.wired.com/story/lenovo-coupon-code/",
         "source": "Wired",
-        "published": "2026-11-25T06:00:00+00:00",
-        "summary": "Save up to 77% on 2-year plans and get 3 free months with our NordVPN discount codes.",
+        "published": "2026-11-26T06:00:00+00:00",
+        "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Wayfair Coupons: Up to 80% Off November 2026",
-        "url": "https://www.wired.com/story/wayfair-promo-code/",
+        "title": "Chewy Promo Codes: 50% Off November 2026",
+        "url": "https://www.wired.com/story/chewy-promo-code/",
         "source": "Wired",
-        "published": "2026-11-25T06:00:00+00:00",
-        "summary": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+        "published": "2026-11-26T06:00:00+00:00",
+        "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Noom Promo Codes: 50% Off Best Deals for November 2026",
-        "url": "https://www.wired.com/story/noom-promo-code/",
+        "title": "Office Depot Coupons: $20 Off November 2026",
+        "url": "https://www.wired.com/story/office-depot-promo-codes/",
         "source": "Wired",
-        "published": "2026-11-25T06:00:00+00:00",
-        "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+        "published": "2026-11-26T06:00:00+00:00",
+        "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Klook Promo Code: 20% Off November 2026",
-        "url": "https://www.wired.com/story/klook-promo-code/",
+        "title": "LG Promo Code: 40% Off for November 2026",
+        "url": "https://www.wired.com/story/lg-promo-code/",
         "source": "Wired",
-        "published": "2026-11-25T06:00:00+00:00",
-        "summary": "Maximize your travel budget with our expert guide to finding Klook coupons, app-exclusive deals, and payment discounts on tours, hotels, and transport.",
+        "published": "2026-11-26T06:00:00+00:00",
+        "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Adidas Promo Code | 60% Off | November 2026",
-        "url": "https://www.wired.com/story/adidas-promo-code/",
+        "title": "30% Off Canon Promo Codes | November 2026",
+        "url": "https://www.wired.com/story/canon-promo-code/",
         "source": "Wired",
-        "published": "2026-11-25T06:00:00+00:00",
-        "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+        "published": "2026-11-26T06:00:00+00:00",
+        "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Uplift Promo Codes: $300 Off",
-        "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
+        "title": "50% Off DoorDash Promo Code | November 2026",
+        "url": "https://www.wired.com/story/doordash-promo-code/",
         "source": "Wired",
-        "published": "2026-11-25T06:00:00+00:00",
-        "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+        "published": "2026-11-26T06:00:00+00:00",
+        "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
-        "url": "https://github.com/samcorcos/legatum/issues/147",
-        "source": "Hacker News Front",
-        "published": "2026-11-25T04:56:36+00:00",
-        "summary": "Article URL: https://github.com/samcorcos/legatum/issues/147\nComments URL: https://news.ycombinator.com/item?id=50638647\nPoints: 106\n# Comments: 13",
+        "title": "Disney Plus Discount Codes: 52% Off November 2026",
+        "url": "https://www.wired.com/story/disney-plus-discounts/",
+        "source": "Wired",
+        "published": "2026-11-26T06:00:00+00:00",
+        "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "url": "https://gpu-demo-gallery.pages.dev/",
-        "source": "Hacker News Front",
-        "published": "2026-11-25T04:31:48+00:00",
-        "summary": "Article URL: https://gpu-demo-gallery.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50638503\nPoints: 41\n# Comments: 6",
+        "title": "Paramount+ Coupon Codes and Deals for 2026",
+        "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+        "source": "Wired",
+        "published": "2026-11-26T06:00:00+00:00",
+        "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,54 +186,21 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "AI 회사도 ‘통제 불능’ 공포, 오픈AI 수석 과학자의 제안",
-        "url": "https://byline.network/2026/11/25-597/",
+        "title": "[단독] 쿠팡 로켓그로스, 내년부터 판매자·상품 골라받는다",
+        "url": "https://byline.network/2026/11/26_2983717/",
         "source": "ByLine Network",
-        "published": "2026-11-25T06:27:52+00:00",
-        "summary": "AI가 스스로를 개선해 인간의 통제를 벗어나 군림할 수 있다는 공포감이 커지고 있다. AI 기술의 최전선에 선 개발 기업 내부적으로 급격한 지능 발전을 경계하는 목소리가 커지고 있다. 이런 가운데 AI 모델의 개발 속도를 인위적으로 제한하고 인간의 통제력을 유지하기 위한 방안이 제시돼 주목받고 있다.",
+        "published": "2026-11-26T05:36:26+00:00",
+        "summary": "쿠팡이 자사 풀필먼트 서비스 ‘로켓그로스’를 이용할 판매자와 상품을 선별한다. 로켓그로스 이용 수요가 늘어나는 가운데 누구의 상품을 얼마나 물류센터에 들일지 쿠팡이 직접 결정하겠다는 것이다. 업계에서는 쿠팡이 판매 성과와 재고 회전율 등을 고려해 한정된 물류 공간을 자사에 유리한 상품에 배분하려는 전략으로 해석하고 있다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "How Steven Basart forced his way into Beacon Health and became its first engineer",
-        "url": "https://www.ycombinator.com/blog/how-steven-basart-forced-his-way-into-beacon-health-and-became-its-first-engineer/",
-        "source": "Y Combinator Blog",
-        "published": "2026-11-25T06:21:58+00:00",
-        "summary": "From dropping out of a YC batch to building an internal programming language at a healthcare startup, Steven does whatever it takes.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "[인터뷰] “‘딸깍’으로 되는 게 아니다”…AI로 만든 영화 ‘라파엘’",
-        "url": "https://byline.network/2026/11/843924802840239/",
-        "source": "ByLine Network",
-        "published": "2026-11-25T06:21:12+00:00",
-        "summary": "“나 같은 존재도 신의 길을 걷는다면, 내 죄를 용서받을 수 있을까?”\n2050년, 기후 재난과 전쟁으로 황폐해진 세계. 폐쇄 구역 ‘델모르’에서 허가 없이 태어난 아이들은 ‘미등록자’로 분류돼 사살 대상이 된다. 부모들은 아이들을 지키기 위해 반군이 된다. 주인공 알렉세이는 이들을 처리하기 위해 탄생한 살인 병기 안드로이드지만, 사실은 죄책감을 느낄 줄 아는 ‘불량품’이다. 알렉세이는 상부의 명령을 어기고 고해성사를 통해 속죄하고 싶어 한다.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "How Daniel Zeltser cold-emailed his way to employee #2 at Beacon Health",
-        "url": "https://www.ycombinator.com/blog/how-daniel-zeltser-cold-emailed-his-way-to-employee-2-at-beacon-health/",
-        "source": "Y Combinator Blog",
-        "published": "2026-11-25T06:20:57+00:00",
-        "summary": "Daniel Zeltser left Duke to join Beacon Health as its first engineer hire, building AI agents that keep patient care from falling through the cracks.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "25 biotech startups to watch, according to VCs",
-        "url": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/",
+        "title": "Exclusive: Starforge raises $6.6m to build nuclear fusion reactors at scale",
+        "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
         "source": "Sifted (EU startups)",
-        "published": "2026-11-25T05:00:47+00:00",
+        "published": "2026-11-26T05:00:51+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -241,38 +208,146 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "크래프톤, 자체 개발 LLM ‘라온-1 미니’ 정식 출시… 상업적 무료 공개",
-        "url": "https://platum.kr/archives/299455?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2581%25ac%25eb%259e%2598%25ed%2594%2584%25ed%2586%25a4-%25ec%259e%2590%25ec%25b2%25b4-%25ea%25b0%259c%25eb%25b0%259c-llm-%25eb%259d%25bc%25ec%2598%25a8-1-%25eb%25af%25b8%25eb%258b%2588-%25ec%25a0%2595%25ec%258b%259d-%25ec%25b6%259c%25ec%258b%259c-%25ec%2583%2581%25ec%2597%2585%25ec%25a0%2581",
-        "source": "Platum",
-        "published": "2026-11-25T04:59:18+00:00",
-        "summary": "크래프톤이 자체 개발한 거대언어모델(LLM) &#8216;라온-1 미니(Raon-1 mini)&#8217;의 정식 버전을 공개했다. 프리뷰 버전을 낸 뒤 추론 능력과 복잡한 작업 수행 성능을 끌어올리고, 작업에 따라 생각하는 깊이를 고를 수 있는 기능을 더했다. 라온-1 미니는 크래프톤이 모델 구조 설계부터 처음부터 학습시키는 &#8216;프롬 스크래치&#8217; 학습까지 전 과정을 직접 수행한 30B급 모델이다. 30B는 모델의 규모를 나타내는 파라미터가 약 300억 개라는 ... 더 읽기",
+        "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
+        "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-26T05:00:35+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "간장부터 수소 압축기까지, 세대 이어 온 중소·중견기업 12곳 명문장수기업으로",
-        "url": "https://platum.kr/archives/299450?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b0%2584%25ec%259e%25a5%25eb%25b6%2580%25ed%2584%25b0-%25ec%2588%2598%25ec%2586%258c-%25ec%2595%2595%25ec%25b6%2595%25ea%25b8%25b0%25ea%25b9%258c%25ec%25a7%2580-%25ec%2584%25b8%25eb%258c%2580-%25ec%259d%25b4%25ec%2596%25b4-%25ec%2598%25a8-%25ec%25a4%2591%25ec%2586%258c%25c2%25b7%25ec%25a4%2591%25ea%25b2%25ac",
-        "source": "Platum",
-        "published": "2026-11-25T03:06:57+00:00",
-        "summary": "간장·고추장을 81년째 만드는 순천의 식품회사와 50년 넘게 산업용 압축기를 만들어 수소 압축기까지 개발한 함안의 기계회사가 올해 명문장수기업 명단에 이름을 올렸다. 중소벤처기업부는 25일 서울 중소기업 DMC타워에서 ‘2026년 명문장수기업 수여식&#8217;을 열고 중소기업 10곳과 중견기업 2곳에 확인서를 줬다. 명문장수기업은 업력 45년 이상인 중소·중견기업 가운데 경제적·사회적 기여와 혁신 활동을 종합 평가해 정부가 확인하는 제도다. 2016년 중소기업진흥법에 근거가 마련돼 2017년 ... 더 읽기",
+        "title": "‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech",
+        "url": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-26T05:00:25+00:00",
+        "summary": "",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "바이오 스타트업에 고가 연구장비 개방, 송도 K-바이오 랩허브 실험실 먼저 가동",
-        "url": "https://platum.kr/archives/299447?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585%25ec%2597%2590-%25ea%25b3%25a0%25ea%25b0%2580-%25ec%2597%25b0%25ea%25b5%25ac%25ec%259e%25a5%25eb%25b9%2584-%25ea%25b0%259c%25eb%25b0%25a9-%25ec%2586%25a1%25eb%258f%2584-k-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4",
+        "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
+        "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-26T05:00:18+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
+        "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
+        "source": "Sifted (EU startups)",
+        "published": "2026-11-26T05:00:01+00:00",
+        "summary": "",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "니더 급구, 2026년 1~10월 30대 근무 완료 건수 전년비 72% 증가",
+        "url": "https://platum.kr/archives/299524?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258b%2588%25eb%258d%2594-%25ea%25b8%2589%25ea%25b5%25ac-2026%25eb%2585%2584-110%25ec%259b%2594-30%25eb%258c%2580-%25ea%25b7%25bc%25eb%25ac%25b4-%25ec%2599%2584%25eb%25a3%258c-%25ea%25b1%25b4%25ec%2588%2598-%25ec%25a0%2584%25eb%2585%2584%25eb%25b9%2584-72-%25ec%25a6%259d%25ea%25b0%2580",
         "source": "Platum",
-        "published": "2026-11-25T03:04:19+00:00",
-        "summary": "신약 후보물질을 찾고 세포를 분석하는 데 쓰는 고가 연구장비를 제약바이오 스타트업이 시중보다 싼 사용료로 쓸 수 있는 실험실이 인천 송도에 문을 열었다. 중소벤처기업부는 인천경제자유구역청, 연세대학교와 함께 추진하는 ‘K-바이오 랩허브 구축사업&#8217;의 하나로 25일 연세대 국제캠퍼스에서 연구장비 실험실 개소식을 열었다. K-바이오 랩허브는 제약바이오 스타트업이 연구개발에 집중할 수 있도록 공간과 장비, 전문인력, 네트워크를 한곳에서 지원하는 국가사업으로, 2023년부터 2031년까지 ... 더 읽기",
+        "published": "2026-11-26T00:37:23+00:00",
+        "summary": "실시간 단기 일자리 매칭 플랫폼 &#8216;급구&#8217;를 운영하는 니더가 올해 1~10월 연령대별 앱 이용 데이터를 분석한 결과, 단기 알바 이용층이 20대 중심에서 30대까지 확대되는 추세인 것으로 나타났다. 30대의 근무 완료 건수가 전년 동기 대비 72% 증가하며 전체 평균 증가율(51%)과 20대 증가율(39%)을 모두 웃돌았다. 이번 분석에서 가장 두드러진 변화는 30대의 실제 근무 참여 증가다. 30대 구직자의 지원 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "크릿벤처스, 한국 웹툰 IP 일본 사업화 기업 ‘클링크’에 후속 투자",
+        "url": "https://platum.kr/archives/299520?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2581%25ac%25eb%25a6%25bf%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2595%259c%25ea%25b5%25ad-%25ec%259b%25b9%25ed%2588%25b0-ip-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%2582%25ac%25ec%2597%2585%25ed%2599%2594-%25ea%25b8%25b0%25ec%2597%2585-%25ed%2581%25b4%25eb%25a7%2581%25ed%2581%25ac%25ec%2597%2590",
+        "source": "Platum",
+        "published": "2026-11-26T00:04:41+00:00",
+        "summary": "벤처캐피탈 크릿벤처스가 한국 웹툰·웹소설 IP의 일본 사업화를 맡는 콘텐츠 IP 기업 클링크(CLINK)에 후속 투자했다고 26일 밝혔다. 투자 금액은 공개하지 않았다. 클링크는 일본에 법인을 둔 국외창업기업으로, 한국 웹툰·웹소설 IP를 애니메이션과 게임, 캐릭터 굿즈로 확장하는 기획·제작 사업을 한다. 마혁민 대표를 비롯한 핵심 인력은 대원미디어, 덴츠 등 한·일 콘텐츠 기업 출신으로 일본 제작위원회 운영과 콘텐츠 유통, 애니메이션 제작 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
     ],
     "videos": [
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Startup School Europe 2027!",
+        "url": "https://www.youtube.com/shorts/8gOkTwEHTP8",
+        "source": "Y Combinator",
+        "published": "2026-11-25T17:19:05+00:00",
+        "summary": "Startup School is coming to the UK!\n\nHear from Paul Graham, Garry Tan, and founders like James Hawkins from PostHog, Philip Johnston from Starcloud, and Hiroki Takeuchi from GoCardless.\n\nAnd join the best builders and hackers from across Europe for a day of talks and sessions with YC partners in Lon",
+        "thumbnail": "https://i1.ytimg.com/vi/8gOkTwEHTP8/hqdefault.jpg",
+        "extras": {
+          "theme": "innovation",
+          "videoId": "8gOkTwEHTP8",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "What’s In This Giant Hole?",
+        "url": "https://www.youtube.com/shorts/R4viO9hnz8U",
+        "source": "Cleo Abram",
+        "published": "2026-11-25T15:11:51+00:00",
+        "summary": "Right here in France is a giant hole where countries are lowering pieces of steel that weigh more than 500 cars each.\n\nThey’ll create a giant metal donut and around it they’ll place 18 magnets – each one as heavy as a fully loaded 747.\n\nThey’re gonna cool those magnets to just above absolute zero, p",
+        "thumbnail": "https://i3.ytimg.com/vi/R4viO9hnz8U/hqdefault.jpg",
+        "extras": {
+          "theme": "trend",
+          "videoId": "R4viO9hnz8U",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI 안경이 부른, 30년 된 수능의 종말",
+        "url": "https://www.youtube.com/watch?v=0JWvZlIRTG4",
+        "source": "슈카월드",
+        "published": "2026-11-25T11:05:29+00:00",
+        "summary": "0:00 말도 많고 탈도 많았던 2027 수능\n4:21 부정행위 적발, 아직 한 발 남았다.\n13:52 국가교육위원회 수능 개편안\n23:11 2028년 대학입시제도 개편안\n29:08 대학 입학 고사의 변천사 (라떼는 말이야)",
+        "thumbnail": "https://i1.ytimg.com/vi/0JWvZlIRTG4/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "0JWvZlIRTG4",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "The ICJ Finds Myanmar Guilty of Genocide: What Next?",
+        "url": "https://www.youtube.com/watch?v=Vfb5WcD-yRw",
+        "source": "TLDR News Global",
+        "published": "2026-11-25T10:00:34+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nCheck out our posters: https://toolong.news/posters\n\nRecently, the International Court of Justice found Myanmar responsible for committing genocide ",
+        "thumbnail": "https://i3.ytimg.com/vi/Vfb5WcD-yRw/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "Vfb5WcD-yRw",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "사람인척 하는 AI비서가 바꿔놓을 인터넷의 미래 모습 (박종천 지란지교소프트 CAIO)",
+        "url": "https://www.youtube.com/watch?v=bwYddKlwbMg",
+        "source": "티타임즈TV",
+        "published": "2026-11-25T09:00:31+00:00",
+        "summary": "메타의 '뮤즈', 한국인 창업팀이 미국에서 만든 '피클'처럼 메일을 읽고 예약을 잡고 전화까지 대신 걸어 주는 개인 AI 에이전트가 쏟아지고 있습니다. 이들은 사람처럼 웹페이지 화면을 보고 버튼을 누르며 일합니다. 웹사이트 입장에선 지금 들어온 손님이 사람인지 AI인지 알기 어려워진 거죠. 고객센터에 AI 상담원을 앉혔다가, 항의를 퍼붓는 손님에게 AI가 제멋대로 환불을 해 준 일도 실제로 벌어졌습니다.\n\n온라인 서비스 회사는 AI에게 어디까지 문을 열어야 할까요? 조회만 허락할지, 로그인과 결제까지 허용할지, 혹은 아예 막아야할 ",
+        "thumbnail": "https://i3.ytimg.com/vi/bwYddKlwbMg/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "bwYddKlwbMg",
+          "via": "rss"
+        }
+      },
       {
         "category": "videos",
         "kind": "video",
@@ -321,21 +396,6 @@
       {
         "category": "videos",
         "kind": "video",
-        "title": "주식이 장난이야?",
-        "url": "https://www.youtube.com/shorts/7RK0-KngzOo",
-        "source": "슈카월드",
-        "published": "2026-11-24T13:35:42+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i4.ytimg.com/vi/7RK0-KngzOo/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "7RK0-KngzOo",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
         "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
         "url": "https://www.youtube.com/watch?v=o6KIjtkRdOI",
         "source": "All-In Podcast",
@@ -360,66 +420,6 @@
         "extras": {
           "theme": "news",
           "videoId": "MN5yzyMkfOI",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "AI 만드는 앤트로픽과 앤트로픽의 손·발을 만드는 회사만 결국엔 남는다 (박종천 지란지교소프트 CAIO)",
-        "url": "https://www.youtube.com/watch?v=aCaEjft7vVk",
-        "source": "티타임즈TV",
-        "published": "2026-11-24T09:00:28+00:00",
-        "summary": "박종천 지란지교소프트 CAIO는 앤트로픽이 향후 전 세계 대장주가 될 수 있다고 전망합니다. 앤트로픽은 AI 모델을 만드는 회사일 뿐 아니라 AI를 가장 잘 쓰는 회사로도 유명합니다. 앤트로픽이 사용하는 AI 토큰비용이 이미 직원들의 총 연봉에 육박한다고 하구요, 그들이 제품을 내놓는 주기도 점점 더 빨라지고 있습니다. 최근에는 엑셀을 닮은 '클로드 시트'를 발표해 마이크로소프트 주가가 흔들리기도 했죠. \n앤트로픽 시대에 살아남는 회사는 어디가 될까요? 박종천 CAIO는 토큰을 만들어 주는 데이터센터, 그리고 클로드가 쓸 수 있도록",
-        "thumbnail": "https://i2.ytimg.com/vi/aCaEjft7vVk/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "aCaEjft7vVk",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "🤖 BOLD 2026 피지컬 AI 해커톤, 50명 한정 모집. 지금 프로필 링크에서 신청하세요! #피지컬ai #로봇 #ai안경 #boldseoul2026",
-        "url": "https://www.youtube.com/shorts/d8n1gwjC4gg",
-        "source": "EO 이오",
-        "published": "2026-11-23T21:00:13+00:00",
-        "summary": "AI 안경부터 로봇 암, 다양한 하드웨어와 시뮬레이션까지.\nAI 에이전트로 실제 하드웨어를 움직이며\n생각할 수 있는 건 뭐든 다 만들어볼 수 있어요.\n\n🔥피지컬 AI 해커톤, BOLD 랄프톤 with team attention \n • 일시: 26년 12월 15일(화) 하루 종일\n • 장소: GS타워 25층 keeeet\n • 참가비: 🆓 무료! 메인 컨퍼런스 티켓 없이도 신청할 수 있어요\n • 신청 후 선정된 분만 참여할 수 있어요\n • 개인 하드웨어 지참 가능, 현장 대여 하드웨어도 준비 중이에요\n • 완성한 결과는 포스터 세션에서",
-        "thumbnail": "https://i1.ytimg.com/vi/d8n1gwjC4gg/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "d8n1gwjC4gg",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "OpenAI’s Plan to Reinvent Drug Discovery",
-        "url": "https://www.youtube.com/watch?v=RwYz8XhZiu0",
-        "source": "a16z",
-        "published": "2026-11-23T15:30:33+00:00",
-        "summary": "What happens when scientists are no longer limited by human attention? OpenAI’s Joy Jiao and Ashoka Rajendra join a16z’s Jay Rughani and Jorge Conde to discuss how AI and thousands of parallel agents could reshape drug discovery and development.\n\nThey trace OpenAI’s life sciences work from scientifi",
-        "thumbnail": "https://i3.ytimg.com/vi/RwYz8XhZiu0/hqdefault.jpg",
-        "extras": {
-          "theme": "innovation",
-          "videoId": "RwYz8XhZiu0",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "We Saw Alien Weather (First Time Ever)",
-        "url": "https://www.youtube.com/shorts/d4wwK7OsF9I",
-        "source": "Cleo Abram",
-        "published": "2026-11-23T14:55:23+00:00",
-        "summary": "Scientists just used the James Webb Space Telescope to watch clouds change on a world over 7 lightyears away. WISE-0855 is the coldest brown dwarf we’ve ever found. We’ve known for a few years that it has icy clouds full of water, but this is the first time scientists were able to actually WATCH tho",
-        "thumbnail": "https://i1.ytimg.com/vi/d4wwK7OsF9I/hqdefault.jpg",
-        "extras": {
-          "theme": "trend",
-          "videoId": "d4wwK7OsF9I",
           "via": "rss"
         }
       }
