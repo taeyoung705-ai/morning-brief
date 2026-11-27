@@ -1,93 +1,93 @@
 {
-  "generated_at": "2026-11-26T06:52:08.601671+00:00",
+  "generated_at": "2026-11-27T06:44:38.925807+00:00",
   "interests": "- 국제 정세를 파악할 수 있는 해외 뉴스\n- 공신력 있는 해외 매체의 분석/해설 영상\n- 혁신적인 사업, 새로운 기술 아이디어\n- 실제 혁신 기업의 케이스 스터디\n- 글로벌 테크 트렌드\n- 해외 스타트업의 기술혁신 트렌드\n- 국내 스타트업 기업 트렌드",
   "sections": {
     "world": [
       {
         "category": "world",
         "kind": "article",
-        "title": "Study Hard, Get Ahead?",
-        "url": "https://www.nytimes.com/2026/11/25/world/youth-protests-education-tariffs-thanksgiving.html",
-        "source": "NYT World",
-        "published": "2026-11-26T06:38:37+00:00",
-        "summary": "The broken promise of upward mobility through education is sparking youth protests around the world.",
+        "title": "‘You can’t stop it’: Indians embrace Pakistani dramas, defying bans",
+        "url": "https://www.aljazeera.com/news/2026/11/27/you-cant-stop-it-indians-embrace-pakistani-dramas-defying-bans?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-27T06:31:28+00:00",
+        "summary": "India has tried to keep Pakistani dramas off its screens since May 2025. But Indians can&#039;t get enough of these shows.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
-        "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+        "title": "Could housing decide Spain's general election?",
+        "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "2026-11-27T06:09:31+00:00",
+        "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+        "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
         "source": "The Guardian World",
-        "published": "2026-11-26T06:36:53+00:00",
-        "summary": "Get our breaking news email, free app or daily news podcastPauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party.Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce.Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within t",
+        "published": "2026-11-27T06:00:56+00:00",
+        "summary": "What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscapeAs a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce beats rather than returning to his family house in Lagos, the more frenetic city of his birth.In 2022, one of his beats became popular on TikTo",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
-        "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+        "title": "India’s Pant plays for New Zealand side under false name ‘Stan Stan’",
+        "url": "https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-27T06:00:39+00:00",
+        "summary": "Rishabh Pant plays for Open House Swingers in New Zealand on eve of second Test as India wicketkeeper uses false name.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "Spain’s 2026 election explained in maps and charts",
+        "url": "https://www.aljazeera.com/news/2026/11/27/spains-2026-election-explained-in-maps-and-charts?traffic_source=rss",
+        "source": "Al Jazeera",
+        "published": "2026-11-27T05:57:37+00:00",
+        "summary": "Spaniards vote on November 29 in a snap general election. Here is how the system works, the parties and the key issues.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "world",
+        "kind": "article",
+        "title": "In Praise of My Typewriter",
+        "url": "https://www.nytimes.com/2026/11/26/world/ai-typewriter-russia-brazil-mirumi.html",
         "source": "NYT World",
-        "published": "2026-11-26T06:30:00+00:00",
-        "summary": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.",
+        "published": "2026-11-27T05:45:53+00:00",
+        "summary": "The A.I. projects editor at The New York Times uses chatbots every day. But when it’s time to write, he reaches for an Olivetti Lettera 22 from the 1950s.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "How Silicon Valley became central to Israel’s war on Palestinians",
-        "url": "https://www.aljazeera.com/news/2026/11/26/how-silicon-valley-central-israel-war-palestinians?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-26T06:12:53+00:00",
-        "summary": "From surveillance systems to AI targeting, US tech giants are deeply embedded in Israel&#039;s war machine.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-        "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+        "title": "Erin Patterson launches high court appeal bid over mushroom murder convictions",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
         "source": "The Guardian World",
-        "published": "2026-11-26T06:10:56+00:00",
-        "summary": "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’Trump proposing new tariffs on 14 partners including China and EUBrazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners.Br",
+        "published": "2026-11-27T05:31:38+00:00",
+        "summary": "Patterson, 52, seeks leave to appeal to Australia’s highest court over deaths of estranged family members after fatal beef wellington lunchGet our breaking news email, free app or daily news podcastErin Patterson has applied to the high court seeking leave to appeal after a failed bid last month to overturn her triple murder conviction.Patterson, 52, was found guilty last year of the murders of he",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "world",
         "kind": "article",
-        "title": "Sri Lanka mass grave revives quest for answers to forgotten Muslim massacre",
-        "url": "https://www.aljazeera.com/news/2026/11/26/sri-lanka-mass-grave-revives-quest-for-answers-to-forgotten-muslim-massacre?traffic_source=rss",
+        "title": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+        "url": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
         "source": "Al Jazeera",
-        "published": "2026-11-26T06:10:52+00:00",
-        "summary": "As Sri Lanka&#039;s Tamil separatists fought a deadly war with the army, they also killed hundreds of Muslims.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "ICC judge Kimberly Prost tries war crimes. She’s a target of US sanctions",
-        "url": "https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-26T06:07:35+00:00",
-        "summary": "Apps not working. Bank transfers not going through. And a court fighting for international law must skirt US firms.",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "world",
-        "kind": "article",
-        "title": "South Korea’s central bank hikes interest rates, raises GDP growth forecast",
-        "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast?traffic_source=rss",
-        "source": "Al Jazeera",
-        "published": "2026-11-26T05:49:40+00:00",
-        "summary": "Bank of Korea raises key rate by 0.25 percent amid booming exports of AI chips.",
+        "published": "2026-11-27T05:27:18+00:00",
+        "summary": "Israel is trying to fragment Lebanon by separating its Christian residents in south Lebanon from the rest.",
         "thumbnail": "",
         "extras": {}
       }
@@ -96,88 +96,88 @@
       {
         "category": "tech",
         "kind": "article",
-        "title": "Lenovo Coupon Codes: 15% Off in November 2026",
-        "url": "https://www.wired.com/story/lenovo-coupon-code/",
+        "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+        "url": "https://www.wired.com/story/ulta-coupon/",
         "source": "Wired",
-        "published": "2026-11-26T06:00:00+00:00",
-        "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+        "published": "2026-11-27T06:00:00+00:00",
+        "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Chewy Promo Codes: 50% Off November 2026",
-        "url": "https://www.wired.com/story/chewy-promo-code/",
+        "title": "Home Depot Promo Codes: 30% Off in November 2026",
+        "url": "https://www.wired.com/story/home-depot-promo-code/",
         "source": "Wired",
-        "published": "2026-11-26T06:00:00+00:00",
-        "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
+        "published": "2026-11-27T06:00:00+00:00",
+        "summary": "Save up to 30% today with the latest Home Depot promo codes for appliances, power tools, and more this November.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Office Depot Coupons: $20 Off November 2026",
-        "url": "https://www.wired.com/story/office-depot-promo-codes/",
+        "title": "Peacock Promo Codes: 40% Off November 2026",
+        "url": "https://www.wired.com/story/peacock-promo-code/",
         "source": "Wired",
-        "published": "2026-11-26T06:00:00+00:00",
-        "summary": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+        "published": "2026-11-27T06:00:00+00:00",
+        "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "LG Promo Code: 40% Off for November 2026",
-        "url": "https://www.wired.com/story/lg-promo-code/",
+        "title": "Dell Coupon Codes: 20% Off for November 2026",
+        "url": "https://www.wired.com/story/dell-coupon-code/",
         "source": "Wired",
-        "published": "2026-11-26T06:00:00+00:00",
-        "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+        "published": "2026-11-27T06:00:00+00:00",
+        "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "30% Off Canon Promo Codes | November 2026",
-        "url": "https://www.wired.com/story/canon-promo-code/",
+        "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+        "url": "https://www.wired.com/story/nike-promo-code/",
         "source": "Wired",
-        "published": "2026-11-26T06:00:00+00:00",
-        "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this November 2026.",
+        "published": "2026-11-27T06:00:00+00:00",
+        "summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "50% Off DoorDash Promo Code | November 2026",
-        "url": "https://www.wired.com/story/doordash-promo-code/",
+        "title": "Newegg Promo Codes and Coupons for November 2026",
+        "url": "https://www.wired.com/story/newegg-promo-code/",
         "source": "Wired",
-        "published": "2026-11-26T06:00:00+00:00",
-        "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+        "published": "2026-11-27T06:00:00+00:00",
+        "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Disney Plus Discount Codes: 52% Off November 2026",
-        "url": "https://www.wired.com/story/disney-plus-discounts/",
+        "title": "Whoop Promo Codes: 20% Off This November 2026",
+        "url": "https://www.wired.com/story/whoop-promo-code/",
         "source": "Wired",
-        "published": "2026-11-26T06:00:00+00:00",
-        "summary": "Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.",
+        "published": "2026-11-27T06:00:00+00:00",
+        "summary": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "tech",
         "kind": "article",
-        "title": "Paramount+ Coupon Codes and Deals for 2026",
-        "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+        "title": "Squarespace Promo Codes: 55% Off in November 2026",
+        "url": "https://www.wired.com/story/squarespace-promo-code/",
         "source": "Wired",
-        "published": "2026-11-26T06:00:00+00:00",
-        "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+        "published": "2026-11-27T06:00:00+00:00",
+        "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
         "thumbnail": "",
         "extras": {}
       }
@@ -186,21 +186,32 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "[단독] 쿠팡 로켓그로스, 내년부터 판매자·상품 골라받는다",
-        "url": "https://byline.network/2026/11/26_2983717/",
+        "title": "[플레이BN] 방치형으로 즐기는 무협, 엠게임 ‘귀혼키우기’",
+        "url": "https://byline.network/2026/11/27-712/",
         "source": "ByLine Network",
-        "published": "2026-11-26T05:36:26+00:00",
-        "summary": "쿠팡이 자사 풀필먼트 서비스 ‘로켓그로스’를 이용할 판매자와 상품을 선별한다. 로켓그로스 이용 수요가 늘어나는 가운데 누구의 상품을 얼마나 물류센터에 들일지 쿠팡이 직접 결정하겠다는 것이다. 업계에서는 쿠팡이 판매 성과와 재고 회전율 등을 고려해 한정된 물류 공간을 자사에 유리한 상품에 배분하려는 전략으로 해석하고 있다.",
+        "published": "2026-11-27T06:40:58+00:00",
+        "summary": "최근 다양한 지식재산권(IP)이 방치형 게임으로 재탄생하고 있습니다. 회사를 대표하거나 오랜 기간 인지도를 쌓은 IP를 활용해 방치형 신작을 선보이는 사례가 늘고 있는데요. 엠게임도 이러한 흐름에 합류했습니다. 지난 2005년 출시한 PC 온라인 게임 귀혼을 활용해 모바일 무협 방치형 역할수행게임(RPG) ‘귀혼키우기’를 선보였습니다.",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "Exclusive: Starforge raises $6.6m to build nuclear fusion reactors at scale",
-        "url": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
+        "title": "자율주행차 3000대로 늘리면 한국에서도 웨이모가 탄생할까?",
+        "url": "https://byline.network/2026/11/27_291727374/",
+        "source": "ByLine Network",
+        "published": "2026-11-27T06:37:31+00:00",
+        "summary": "정부가 내년 광주 등 5~6곳에서 도시 단위 실증을 벌이고 자율주행차 운행 규모를 3000대까지 늘린다. 웨이모·포니AI처럼 해외 기업이 수천대를 굴리며 사업을 키우는 만큼 한국도 상용화를 준비하는 듯하다. 하지만 차를 많이 달리게 하는 것과 사업에 성공하는 건 다른 문제다. 차두원 퓨처링크 대표는 한국 자율주행 산업이 아직 상용화보다 실증 단계에 가깝다고 진단했다. 그는 차량 확대 자체보다 이를 지속 가능한 사업으로 잇는 일이 중요하다며, 상용화가 가능한 수준의 비용·운영 체계를 갖추고 다양한 환경에서 실증해야 한다고 제언했다.",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "'Never say never': US fintech giant Ramp on more European acquisitions",
+        "url": "https://sifted.eu/articles/ramp-europe-expansion-interview/",
         "source": "Sifted (EU startups)",
-        "published": "2026-11-26T05:00:51+00:00",
+        "published": "2026-11-27T05:00:58+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -208,10 +219,10 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "Meet Goldfish: The kings of Slush aiming to take on Apple",
-        "url": "https://sifted.eu/articles/goldfish-slush-100-winners/",
+        "title": "‘We’re not migration software’: Conduct’s CEO on building an AI operating system for enterprise IT teams",
+        "url": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
         "source": "Sifted (EU startups)",
-        "published": "2026-11-26T05:00:35+00:00",
+        "published": "2026-11-27T05:00:27+00:00",
         "summary": "",
         "thumbnail": "",
         "extras": {}
@@ -219,55 +230,44 @@
       {
         "category": "startup",
         "kind": "article",
-        "title": "‘It’s not a fair fight’: Bolt’s Markus Villig on why Europe must protect homegrown tech",
-        "url": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-26T05:00:25+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Monzo cofounder Tom Blomfield leaves Anthropic after less than six months, reports say",
-        "url": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-26T05:00:18+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "Proxima Fusion CEO calls out ‘short-termism’ amid AI boom",
-        "url": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
-        "source": "Sifted (EU startups)",
-        "published": "2026-11-26T05:00:01+00:00",
-        "summary": "",
-        "thumbnail": "",
-        "extras": {}
-      },
-      {
-        "category": "startup",
-        "kind": "article",
-        "title": "니더 급구, 2026년 1~10월 30대 근무 완료 건수 전년비 72% 증가",
-        "url": "https://platum.kr/archives/299524?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258b%2588%25eb%258d%2594-%25ea%25b8%2589%25ea%25b5%25ac-2026%25eb%2585%2584-110%25ec%259b%2594-30%25eb%258c%2580-%25ea%25b7%25bc%25eb%25ac%25b4-%25ec%2599%2584%25eb%25a3%258c-%25ea%25b1%25b4%25ec%2588%2598-%25ec%25a0%2584%25eb%2585%2584%25eb%25b9%2584-72-%25ec%25a6%259d%25ea%25b0%2580",
+        "title": "핀다는 은행으로, 한패스는 해외로…핀테크 6곳이 밝힌 다음 사업",
+        "url": "https://platum.kr/archives/299662?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%2580%25eb%258b%25a4%25eb%258a%2594-%25ec%259d%2580%25ed%2596%2589%25ec%259c%25bc%25eb%25a1%259c-%25ed%2595%259c%25ed%258c%25a8%25ec%258a%25a4%25eb%258a%2594-%25ed%2595%25b4%25ec%2599%25b8%25eb%25a1%259c%25ed%2595%2580%25ed%2585%258c%25ed%2581%25ac-6%25ea%25b3%25b3%25ec%259d%25b4-%25eb%25b0%259d",
         "source": "Platum",
-        "published": "2026-11-26T00:37:23+00:00",
-        "summary": "실시간 단기 일자리 매칭 플랫폼 &#8216;급구&#8217;를 운영하는 니더가 올해 1~10월 연령대별 앱 이용 데이터를 분석한 결과, 단기 알바 이용층이 20대 중심에서 30대까지 확대되는 추세인 것으로 나타났다. 30대의 근무 완료 건수가 전년 동기 대비 72% 증가하며 전체 평균 증가율(51%)과 20대 증가율(39%)을 모두 웃돌았다. 이번 분석에서 가장 두드러진 변화는 30대의 실제 근무 참여 증가다. 30대 구직자의 지원 ... 더 읽기",
+        "published": "2026-11-27T03:53:21+00:00",
+        "summary": "대출 비교 플랫폼 핀다는 은행 설립을, 외국인 금융 플랫폼 한패스는 해외 시장 진출을 다음 사업으로 내걸었다. 금융위원회가 주최한 &#8216;코리아 핀테크 위크 2026&#8217; 마지막 날인 27일, 한국핀테크지원센터와 한국핀테크산업협회가 공동 주관한 &#8216;투자 및 생활 핀테크 서비스 소개&#8217; 세미나에서 핀다와 한패스를 비롯해 AI 투자, 모바일 계모임, 대출 서류 자동화 분야 핀테크 기업 6곳이 서비스와 사업 계획을 발표했다. 가장 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       },
       {
         "category": "startup",
         "kind": "article",
-        "title": "크릿벤처스, 한국 웹툰 IP 일본 사업화 기업 ‘클링크’에 후속 투자",
-        "url": "https://platum.kr/archives/299520?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2581%25ac%25eb%25a6%25bf%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25ed%2595%259c%25ea%25b5%25ad-%25ec%259b%25b9%25ed%2588%25b0-ip-%25ec%259d%25bc%25eb%25b3%25b8-%25ec%2582%25ac%25ec%2597%2585%25ed%2599%2594-%25ea%25b8%25b0%25ec%2597%2585-%25ed%2581%25b4%25eb%25a7%2581%25ed%2581%25ac%25ec%2597%2590",
+        "title": "첫 펨테크 데모데이, 여성 맞춤 영양관리 알고케어 최우수상",
+        "url": "https://platum.kr/archives/299658?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b2%25ab-%25ed%258e%25a8%25ed%2585%258c%25ed%2581%25ac-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-%25ec%2597%25ac%25ec%2584%25b1-%25eb%25a7%259e%25ec%25b6%25a4-%25ec%2598%2581%25ec%2596%2591%25ea%25b4%2580%25eb%25a6%25ac-%25ec%2595%258c%25ea%25b3%25a0%25ec%25bc%2580%25ec%2596%25b4-%25ec%25b5%259c",
         "source": "Platum",
-        "published": "2026-11-26T00:04:41+00:00",
-        "summary": "벤처캐피탈 크릿벤처스가 한국 웹툰·웹소설 IP의 일본 사업화를 맡는 콘텐츠 IP 기업 클링크(CLINK)에 후속 투자했다고 26일 밝혔다. 투자 금액은 공개하지 않았다. 클링크는 일본에 법인을 둔 국외창업기업으로, 한국 웹툰·웹소설 IP를 애니메이션과 게임, 캐릭터 굿즈로 확장하는 기획·제작 사업을 한다. 마혁민 대표를 비롯한 핵심 인력은 대원미디어, 덴츠 등 한·일 콘텐츠 기업 출신으로 일본 제작위원회 운영과 콘텐츠 유통, 애니메이션 제작 ... 더 읽기",
+        "published": "2026-11-27T03:43:56+00:00",
+        "summary": "난임 시술 보조 기기, 신소재 생리팬티, 산후 정서 관리 앱처럼 여성 건강 문제를 겨냥한 스타트업 12곳이 첫 펨테크 데모데이에서 한 해 사업화 성과를 발표했다. 중소벤처기업부가 올해 처음 시작한 ‘2026년 펨테크 산업 육성 사업&#8217;의 데모데이가 지난 24일 서울 강남구 팁스홀에서 열렸고, 심사 결과 여성 생애주기에 맞춘 정밀 영양관리 솔루션을 만드는 알고케어가 최우수상, AI 기반 프라이버시 보호 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "판을 깐 곳, 불을 붙인 곳, 연결한 사람… 올해의 스타트업 생태계 촉매자 3인",
+        "url": "https://platum.kr/archives/299655?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258c%2590%25ec%259d%2584-%25ea%25b9%2590-%25ea%25b3%25b3-%25eb%25b6%2588%25ec%259d%2584-%25eb%25b6%2599%25ec%259d%25b8-%25ea%25b3%25b3-%25ec%2597%25b0%25ea%25b2%25b0%25ed%2595%259c-%25ec%2582%25ac%25eb%259e%258c-%25ec%2598%25ac%25ed%2595%25b4%25ec%259d%2598-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8",
+        "source": "Platum",
+        "published": "2026-11-27T01:20:39+00:00",
+        "summary": "창업가를 길러 낸 공익재단, 딥테크가 주목받기 전부터 대학 연구실 기술에 투자한 액셀러레이터, 스타트업과 사람과 정보를 이어 온 벤처캐피털 그로스팀장이 올해 스타트업 생태계의 &#8216;촉매자&#8217;로 꼽혔다. 스타트업얼라이언스는 &#8216;스타트업 캐털리스트 어워드 2026&#8217; 수상자로 빌더 부문 아산나눔재단, 이그나이터 부문 블루포인트파트너스, 인테그레이터 부문 정인혜 알토스벤처스 그로스팀장을 선정했다. 이 상은 한국 스타트업 생태계의 성장을 뒤에서 이끌어 온 사람과 기관을 조명하려고 지난해 ... 더 읽기",
+        "thumbnail": "",
+        "extras": {}
+      },
+      {
+        "category": "startup",
+        "kind": "article",
+        "title": "국내 대형 여행 플랫폼, AI 답변 인용은 0.06%…검색 노출 폭과 콘텐츠 근거에서 차이",
+        "url": "https://platum.kr/archives/299648?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b5%25ad%25eb%2582%25b4-%25eb%258c%2580%25ed%2598%2595-%25ec%2597%25ac%25ed%2596%2589-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-ai-%25eb%258b%25b5%25eb%25b3%2580-%25ec%259d%25b8%25ec%259a%25a9%25ec%259d%2580-0-06%25ea%25b2%2580%25ec%2583%2589-%25eb%2585%25b8%25ec%25b6%259c-%25ed%258f%25ad",
+        "source": "Platum",
+        "published": "2026-11-27T01:15:35+00:00",
+        "summary": "챗GPT, 제미나이, 클로드, 퍼플렉시티에 일본 호텔을 묻는 질문을 1,200번 던졌더니 답변에 붙은 인용 2만1,226건 가운데 국내 대형 온라인 여행 플랫폼 콘텐츠는 12건(0.06%)이었다. 같은 질문에서 글로벌 여행 플랫폼 한 곳은 1,678건(7.9%)이 인용됐다. AI 마케팅 엔지니어링 기업 엔엔티(NNT)가 27일 발간한 리서치 리포트 &#8216;누구나 아는 우리 브랜드, 왜 AI 답변에는 인용되지 않을까요?&#8217;에 따르면, 국내에서 이름난 브랜드라도 AI 답변에서는 ... 더 읽기",
         "thumbnail": "",
         "extras": {}
       }
@@ -276,16 +276,76 @@
       {
         "category": "videos",
         "kind": "video",
+        "title": "Billionaires vs. Pros: The Besties Take On Phil Hellmuth, Alan Keating & Jason Koon in Live Poker!",
+        "url": "https://www.youtube.com/watch?v=APTd0tHbtuU",
+        "source": "All-In Podcast",
+        "published": "2026-11-26T19:21:16+00:00",
+        "summary": "Special thanks to The Venetian Las Vegas for hosting us!:\nhttps://x.com/VenetianVegas\n\nFollow the besties: \nhttps://x.com/chamath\nhttps://x.com/Jason\nhttps://x.com/DavidSacks\nhttps://x.com/friedberg\n\nFollow on X:\nhttps://x.com/theallinpod\n\nFollow on Instagram:\nhttps://www.instagram.com/theallinpod\n\n",
+        "thumbnail": "https://i2.ytimg.com/vi/APTd0tHbtuU/hqdefault.jpg",
+        "extras": {
+          "theme": "analysis",
+          "videoId": "APTd0tHbtuU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "AI 데이터센터는 버블인가",
+        "url": "https://www.youtube.com/watch?v=glG__Zh1woE",
+        "source": "슈카월드",
+        "published": "2026-11-26T10:06:54Z",
+        "summary": "0:00 텍사스 따운! 3:55 머스크 \"저는 MAGA가 아닙니다.\" 15:22 5000 개가 넘는 데이터센터, 버블인가? 24:26 이렇게 된 이상, 우주로 ...",
+        "thumbnail": "https://i.ytimg.com/vi/glG__Zh1woE/mqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "glG__Zh1woE",
+          "via": "api"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "Can the US Economy Withstand a Stock Market Crash?",
+        "url": "https://www.youtube.com/watch?v=c02q__peKxg",
+        "source": "TLDR News Global",
+        "published": "2026-11-26T09:30:16+00:00",
+        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nPre-order a copy of Too Long: https://toolong.news/TL010\n\nThe US stock market appears to be going down... but also up? With the volatility index hit",
+        "thumbnail": "https://i4.ytimg.com/vi/c02q__peKxg/hqdefault.jpg",
+        "extras": {
+          "theme": "news",
+          "videoId": "c02q__peKxg",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
+        "title": "“어떤 책을 밀지는 파란 머리 직원들에게 맡겨라\"",
+        "url": "https://www.youtube.com/watch?v=IM90MNIZduU",
+        "source": "티타임즈TV",
+        "published": "2026-11-26T09:00:08+00:00",
+        "summary": "아마존의 공세와 전자책 '누크'의 부진으로 10년 암흑기를 겪던 미국 최대 서점 체인 반스앤노블이 매장 수와 방문객을 다시 늘리며 반등하고 있습니다. 반스앤노블이 택한 길은 매장 하나하나를 동네 독립서점처럼 운영하는 것이었습니다. 출판사 돈을 받고 책을 깔아주던 유료 매대를 없애고, 서점원들이 지역 독자에 맞춰 책을 고르고 진열하도록 했죠. 젊은 직원들은 틱톡에서도 직접 책을 알립니다. 책 선정부터 매대와 북톡까지, 현장의 판단을 되살린 반스앤노블의 부활 공식을 살펴봅니다.\n\n편집 : 박의정 영상 디자이너\n촬영 : 장민주 PD\n자료",
+        "thumbnail": "https://i2.ytimg.com/vi/IM90MNIZduU/hqdefault.jpg",
+        "extras": {
+          "theme": "kr",
+          "videoId": "IM90MNIZduU",
+          "via": "rss"
+        }
+      },
+      {
+        "category": "videos",
+        "kind": "video",
         "title": "Startup School Europe 2027!",
-        "url": "https://www.youtube.com/shorts/8gOkTwEHTP8",
+        "url": "https://www.youtube.com/watch?v=8gOkTwEHTP8",
         "source": "Y Combinator",
-        "published": "2026-11-25T17:19:05+00:00",
-        "summary": "Startup School is coming to the UK!\n\nHear from Paul Graham, Garry Tan, and founders like James Hawkins from PostHog, Philip Johnston from Starcloud, and Hiroki Takeuchi from GoCardless.\n\nAnd join the best builders and hackers from across Europe for a day of talks and sessions with YC partners in Lon",
-        "thumbnail": "https://i1.ytimg.com/vi/8gOkTwEHTP8/hqdefault.jpg",
+        "published": "2026-11-25T17:19:05Z",
+        "summary": "Startup School is coming to the UK! Hear from Paul Graham, Garry Tan, and founders like James Hawkins from PostHog, Philip ...",
+        "thumbnail": "https://i.ytimg.com/vi/8gOkTwEHTP8/mqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "8gOkTwEHTP8",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -309,13 +369,13 @@
         "title": "AI 안경이 부른, 30년 된 수능의 종말",
         "url": "https://www.youtube.com/watch?v=0JWvZlIRTG4",
         "source": "슈카월드",
-        "published": "2026-11-25T11:05:29+00:00",
-        "summary": "0:00 말도 많고 탈도 많았던 2027 수능\n4:21 부정행위 적발, 아직 한 발 남았다.\n13:52 국가교육위원회 수능 개편안\n23:11 2028년 대학입시제도 개편안\n29:08 대학 입학 고사의 변천사 (라떼는 말이야)",
-        "thumbnail": "https://i1.ytimg.com/vi/0JWvZlIRTG4/hqdefault.jpg",
+        "published": "2026-11-25T11:05:29Z",
+        "summary": "0:00 말도 많고 탈도 많았던 2027 수능 4:21 부정행위 적발, 아직 한 발 남았다. 13:52 국가교육위원회 수능 개편안 23:11 2028년 대학 ...",
+        "thumbnail": "https://i.ytimg.com/vi/0JWvZlIRTG4/mqdefault.jpg",
         "extras": {
           "theme": "kr",
           "videoId": "0JWvZlIRTG4",
-          "via": "rss"
+          "via": "api"
         }
       },
       {
@@ -354,73 +414,13 @@
         "title": "How To Build A Jet Engine From Scratch",
         "url": "https://www.youtube.com/watch?v=-ieJwYq4j-o",
         "source": "Y Combinator",
-        "published": "2026-11-24T15:00:08+00:00",
-        "summary": "On November 21, 2026, Boom Supersonic (YC W16) fired its prototype engine core for the first time. In this episode of Hard Tech, YC’s Jared Friedman goes inside Boom’s Colorado Superpower Superfactory with founder and CEO Blake Scholl to see how they are building a jet engine from scratch.\n\nThe comp",
-        "thumbnail": "https://i2.ytimg.com/vi/-ieJwYq4j-o/hqdefault.jpg",
+        "published": "2026-11-24T15:00:08Z",
+        "summary": "On November 21, 2026, Boom Supersonic (YC W16) fired its prototype engine core for the first time. In this episode of Hard Tech, ...",
+        "thumbnail": "https://i.ytimg.com/vi/-ieJwYq4j-o/mqdefault.jpg",
         "extras": {
           "theme": "innovation",
           "videoId": "-ieJwYq4j-o",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "미친 선구안. 피클 초기 투자자의 인사이트를 더 듣고 싶다면? #피클 #ai에이전트 #스타트업 #투자",
-        "url": "https://www.youtube.com/shorts/vqXKk36Caj8",
-        "source": "EO 이오",
-        "published": "2026-11-24T14:37:29+00:00",
-        "summary": "⚡️ 피클, Aside, 오픈그래프랩스, 드림랩스.\n요즘 가장 핫한 스타트업들, 공통점이 하나 있습니다.\n모두 베이스벤처스가 먼저 알아보고 투자했다는 것.\n\n“미친 꿈을 꾸는 창업가에게 베팅합니다”\n\n베이스벤처스 이태양 대표의 인사이트, BOLD에서 만나보세요!\n\n✅ 프로필 링크에서 2차 얼리버드 신청 중(17% 할인가)",
-        "thumbnail": "https://i3.ytimg.com/vi/vqXKk36Caj8/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "vqXKk36Caj8",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "감히 황제 자리를 탐한 자",
-        "url": "https://www.youtube.com/shorts/F67XTSCwwQE",
-        "source": "슈카월드",
-        "published": "2026-11-24T13:45:59+00:00",
-        "summary": "어렵고 딱딱한 경제,시사,금융 이야기를 쉽고 유쾌하게 풀어내는 토크방송입니다.",
-        "thumbnail": "https://i3.ytimg.com/vi/F67XTSCwwQE/hqdefault.jpg",
-        "extras": {
-          "theme": "kr",
-          "videoId": "F67XTSCwwQE",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
-        "url": "https://www.youtube.com/watch?v=o6KIjtkRdOI",
-        "source": "All-In Podcast",
-        "published": "2026-11-24T12:16:21+00:00",
-        "summary": "(0:00) CrowdStrike CEO, George Kurtz joins the show!\n(1:38) Are the Outages Cyberattacks?\n(10:36) How AI Lets Anyone Hack Like a Nation-State Level Threat\n(16:33) Patching, Technical Debt, and Outages\n(33:40) Open-Weight and Local AI: Risk and Defense\n(42:38) Hackers Don't Break In, They Log In\n\nTha",
-        "thumbnail": "https://i4.ytimg.com/vi/o6KIjtkRdOI/hqdefault.jpg",
-        "extras": {
-          "theme": "analysis",
-          "videoId": "o6KIjtkRdOI",
-          "via": "rss"
-        }
-      },
-      {
-        "category": "videos",
-        "kind": "video",
-        "title": "Argentina Slips Into Recession: Is Milei Finished?",
-        "url": "https://www.youtube.com/watch?v=MN5yzyMkfOI",
-        "source": "TLDR News Global",
-        "published": "2026-11-24T09:30:34+00:00",
-        "summary": "Compare news coverage. Spot media bias. Avoid algorithms. Try Ground News today and get 40% off your subscription by going to https://ground.news/tldr\n\nPick up a copy of Assembly Required: https://toolong.news/products/assembly-required\nLearn more about the book: https://youtu.be/fuaXoNkzCtY\n\nMilei'",
-        "thumbnail": "https://i2.ytimg.com/vi/MN5yzyMkfOI/hqdefault.jpg",
-        "extras": {
-          "theme": "news",
-          "videoId": "MN5yzyMkfOI",
-          "via": "rss"
+          "via": "api"
         }
       }
     ]
